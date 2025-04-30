@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1,Arcane S02 E01
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222912.mkv
+#EXTINF:-1,Arcane S02 E02
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222913.mkv
+#EXTINF:-1,Arcane S02 E03
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222914.mkv
+#EXTINF:-1,Arcane S02 E04
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222915.mkv
+#EXTINF:-1,Arcane S02 E05
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222916.mkv
+#EXTINF:-1,Arcane S02 E06
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222917.mkv
+#EXTINF:-1,Arcane S02 E07
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222918.mkv
+#EXTINF:-1,Arcane S02 E08
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222919.mkv
+#EXTINF:-1,Arcane S02 E09
+http://nocable.cc:8080/series/bquaiff@gmail.com/bquaiff@2023/222920.mkv
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" , ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine (1080p) [Geo-blocked]
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1,BR Globo SP HD
+http://nocable.cc:8080/bquaiff@gmail.com/bquaiff@2023/21020
+#EXTINF:-1,Carib SPORT MAX2 (P)
+http://nocable.cc:8080/bquaiff@gmail.com/bquaiff@2023/78917
+#EXTINF:-1 tvg-id="Ecuavisa.ec",Ecuavisa (1080p) [Not 24/7]
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FMMundo.ec",FM Mundo (1080p)
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" http-referrer="https://makrodigitaltelevision.com",MakroDigital Television (1080p)
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarcaTV.ec",Marca TV (1080p)
+https://eu1.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-id="PlusTV.ec",Plus TV (720p) [Not 24/7]
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
