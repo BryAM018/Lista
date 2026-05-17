@@ -1,30 +1,30 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" , ExtremaTv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine (1080p) [Geo-blocked]
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil (1080p) [Not 24/7]
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito (1080p) [Not 24/7]
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FMMundo.ec",FM Mundo (1080p)
-https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV (1080p)
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" http-referrer="https://makrodigitaltelevision.com",MakroDigital Television (1080p)
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" http-referrer="https://makrodigitaltelevision.com",MakroDigital Television
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
-https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="MarcaTV.ec",Marca TV (1080p)
-https://eu1.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="PlusTV.ec",Plus TV (720p) [Not 24/7]
-https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV (720p) [Not 24/7]
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV (1080p) [Not 24/7]
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
+#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports
 #EXTVLCOPT:http-referrer=https://foxsports.com.ar/
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" ,ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="FMMundo.ec",FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MarcaTV.ec",Marca TV
+https://eu1.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-id="PlusTV.ec",Plus TV 
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
@@ -83,10 +83,6 @@ http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562509.mkv
 http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562530.mkv
 #EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E15" tvg-logo="https://image.tmdb.org/t/p/w1280/ne8HjEI78M76ss4IT9CCN0YYCKq.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E15
 http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562528.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E14" tvg-logo="https://image.tmdb.org/t/p/w1280/xm31pDIoYM4GliRM0iB9f7DRA7P.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E14
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562527.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E13" tvg-logo="https://image.tmdb.org/t/p/w1280/5Wpk9n2p4aNnQyluFmlwvhjEd6u.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E13
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562523.mkv
 #EXTINF:-1 tvg-id="2618" tvg-name="beINSPORTS HABER HD" tvg-logo="http://45.129.183.111/spor_files/beinhaberfhd.png" group-title="TR| SPOR",beINSPORTS HABER HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37165
 #EXTINF:-1 tvg-id="6525" tvg-name="TRTSPOR HD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR HD
