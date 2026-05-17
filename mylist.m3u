@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" , ExtremaTv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine (1080p) [Geo-blocked]
@@ -276,10 +277,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189150
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189151
 #EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 14 HD" tvg-logo="" group-title="DE| SPORTS",DE| MAGENTA 14 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189152
-#EXTINF:-1 tvg-id="" tvg-name="DE| DAZN EVENT 13 RAW" tvg-logo="https://lo1.in/ger/DAZN%20LFC.png" group-title="DE| SPORTS",DE| DAZN EVENT 13 RAW
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/127093
-#EXTINF:-1 tvg-id="" tvg-name="DE| DAZN EVENT 16 RAW" tvg-logo="" group-title="DE| SPORTS",DE| DAZN EVENT 16 RAW
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/38344
 #EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 1 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium1.png" group-title="DE| SPORTS",DE| RTL+ SPORT 1 HD [Live During Events Only]
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68841
 #EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 2 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium2.png" group-title="DE| SPORTS",DE| RTL+ SPORT 2 HD [Live During Events Only]
@@ -362,3 +359,113 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
+#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlEL2z5jpgK9S6-_S4ItlROfKIvQlNa2qZpjoMCnl6lx
+#EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBshkggHemM-EidQqZ3PDbrJuT62NhCY4cvttK8bWeceO
+#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS+ FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhzFlImuJiOjjM4ohH3CkHI_sbJwxToFYnickON87jhJ
+#EXTINF:-1 xui-id="118328" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI8lzmf5e8RBdOGKwjKB7TchslyfIWNQmt-iX4JxeIz
+#EXTINF:-1 xui-id="118329" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZMx0psb6Pd9x0QRYYpUA3eHC4xIvUmOZaGSgjBzdDd
+#EXTINF:-1 xui-id="118330" tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvDWVzlFQfNyZCgU2YjMogdgj7MAC-0DeBe2IwA-mTgF
+#EXTINF:-1 xui-id="118331" tvg-id="" tvg-name="AR | FOX SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtd9jOZhCGbQGD86GRV_zX9GaawMkdH2YaOQrFldSj4c
+#EXTINF:-1 xui-id="118332" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnBL7pqz6PHhQAiPAQDvC4XD7OTsmnZxdZo5_iOTiH3L
+#EXTINF:-1 xui-id="118333" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBr6U37woOCIplP4i94lXwZK3IX-RCj4GA2VxgH3HMO2w
+#EXTINF:-1 xui-id="118334" tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
+#EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
+#EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
+#EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
+#EXTINF:-1 xui-id="118338" tvg-id="" tvg-name="AR | TyC SPORTS INTERNACIONAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS INTERNACIONAL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBid5hse2jkxp-XDy_kEn4O2rBkUvKEXuIf7R75RDOkUD
+#EXTINF:-1 xui-id="118340" tvg-id="" tvg-name="MX | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvbyZvqbahr-PJuJyAX5rnOCKvYDrdUxqllAuY2g18sM
+#EXTINF:-1 xui-id="118341" tvg-id="" tvg-name="MX | FOX SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiLNGx_GAx8vsJOl0gEwle9uPv-v_JJMePr_3ldV9HHL
+#EXTINF:-1 xui-id="119383" tvg-id="" tvg-name="CO | WINSPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsgFZh0j-Wc1xzouYiFQlYRBANaS3zFFVoyyOd_4Rl-e
+#EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYpqA4bvCer1MMNmX0k
+#EXTINF:-1 xui-id="119386" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuKmaNs_rOZICg2BulYIF5P-mzbgi5s2MkK0ZB9mIoLw
+#EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
+#EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D3GgVZ4iARAHk3TdV
+#EXTINF:-1 xui-id="119389" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBitDmOFzG5r3XiDGsYYzlZXG-t8XQtaQX1reSQZpObCk
+#EXTINF:-1 xui-id="119390" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh72XOj0wSsDbPEkQ21mBu4heErWtMM57pxEjsFvgpOX
+#EXTINF:-1 xui-id="119392" tvg-id="" tvg-name="CO | WINSPORTS+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
+#EXTINF:-1 xui-id="119401" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087W-2_hxVWXxH8WcQdKKD0GHYGGPYYpsyv0apYYYk5a0U.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuEUO7MpoP-rAw8fHlZAKYxcba7TnGvij65wB4P1Twct
+#EXTINF:-1 xui-id="119402" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087S5OgsStqdJAEpntJw7k95rnnLJNHkua2uBDIOX0XdHX.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkeCd1nZ5pkg7_G5kMUn_Wz08idaGi-Rh3MeXVR4dc-N
+#EXTINF:-1 xui-id="119404" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnbZpAZaMRdBvlHm4R8mbW8fPcBbWUeeXxKhYfEt3m1y
+#EXTINF:-1 xui-id="119405" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjWc5YEY4-uiEKPQRv6gGkcbBeBlS1QYZLmJtQql7MYD
+#EXTINF:-1 xui-id="119412" tvg-id="" tvg-name="MX | TUDN X2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087b9jggSQ2EHf1i-97DwnQuhFM8HNxIKGnF2_dyRfvyMH.png" group-title="⚽ DEPORTES MEXICO",MX | TUDN X2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuTajNrsVlf-TtDGqYw-yRUtDz0K35DmGbQiBMbC5BxV
+#EXTINF:-1 xui-id="119786" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
+#EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
+#EXTINF:-1 xui-id="120106" tvg-id="" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS PREMIUM HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
+#EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
+#EXTINF:-1 xui-id="120115" tvg-id="" tvg-name="PE | LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087flSuD2155XzDHmRljpFggqS2Mn4SoAJJ-d_fGzD44JSvyqYgC5FmcRF3ZmSG5D7uKhAg8yEUJwzIl4Ebbj1fE0.jpg" group-title="⚽ DEPORTES PERU",PE | LIGA 1 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQYsghjrddw8U1kZu5
+#EXTINF:-1 xui-id="120119" tvg-id="" tvg-name="UR | VTV HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WI5BR6k8PwBt79TtychZ1w4qtG1zxBJuUOWbODwwUW8.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhM1mR8XAhW-iya6mdTq3cMsr-iDCdaEsys9sSauSy5G
+#EXTINF:-1 xui-id="120121" tvg-id="" tvg-name="UR | VTV+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh-U0TO70002Bd6KpTAFDRBKTl6B26e0hH5uTU5El7ze
+#EXTINF:-1 xui-id="120122" tvg-id="" tvg-name="UR | VTV+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoel58RsLXHsnpMr-EAt-KtbUDoVshB99wNWkZOPPcVW
+#EXTINF:-1 xui-id="120905" tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RHBfcP627EWUAXT0lBQZu8i8EDdWdGBXSfmDd_Qky4I.png" group-title="⚽ ESPN",AR | ESPN PREMIUM HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu_n8p0GWNjuxkhu4AnP9F2EQnby3_jl8AqLC2m7Km0T
+#EXTINF:-1 xui-id="120907" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlaMCYp18xgYAiY_SPpc3QMLO17xV61Uawp_Vp9Gbz7k
+#EXTINF:-1 xui-id="120908" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt-dAdjI0RxMQkO8TKo81l5ZWjQ49HQ7Ii-lBLyTJ1nF
+#EXTINF:-1 xui-id="120909" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBupqZpUrHu5dL-vtpZ9V1ZEPhbgHDCcDUMePgZtc8H-i
+#EXTINF:-1 xui-id="120911" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh9GDofnKcHDq6hhfdn1R4IGUP9B4jcekd-Od512DhEo
+#EXTINF:-1 xui-id="120912" tvg-id="" tvg-name="MX | ESPN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiuxieaJzkhquwN7hzuaqmHCWuDzLP4jUXVeq22KtH8O
+#EXTINF:-1 xui-id="120913" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsZXdF9JSz0Q5OE5djeQPp_Q5FCEJ5_tStOMwEx8LWJC
+#EXTINF:-1 xui-id="120914" tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrbudCLd7vqTJSfdjpxyvlgLP_eTOLv6N5FWDl9q5XNd
+#EXTINF:-1 xui-id="120915" tvg-id="" tvg-name="AR | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsoxgc6lDaIcWMIX7tSlQjUtyqlLO9uTFkbMjcScB062
+#EXTINF:-1 xui-id="120918" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",MX | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkRApFdtxMofCZdj7FldZVYGmdztE1XjOF84_0HRVdH2
+#EXTINF:-1 xui-id="120919" tvg-id="" tvg-name="CO | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmdYHqAXRapXM27QrcHtfnGTRlTXgv5L3CLQBaItQ5QC
+#EXTINF:-1 xui-id="120920" tvg-id="" tvg-name="CO | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmuWEd9VkAo7qJPix6i-5OLG8-d6YZQtJvvM9H07jMBK
+#EXTINF:-1 xui-id="120921" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
+#EXTINF:-1 xui-id="120922" tvg-id="" tvg-name="MX | ESPN 3 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiL7G0aw-xqeGHzDhPW1H0exUuhOXYHIVvUewcFq7344
+#EXTINF:-1 xui-id="120926" tvg-id="" tvg-name="AR | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",AR | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuOzO-0ZRQrzC20jMxVZJxObgI9f8VqkODZ-4KJV13_X
+#EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
+#EXTINF:-1 xui-id="141615" tvg-id="" tvg-name="CO | ESPN 3 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBo_EgjGLFv6x6swyicbgxd8oSPike4gMA-rts7SvbkMt
+#EXTINF:-1 xui-id="221064" tvg-id="" tvg-name="ES | DAZN LA LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VJlzh8USHWCjtmGOm3Bk3QX6DdoATU7x4jm7HZC3h5Sd3IY-iR-_RdYRkyUj3avsA.png" group-title="⚽ DEPORTES DAZN",ES | DAZN LA LIGA 1 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnQhB7FlgRHeX4mE0bKSQtAHuKntIr1cnuocODDhnVBG
