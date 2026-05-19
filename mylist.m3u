@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" http-referrer="https://makrodigitaltelevision.com",MakroDigital Television
-#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
-https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 xui-id="120182" tvg-id="" tvg-name="ENT | AXN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Z_-sTPX01lmyXYXbEMDwBNtdkOpFNzvbEtF7Hz_NzWnsshgBS8RUyk6NknJhl3_ew.png" group-title="ENTRETENIMIENTO LATINO",AXN
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBl41tUgFXcsRcyg9nz0JTwwWaAfDWhnOX32cnyxPwqzy
 #EXTINF:-1 tvg-id="" tvg-name="Az Click  @ Azteca - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| Az Click 
 http://matrivagoweb.xyz:8080/115375/123456/315670
 #EXTINF:-1 tvg-id="" tvg-name="AZ Mundo  @ Azteca - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| AZ Mundo 
@@ -13,10 +12,6 @@ http://matrivagoweb.xyz:8080/115375/123456/315673
 http://matrivagoweb.xyz:8080/115375/123456/315674
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69005
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69007
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/38795
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 4K
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69558
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 VO" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 VO
@@ -91,6 +86,8 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1648
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1647
 #EXTINF:-1 tvg-id="2618" tvg-name="beINSPORTS HABER HD" tvg-logo="http://45.129.183.111/spor_files/beinhaberfhd.png" group-title="TR| SPOR",beINSPORTS HABER HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37165
+#EXTINF:-1 xui-id="120151" tvg-id="" tvg-name="MX | CANAL 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WK1R6EfCDhqFTS0GBj2snY5JgpOpPckgjlEgCdWUPNG.png" group-title="MEXICO",MX | CANAL 5 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn06aZtRgBBrpTlQg8Ohaba_07nVABawkw3fxSK-lBLk
 #EXTINF:-1 tvg-id="CanalCHD.co@SD",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 9" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live9.png" group-title="FR| SPORTS",FR| CANAL+LIVE 9
@@ -113,10 +110,32 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185218
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185240
 #EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="https://i.ibb.co/S0mgwLQ/canelatv.png" group-title="ECUADOR",Canela TV
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2381.ts
+#EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ-PUh7630VuABXV8m
+#EXTINF:-1 xui-id="119765" tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBin5We8Nxss5yDCKVURSRlY9h1sypq54j97Q3CQrpZXo
+#EXTINF:-1 xui-id="119766" tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqRDk_F2A8X8XV9lMuWbrhCBnZS_D3DJGjVgUcjVk3hv
+#EXTINF:-1 xui-id="119767" tvg-id="" tvg-name="CO | CARACOL HD2" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL HD2
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnh4TYEjArRYwd5f10YzHmiooXaqa6hOPndOkQ7SGLsu
+#EXTINF:-1 xui-id="120184" tvg-id="" tvg-name="ENT | CINE CANAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RL0GzJ4ohwfz8J8pGCJPG8uPMYvqjPk0NNfbTfTC1BS.png" group-title="ENTRETENIMIENTO LATINO",ENT | CINE CANAL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn4dUTzO3Y-HT-tS1bYMiWVr67BX0GoHgKHL9fXNK9lO
 #EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 xui-id="120048" tvg-id="" tvg-name="GT | CLARO SPORTS 2 HD - GUATE" tvg-logo="http://supertele.xyz:8080/images/QCqX5p5x3Y181Q8jwb82JB3PSoWIVjZjPiGSZofi589Zbi9MNLoS-oB9PcKaSBB5bdg3oEaUCA4z5f_3ZSa7yA.png" group-title="GUATEMALA",GT | CLARO SPORTS 2 HD - GUATE
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmBXuLCP88Qj6EBpKBiE9CXUIAteeOOW37FnmvXqF0Pc
+#EXTINF:-1 xui-id="120049" tvg-id="" tvg-name="GT | CLARO SPORTS 2 HD  OP 2" tvg-logo="http://supertele.xyz:8080/images/QCqX5p5x3Y181Q8jwb82JB3PSoWIVjZjPiGSZofi589Zbi9MNLoS-oB9PcKaSBB5bdg3oEaUCA4z5f_3ZSa7yA.png" group-title="GUATEMALA",GT | CLARO SPORTS 2 HD  OP 2
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiDoJvgH9S4C7UzYKlBnBo7f3vAVboozlcDf_zjhVKgD
+#EXTINF:-1 xui-id="221064" tvg-id="" tvg-name="ES | DAZN LA LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VJlzh8USHWCjtmGOm3Bk3QX6DdoATU7x4jm7HZC3h5Sd3IY-iR-_RdYRkyUj3avsA.png" group-title="⚽ DEPORTES DAZN",ES | DAZN LA LIGA 1 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnQhB7FlgRHeX4mE0bKSQtAHuKntIr1cnuocODDhnVBG
+#EXTINF:-1 xui-id="119640" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA LATINO",CUL | DISCOVERY CHANNEL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohGMsjjojpoUPOTXiN88gKB5hBrlvZiIT0dovyGEI1h
+#EXTINF:-1 xui-id="119428" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA ESPAÑA",CUL | DISCOVERY CHANNEL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrmxI9-DIqdIXYhUqHcM-gKM9o9t2HBIfloc0majN0D5
+#EXTINF:-1 xui-id="119618" tvg-id="" tvg-name="INF | DISCOVERY KIDS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QzGcETs4KZDJZ--U8pBv9uFyT0MUzUBdge1NFCPY6u4.png" group-title="INFANTILES LATINO",INF | DISCOVERY KIDS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBozkV4ZIuOYx5LZvRZTt5ZjHxmtoXvuyVxAsGDvDnM1_
 #EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS 2 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlEL2z5jpgK9S6-_S4ItlROfKIvQlNa2qZpjoMCnl6lx
 #EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
@@ -137,6 +156,40 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
 #EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
+#EXTINF:-1 xui-id="120905" tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RHBfcP627EWUAXT0lBQZu8i8EDdWdGBXSfmDd_Qky4I.png" group-title="⚽ ESPN",AR | ESPN PREMIUM HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu_n8p0GWNjuxkhu4AnP9F2EQnby3_jl8AqLC2m7Km0T
+#EXTINF:-1 xui-id="120907" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlaMCYp18xgYAiY_SPpc3QMLO17xV61Uawp_Vp9Gbz7k
+#EXTINF:-1 xui-id="120908" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt-dAdjI0RxMQkO8TKo81l5ZWjQ49HQ7Ii-lBLyTJ1nF
+#EXTINF:-1 xui-id="120909" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBupqZpUrHu5dL-vtpZ9V1ZEPhbgHDCcDUMePgZtc8H-i
+#EXTINF:-1 xui-id="120911" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh9GDofnKcHDq6hhfdn1R4IGUP9B4jcekd-Od512DhEo
+#EXTINF:-1 xui-id="120912" tvg-id="" tvg-name="MX | ESPN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiuxieaJzkhquwN7hzuaqmHCWuDzLP4jUXVeq22KtH8O
+#EXTINF:-1 xui-id="120913" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsZXdF9JSz0Q5OE5djeQPp_Q5FCEJ5_tStOMwEx8LWJC
+#EXTINF:-1 xui-id="120914" tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrbudCLd7vqTJSfdjpxyvlgLP_eTOLv6N5FWDl9q5XNd
+#EXTINF:-1 xui-id="120915" tvg-id="" tvg-name="AR | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsoxgc6lDaIcWMIX7tSlQjUtyqlLO9uTFkbMjcScB062
+#EXTINF:-1 xui-id="120918" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",MX | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkRApFdtxMofCZdj7FldZVYGmdztE1XjOF84_0HRVdH2
+#EXTINF:-1 xui-id="120919" tvg-id="" tvg-name="CO | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmdYHqAXRapXM27QrcHtfnGTRlTXgv5L3CLQBaItQ5QC
+#EXTINF:-1 xui-id="120920" tvg-id="" tvg-name="CO | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmuWEd9VkAo7qJPix6i-5OLG8-d6YZQtJvvM9H07jMBK
+#EXTINF:-1 xui-id="120921" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
+#EXTINF:-1 xui-id="120922" tvg-id="" tvg-name="MX | ESPN 3 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiL7G0aw-xqeGHzDhPW1H0exUuhOXYHIVvUewcFq7344
+#EXTINF:-1 xui-id="120926" tvg-id="" tvg-name="AR | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",AR | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuOzO-0ZRQrzC20jMxVZJxObgI9f8VqkODZ-4KJV13_X
+#EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
+#EXTINF:-1 xui-id="141615" tvg-id="" tvg-name="CO | ESPN 3 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBo_EgjGLFv6x6swyicbgxd8oSPike4gMA-rts7SvbkMt
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN HD" tvg-logo="https://lo1.in/nl/espn.png" group-title="NL| SPORTS",( NL ) ESPN HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8206
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 2 HD" tvg-logo="https://lo1.in/nl/espn2.png" group-title="NL| SPORTS",( NL ) ESPN 2 HD
@@ -151,6 +204,20 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkeCd1nZ5pkg7_G5kMUn_Wz08ida
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnbZpAZaMRdBvlHm4R8mbW8fPcBbWUeeXxKhYfEt3m1y
 #EXTINF:-1 xui-id="119405" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjWc5YEY4-uiEKPQRv6gGkcbBeBlS1QYZLmJtQql7MYD
+#EXTINF:-1 xui-id="221267" tvg-id="" tvg-name="ES | ESPN 5 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnuuve33tKp8u7gGzXfmDmbI-LHLl1sefjnKcjbwSMvx
+#EXTINF:-1 xui-id="221268" tvg-id="" tvg-name="ES | ESPN 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhBokpzwBJM2jwCT7toGd9mWLBuutH9Ci9fWZgTcdQOt
+#EXTINF:-1 xui-id="221269" tvg-id="" tvg-name="ES | ESPN 5 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiv4y_K7poFRt9x_KuYZGHQOgrUTnbsRwZEYY4ZNrlIv
+#EXTINF:-1 xui-id="221272" tvg-id="" tvg-name="ES | ESPN 6 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087XO7oJa5YPr6g669G256xRF50fSGYL-P-5YY_81HnGF3.jpg" group-title="⚽ ESPN",ES | ESPN 6 SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlXXU34GatF0Am5z445WF53VPzxRA3KCdYjBfGssR943
+#EXTINF:-1 xui-id="221273" tvg-id="" tvg-name="ES | ESPN 7 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RSm0UQoA-Q8s8UdxkfVUD7zLZ7FATex_Y1QdZAQXFbL.jpg" group-title="⚽ ESPN",ES | ESPN 7 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnj1kzP3q--s86TyUOtm1KUu-Q1XnVa-qiRQHMWHAlP8
+#EXTINF:-1 xui-id="221274" tvg-id="" tvg-name="ES | ESPN 7 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RSm0UQoA-Q8s8UdxkfVUD7zLZ7FATex_Y1QdZAQXFbL.jpg" group-title="⚽ ESPN",ES | ESPN 7 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEaULN3fFo6ZvG2Ld5BYSB_NgOedURADCTv9LVtlsv_
+#EXTINF:-1 xui-id="221104" tvg-id="" tvg-name="ES | EUROSPORTS 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Ug91R3w20C-lPpxYLp8t2fFf3A6nIOkniZPVoO2V-8p.png" group-title="⚽ DEPORTES ESPAÑA",ES | EUROSPORTS 1 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiFtKwabbH933bQIbkjkMFyTIztP-h9NCcvFKsI5Ge8K
 #EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50174.png" group-title="TR| SPOR",EUROSPORT 1 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2043
 #EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50170.png" group-title="TR| SPOR",EUROSPORT 2 HD
@@ -183,8 +250,24 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBr6U37woOCIplP4i94lXwZK3IX-R
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvbyZvqbahr-PJuJyAX5rnOCKvYDrdUxqllAuY2g18sM
 #EXTINF:-1 xui-id="118341" tvg-id="" tvg-name="MX | FOX SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiLNGx_GAx8vsJOl0gEwle9uPv-v_JJMePr_3ldV9HHL
+#EXTINF:-1 xui-id="119663" tvg-id="" tvg-name="ENT | HBO FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SDUYZ6YCd5l6W8fSG6mS5dk_AoY8rjdtzeZ2TqnTCZ2.png" group-title="PAQUETE HBO",ENT | HBO FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmHL0r0oj4YgaOZP4xkGVLxtifsHOXumxIOawcNcQJO5
+#EXTINF:-1 xui-id="119668" tvg-id="" tvg-name="ENT | HBO 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087THwJmK-xWLAPhglGtFWe07xAvOtgVZ2dwu3VDAa1TGA.png" group-title="PAQUETE HBO",ENT | HBO 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhK4vpylhJ00WgFh0WlZzP06Lz_wdriMUtrKRPK6KWR3
+#EXTINF:-1 xui-id="119669" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBj9ySVbnYGjxSvc5ZIBhpT4CwSV5AuEPm7IuUjeQufR4
+#EXTINF:-1 xui-id="119670" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiZJCP4FlrlcT9bw0Hkln0vG9mAMFdC8eCb6ekyO4WBJ
+#EXTINF:-1 xui-id="119671" tvg-id="" tvg-name="ENT | HBO PLUS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087UYtR-TJ8dqutMshkBdRyA-oinBUVT2VodOiF_HhEQuw.png" group-title="PAQUETE HBO",ENT | HBO PLUS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhhVBfL9mbNeUj-NIyGjBckpMQPFumzBwrfaJ2Ig5xIP
+#EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title="PAQUETE HBO",ENT | HB0 SIGNATURE HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqeUUjUCFOcC1iqXYzNrXIdxtH2ISZhXXauHDGQxwehL
+#EXTINF:-1 xui-id="119678" tvg-id="" tvg-name="ENT | HBO EXTREME HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZtMEiqmeD3-FP8H9lNieDXA9WaQW2yXWk9SUpcYIayU.png" group-title="PAQUETE HBO",ENT | HBO EXTREME HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBl44moj9K0nFFCsD4kS0Wv1Tk_e_KkQlJUl-ozLf0B_v
 #EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 xui-id="260550" tvg-id="" tvg-name="VE | IVC SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cExZukaO0U0kHC-gci7_0O4BEgWiJ1OTvY3rZBwU-IG.png" group-title="VENEZUELA",VE | IVC SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBis5zJjR4ThZ2aL9qIadbPPJB-KYC0qtOFQ6EJu1FgaD
 #EXTINF:-1 tvg-id="MajestadTelevision.ec@SD",Majestad Televisión
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec",Marca TV
@@ -217,92 +300,82 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189150
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189151
 #EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 14 HD" tvg-logo="" group-title="DE| SPORTS",DE| MAGENTA 14 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189152
-#EXTINF:-1 tvg-id="LatacungaTV.ec@SD",Latacunga TV (360p)
-https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 6" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 6
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
-#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 9" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 9
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
+#EXTINF:-1 xui-id="221080" tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD 1" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d7QQ_I92LXIlEKLe_pD2cTPosijEBxzgv6pDHxzhAThxmcEDMBd2BIFn5DdESHil7YKEhA92HxP312plEv50Rk.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LA LIGA FHD 1
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBq-ScW6SGiIMoEhokQbt2fTphWHFS8BJvTEyacznJ6ER
+#EXTINF:-1 xui-id="221082" tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d7QQ_I92LXIlEKLe_pD2cTPosijEBxzgv6pDHxzhAThxmcEDMBd2BIFn5DdESHil7YKEhA92HxP312plEv50Rk.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LA LIGA 1
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuDvmzyADkNDLiUlFt0OSkMcrH-SLfM1e6hBjkIGhfTl
+#EXTINF:-1 xui-id="221094" tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SNF8yMfZCNrjMiKbt4E1AthHSbVl6Bm42rEWLmrASKp.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtTFsd-RvqKUogUQ3FjlTSZFE-CMCKz3iiJp0RofGr6e
+#EXTINF:-1 xui-id="221095" tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SNF8yMfZCNrjMiKbt4E1AthHSbVl6Bm42rEWLmrASKp.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgTDKvBGoY1ORKSA2oxFRWtZLgIGWUEf4yD-fl24I7YC
+#EXTINF:-1 xui-id="221102" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpFG_DzSI6aMpau6yUB7jJXzJqLzjtVYx3tC3ZHK8oUM
+#EXTINF:-1 xui-id="221103" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvJakK1mBDZ7MS4X0wqQ9Ge1kgq2Cz1cUHorBJlO7o5b
+#EXTINF:-1 xui-id="119638" tvg-id="" tvg-name="USL | NBCUNIVERSO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dqZNY7c-IaVz_r3rTsZFLfH3duLDlkek5KJCjeRy8Ku.png" group-title="USA LATINO",USL | NBCUNIVERSO HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp7ara5kfAaHurUqtuzFoMUxxuCj52HUVcR8_r_O2S5u
+#EXTINF:-1 xui-id="222111" tvg-id="" tvg-name="PAN | NEXT TV 21 HD" tvg-logo="https://i.postimg.cc/vmDY3qV7/nex-tv.jpg" group-title="PANAMA",PAN | NEXT TV 21 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZW1l55E-FaLj-lbKcM9A7-dmzS_ekxMyY7TFoRbJgN
+#EXTINF:-1 xui-id="119612" tvg-id="" tvg-name="INF | NICK HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fozJKl431piTg8H8tBf4rijIkyqUZYtSRe3c5ZWDv-k.png" group-title="INFANTILES LATINO",INF | NICK HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohsBVAeUwyjKATtpg5A8aQunACnZ_-N4hBesQXP1ejn
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD",Oromar TV (720p)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="PlusTV.ec",Plus TV 
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/165960
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/165959
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164638
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164637
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164636
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164635
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164634
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164633
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164617
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164616
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164615
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164614
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164613
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164612
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 HD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/174092
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 UHD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/66692
-#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas Quito
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-id="TVColorCanal36.ec@SD",TV Color Canal 36 (720p)
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR| SPOR",TIVIBUSPOR HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/65751
-#EXTINF:-1 tvg-id="6527" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://www.canlitvplayer.com/media/images/tvlogo/ead99218-7774-4e93-b1cf-43904c279bd0_tivibu-spor-tv-player.png" group-title="TR| SPOR",TIVIBUSPOR 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2064
-#EXTINF:-1 tvg-id="6528" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="TR| SPOR",TIVIBUSPOR 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/5316
-#EXTINF:-1 tvg-id="6529" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="TR| SPOR",TIVIBUSPOR 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8012
-#EXTINF:-1 tvg-id="6525" tvg-name="TRTSPOR HD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15135
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRTSPOR UHD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2049
-#EXTINF:-1 xui-id="118334" tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
-#EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
-#EXTINF:-1 xui-id="120106" tvg-id="" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS PREMIUM HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
-#EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
-#EXTINF:-1 xui-id="119412" tvg-id="" tvg-name="MX | TUDN X2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087b9jggSQ2EHf1i-97DwnQuhFM8HNxIKGnF2_dyRfvyMH.png" group-title="⚽ DEPORTES MEXICO",MX | TUDN X2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuTajNrsVlf-TtDGqYw-yRUtDz0K35DmGbQiBMbC5BxV
-#EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
-#EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
-#EXTINF:-1 xui-id="118338" tvg-id="" tvg-name="AR | TyC SPORTS INTERNACIONAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS INTERNACIONAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBid5hse2jkxp-XDy_kEn4O2rBkUvKEXuIf7R75RDOkUD
-#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="LatacungaTV.ec@SD",Latacunga TV (360p)
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 xui-id="221240" tvg-id="" tvg-name="ES | LA LIGA HYPERMOTION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cdoXBK-ND-dVBrIYITJPNqoJTWCQg1EfeT84ngxeUN2Pi9TWzyp86Do05WF6nJPYQ.png" group-title="⚽ DEPORTES ESPAÑA",ES | LA LIGA HYPERMOTION FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqlxBRu8KMqpGrzrP9oJMZg9Ealh-QpgaQ9aoN02S21x
+#EXTINF:-1 xui-id="221243" tvg-id="" tvg-name="ES | LA LIGA HYPERMOTION 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cdoXBK-ND-dVBrIYITJPNqoJTWCQg1EfeT84ngxeUN2Pi9TWzyp86Do05WF6nJPYQ.png" group-title="⚽ DEPORTES ESPAÑA",ES | LA LIGA HYPERMOTION 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmyi0XYlITHT9SluTZ5aXfv5Qq7Q3cYy351ApBuRBWgA
+#EXTINF:-1 xui-id="120115" tvg-id="" tvg-name="PE | LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087flSuD2155XzDHmRljpFggqS2Mn4SoAJJ-d_fGzD44JSvyqYgC5FmcRF3ZmSG5D7uKhAg8yEUJwzIl4Ebbj1fE0.jpg" group-title="⚽ DEPORTES PERU",PE | LIGA 1 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQYsghjrddw8U1kZu5
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 6" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 6
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 9" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 9
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
+#EXTINF:-1 xui-id="261093" tvg-id="" tvg-name="VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cVx203ByB7TdNq2UJAJhgkCRNWdlVjnmRiovaeY2VOeOeaByVP4W8j0bqaWHk8Qxw.png" group-title="VENEZUELA",VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvakEaolTx8sEZ2VZzRpiG7eIYKke3ggytSMoDsg8qut
+#EXTINF:-1 xui-id="260567" tvg-id="" tvg-name="BRA | PREMIERE 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuuLNvyP1zJvT34qw3iEVmn3SzBkLQnyISyc9Q8hRBLd
+#EXTINF:-1 xui-id="260568" tvg-id="" tvg-name="BRA | PREMIERE 2 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlkMiR2LFq2AaNRtTDqCA4Jsv0ogb6xr_m6flGYFDlkE
+#EXTINF:-1 xui-id="260573" tvg-id="" tvg-name="BRA | PREMIERE 4 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 4 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt7gj9uCt-5UbLAPhAUl6bWu4nfgSjQTAtOyrdcGa-67
+#EXTINF:-1 xui-id="260576" tvg-id="" tvg-name="BRA | PREMIERE 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 5 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnefUuk5Gho5bEcI9tPaVapf4PBMg2vo4yXUykgGCD3n
+#EXTINF:-1 xui-id="260579" tvg-id="" tvg-name="BRA | PREMIERE 6 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 6 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBixtVpcXpY1UHyi8OfBqZ_-dvX4R4v-rWinEhF0lG6pe
+#EXTINF:-1 xui-id="119768" tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI3Mi_NVMgwM5dO0MLXY8qImc5UY9s3gPh4HLMIUnVP
+#EXTINF:-1 xui-id="119769" tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmbgJ2P08VX4ipX7jGEaNhutzzBR-M7dnDpVicIpqEtQ
+#EXTINF:-1 xui-id="119771" tvg-id="" tvg-name="CO | RCN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqFtB8_418sHslATPDxjzjRnIgR8DtAyS4YM2hGM75r8
+#EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
+#EXTINF:-1 xui-id="119773" tvg-id="" tvg-name="CO | RCN NOVELAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk4WR4l20eHVR01am8ATdX7bpu2eJEnfA5d8z_1UONGZ
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1662
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR| SPORTS",FR| RMC SPORT 3 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1661
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 1 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium1.png" group-title="DE| SPORTS",DE| RTL+ SPORT 1 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68841
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 2 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium2.png" group-title="DE| SPORTS",DE| RTL+ SPORT 2 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68840
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 3 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium3.png" group-title="DE| SPORTS",DE| RTL+ SPORT 3 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68839
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 4 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium4.png" group-title="DE| SPORTS",DE| RTL+ SPORT 4 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68838
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 5 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium5.png" group-title="DE| SPORTS",DE| RTL+ SPORT 5 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68837
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 6 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium6.png" group-title="DE| SPORTS",DE| RTL+ SPORT 6 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68836
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportsmixhd.png" group-title="DE| SPORTS",DE| SKY SPORT MIX HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/63271
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportspremierleaguehd.png" group-title="DE| SPORTS",DE| SKY SPORT PREMIER LEAGUE HD
@@ -357,174 +430,122 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10028
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/27631
 #EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 1 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ 1 LIVE HD ( YAYIN ZAMANI AKTIF )
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/46649
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 1 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium1.png" group-title="DE| SPORTS",DE| RTL+ SPORT 1 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68841
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 2 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium2.png" group-title="DE| SPORTS",DE| RTL+ SPORT 2 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68840
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 3 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium3.png" group-title="DE| SPORTS",DE| RTL+ SPORT 3 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68839
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 4 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium4.png" group-title="DE| SPORTS",DE| RTL+ SPORT 4 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68838
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 5 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium5.png" group-title="DE| SPORTS",DE| RTL+ SPORT 5 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68837
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 6 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium6.png" group-title="DE| SPORTS",DE| RTL+ SPORT 6 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68836
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
-#EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 xui-id="119383" tvg-id="" tvg-name="CO | WINSPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsgFZh0j-Wc1xzouYiFQlYRBANaS3zFFVoyyOd_4Rl-e
-#EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYpqA4bvCer1MMNmX0k
-#EXTINF:-1 xui-id="119386" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuKmaNs_rOZICg2BulYIF5P-mzbgi5s2MkK0ZB9mIoLw
-#EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
-#EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D3GgVZ4iARAHk3TdV
-#EXTINF:-1 xui-id="119389" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBitDmOFzG5r3XiDGsYYzlZXG-t8XQtaQX1reSQZpObCk
-#EXTINF:-1 xui-id="119390" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh72XOj0wSsDbPEkQ21mBu4heErWtMM57pxEjsFvgpOX
-#EXTINF:-1 xui-id="119392" tvg-id="" tvg-name="CO | WINSPORTS+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
-#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139942
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 2 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8213
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 3 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8218
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 4 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 5 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
-#EXTINF:-1 tvg-id="" tvg-name="z@pping" tvg-logo="" group-title="LIGA PRO EC",zapping
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/714853.ts
-#EXTINF:-1 xui-id="120115" tvg-id="" tvg-name="PE | LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087flSuD2155XzDHmRljpFggqS2Mn4SoAJJ-d_fGzD44JSvyqYgC5FmcRF3ZmSG5D7uKhAg8yEUJwzIl4Ebbj1fE0.jpg" group-title="⚽ DEPORTES PERU",PE | LIGA 1 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQYsghjrddw8U1kZu5
-#EXTINF:-1 xui-id="120119" tvg-id="" tvg-name="UR | VTV HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WI5BR6k8PwBt79TtychZ1w4qtG1zxBJuUOWbODwwUW8.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhM1mR8XAhW-iya6mdTq3cMsr-iDCdaEsys9sSauSy5G
-#EXTINF:-1 xui-id="120121" tvg-id="" tvg-name="UR | VTV+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh-U0TO70002Bd6KpTAFDRBKTl6B26e0hH5uTU5El7ze
-#EXTINF:-1 xui-id="120122" tvg-id="" tvg-name="UR | VTV+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoel58RsLXHsnpMr-EAt-KtbUDoVshB99wNWkZOPPcVW
-#EXTINF:-1 xui-id="120905" tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RHBfcP627EWUAXT0lBQZu8i8EDdWdGBXSfmDd_Qky4I.png" group-title="⚽ ESPN",AR | ESPN PREMIUM HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu_n8p0GWNjuxkhu4AnP9F2EQnby3_jl8AqLC2m7Km0T
-#EXTINF:-1 xui-id="120907" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlaMCYp18xgYAiY_SPpc3QMLO17xV61Uawp_Vp9Gbz7k
-#EXTINF:-1 xui-id="120908" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt-dAdjI0RxMQkO8TKo81l5ZWjQ49HQ7Ii-lBLyTJ1nF
-#EXTINF:-1 xui-id="120909" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBupqZpUrHu5dL-vtpZ9V1ZEPhbgHDCcDUMePgZtc8H-i
-#EXTINF:-1 xui-id="120911" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh9GDofnKcHDq6hhfdn1R4IGUP9B4jcekd-Od512DhEo
-#EXTINF:-1 xui-id="120912" tvg-id="" tvg-name="MX | ESPN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiuxieaJzkhquwN7hzuaqmHCWuDzLP4jUXVeq22KtH8O
-#EXTINF:-1 xui-id="120913" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsZXdF9JSz0Q5OE5djeQPp_Q5FCEJ5_tStOMwEx8LWJC
-#EXTINF:-1 xui-id="120914" tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrbudCLd7vqTJSfdjpxyvlgLP_eTOLv6N5FWDl9q5XNd
-#EXTINF:-1 xui-id="120915" tvg-id="" tvg-name="AR | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsoxgc6lDaIcWMIX7tSlQjUtyqlLO9uTFkbMjcScB062
-#EXTINF:-1 xui-id="120918" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",MX | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkRApFdtxMofCZdj7FldZVYGmdztE1XjOF84_0HRVdH2
-#EXTINF:-1 xui-id="120919" tvg-id="" tvg-name="CO | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmdYHqAXRapXM27QrcHtfnGTRlTXgv5L3CLQBaItQ5QC
-#EXTINF:-1 xui-id="120920" tvg-id="" tvg-name="CO | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmuWEd9VkAo7qJPix6i-5OLG8-d6YZQtJvvM9H07jMBK
-#EXTINF:-1 xui-id="120921" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
-#EXTINF:-1 xui-id="120922" tvg-id="" tvg-name="MX | ESPN 3 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiL7G0aw-xqeGHzDhPW1H0exUuhOXYHIVvUewcFq7344
-#EXTINF:-1 xui-id="120926" tvg-id="" tvg-name="AR | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",AR | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuOzO-0ZRQrzC20jMxVZJxObgI9f8VqkODZ-4KJV13_X
-#EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
-#EXTINF:-1 xui-id="141615" tvg-id="" tvg-name="CO | ESPN 3 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBo_EgjGLFv6x6swyicbgxd8oSPike4gMA-rts7SvbkMt
-#EXTINF:-1 xui-id="221064" tvg-id="" tvg-name="ES | DAZN LA LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VJlzh8USHWCjtmGOm3Bk3QX6DdoATU7x4jm7HZC3h5Sd3IY-iR-_RdYRkyUj3avsA.png" group-title="⚽ DEPORTES DAZN",ES | DAZN LA LIGA 1 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnQhB7FlgRHeX4mE0bKSQtAHuKntIr1cnuocODDhnVBG
-#EXTINF:-1 xui-id="221080" tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD 1" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d7QQ_I92LXIlEKLe_pD2cTPosijEBxzgv6pDHxzhAThxmcEDMBd2BIFn5DdESHil7YKEhA92HxP312plEv50Rk.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LA LIGA FHD 1
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBq-ScW6SGiIMoEhokQbt2fTphWHFS8BJvTEyacznJ6ER
-#EXTINF:-1 xui-id="221082" tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d7QQ_I92LXIlEKLe_pD2cTPosijEBxzgv6pDHxzhAThxmcEDMBd2BIFn5DdESHil7YKEhA92HxP312plEv50Rk.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LA LIGA 1
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuDvmzyADkNDLiUlFt0OSkMcrH-SLfM1e6hBjkIGhfTl
-#EXTINF:-1 xui-id="221094" tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SNF8yMfZCNrjMiKbt4E1AthHSbVl6Bm42rEWLmrASKp.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtTFsd-RvqKUogUQ3FjlTSZFE-CMCKz3iiJp0RofGr6e
-#EXTINF:-1 xui-id="221095" tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SNF8yMfZCNrjMiKbt4E1AthHSbVl6Bm42rEWLmrASKp.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgTDKvBGoY1ORKSA2oxFRWtZLgIGWUEf4yD-fl24I7YC
-#EXTINF:-1 xui-id="221102" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpFG_DzSI6aMpau6yUB7jJXzJqLzjtVYx3tC3ZHK8oUM
-#EXTINF:-1 xui-id="221103" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvJakK1mBDZ7MS4X0wqQ9Ge1kgq2Cz1cUHorBJlO7o5b
-#EXTINF:-1 xui-id="221104" tvg-id="" tvg-name="ES | EUROSPORTS 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Ug91R3w20C-lPpxYLp8t2fFf3A6nIOkniZPVoO2V-8p.png" group-title="⚽ DEPORTES ESPAÑA",ES | EUROSPORTS 1 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiFtKwabbH933bQIbkjkMFyTIztP-h9NCcvFKsI5Ge8K
-#EXTINF:-1 xui-id="221240" tvg-id="" tvg-name="ES | LA LIGA HYPERMOTION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cdoXBK-ND-dVBrIYITJPNqoJTWCQg1EfeT84ngxeUN2Pi9TWzyp86Do05WF6nJPYQ.png" group-title="⚽ DEPORTES ESPAÑA",ES | LA LIGA HYPERMOTION FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqlxBRu8KMqpGrzrP9oJMZg9Ealh-QpgaQ9aoN02S21x
-#EXTINF:-1 xui-id="221243" tvg-id="" tvg-name="ES | LA LIGA HYPERMOTION 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cdoXBK-ND-dVBrIYITJPNqoJTWCQg1EfeT84ngxeUN2Pi9TWzyp86Do05WF6nJPYQ.png" group-title="⚽ DEPORTES ESPAÑA",ES | LA LIGA HYPERMOTION 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmyi0XYlITHT9SluTZ5aXfv5Qq7Q3cYy351ApBuRBWgA
-#EXTINF:-1 xui-id="221267" tvg-id="" tvg-name="ES | ESPN 5 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnuuve33tKp8u7gGzXfmDmbI-LHLl1sefjnKcjbwSMvx
-#EXTINF:-1 xui-id="221268" tvg-id="" tvg-name="ES | ESPN 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhBokpzwBJM2jwCT7toGd9mWLBuutH9Ci9fWZgTcdQOt
-#EXTINF:-1 xui-id="221269" tvg-id="" tvg-name="ES | ESPN 5 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiv4y_K7poFRt9x_KuYZGHQOgrUTnbsRwZEYY4ZNrlIv
-#EXTINF:-1 xui-id="221272" tvg-id="" tvg-name="ES | ESPN 6 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087XO7oJa5YPr6g669G256xRF50fSGYL-P-5YY_81HnGF3.jpg" group-title="⚽ ESPN",ES | ESPN 6 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlXXU34GatF0Am5z445WF53VPzxRA3KCdYjBfGssR943
-#EXTINF:-1 xui-id="221273" tvg-id="" tvg-name="ES | ESPN 7 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RSm0UQoA-Q8s8UdxkfVUD7zLZ7FATex_Y1QdZAQXFbL.jpg" group-title="⚽ ESPN",ES | ESPN 7 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnj1kzP3q--s86TyUOtm1KUu-Q1XnVa-qiRQHMWHAlP8
-#EXTINF:-1 xui-id="221274" tvg-id="" tvg-name="ES | ESPN 7 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RSm0UQoA-Q8s8UdxkfVUD7zLZ7FATex_Y1QdZAQXFbL.jpg" group-title="⚽ ESPN",ES | ESPN 7 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEaULN3fFo6ZvG2Ld5BYSB_NgOedURADCTv9LVtlsv_
-#EXTINF:-1 xui-id="222111" tvg-id="" tvg-name="PAN | NEXT TV 21 HD" tvg-logo="https://i.postimg.cc/vmDY3qV7/nex-tv.jpg" group-title="PANAMA",PAN | NEXT TV 21 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZW1l55E-FaLj-lbKcM9A7-dmzS_ekxMyY7TFoRbJgN
-#EXTINF:-1 xui-id="222259" tvg-id="" tvg-name="PAN | TIGO SPORTS FHD" tvg-logo="https://i.postimg.cc/1XrdKGMG/tigo-sports-pan.jpg" group-title="PANAMA",PAN | TIGO SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiVH7tmkkmWyh9Seowa4ydAz9zxW6r71soFmoppekqzF
-#EXTINF:-1 xui-id="222260" tvg-id="" tvg-name="PAN | TIGO SPORTS HD" tvg-logo="https://i.postimg.cc/1XrdKGMG/tigo-sports-pan.jpg" group-title="PANAMA",PAN | TIGO SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh2fcj9tAtwCV6_Rx-prvZQKJfMUuSJdPvpULHqupWvI
-#EXTINF:-1 xui-id="260547" tvg-id="" tvg-name="VE | TELEVEN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlrAzxSJuriHzKKQAuV7Z0YxqzWoVO_4SCUQm1L7VwsW
-#EXTINF:-1 xui-id="260548" tvg-id="" tvg-name="VE | TELEVEN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoTYSWr4gVSD6mcBTLCu9SZJzjOoVX7Kl_IoHBtMo0hy
-#EXTINF:-1 xui-id="260550" tvg-id="" tvg-name="VE | IVC SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cExZukaO0U0kHC-gci7_0O4BEgWiJ1OTvY3rZBwU-IG.png" group-title="VENEZUELA",VE | IVC SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBis5zJjR4ThZ2aL9qIadbPPJB-KYC0qtOFQ6EJu1FgaD
-#EXTINF:-1 xui-id="119428" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA ESPAÑA",CUL | DISCOVERY CHANNEL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrmxI9-DIqdIXYhUqHcM-gKM9o9t2HBIfloc0majN0D5
-#EXTINF:-1 xui-id="119612" tvg-id="" tvg-name="INF | NICK HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fozJKl431piTg8H8tBf4rijIkyqUZYtSRe3c5ZWDv-k.png" group-title="INFANTILES LATINO",INF | NICK HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohsBVAeUwyjKATtpg5A8aQunACnZ_-N4hBesQXP1ejn
-#EXTINF:-1 xui-id="119618" tvg-id="" tvg-name="INF | DISCOVERY KIDS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QzGcETs4KZDJZ--U8pBv9uFyT0MUzUBdge1NFCPY6u4.png" group-title="INFANTILES LATINO",INF | DISCOVERY KIDS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBozkV4ZIuOYx5LZvRZTt5ZjHxmtoXvuyVxAsGDvDnM1_
-#EXTINF:-1 xui-id="119638" tvg-id="" tvg-name="USL | NBCUNIVERSO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dqZNY7c-IaVz_r3rTsZFLfH3duLDlkek5KJCjeRy8Ku.png" group-title="USA LATINO",USL | NBCUNIVERSO HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp7ara5kfAaHurUqtuzFoMUxxuCj52HUVcR8_r_O2S5u
-#EXTINF:-1 xui-id="119640" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA LATINO",CUL | DISCOVERY CHANNEL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohGMsjjojpoUPOTXiN88gKB5hBrlvZiIT0dovyGEI1h
-#EXTINF:-1 xui-id="119663" tvg-id="" tvg-name="ENT | HBO FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SDUYZ6YCd5l6W8fSG6mS5dk_AoY8rjdtzeZ2TqnTCZ2.png" group-title="PAQUETE HBO",ENT | HBO FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmHL0r0oj4YgaOZP4xkGVLxtifsHOXumxIOawcNcQJO5
-#EXTINF:-1 xui-id="119668" tvg-id="" tvg-name="ENT | HBO 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087THwJmK-xWLAPhglGtFWe07xAvOtgVZ2dwu3VDAa1TGA.png" group-title="PAQUETE HBO",ENT | HBO 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhK4vpylhJ00WgFh0WlZzP06Lz_wdriMUtrKRPK6KWR3
-#EXTINF:-1 xui-id="119669" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBj9ySVbnYGjxSvc5ZIBhpT4CwSV5AuEPm7IuUjeQufR4
-#EXTINF:-1 xui-id="119670" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiZJCP4FlrlcT9bw0Hkln0vG9mAMFdC8eCb6ekyO4WBJ
-#EXTINF:-1 xui-id="119671" tvg-id="" tvg-name="ENT | HBO PLUS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087UYtR-TJ8dqutMshkBdRyA-oinBUVT2VodOiF_HhEQuw.png" group-title="PAQUETE HBO",ENT | HBO PLUS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhhVBfL9mbNeUj-NIyGjBckpMQPFumzBwrfaJ2Ig5xIP
-#EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title="PAQUETE HBO",ENT | HB0 SIGNATURE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqeUUjUCFOcC1iqXYzNrXIdxtH2ISZhXXauHDGQxwehL
-#EXTINF:-1 xui-id="119678" tvg-id="" tvg-name="ENT | HBO EXTREME HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZtMEiqmeD3-FP8H9lNieDXA9WaQW2yXWk9SUpcYIayU.png" group-title="PAQUETE HBO",ENT | HBO EXTREME HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBl44moj9K0nFFCsD4kS0Wv1Tk_e_KkQlJUl-ozLf0B_v
-#EXTINF:-1 xui-id="119680" tvg-id="" tvg-name="ENT | HBO POP HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WSQysIBduJISlIj7HHfmgwY2jQOKxBruevQkd6Tx-G8.png" group-title="PAQUETE HBO",ENT | HBO POP HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrls7Q8t8IUu4AUVogs8C4MP33FUFGvEzVXvnaBTJLMy
-#EXTINF:-1 xui-id="119682" tvg-id="" tvg-name="ENT | HBO POP HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WSQysIBduJISlIj7HHfmgwY2jQOKxBruevQkd6Tx-G8.png" group-title="PAQUETE HBO",ENT | HBO POP HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt7fGIQKrRewg50YjOk_ZXN3cFGp0ZThD67C_jQ3Qn9i
+#EXTINF:-1 xui-id="120185" tvg-id="" tvg-name="ENT | STAR CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZuzR0odASxB-n9dlzLFOeORKWbJ3n1fD1HDY9lEyDX1.png" group-title="ENTRETENIMIENTO LATINO",ENT | STAR CHANNEL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpxFPegF10cu1LKWINUEZxF1aj15nyPc847XSo76hcBe
+#EXTINF:-1 xui-id="120187" tvg-id="" tvg-name="ENT | SONY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="ENTRETENIMIENTO LATINO",ENT | SONY HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEOL2IdOzLqqBL30fvd10BWcnN2oBYj1ReHAIC6phXk
 #EXTINF:-1 xui-id="119683" tvg-id="" tvg-name="LA | SONY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk1SYnuq103I6qwAO2-1sHNPSOuq2-YubuIVzL05RXia
 #EXTINF:-1 xui-id="119684" tvg-id="" tvg-name="LA | SONY CHANNEL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpDVUZtYjPnXEOj3Sw10utBgn1qeapNzzfVCTC5IDGq7
 #EXTINF:-1 xui-id="119687" tvg-id="" tvg-name="LA | SONY MOVIES FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X_q4l24Y3iCqLC79thuAgMP7SvSbo4A4FvwC57OZH_QV8Tt1EZ7qz6lUVUOxv_BkA.png" group-title="PAQUETE SONY",LA | SONY MOVIES FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn2lor5iu9UtQnrODr0jLXUwDS22_2vvgODe8FttE8hA
+#EXTINF:-1 xui-id="119711" tvg-id="" tvg-name="LA | STUDIO UNIVERSAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VMZPAtTANWCYhgjxAlZvpNoMHZsSGbeAUZuhkiBLIAp.png" group-title="PAQUETE UNIVERSAL+",LA | STUDIO UNIVERSAL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrku_-xrnnbOxwlxEpUnoHKgnHOGN5JsFjmrHl6-PTEQ
+#EXTINF:-1 xui-id="120178" tvg-id="" tvg-name="ENT | SPACE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QuEz0xop77O4c5sg_8ZVqs3XnznVmNmetXgm99u-TofU8FyCzFISC8MKKmil395SQ.png" group-title="ENTRETENIMIENTO LATINO",ENT | SPACE HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk5RhNGdrWGxTIVoH-JhNZ9yUM3YlEK7h6wZrSDY1Fkv
+#EXTINF:-1 xui-id="120179" tvg-id="" tvg-name="ENT | SPACE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QuEz0xop77O4c5sg_8ZVqs3XnznVmNmetXgm99u-TofU8FyCzFISC8MKKmil395SQ.png" group-title="ENTRETENIMIENTO LATINO",ENT | SPACE HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0CzMKPXjGg2kd0KFo7gRtj2YYyFjYhLLnYy80qqZHb
+#EXTINF:-1 xui-id="120176" tvg-id="" tvg-name="ENT | SYFY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e06MKoUT5DQ2tFDxZYD76ytTprgNOvwlQgUgCOdEgoy.png" group-title="ENTRETENIMIENTO LATINO",ENT | SYFY HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqd0hexVo1-PGxA12O16FatiK1DgXztkoDiaiYDLEITf
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/165960
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/165959
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164638
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164637
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164636
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164635
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164634
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164633
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164617
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164616
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164615
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164614
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164613
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164612
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 HD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/174092
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 UHD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/66692
+#EXTINF:-1 xui-id="119795" tvg-id="" tvg-name="EC | TC TELEVISION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlMHJSS3BSO7Dx16P5QR7AwQ0idH_VRQ7sQtawefGeQn
+#EXTINF:-1 xui-id="119796" tvg-id="" tvg-name="EC | TC TELEVISION SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmKe8mI-08v4D8-36_AtJp-Vk4y8ZrDHy-GtOerJ5K7i
+#EXTINF:-1 xui-id="119797" tvg-id="" tvg-name="EC | TELEAMAZONAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WHxDAYLr1h3Y2VxRIcPayDtY13dyRuGsObS0fec0cVi.png" group-title="ECUADOR",EC | TELEAMAZONAS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoZ5moSLQy9CDjdL9_K6yww8pg2WwykbcpnOSs6QNELk
+#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas Quito
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-id="TVColorCanal36.ec@SD",TV Color Canal 36 (720p)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 xui-id="142345" tvg-id="" tvg-name="CR | TD+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpZsdPV2ek0h59zemooVUGGdKC635BDUHOOcSzjxIMLT
+#EXTINF:-1 xui-id="142346" tvg-id="" tvg-name="CR | TD+2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgf9w7CggLIfMj6KEp7MbnobT_7oCNlYO3W3k6rtprBt
+#EXTINF:-1 xui-id="142348" tvg-id="" tvg-name="CR | TIGO SPORTS CR FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="⚽ DEPORTES COSTA RICA",CR | TIGO SPORTS CR FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Xar4w0mLXHU9QKzSSA3TaEeTwPCOWy79a6JqEdeGS
+#EXTINF:-1 xui-id="142349" tvg-id="" tvg-name="CR | TIGO SPORTS CR HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="⚽ DEPORTES COSTA RICA",CR | TIGO SPORTS CR HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBta69PXvZp1woeq44_iV85-i1OkZi3V1v3V2jtzsQ77I
+#EXTINF:-1 xui-id="222259" tvg-id="" tvg-name="PAN | TIGO SPORTS FHD" tvg-logo="https://i.postimg.cc/1XrdKGMG/tigo-sports-pan.jpg" group-title="PANAMA",PAN | TIGO SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiVH7tmkkmWyh9Seowa4ydAz9zxW6r71soFmoppekqzF
+#EXTINF:-1 xui-id="222260" tvg-id="" tvg-name="PAN | TIGO SPORTS HD" tvg-logo="https://i.postimg.cc/1XrdKGMG/tigo-sports-pan.jpg" group-title="PANAMA",PAN | TIGO SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh2fcj9tAtwCV6_Rx-prvZQKJfMUuSJdPvpULHqupWvI
+#EXTINF:-1 xui-id="120036" tvg-id="" tvg-name="GT | TIGO SPORTS" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="GUATEMALA",GT | TIGO SPORTS
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcUBVAh_ilUFID2oxBOaNYThI3F4ahFfKkJ2Qw6IYlL
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR| SPOR",TIVIBUSPOR HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/65751
+#EXTINF:-1 tvg-id="6527" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://www.canlitvplayer.com/media/images/tvlogo/ead99218-7774-4e93-b1cf-43904c279bd0_tivibu-spor-tv-player.png" group-title="TR| SPOR",TIVIBUSPOR 1 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2064
+#EXTINF:-1 tvg-id="6528" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="TR| SPOR",TIVIBUSPOR 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/5316
+#EXTINF:-1 tvg-id="6529" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="TR| SPOR",TIVIBUSPOR 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8012
+#EXTINF:-1 tvg-id="6525" tvg-name="TRTSPOR HD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15135
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRTSPOR UHD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR UHD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2049
+#EXTINF:-1 xui-id="120188" tvg-id="" tvg-name="ENT | TNT HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZYk8QphHvZQz9TeDncMyLem4t4P_q30KbZjeO7ClHDf.png" group-title="ENTRETENIMIENTO LATINO",ENT | TNT HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBttqycZyNT4fxnfiFetEyi23m6XclGpve6RUyDcqkd-F
+#EXTINF:-1 xui-id="120189" tvg-id="" tvg-name="ENT | TNT SERIES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZN_otNOPLaRBOu0CxNIVFvVCJrCkA1jj4emOAI4DkiL.png" group-title="ENTRETENIMIENTO LATINO",ENT | TNT SERIES HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBspPUfHRTFWxOhU9JLGB_0_R4iwyLDVQi3BN5HbtYfiW
+#EXTINF:-1 xui-id="118334" tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
+#EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
+#EXTINF:-1 xui-id="120106" tvg-id="" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS PREMIUM HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
+#EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
+#EXTINF:-1 xui-id="119412" tvg-id="" tvg-name="MX | TUDN X2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087b9jggSQ2EHf1i-97DwnQuhFM8HNxIKGnF2_dyRfvyMH.png" group-title="⚽ DEPORTES MEXICO",MX | TUDN X2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuTajNrsVlf-TtDGqYw-yRUtDz0K35DmGbQiBMbC5BxV
+#EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
+#EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
+#EXTINF:-1 xui-id="118338" tvg-id="" tvg-name="AR | TyC SPORTS INTERNACIONAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS INTERNACIONAL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBid5hse2jkxp-XDy_kEn4O2rBkUvKEXuIf7R75RDOkUD
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 xui-id="260547" tvg-id="" tvg-name="VE | TELEVEN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlrAzxSJuriHzKKQAuV7Z0YxqzWoVO_4SCUQm1L7VwsW
+#EXTINF:-1 xui-id="260548" tvg-id="" tvg-name="VE | TELEVEN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoTYSWr4gVSD6mcBTLCu9SZJzjOoVX7Kl_IoHBtMo0hy
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
 #EXTINF:-1 xui-id="119695" tvg-id="" tvg-name="LA | UNIVERSAL CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087duQ-0QhVzUOBwP8XhPVXgkmDKPvnpwM7CDqubinRMVeF397E5NWgetn06r06fclrg.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CHANNEL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu7qlFecT9nFrCIe7ChF9nYahEs7tUUZz7LBeO1R6vik
 #EXTINF:-1 xui-id="119697" tvg-id="" tvg-name="LA | UNIVERSAL CINEMA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dd084XUfJdaTUzje5IWDsbhnPQYH4UAuiKbWDwAJ7AEYbP8ARRyZa5hifBDlOh-xQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CINEMA HD
@@ -547,82 +568,50 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk-GUKyfJE_eKNPqKEbmOTPl8Y8t
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqYUQgSy74S1ZVsI4GjKsQActC8a95LmpsYm6XWIa9HF
 #EXTINF:-1 xui-id="119710" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnCAuyXKmByLIvB45MY7t2H29opuWQnRQoEnCt_luD6R
-#EXTINF:-1 xui-id="119711" tvg-id="" tvg-name="LA | STUDIO UNIVERSAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VMZPAtTANWCYhgjxAlZvpNoMHZsSGbeAUZuhkiBLIAp.png" group-title="PAQUETE UNIVERSAL+",LA | STUDIO UNIVERSAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrku_-xrnnbOxwlxEpUnoHKgnHOGN5JsFjmrHl6-PTEQ
-#EXTINF:-1 xui-id="120176" tvg-id="" tvg-name="ENT | SYFY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e06MKoUT5DQ2tFDxZYD76ytTprgNOvwlQgUgCOdEgoy.png" group-title="ENTRETENIMIENTO LATINO",ENT | SYFY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqd0hexVo1-PGxA12O16FatiK1DgXztkoDiaiYDLEITf
-#EXTINF:-1 xui-id="120178" tvg-id="" tvg-name="ENT | SPACE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QuEz0xop77O4c5sg_8ZVqs3XnznVmNmetXgm99u-TofU8FyCzFISC8MKKmil395SQ.png" group-title="ENTRETENIMIENTO LATINO",ENT | SPACE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk5RhNGdrWGxTIVoH-JhNZ9yUM3YlEK7h6wZrSDY1Fkv
-#EXTINF:-1 xui-id="120179" tvg-id="" tvg-name="ENT | SPACE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QuEz0xop77O4c5sg_8ZVqs3XnznVmNmetXgm99u-TofU8FyCzFISC8MKKmil395SQ.png" group-title="ENTRETENIMIENTO LATINO",ENT | SPACE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0CzMKPXjGg2kd0KFo7gRtj2YYyFjYhLLnYy80qqZHb
-#EXTINF:-1 xui-id="120182" tvg-id="" tvg-name="ENT | AXN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Z_-sTPX01lmyXYXbEMDwBNtdkOpFNzvbEtF7Hz_NzWnsshgBS8RUyk6NknJhl3_ew.png" group-title="ENTRETENIMIENTO LATINO",ENT | AXN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBl41tUgFXcsRcyg9nz0JTwwWaAfDWhnOX32cnyxPwqzy
-#EXTINF:-1 xui-id="120184" tvg-id="" tvg-name="ENT | CINE CANAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RL0GzJ4ohwfz8J8pGCJPG8uPMYvqjPk0NNfbTfTC1BS.png" group-title="ENTRETENIMIENTO LATINO",ENT | CINE CANAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn4dUTzO3Y-HT-tS1bYMiWVr67BX0GoHgKHL9fXNK9lO
-#EXTINF:-1 xui-id="120185" tvg-id="" tvg-name="ENT | STAR CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZuzR0odASxB-n9dlzLFOeORKWbJ3n1fD1HDY9lEyDX1.png" group-title="ENTRETENIMIENTO LATINO",ENT | STAR CHANNEL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpxFPegF10cu1LKWINUEZxF1aj15nyPc847XSo76hcBe
-#EXTINF:-1 xui-id="120187" tvg-id="" tvg-name="ENT | SONY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="ENTRETENIMIENTO LATINO",ENT | SONY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEOL2IdOzLqqBL30fvd10BWcnN2oBYj1ReHAIC6phXk
-#EXTINF:-1 xui-id="120188" tvg-id="" tvg-name="ENT | TNT HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZYk8QphHvZQz9TeDncMyLem4t4P_q30KbZjeO7ClHDf.png" group-title="ENTRETENIMIENTO LATINO",ENT | TNT HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBttqycZyNT4fxnfiFetEyi23m6XclGpve6RUyDcqkd-F
-#EXTINF:-1 xui-id="120189" tvg-id="" tvg-name="ENT | TNT SERIES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZN_otNOPLaRBOu0CxNIVFvVCJrCkA1jj4emOAI4DkiL.png" group-title="ENTRETENIMIENTO LATINO",ENT | TNT SERIES HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBspPUfHRTFWxOhU9JLGB_0_R4iwyLDVQi3BN5HbtYfiW
-#EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ-PUh7630VuABXV8m
-#EXTINF:-1 xui-id="119765" tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBin5We8Nxss5yDCKVURSRlY9h1sypq54j97Q3CQrpZXo
-#EXTINF:-1 xui-id="119766" tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqRDk_F2A8X8XV9lMuWbrhCBnZS_D3DJGjVgUcjVk3hv
-#EXTINF:-1 xui-id="119767" tvg-id="" tvg-name="CO | CARACOL HD2" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL HD2
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnh4TYEjArRYwd5f10YzHmiooXaqa6hOPndOkQ7SGLsu
-#EXTINF:-1 xui-id="119768" tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI3Mi_NVMgwM5dO0MLXY8qImc5UY9s3gPh4HLMIUnVP
-#EXTINF:-1 xui-id="119769" tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmbgJ2P08VX4ipX7jGEaNhutzzBR-M7dnDpVicIpqEtQ
-#EXTINF:-1 xui-id="119771" tvg-id="" tvg-name="CO | RCN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqFtB8_418sHslATPDxjzjRnIgR8DtAyS4YM2hGM75r8
-#EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
-#EXTINF:-1 xui-id="119773" tvg-id="" tvg-name="CO | RCN NOVELAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk4WR4l20eHVR01am8ATdX7bpu2eJEnfA5d8z_1UONGZ
-#EXTINF:-1 xui-id="119795" tvg-id="" tvg-name="EC | TC TELEVISION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlMHJSS3BSO7Dx16P5QR7AwQ0idH_VRQ7sQtawefGeQn
-#EXTINF:-1 xui-id="119796" tvg-id="" tvg-name="EC | TC TELEVISION SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmKe8mI-08v4D8-36_AtJp-Vk4y8ZrDHy-GtOerJ5K7i
-#EXTINF:-1 xui-id="119797" tvg-id="" tvg-name="EC | TELEAMAZONAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WHxDAYLr1h3Y2VxRIcPayDtY13dyRuGsObS0fec0cVi.png" group-title="ECUADOR",EC | TELEAMAZONAS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoZ5moSLQy9CDjdL9_K6yww8pg2WwykbcpnOSs6QNELk
-#EXTINF:-1 xui-id="120036" tvg-id="" tvg-name="GT | TIGO SPORTS" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="GUATEMALA",GT | TIGO SPORTS
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcUBVAh_ilUFID2oxBOaNYThI3F4ahFfKkJ2Qw6IYlL
-#EXTINF:-1 xui-id="120048" tvg-id="" tvg-name="GT | CLARO SPORTS 2 HD - GUATE" tvg-logo="http://supertele.xyz:8080/images/QCqX5p5x3Y181Q8jwb82JB3PSoWIVjZjPiGSZofi589Zbi9MNLoS-oB9PcKaSBB5bdg3oEaUCA4z5f_3ZSa7yA.png" group-title="GUATEMALA",GT | CLARO SPORTS 2 HD - GUATE
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmBXuLCP88Qj6EBpKBiE9CXUIAteeOOW37FnmvXqF0Pc
-#EXTINF:-1 xui-id="120049" tvg-id="" tvg-name="GT | CLARO SPORTS 2 HD  OP 2" tvg-logo="http://supertele.xyz:8080/images/QCqX5p5x3Y181Q8jwb82JB3PSoWIVjZjPiGSZofi589Zbi9MNLoS-oB9PcKaSBB5bdg3oEaUCA4z5f_3ZSa7yA.png" group-title="GUATEMALA",GT | CLARO SPORTS 2 HD  OP 2
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiDoJvgH9S4C7UzYKlBnBo7f3vAVboozlcDf_zjhVKgD
-#EXTINF:-1 xui-id="120151" tvg-id="" tvg-name="MX | CANAL 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WK1R6EfCDhqFTS0GBj2snY5JgpOpPckgjlEgCdWUPNG.png" group-title="MEXICO",MX | CANAL 5 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn06aZtRgBBrpTlQg8Ohaba_07nVABawkw3fxSK-lBLk
-#EXTINF:-1 xui-id="142345" tvg-id="" tvg-name="CR | TD+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpZsdPV2ek0h59zemooVUGGdKC635BDUHOOcSzjxIMLT
-#EXTINF:-1 xui-id="142346" tvg-id="" tvg-name="CR | TD+2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgf9w7CggLIfMj6KEp7MbnobT_7oCNlYO3W3k6rtprBt
-#EXTINF:-1 xui-id="142348" tvg-id="" tvg-name="CR | TIGO SPORTS CR FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="⚽ DEPORTES COSTA RICA",CR | TIGO SPORTS CR FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Xar4w0mLXHU9QKzSSA3TaEeTwPCOWy79a6JqEdeGS
-#EXTINF:-1 xui-id="142349" tvg-id="" tvg-name="CR | TIGO SPORTS CR HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="⚽ DEPORTES COSTA RICA",CR | TIGO SPORTS CR HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBta69PXvZp1woeq44_iV85-i1OkZi3V1v3V2jtzsQ77I
-#EXTINF:-1 xui-id="260567" tvg-id="" tvg-name="BRA | PREMIERE 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuuLNvyP1zJvT34qw3iEVmn3SzBkLQnyISyc9Q8hRBLd
-#EXTINF:-1 xui-id="260568" tvg-id="" tvg-name="BRA | PREMIERE 2 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlkMiR2LFq2AaNRtTDqCA4Jsv0ogb6xr_m6flGYFDlkE
-#EXTINF:-1 xui-id="260573" tvg-id="" tvg-name="BRA | PREMIERE 4 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 4 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt7gj9uCt-5UbLAPhAUl6bWu4nfgSjQTAtOyrdcGa-67
-#EXTINF:-1 xui-id="260576" tvg-id="" tvg-name="BRA | PREMIERE 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 5 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnefUuk5Gho5bEcI9tPaVapf4PBMg2vo4yXUykgGCD3n
-#EXTINF:-1 xui-id="260579" tvg-id="" tvg-name="BRA | PREMIERE 6 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 6 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBixtVpcXpY1UHyi8OfBqZ_-dvX4R4v-rWinEhF0lG6pe
 #EXTINF:-1 xui-id="260590" tvg-id="" tvg-name="USL | UNIVISION CHICAGO FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SLZvSr4v5kMGj_7EGcB2mKG5QnDYe9RJXX6ExPdYUna.png" group-title="UNIVISION LATINO",USL | UNIVISION CHICAGO FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnhNHANHaVTFhTyTz6U9Yh5BCL5S_izrUBcFjgEZLZgR
 #EXTINF:-1 xui-id="260591" tvg-id="" tvg-name="USL | UNIVISION CHICAGO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SLZvSr4v5kMGj_7EGcB2mKG5QnDYe9RJXX6ExPdYUna.png" group-title="UNIVISION LATINO",USL | UNIVISION CHICAGO HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiHv2U9mgr5Brz3WCQM5hcdc_g-ur8fhL6m6oL83TGUm
-#EXTINF:-1 xui-id="261093" tvg-id="" tvg-name="VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cVx203ByB7TdNq2UJAJhgkCRNWdlVjnmRiovaeY2VOeOeaByVP4W8j0bqaWHk8Qxw.png" group-title="VENEZUELA",VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvakEaolTx8sEZ2VZzRpiG7eIYKke3ggytSMoDsg8qut
+#EXTINF:-1 xui-id="120119" tvg-id="" tvg-name="UR | VTV HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WI5BR6k8PwBt79TtychZ1w4qtG1zxBJuUOWbODwwUW8.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhM1mR8XAhW-iya6mdTq3cMsr-iDCdaEsys9sSauSy5G
+#EXTINF:-1 xui-id="120121" tvg-id="" tvg-name="UR | VTV+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh-U0TO70002Bd6KpTAFDRBKTl6B26e0hH5uTU5El7ze
+#EXTINF:-1 xui-id="120122" tvg-id="" tvg-name="UR | VTV+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoel58RsLXHsnpMr-EAt-KtbUDoVshB99wNWkZOPPcVW
+#EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 xui-id="119383" tvg-id="" tvg-name="CO | WINSPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsgFZh0j-Wc1xzouYiFQlYRBANaS3zFFVoyyOd_4Rl-e
+#EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYpqA4bvCer1MMNmX0k
+#EXTINF:-1 xui-id="119386" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuKmaNs_rOZICg2BulYIF5P-mzbgi5s2MkK0ZB9mIoLw
+#EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
+#EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D3GgVZ4iARAHk3TdV
+#EXTINF:-1 xui-id="119389" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBitDmOFzG5r3XiDGsYYzlZXG-t8XQtaQX1reSQZpObCk
+#EXTINF:-1 xui-id="119390" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh72XOj0wSsDbPEkQ21mBu4heErWtMM57pxEjsFvgpOX
+#EXTINF:-1 xui-id="119392" tvg-id="" tvg-name="CO | WINSPORTS+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
+#EXTINF:-1 tvg-id="" tvg-name="z@pping" tvg-logo="" group-title="LIGA PRO EC",zapping
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/714853.ts
+#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139942
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 2 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8213
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 3 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8218
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 4 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 4 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 5 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 5 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
 #EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E22" tvg-logo="https://image.tmdb.org/t/p/w1280/si1rzZskavyY6jSedZCtqq5AdU5.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E22
 http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562534.mkv
 #EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E21" tvg-logo="https://image.tmdb.org/t/p/w1280/q9lYYFeTx7coNawd3YymCTie0cJ.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E21
@@ -639,118 +628,26 @@ http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562537.mkv
 http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562530.mkv
 #EXTINF:-1 xui-id="189592" tvg-name="Super Mario Bros: La película (2023)" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png" group-title="PELICULAS 2024",Super Mario Bros: La película (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIFC6IfQ2HTtN_lc6Hvj2XJ54A3V8SGzL93TRg0sgkwn#.mkv
-#EXTINF:-1 xui-id="348798" tvg-name="Super Mario Galaxy la película (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0UQu0osztWbR7No5vPLiYQyPQRTxQ7Ghe_HwGuv8FTmQ.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Super Mario Galaxy la película (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOEaJLV6gReBJPZXVSMC2SCgQsVGScH9AlqD8P8OLz4v#.mkv
 #EXTINF:-1 xui-id="169343" tvg-name="El diablo viste a la moda (2006)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nGsB3zN481GLk6Sd4XNcAU3qZGjb3-wpJi_TDfS3ho8.jpg" group-title="DISNEY+",El diablo viste a la moda (2006)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD80NG3r63lrtnbG6tHnAAzsekelGn1bQRbyfo8iUmeh#.mkv
-#EXTINF:-1 xui-id="348799" tvg-name="El diablo viste de Prada 2 (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0p0I5wGOlXWsjOvzPHWwQCNe0kOhE6TxB1EhKMPgTWFs.jpg" group-title="⭐ ESTRENOS 2026 ⭐",El diablo viste de Prada 2 (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOEaJLV6gReBJPZXVSMC2SDwIOhkZ-wUx2OGJzeKnd9K#.mkv
-#EXTINF:-1 xui-id="348797" tvg-name="Michael (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0c2hhNzqQCpekEwaalWkp27Mz4xLw9-M9x0evcbXskYo.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Michael (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOEaJLV6gReBJPZXVSMC2SB4Rym8wFfMllnweS6Fj-Zx#.mkv
-#EXTINF:-1 xui-id="345020" tvg-name="La leyenda de Aang: El último Airbender (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0N8iw61-3TyqHOitKNXL39Zl4zSCpEjUVABf907Y_jUs.jpg" group-title="⭐ ESTRENOS 2026 ⭐",La leyenda de Aang: El último Airbender (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDN3FovJl753z7BlxZd5Ypjj3XaTlp1t8KousgFvbsF6#.mkv
-#EXTINF:-1 xui-id="344574" tvg-name="Return to Silent Hill (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0QPg9mfbYdq7Z8NEiospV0sDrhxwueATdznnT8tKrea8.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Return to Silent Hill (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFNeWiWQl10syqXkj7pmS5NVEusaYFkQ08kOH8KQ4KbI#.mkv
-#EXTINF:-1 xui-id="342349" tvg-name="Embestida (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GoNvY9eLLWAvPlUqXXCQUjHrGHhJVMBR2THfoJ5cmCI.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Embestida (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WP8IT3PtrNg2qYFaEjeNQc8ny6zoeEMc9Fic1clIR2FO#.mkv
-#EXTINF:-1 xui-id="342348" tvg-name="Arco" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nJXXuUqsnCJLzYpR4BWb3BUP26unGEv7v6FGOuB4TJk.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Arco
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WP8IT3PtrNg2qYFaEjeNQc9qkX-UfBFs6LOqfyX7mKzd#.mkv
-#EXTINF:-1 xui-id="342325" tvg-name="Proyecto Salvación (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0f0bmwjeOJRoD-WIaIQzINoLDOrUWBChPXevqHNRoA0U.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Proyecto Salvación (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGi_jhJxYi8IsyAMXAA7Hj7PDFdd0SoJdmxlx6Ls5Bu5#.mkv
-#EXTINF:-1 xui-id="342178" tvg-name="Rob1n" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0JtbKewe0rXsBOf5ohEfbzP-IquFy1KdbhADaugDa1to.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Rob1n
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WI-dxyKBJnMoVTSD27ceiNQmrqcD0ZE5FWzQJKA3zeSb#.mkv
-#EXTINF:-1 xui-id="342177" tvg-name="Outcome (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bA8tj14w45KtnWb804IFJCbKPQiZaERwO_GbaeSXGb0.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Outcome (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WI-dxyKBJnMoVTSD27ceiNSWuglCiTurEKUOkmNdpQDh#.mkv
-#EXTINF:-1 xui-id="342176" tvg-name="¡La novia! (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0FzKI7IvqZZ7ePjGzemnssjJb58fU08-U3AqsOTe7WuM.jpg" group-title="⭐ ESTRENOS 2026 ⭐",¡La novia! (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WI-dxyKBJnMoVTSD27ceiNT4D6O0wSLwHgNmQEeZk19S#.mkv
-#EXTINF:-1 xui-id="190639" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L5u2cdXfyMOFhiLYT0UBsjqZmC.jpg" group-title="SAGAS",Scream (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOJlrBjNQDhbWSKePqEwCcMMdjEyv8ztoEmQ-2rThF4V#.mkv
-#EXTINF:-1 xui-id="190638" tvg-name="Scream (Vigila quién llama) (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO39MWOrEmJYthKyWT79BYCVRrO.jpg" group-title="SAGAS",Scream (Vigila quién llama) (1996)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOJlrBjNQDhbWSKePqEwCcN4r695rBadU4_Rli1H8voy#.mkv
-#EXTINF:-1 xui-id="190553" tvg-name="Scream 4 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg" group-title="SAGAS",Scream 4 (2011)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIbOBE7qfbrf8SLi1UKJmGqpvijwZwXcEuA0w2e-ewd7#.mkv
-#EXTINF:-1 xui-id="189635" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" group-title="PELICULAS 2024",Scream VI (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF1g5Ry-5uI5gVttgcwe02E0#.mkv
-#EXTINF:-1 xui-id="338219" tvg-name="Scream 7 (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oWQJZo9VeJgTMPG3AGxCO5ViE1LtX97igXSk9oQVIC8.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Scream 7 (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi1_J1HxsOJYJ9ntFU-4CDmC#.mkv
-#EXTINF:-1 xui-id="338218" tvg-name="GOAT: Como cabras (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uBIjaoj8R-8YKFdZl6b_mKi9uH84UHCdS5i1U983soE.jpg" group-title="⭐ ESTRENOS 2026 ⭐",GOAT: Como cabras (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi0Gsj35382S-JKsTBRli1S7#.mkv
-#EXTINF:-1 xui-id="338217" tvg-name="Hoppers (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0G2p34g2pDCIz5u8B_fHYbgBcqkM5vx167ER8E108XOU.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Hoppers (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi0AIik89Gks4CHRAoQl6d5U#.mkv
-#EXTINF:-1 xui-id="338216" tvg-name="Jumbo" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0v0COcJp22Wg54Fl0FGWZVCg57L9IIMiJmFSb6deTWL8.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Jumbo
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi3Eax1e3LDIVECQfXnQgK1g#.mkv
-#EXTINF:-1 xui-id="338215" tvg-name="“Cumbres Borrascosas” (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Y6Wji1B5d5IxElCnhYYxv09UcZ-zWEGdSc3PANXawd0.jpg" group-title="⭐ ESTRENOS 2026 ⭐",“Cumbres Borrascosas” (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi1JIk_c2h_jielEIikXPSQ7#.mkv
-#EXTINF:-1 xui-id="338213" tvg-name="Ruta de escape (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0qnniHac7CJR7PheD8VyVzkGJwxjsC8taPP9fZhAwZ_E.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Ruta de escape (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi3q56pvWrLeYoaoSWFc_PGr#.mkv
-#EXTINF:-1 xui-id="338212" tvg-name="Peaky Blinders: El hombre inmortal (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o1R2jnbMG90V0H17K_bPrce-W9cOlz4y3CpU7VqAFxM.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Peaky Blinders: El hombre inmortal (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi38kEIYWc__H2NGlXBl-Z_r#.mkv
-#EXTINF:-1 xui-id="338211" tvg-name="Tom y Jerry: Aventura en el tiempo" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WN7eiwgxug_GUACFV_40f1bbCF-Asg1aPldlIuD87Lk.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Tom y Jerry: Aventura en el tiempo
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi3s2pozQi72b-bBBVIys8ZQ#.mkv
-#EXTINF:-1 xui-id="338210" tvg-name="Núremberg (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ATqG78OCUIwJFDOGHqQpSLY--9cQ18YRzqVWg2hNDyo.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Núremberg (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhoXLo1FomcPLZz_qshi26LJx_PZe9zNVe4rCBiOus#.mkv
-#EXTINF:-1 xui-id="338209" tvg-name="Solo Mio (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cO-skncRnvCP4dwonQ2luTQPdsA83HnEU5N9uAgUs9s.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Solo Mio (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mkpFEpHy6Rs3f6yo19OXByq#.mkv
-#EXTINF:-1 xui-id="338208" tvg-name="Vida privada" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0gkQS4Sv-aN0qFFVc-Uou_tbEbcDsEeNdFEsW6fGsV14.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Vida privada
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mljpSe2cTbry8A5x3Tza5mg#.mkv
-#EXTINF:-1 xui-id="338207" tvg-name="Sin piedad (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05TRdj0_pHXb8I6BP8Z5xvStcd5dKLlAzuZXar5SciTY.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Sin piedad (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mlP_9YxLr2le7B-LOw_Szb8#.mkv
-#EXTINF:-1 xui-id="338206" tvg-name="El paseo 8 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SLdFpWnDwcTUdlOkhqaV5rNVLs2C5hAGSj-IBO_PFkI.jpg" group-title="⭐ ESTRENOS 2026 ⭐",El paseo 8 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mk4UWsidPad6Y6LVCNdQaXI#.mkv
-#EXTINF:-1 xui-id="338205" tvg-name="Greenland 2 (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0aQ4fG7o2rdOCa_GYkBxNY3s6bEVEMYjH40AuoG4P9aw.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Greenland 2 (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mm5-ZWCEXJEcZUY2l69Xm-l#.mkv
-#EXTINF:-1 xui-id="338204" tvg-name="Marty Supreme (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Tw7I6z9XSSWBDZWu38R006du2nYTYi7PlVt3vyXZccs.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Marty Supreme (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mnEuj2Y5L7Mh1faWNLIaS0t#.mkv
-#EXTINF:-1 xui-id="338203" tvg-name="Noise (Ruidos) (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0xgCGTD10UOFfw2v-vokkeEkDuRS7T6j2SyzdbfQOHI0.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Noise (Ruidos) (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WG58LJjTOOUc1cXSnRgD5mlky92p0PbLEl5d1mg-rQdl#.mkv
+#EXTINF:-1 xui-id="263726" tvg-name="Greenland: El último refugio (2020)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlYLo-v3EFJSsvCxNfxKZUc9cOJJxkXVFqLm_NjzhOJU.jpg" group-title="PELICULAS 2022",Greenland: El último refugio (2020)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuSmoe22BoY_nVpXoO1EQJaX#.mkv
 #EXTINF:-1 xui-id="337063" tvg-name="X-Men: Apocalipsis (2016)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bN3I2opP8w6pl-cbKVPQIvRl0BL0GVsmULFNCPZonJ0.jpg" group-title="SAGAS",X-Men: Apocalipsis (2016)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEWl6KN2DeKIwhemEMHwnSdi#.mkv
 #EXTINF:-1 xui-id="337062" tvg-name="X-Men: Fénix oscura (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DksBxFV72rj7nv2FixwRBB_cuAOGNkMj9ebNzpS9qoc.jpg" group-title="SAGAS",X-Men: Fénix oscura (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEUUp9Gj5WV43EPkUqH3G2Cq#.mkv
-#EXTINF:-1 xui-id="337061" tvg-name="X-Men: Días del futuro pasado (2014)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0e83hP1SpCSeog775KsvUEApMwyBeojwiR_b9UzJbcEU.jpg" group-title="SAGAS",X-Men: Días del futuro pasado (2014)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEXejGeECUBO2_UgFQUIwaYJ#.mkv
-#EXTINF:-1 xui-id="337060" tvg-name="X-Men: Primera Generación (2011)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0eQ-pBopvKB4hutVaBgynvviWS9JtgcUKKYnTrSxJo4s.jpg" group-title="SAGAS",X-Men: Primera Generación (2011)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEUI5NF_rbNtDSECZoycC4as#.mkv
-#EXTINF:-1 xui-id="337059" tvg-name="X-Men: La decisión final (2006)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XVwSCXSpiF3ph8NETygmv5ZCMpVPtJcCIAxLAOpvsMo.jpg" group-title="SAGAS",X-Men: La decisión final (2006)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLcEMH_HHrCrdxkNU94KdkhvJM4v7UqjuTfM00wpR9U1#.mkv
-#EXTINF:-1 xui-id="322202" tvg-name="Los hermanos demolición (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0O5QunlpUtgyxXGZnOEvJfAZ8N7351y3kq0dI8QPtySE.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Los hermanos demolición (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDTXj-H90aD4j77Xl1jDfOUiEsplm2Rx4hjpZD4Nhb4V#.mkv
 #EXTINF:-1 xui-id="322201" tvg-name="Zootrópolis 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0twA43Ta1HIo05x1B-KwYi6rRMVUXh7t9n-EPnRO2gek.jpg" group-title="DISNEY+",Zootrópolis 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDTXj-H90aD4j77Xl1jDfOUtKdC2tkDMMzz3uYeWx_-z#.mkv
-#EXTINF:-1 xui-id="322200" tvg-name="Anaconda" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZdsvPC9FetprgGF9aVVC-1SOB4KJMOxkF-xTpJtPVBQ.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Anaconda
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDTXj-H90aD4j77Xl1jDfOUgxev3VtM5PAPRb-qybRCz#.mkv
-#EXTINF:-1 xui-id="322199" tvg-name="David" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nTlac1WVsQpBbHaJ-eDdBmbd-cfpDLDwGAiaEB1G85U.jpg" group-title="⭐ ESTRENOS 2026 ⭐",David
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFdIiaBJh2NbiO3kZHEN8OK6U32p2QCD9GX7uRfjNAxp#.mkv
-#EXTINF:-1 xui-id="322198" tvg-name="Bob Esponja: Una aventura pirata" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0QqlNK3JdkPFvDmKvWC6_8dOzXnSSerdCitqcaoRSJfc.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Bob Esponja: Una aventura pirata
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFdIiaBJh2NbiO3kZHEN8OIkoS1mFhvUqfuUdXes7Oc9#.mkv
-#EXTINF:-1 xui-id="320493" tvg-name="Ice Fall (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07xA5MvEER9q-eiCli1y3SKTSx_6qOOf2DJCVnMI7EBQ.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Ice Fall (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLuRy9F-iLcDQTdAhIw3IGH3ELWGeQFGSY3SxzUjh1PH#.mkv
-#EXTINF:-1 xui-id="320492" tvg-name="Maldita trinidad" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0N895Omddtf7K8RF1tAi6O91mbKEOR8BApIA1yHy-kTM.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Maldita trinidad
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLuRy9F-iLcDQTdAhIw3IGEHggiHLdvTENUvWwHGxn1q#.mkv
-#EXTINF:-1 xui-id="320491" tvg-name="Gente que conocemos en vacaciones (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-02T5AbC_EYT_iJW1Fe_rI1Di0ze_SXtD21y698JHmhQU.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Gente que conocemos en vacaciones (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLuRy9F-iLcDQTdAhIw3IGEUnj9QSGNfjVp0MzN_EXKi#.mkv
-#EXTINF:-1 xui-id="320490" tvg-name="Familia en Renta (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0s9fiYKq_71CvrIXMateLPBPJYeqnctLDenRjt8jYVCQ.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Familia en Renta (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLuRy9F-iLcDQTdAhIw3IGGXzWYh6Swzcr2Vw7LfUl3P#.mkv
-#EXTINF:-1 xui-id="320489" tvg-name="Una última aventura: Así se hizo 'Stranger Things 5' (2026)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0x5DQxVqcuoTbtCn4OShIVhhJ1SefikWtqxqxfm8EgZw.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Una última aventura: Así se hizo 'Stranger Things 5' (2026)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLH9Yzkw7_mQuE6fUNrc5fAz_lNHKtaV3KCpV9yNkLbZ#.mkv
-#EXTINF:-1 xui-id="320488" tvg-name="Five Nights at Freddy's 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GCi1X9LOttyZY14GczFl6OfYMvWZOZ03nYULhmL4MnQ.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Five Nights at Freddy's 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLH9Yzkw7_mQuE6fUNrc5fCB3muzjOdCWI92BI0K0qPX#.mkv
 #EXTINF:-1 xui-id="318757" tvg-name="La vida de Chuck (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XvPjRIp63pzWHECJdJbmexywSammP1B_SbQtqTAf1Zo.jpg" group-title="AMAZON",La vida de Chuck (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEykAoPLhlrn8F8E7abMgFXvKhG4NJYNY7M4eP8HpEzz#.mkv
-#EXTINF:-1 xui-id="318755" tvg-name="Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07VbeULwz6-jfLW4E606nWCHV9nzk-9zpIzd-FQR0dyU.jpg" group-title="⭐ ESTRENOS 2026 ⭐",Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEykAoPLhlrn8F8E7abMgFXtZYyqZTECQtLC8jZTcmI6#.mkv
+#EXTINF:-1 xui-id="188939" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="PELICULAS 2024",Five Nights at Freddy's (2023)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQRBz1KLqgiEMN8RZa0lHFl#.mkv
 #EXTINF:-1 xui-id="318370" tvg-name="Five Nights at Freddy's 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wy4bqWYlH-QCog0MYKRVkh6z3nI29iNpxrsg_lvwo4A.jpg" group-title="AMAZON",Five Nights at Freddy's 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOpf2amDop_Pd42AE3cpd3DbZVcnUrXgi2o7REgpHRH5#.mkv
 #EXTINF:-1 xui-id="317880" tvg-name="Wicked Parte II (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_LEzGiAppmWTl8gckWQQimUPJz9-fSH9MSwimIxmQv8.jpg" group-title="APPLETV+",Wicked Parte II (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIPAdqgCeOiXn0xRiWdKaFnCGcP1sWFdbQyJ6lCTrA-6#.mkv
 #EXTINF:-1 xui-id="317879" tvg-name="Matate amor (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tC0KURgClZisuNAwAd-S9wuxe5uyiuHDpJcvnvTMDT8.jpg" group-title="APPLETV+",Matate amor (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lmfnRmvRA5uhF71qfk-fYif#.mkv
-#EXTINF:-1 xui-id="317878" tvg-name="Ahora me ves 3 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uFw1dzQBy8lhBsckmStou9aeDQcLlQDjoMthNCKmZ7E.jpg" group-title="APPLETV+",Ahora me ves 3 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9llK1SJlK8AcZMCQzJR0Q4q4#.mkv
-#EXTINF:-1 xui-id="317877" tvg-name="Ne Zha 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KonJcsGgYbSJfKpWx1oaxr1lNyN4utvMAi9Ckioi8Yw.jpg" group-title="APPLETV+",Ne Zha 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lns6l6yiGmOFP1xBLuwdDLs#.mkv
-#EXTINF:-1 xui-id="317876" tvg-name="La Patrulla Canina: En Navidad (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0pPrxOjDLOR09Wn6TB9gxERGVJhKIfi6HFAg9UsF7MGo.jpg" group-title="APPLETV+",La Patrulla Canina: En Navidad (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lkW13Pq5tjDM1Ey-DST2nYh#.mkv
 #EXTINF:-1 xui-id="317875" tvg-name="Good Boy (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03kHkzwvw6I80LH0AViYjLrmJwLBDvYp9eUN4J4uyN3c.jpg" group-title="APPLETV+",Good Boy (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lklvjVILMiZgQSMettE6y4o#.mkv
 #EXTINF:-1 xui-id="317874" tvg-name="Chainsaw Man - La película: El arco de Reze (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oPUU7dFTm95wyGNB9RkCIuixcBZ8f7mUs5Us6_pUpE0.jpg" group-title="APPLETV+",Chainsaw Man - La película: El arco de Reze (2025)
@@ -759,44 +656,30 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lnKWmZz
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lmhpKMDDRjRU7tZYn84H11Y#.mkv
 #EXTINF:-1 xui-id="317872" tvg-name="200% Wolf (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wreZxywxfUdqYPgsm9Sst-snIZRdYsIymlmIw_HCBAQ.jpg" group-title="APPLETV+",200% Wolf (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lngx4rk4UOhILoS0VlQ6S4O#.mkv
-#EXTINF:-1 xui-id="317871" tvg-name="La Navidad en sus manos 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0CRGdo-DzAWQVNBWHKu7kScJvxqPPFwKJ-lAlv-opWlw.jpg" group-title="NETFLIX",La Navidad en sus manos 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lkgu67rZ_YeInlrBs56wEl0#.mkv
 #EXTINF:-1 xui-id="317870" tvg-name="¡Hola, Frida! (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cMgTayH2g3K-6b4n9PmzvXdZ7umyfnpXSBPPNd-Sofw.jpg" group-title="APPLETV+",¡Hola, Frida! (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9llofN3wH9loDnEMmsC2Qk-_#.mkv
-#EXTINF:-1 xui-id="317869" tvg-name="Vaya Navidad (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sPbnZ1fghtJtQJHjHZPE4vQOKAdX99ZpPJrEKzH2_cc.jpg" group-title="AMAZON",Vaya Navidad (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDk1GiVYGuena-ay17eWRYMMq-YWIz2Yyi5OvKGxhnAT#.mkv
 #EXTINF:-1 xui-id="317868" tvg-name="Sarah's Oil (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BKrIqaHkhAWVFqOSVLlDSbQRpGpjM7aTYPl6QC4-lq8.jpg" group-title="AMAZON",Sarah's Oil (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDk1GiVYGuena-ay17eWRYNe-X0D60TRqAw7ANzJs30L#.mkv
-#EXTINF:-1 xui-id="317867" tvg-name="Trol 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0w5fdmqqycKU1aWxVoOFTsNZhSFmSE1jvRmfGjzSxXjc.jpg" group-title="NETFLIX",Trol 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDk1GiVYGuena-ay17eWRYNW0jWaiVH1qs78leezwmy9#.mkv
 #EXTINF:-1 xui-id="317866" tvg-name="Ha llegado la nieve a Fraggle Rock (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05MOhg9XXS9Kzwvii4saEJokk5DdIWT4hlsok_fwwMjA.jpg" group-title="APPLETV+",Ha llegado la nieve a Fraggle Rock (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDk1GiVYGuena-ay17eWRYMc5BrNkVEcL-wdcy1VUkcP#.mkv
 #EXTINF:-1 xui-id="317255" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05aSc2dCdgaSB_4D3GhZQGSK8HQnYbfvfcB5lP7LnSmg.jpg" group-title="DISNEY+",Avatar: El sentido del agua (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCvhIaNcw-xxeP7SZQoBOQ6_BfCDQVuWk1Rh_XstIDj5#.mkv
-#EXTINF:-1 xui-id="317254" tvg-name="Avatar (2009)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Z8S2dgRfMHU9KmilloXlIqmG6UrGH01R84yV2Bo10PI.jpg" group-title="DISNEY+",Avatar (2009)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCvhIaNcw-xxeP7SZQoBOQ640-Q8iWLrfkEtTVfcRN9m#.mkv
-#EXTINF:-1 xui-id="316215" tvg-name="Zootopia (2016)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZNjj7ww1CVgtTOXndjJ0RMlt3wE2cF6q4w1RpZxVQ2Q.jpg" group-title="DISNEY+",Zootopia (2016)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLa14lGcpt7-ZYu9DQ8Et7qJckyjtrxn8fQkx7op1OmS#.mkv
 #EXTINF:-1 xui-id="315473" tvg-name="El fiscal (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BapyfMeTR-dkIBfEAXC5IKfdXZ070awJwmwqavQd6Js.jpg" group-title="AMAZON",El fiscal (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmXNOqrJ_fZzQ0-Mb10FkL5V#.mkv
 #EXTINF:-1 xui-id="315472" tvg-name="Drácula (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sFpqZyCcvPfbNnSvHFPIXfiEEVDaHWIWvdyfQx_xb3Q.jpg" group-title="APPLETV+",Drácula (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmWrWdjTWmBqgcbUlIbccCVm#.mkv
 #EXTINF:-1 xui-id="315471" tvg-name="TRON: Ares (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0m7WbXANX7EPv5C_i99sFluokDxgmZ2vA9hNzvpvJDzU.jpg" group-title="AMAZON",TRON: Ares (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmUJCfSJv3qeow6XyiRHNM4e#.mkv
+#EXTINF:-1 xui-id="144246" tvg-name="Black Phone (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSkaK0a3CyAiMy1uiHzxFCDuLnbWv1McdZOjZl8qGOI0.jpg" group-title="PELICULAS 2022",Black Phone (2022)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEMlFFUSY1M1w_gQmlJEHSEBueN609v4AKRjHIusJ5jS#.mkv
 #EXTINF:-1 xui-id="315465" tvg-name="Black Phone 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GiuhFZ07uvzAQLLa7ApP-7u2eOm7capl3T-p_HztFS0.jpg" group-title="APPLETV+",Black Phone 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Oph3xLTANJMZ4Ic5OmYl1zvp#.mkv
-#EXTINF:-1 xui-id="315464" tvg-name="Ahora me ves 3 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uFw1dzQBy8lhBsckmStou9aeDQcLlQDjoMthNCKmZ7E.jpg" group-title="APPLETV+",Ahora me ves 3 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Opi-5Pu7HmNO9EG0LXHU_PAd#.mkv
-#EXTINF:-1 xui-id="315463" tvg-name="Sin cortes con Ed Sheeran (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cfDAn1vI4fnbhWznzMn-EEEYJ4ZCgJOKnFlHdasL7Vw.jpg" group-title="NETFLIX",Sin cortes con Ed Sheeran (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0OpguZZGsG1nY-tejIV1QcF3M#.mkv
 #EXTINF:-1 xui-id="315462" tvg-name="La larga marcha (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0W4jlD-t_WWXYJCY8ZO_TkGdUDqdae9A2cvoWoYCn_fE.jpg" group-title="APPLETV+",La larga marcha (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0OpjCyi9gk8SJzPVu8BIYTURi#.mkv
 #EXTINF:-1 xui-id="315461" tvg-name="La Maquina The Smashing Machine (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sq_m33DMS8wAie2PimB21g982nmmN6cr_PiOJkjbhio.jpg" group-title="AMAZON",La Maquina The Smashing Machine (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Ophd1CsZHtNodMAG6iRSJQNh#.mkv
 #EXTINF:-1 xui-id="315180" tvg-name="Una noche en Zoopolis (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-00f7HkA8JBFpitqnSZTT3dv4ALRbnD3nUZ9zbGt46liY.jpg" group-title="AMAZON",Una noche en Zoopolis (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WC3sH2N5ewERSfco141YTi2dN718fXjL2aw2_BADmb8t#.mkv
-#EXTINF:-1 xui-id="313397" tvg-name="Una Navidad muy Jonas Brothers (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZpXt09wW7qGLWrpAxVePPavqkA4GHljW79TakavvDB0.jpg" group-title="DISNEY+",Una Navidad muy Jonas Brothers (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHvCrsEyKGixl4S_iXYLR9iu-6saRR60TUvEy4iwKDSO#.mkv
 #EXTINF:-1 xui-id="313396" tvg-name="Tee Yai: Nacido para el crimen (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0hyVK47iuWaeoGl4DxJvi57iNtZpy7uk7Kq4jcyTHfNk.jpg" group-title="NETFLIX",Tee Yai: Nacido para el crimen (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHvCrsEyKGixl4S_iXYLR9ikcGvzGvUn3yg7Fdzp8Wxi#.mkv
 #EXTINF:-1 xui-id="313395" tvg-name="En sueños (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07_XWvcIhqvzx_aq5f_1Q4hN9ZFUA0JQkSESSVB832x0.jpg" group-title="NETFLIX",En sueños (2025)
@@ -809,18 +692,10 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMGQ7FLK
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMHfASmOKL2lTHRXeRzn0nFD#.mkv
 #EXTINF:-1 xui-id="312516" tvg-name="Soy Eddie (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZDLkqYBTYZTVqy4RlJpw9I9wIfuXZLHMaZ6rHCjQ2yc.jpg" group-title="NETFLIX",Soy Eddie (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMHXJW8z0g_u14nuuav3QidI#.mkv
-#EXTINF:-1 xui-id="312514" tvg-name="LEGO Disney Frozen: La misión de los frailecillos (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0t8u4_SEdH_ZUKmWegiPzteI-WBcTAJdGtPFQGPlhNTE.jpg" group-title="DISNEY+",LEGO Disney Frozen: La misión de los frailecillos (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMGAJ1vCcUi2dZgqbSkptG-4#.mkv
 #EXTINF:-1 xui-id="312513" tvg-name="Juegos de niños (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0U095aTMQcPP1O4wLxmPoQjDR-lx6e6KXECtamDco41s.jpg" group-title="AMAZON",Juegos de niños (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMFfFSjgjnLwO-qt8ZVW5NZx#.mkv
-#EXTINF:-1 xui-id="312512" tvg-name="Una Navidad ex-cepcional (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0mi042v6gmdOAcWo121loo6l8pdpkmcp0ljw8el6LDdg.jpg" group-title="NETFLIX",Una Navidad ex-cepcional (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMEnxM0teTB5_aD0G8uNYaZp#.mkv
-#EXTINF:-1 xui-id="312511" tvg-name="Padre no hay más que uno 5: Nido repleto (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_Q56aFl5XoDhTlhT5rS7n8PD84FTzXyuy_4qNdRcqXo.jpg" group-title="NETFLIX",Padre no hay más que uno 5: Nido repleto (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMGgkQ9vBFWizgGfER9_Rg8E#.mkv
 #EXTINF:-1 xui-id="309249" tvg-name="Los Rose (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Nk0CnJkdyzWeUOf1O9uBU2WRhq3n8Ap1hQxxgVXWf1s.jpg" group-title="DISNEY+",Los Rose (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFJCuj-rqW-XfZKApZyT8Cv2VBOe-o6tWVFOcYxttLzI#.mkv
-#EXTINF:-1 xui-id="309248" tvg-name="Los extraños: Capítulo 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0CnF6Q0mQ8CiRiHx8fyfAEAjDIpk3Ytd-61SSnEBf2Wg.jpg" group-title="APPLETV+",Los extraños: Capítulo 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFJCuj-rqW-XfZKApZyT8CtmgC7r4WZtbc5aymbOb8rC#.mkv
 #EXTINF:-1 xui-id="309216" tvg-name="Conjuro siniestro (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0VeBAu9rW_22H3ggMxAvDzDLk2XfOjSgAhLfoiIc0SZw.jpg" group-title="APPLETV+",Conjuro siniestro (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPvKr2ix3JibffHPa9McQ2PCx0akQPQD5Qarjck3kZ86#.mkv
 #EXTINF:-1 xui-id="304783" tvg-name="Un viernes de locos (2003)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Wul4D_4ZH6PHRGtbxp5Z3ryPGjmo80ooHfVywNe8Ceo.jpg" group-title="DISNEY+",Un viernes de locos (2003)
@@ -841,6 +716,8 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHyNlegD1jYWmlw8tMXY_daooILz
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPBSNcltfDKntcdjBWkdVEis1ra7IoOQkh077pKSvaRc#.mkv
 #EXTINF:-1 xui-id="302882" tvg-name="Los Cuatro Fantásticos: Primeros pasos (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tvB_NhjBn9T92OhE8Ug8QNtozUlieoGkeDgA3JuNNKk.jpg" group-title="DISNEY+",Los Cuatro Fantásticos: Primeros pasos (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDxuKKImBKEWHBb9-8hdra7ihiaJVgFwuBsw6cKraX6d#.mkv
+#EXTINF:-1 xui-id="226200" tvg-name="Los tipos malos: ¿Truco o atraco? (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o7SVKGeAUcZxr1iH7veW04fbrU3tPXXu45GgUQCWj5k.jpg" group-title="PELICULAS 2024",Los tipos malos: ¿Truco o atraco? (2024)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU-rNz1U66Om4sE1B4IGk-s-#.mkv
 #EXTINF:-1 xui-id="302881" tvg-name="Los tipos malos 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tv-gmeqUlisd6B_470SEq_etYEonb_jvp2ebnrDzmGQ.jpg" group-title="NETFLIX",Los tipos malos 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDxuKKImBKEWHBb9-8hdra73MYGi49NpKVB34Unhb4N5#.mkv
 #EXTINF:-1 xui-id="302880" tvg-name="28 años después (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0vLYwXDmSeWa2EWi4Ng2WtZRHdH-1SafP2Dq1BRKEpFo.jpg" group-title="APPLETV+",28 años después (2025)
@@ -869,8 +746,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEJEMgnvBS_AbVXyWsjIojrdroZd
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEJEMgnvBS_AbVXyWsjIojpj97NMNeZmd8jvbx4Y7oJN#.mkv
 #EXTINF:-1 xui-id="296783" tvg-name="F1 la película (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0h3-LcSoGx4rMDoGTwQloSPxi9T3MNSvaSW19ZeuXyh4.jpg" group-title="APPLETV+",F1 la película (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEJEMgnvBS_AbVXyWsjIojoPYxeGMIxxwxi7bxQVgwr7#.mkv
-#EXTINF:-1 xui-id="296782" tvg-name="LEGO Princesas Disney: Villanos unidos (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_xqfgMlOjepY6eeKPvoap4dAk0H3IVjcKHR-kiFWKf0.jpg" group-title="DISNEY+",LEGO Princesas Disney: Villanos unidos (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEJEMgnvBS_AbVXyWsjIojrTUzOhTUFbloeMQc15CHob#.mkv
 #EXTINF:-1 xui-id="296781" tvg-name="La banda de los ladrones del oro (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZMOdbyB-L0dIf4S36E8MOvnZLROGoxTmbxyExaRF5hY.jpg" group-title="NETFLIX",La banda de los ladrones del oro (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEJEMgnvBS_AbVXyWsjIojq2GyQrqdz9YsFgJSRFcVMG#.mkv
 #EXTINF:-1 xui-id="296780" tvg-name="Sé lo que hicisteis el último verano (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0UTyB15Kh7eN0eO-hhdzBQAmeigFdngrxALvCN8gHlN0.jpg" group-title="AMAZON",Sé lo que hicisteis el último verano (2025)
@@ -1493,8 +1368,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuSHF4JR
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuQT5htc_1qLXY_9wq9n9Bys#.mkv
 #EXTINF:-1 xui-id="263727" tvg-name="Estación Zombie" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zaeT7TuG-dmGasnwHS-HtwDLShkHNWCAIqeZiwu9jrg.jpg" group-title="PELICULAS 2022",Estación Zombie
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuQyzpafsVNket81QHHtNSnC#.mkv
-#EXTINF:-1 xui-id="263726" tvg-name="Greenland: El último refugio (2020)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlYLo-v3EFJSsvCxNfxKZUc9cOJJxkXVFqLm_NjzhOJU.jpg" group-title="PELICULAS 2022",Greenland: El último refugio (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuSmoe22BoY_nVpXoO1EQJaX#.mkv
 #EXTINF:-1 xui-id="263725" tvg-name="Crush (2013)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0fir7gMpfqPsFxj9sUeKSxBHgqyb1JLtj7BTI1AgMCjY.jpg" group-title="PELICULAS 2022",Crush (2013)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuQGFnocNFtCoBBMjwxfsnkQ#.mkv
 #EXTINF:-1 xui-id="263460" tvg-name="El libro de la selva (1942)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qc-kdTA8HO-_xBHgJFmZSL5s1k6HXUhCBaPOsEeCgPc.jpg" group-title="DISNEY+",El libro de la selva (1942)
@@ -1665,8 +1538,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNaAMwjn9b9Zi2ru0tLzThT19nDT
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNaAMwjn9b9Zi2ru0tLzThREs57UHF1Q1e66nAvu6k4X#.mkv
 #EXTINF:-1 xui-id="234961" tvg-name="Deadpool y Wolverine (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0H2q4WZmOZj-R3DhVYS3Q9P7ppK-J5ea_cLu1iMgnhX8.jpg" group-title="PELICULAS 2024",Deadpool y Wolverine (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJB4P5gvOP7v7GP_nsulBnqh63_kXvrAFll3xNt3cqE4#.mkv
-#EXTINF:-1 xui-id="234958" tvg-name="Huye, conejo, huye (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GOKXGQqcjbQjPKDrx3w2uwY0plBoqi1ohboh4k4CqDI.jpg" group-title="PELICULAS 2024",Huye, conejo, huye (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA_M7LvtaxH6-Z8r1Ee5sefZQVlohi-FYcYaI2x7LtH_#.mkv
 #EXTINF:-1 xui-id="234957" tvg-name="El método Knox (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0-_gYAqsWPK9SpAwmx-NgVO8qcbNiuANZZwthC6LVY3g.jpg" group-title="PELICULAS 2024",El método Knox (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA_M7LvtaxH6-Z8r1Ee5sechrRSLTAd6uP2GOE0n4o-x#.mkv
 #EXTINF:-1 xui-id="234956" tvg-name="Nos vemos la próxima Navidad (2024)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLK_ECr_kNRoMR0Zi39n3PF8ylnM0bOY7D4qWYRqsqxQk.jpg" group-title="PELICULAS 2024",Nos vemos la próxima Navidad (2024)
@@ -1723,8 +1594,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU_NWzMH
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU__9XByjG_DQEO1gpy4Y8FC#.mkv
 #EXTINF:-1 xui-id="226201" tvg-name="El Cuervo (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0pDH55qZSy6qEFqEsXMCtWqIqD1NNt54qv-Mq2O0Sykw.jpg" group-title="PELICULAS 2024",El Cuervo (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU-gIub9qx7HfRM77D9RZxf7#.mkv
-#EXTINF:-1 xui-id="226200" tvg-name="Los tipos malos: ¿Truco o atraco? (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o7SVKGeAUcZxr1iH7veW04fbrU3tPXXu45GgUQCWj5k.jpg" group-title="PELICULAS 2024",Los tipos malos: ¿Truco o atraco? (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU-rNz1U66Om4sE1B4IGk-s-#.mkv
 #EXTINF:-1 xui-id="226198" tvg-name="El hoyo 2 (2024)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXrU6vlFIHm9-7Emegcv_HkDAgxqx8mu7Nhdkaa8-5IU.jpg" group-title="PELICULAS 2024",El hoyo 2 (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAudkCg3rknH6DHbnBVhnFAbqTlqJcLn7bPE5LcDQc4V#.mkv
 #EXTINF:-1 xui-id="226196" tvg-name="Los iniciados: El diario de las sombras (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GuUZaqgyL3nGsYOs8rv3msBVljBE_STe_2Reb2fsQno.jpg" group-title="PELICULAS 2024",Los iniciados: El diario de las sombras (2024)
@@ -2053,22 +1922,8 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK64FyWyUrN5BWoMkmDOy_SdloqR
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK64FyWyUrN5BWoMkmDOy_T_14Dwgj4BAFzplYpXLi_R#.mkv
 #EXTINF:-1 xui-id="203159" tvg-name="Balto: La leyenda del perro esquimal (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAZ7dMCNWDxylwtz70J1WvEuXFt.jpg" group-title="APPLETV+",Balto: La leyenda del perro esquimal (1995)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHk4DgIGM652x32n7VldJPZHlWshVHEXzZJPqRWZhBWW#.mkv
-#EXTINF:-1 xui-id="203157" tvg-name="Atrápame si puedes (2002)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLM2_7-Kq1WVOMLCdV8hCyT24X4zMbcMIoLx-Vjx3ALeY.jpg" group-title="APPLETV+",Atrápame si puedes (2002)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHk4DgIGM652x32n7VldJPZ9Bdg4lxplqjnzvsUUAYsp#.mkv
-#EXTINF:-1 xui-id="203156" tvg-name="Atrapada en el Manicomio: La Historia de Nellie Bly (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGCxfOEbVUoASAvLwcUEcPAhiy.jpg" group-title="APPLETV+",Atrapada en el Manicomio: La Historia de Nellie Bly (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHk4DgIGM652x32n7VldJPaccoS46JMZfOUzn7MOgWw3#.mkv
-#EXTINF:-1 xui-id="203154" tvg-name="Aquellas Juergas Universitarias (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthKNXMRZ4WrMLxFCoKPXjNfBYl.jpg" group-title="APPLETV+",Aquellas Juergas Universitarias (2003)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHk4DgIGM652x32n7VldJPZe-U-CPLxkiSiu-ThAlXHV#.mkv
-#EXTINF:-1 xui-id="203153" tvg-name="Angry Birds 2: La película (2019)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTMKhnkljKUg8fcllcZLV_Z4ts3QUvG7NkvDBdWOW13Q.jpg" group-title="APPLETV+",Angry Birds 2: La película (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHk4DgIGM652x32n7VldJPZd6zWgeP0cPqw8UzrhxZdj#.mkv
-#EXTINF:-1 xui-id="203151" tvg-name="American Pie presenta: Las chicas mandan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbYK25nMYDexYT6wbOAVwwGk8ui.jpg" group-title="APPLETV+",American Pie presenta: Las chicas mandan (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHk4DgIGM652x32n7VldJParh-X63VLzYPc5EQuxVj0v#.mkv
 #EXTINF:-1 xui-id="203149" tvg-name="Una vida en tres días (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tl1ZFQk80Ic0vwWHxMruekJHeJ.jpg" group-title="APPLETV+",Una vida en tres días (2013)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNnEbGt5t_MgJA6t33-Z6xf-G9OUyHHk_AyLzlEH_R_V#.mkv
-#EXTINF:-1 xui-id="203148" tvg-name="Abajo el Rey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYtRs89ddKFQinH9e6CSFvXfRnz.jpg" group-title="APPLETV+",Abajo el Rey (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNnEbGt5t_MgJA6t33-Z6xdFLFSlScOYSzl7B69Q82yq#.mkv
-#EXTINF:-1 xui-id="203147" tvg-name="A.R.C.H.I.E. 2: Mission Impawsible (2018)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0nZRNWtz8VR80QI1Oto_w-UuQPsuGBN_QlTcQUzOCC4.jpg" group-title="APPLETV+",A.R.C.H.I.E. 2: Mission Impawsible (2018)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNnEbGt5t_MgJA6t33-Z6xdrHPg0d-VdrbRvwpN9PlWo#.mkv
 #EXTINF:-1 xui-id="203146" tvg-name="Prueba de fuego (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EXVS1Wl7UzynlXfZYPxsqQBBHt.jpg" group-title="APPLETV+",Prueba de fuego (2008)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNnEbGt5t_MgJA6t33-Z6xfrD95ctloRCuoXnbrQL-70#.mkv
 #EXTINF:-1 xui-id="203144" tvg-name="3 Days with Dad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S6mc6kTfr2tzQKdlFUlrHZza1L.jpg" group-title="APPLETV+",3 Days with Dad (2019)
@@ -2201,8 +2056,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFmIcYIGLKaYmuCN0TWIDRxLNi2s
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFmIcYIGLKaYmuCN0TWIDRwcXKS1gD1eJjqMJhMPozhx#.mkv
 #EXTINF:-1 xui-id="202443" tvg-name="Amigos de más (2013)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0784KT6WGhKGOV38fyJAlXWxh9IlPGRKVspFg5qWlokM.jpg" group-title="AMAZON",Amigos de más (2013)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFmIcYIGLKaYmuCN0TWIDRwyvTHfUSx2AnRsOcXKtVaM#.mkv
-#EXTINF:-1 xui-id="202442" tvg-name="Amor sin control (2013)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tIKqBfauWCpFVXugCNDv70ahQZU2iaN_d5XPlgAEeTA.jpg" group-title="AMAZON",Amor sin control (2013)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFmIcYIGLKaYmuCN0TWIDRxg-6DbZusBPbMe1H3YF97I#.mkv
 #EXTINF:-1 xui-id="202334" tvg-name="Alpha y Omega (2010)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0H4TuQjNE4SXIdZ7UaP3wAP96NzeDy6VtBcfV0UWWflI.jpg" group-title="AMAZON",Alpha y Omega (2010)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKnI05eHFX13dUPd4E3EvA64nGOkj2Li9LIXM_U3iwqy#.mkv
 #EXTINF:-1 xui-id="202332" tvg-name="Air (2023)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0__LMMEHSkWbxyTRjwCZegiwKSoRB2eIAc_iKu26J-ow.jpg" group-title="AMAZON",Air (2023)
@@ -2417,10 +2270,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4ou5dup
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4qCDjuTnN0kY-uIqIVtRd4Y#.mkv
 #EXTINF:-1 xui-id="190527" tvg-name="Las aventuras del Doctor Dolittle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="APPLETV+",Las aventuras del Doctor Dolittle (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4qjgfgFP5Qef-Kq_DcMR_ZW#.mkv
-#EXTINF:-1 xui-id="190526" tvg-name="Alice (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoNxNUlcVxbMKgnnaTyMLN5kKHn.jpg" group-title="APPLETV+",Alice (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4oKKkE_7id4L1tku6SEEkT3#.mkv
-#EXTINF:-1 xui-id="190525" tvg-name="Abandoned (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9L9uR1gtXr9WgZkNTGc7bThO6Dm.jpg" group-title="APPLETV+",Abandoned (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4rxhdIPfs536pRyAMOZQWdm#.mkv
 #EXTINF:-1 xui-id="190524" tvg-name="Minions: El origen de Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg" group-title="PELICULAS 2022",Minions: El origen de Gru (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4odVXWmelCC5L6BqIzztFPx#.mkv
 #EXTINF:-1 xui-id="190523" tvg-name="DC Liga de supermascotas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RNFUMjIyqvqz2OiGSA4493YLc6.jpg" group-title="PELICULAS 2022",DC Liga de supermascotas (2022)
@@ -2701,8 +2550,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHrlDirRkOwalWSwwoKejm7wi9gP
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHrlDirRkOwalWSwwoKejm6cBIT76Wr_v1wBcB71nawg#.mkv
 #EXTINF:-1 xui-id="190091" tvg-name="Shrek: Felices para siempre (2010)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO_AheUis6wQa5dZsnpuaQ6PReTMLWg01UxSeUlf8B4o.jpg" group-title="HBO MAX",Shrek: Felices para siempre (2010)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHrlDirRkOwalWSwwoKejm4O0s_NXJmdMWa0QT2drUKq#.mkv
-#EXTINF:-1 xui-id="190090" tvg-name="A Morte Habita à Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1jjEOP59fiHQRvlIucmqvDEx7A.jpg" group-title="APPLETV+",A Morte Habita à Noite (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHrlDirRkOwalWSwwoKejm5mPqzC7PL0n1HqJmVtNHHR#.mkv
 #EXTINF:-1 xui-id="190089" tvg-name="The Jack in the Box: El despertar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg" group-title="APPLETV+",The Jack in the Box: El despertar (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJzZrqxpEArLtRG4buBliHvbXiNhDbYsk2NKIZiiuecA#.mkv
 #EXTINF:-1 xui-id="190088" tvg-name="La oveja Shaun, la película Granjaguedón (2019)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2_fH3LOQtj4-PlaaMbMim13RgT_u1JD1NcInmRB4cYs.jpg" group-title="APPLETV+",La oveja Shaun, la película Granjaguedón (2019)
@@ -2745,8 +2592,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKHO3JG9tR_fQyCcAIa-sC9j9Z8k
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKHO3JG9tR_fQyCcAIa-sC-RDSzAC8I30xkNNnDApu2x#.mkv
 #EXTINF:-1 xui-id="190067" tvg-name="Minamata (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v352tPhBKDjjpjqTVGmSKKOYq9I.jpg" group-title="APPLETV+",Minamata (1989)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKHO3JG9tR_fQyCcAIa-sC-mrB6JKADs_UbnMyB1C6ku#.mkv
-#EXTINF:-1 xui-id="190066" tvg-name="Alles is zoals het zou moeten zijn (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gou0E5paDb60LCXz5YL5NQmWw1a.jpg" group-title="APPLETV+",Alles is zoals het zou moeten zijn (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKHO3JG9tR_fQyCcAIa-sC-sD3DKTsSEclMSs7m3Rfne#.mkv
 #EXTINF:-1 xui-id="190065" tvg-name="La Granja (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5y1cKmmV1Q4bm8KWrfiAt7RNJV.jpg" group-title="APPLETV+",La Granja (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKHO3JG9tR_fQyCcAIa-sC88LNJdZzCgOkvb-DgL4-yD#.mkv
 #EXTINF:-1 xui-id="190064" tvg-name="Last Sentinel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="APPLETV+",Last Sentinel (2023)
@@ -2771,8 +2616,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMhTx5NDJJv1BmEYMexHwXlCvnDC
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMhTx5NDJJv1BmEYMexHwXm3Hi_eajliomg_NehQ1B3B#.mkv
 #EXTINF:-1 xui-id="190054" tvg-name="Governance - Il prezzo del potere (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkFyyZtWjfS2F8V14wLoVS7zQui.jpg" group-title="APPLETV+",Governance - Il prezzo del potere (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMhTx5NDJJv1BmEYMexHwXmQ4dDyg_MUDSggduKgqn79#.mkv
-#EXTINF:-1 xui-id="190053" tvg-name="Abandonada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg" group-title="APPLETV+",Abandonada (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMhTx5NDJJv1BmEYMexHwXla5BYwtfeJTkqBCVaQsf5B#.mkv
 #EXTINF:-1 xui-id="190052" tvg-name="The Road to God's Country (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bxNjO08UUyAe8mXeBAJ7sreBC2.jpg" group-title="APPLETV+",The Road to God's Country (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMhTx5NDJJv1BmEYMexHwXk6UcxyELjfMMXLMppbwFjs#.mkv
 #EXTINF:-1 xui-id="190051" tvg-name="Harvey (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OPZ5cKaaahpjzg2kztcciaOcsw.jpg" group-title="APPLETV+",Harvey (1972)
@@ -2845,10 +2688,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK8ckUjHoShp-psqimq_aaQCCqRs
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK8ckUjHoShp-psqimq_aaRxtekvUh5ldnUmVaoxQ3YR#.mkv
 #EXTINF:-1 xui-id="190016" tvg-name="Brian and Charles (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga2zlXzAkOLliQVw9Jp319P5HJM.jpg" group-title="APPLETV+",Brian and Charles (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK8ckUjHoShp-psqimq_aaS9LYQOCsf40EVZffW3TyAo#.mkv
-#EXTINF:-1 xui-id="190014" tvg-name="Adaptation (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7oZnFWf1jehxIjhzIVQNPy26Zo.jpg" group-title="APPLETV+",Adaptation (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK8ckUjHoShp-psqimq_aaRMR0h--GbCTW-P3uNKkq07#.mkv
-#EXTINF:-1 xui-id="190013" tvg-name="American Virgin (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvWZ4j8aM9s8tuc6JH2OWdkDFP5.jpg" group-title="APPLETV+",American Virgin (2009)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK8ckUjHoShp-psqimq_aaTh7qrxmpZuhqS8zavQzBKi#.mkv
 #EXTINF:-1 xui-id="190012" tvg-name="Barb y Star van a Vista Del Mar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6G4Sb25iuhmZglJL8X4vHgXkf2O.jpg" group-title="APPLETV+",Barb y Star van a Vista Del Mar (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK8ckUjHoShp-psqimq_aaRH4war97UvF0oZy4XiXWBU#.mkv
 #EXTINF:-1 xui-id="190011" tvg-name="¡Alto! o mi madre dispara (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLfguMfGmu9cQ4aPPaDOo1Yr5AE.jpg" group-title="APPLETV+",¡Alto! o mi madre dispara (1992)
@@ -3421,12 +3260,10 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOCKUcBVVlYDKxXqXzd41SP1MQrz
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqANYwb4ZrcHfJolPfut2yAhT#.mkv
 #EXTINF:-1 xui-id="189438" tvg-name="No sé si cortarme las venas o dejármelas largas (2013)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9hSuvarV_xJTvTAPGaa9S22fAzXl3SnHfUqAp8x2kso.jpg" group-title="NETFLIX",No sé si cortarme las venas o dejármelas largas (2013)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAPc1NHTczcfXqprvTXiP-tF#.mkv
-#EXTINF:-1 xui-id="189437" tvg-name="La tierra de nadie (1987)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTF5TmDOhiJNkNRwxoF6xI-1-ko8C6gGh7Hz4X6WFmmE.jpg" group-title="NETFLIX",La tierra de nadie (1987)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAPX0QUJxpjlthld0Dlw1amt#.mkv
-#EXTINF:-1 xui-id="189436" tvg-name="Nada que perder (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ff1lAyHGkMnCbWSaCWW5r4rruC.jpg" group-title="NETFLIX",Nada que perder (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAN1nCQU2fq01XbVgtVvxjvv#.mkv
 #EXTINF:-1 xui-id="189435" tvg-name="Múnich en vísperas de una guerra (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbLM7X92LFQ1cSGhGQC9Gd7RQ3FPmzqpfvqN6AD7u6uc.jpg" group-title="NETFLIX",Múnich en vísperas de una guerra (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAPVArKpB7Q7AwzaPOTD0amk#.mkv
+#EXTINF:-1 xui-id="189436" tvg-name="Nada que perder (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ff1lAyHGkMnCbWSaCWW5r4rruC.jpg" group-title="NETFLIX",Nada que perder (2023)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAN1nCQU2fq01XbVgtVvxjvv#.mkv
 #EXTINF:-1 xui-id="189434" tvg-name="Nada que perder (Parte 2) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UESbGhUBez8iu4CqVhhmpIueJh.jpg" group-title="NETFLIX",Nada que perder (Parte 2) (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAMpPP1uwEC22uWTq7dt0Wl8#.mkv
 #EXTINF:-1 xui-id="189433" tvg-name="Mas allá del universo (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWvSEX8qH-MB9Mym198XjlHqiswDV9zpycZTcjuPhgCo.jpg" group-title="NETFLIX",Mas allá del universo (2022)
@@ -3437,8 +3274,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOsoRBmwUt8gFPqZ5YeuqAMrDvQB
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVbbbKGikk2VFZWqZX4AMW2y#.mkv
 #EXTINF:-1 xui-id="189428" tvg-name="Los milagros del cielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RDJD6p3zuo0oux8QknG5QkqtRK.jpg" group-title="NETFLIX",Los milagros del cielo (2016)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVZSKZD7tHPfOUYME4vZUoBY#.mkv
-#EXTINF:-1 xui-id="189427" tvg-name="Mother's Day Dance 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osUcMWh4pjLRpWhkbXBQTfzOCnl.jpg" group-title="NETFLIX",Mother's Day Dance 2 (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVZ1iODRWRTTVBLGr7MCDL_O#.mkv
 #EXTINF:-1 xui-id="189426" tvg-name="Mientras estés conmigo (2020)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJ0UBzCYVFwd0yp8FwZFuvd_RlpYh42bw8hx0WsoYfWc.jpg" group-title="NETFLIX",Mientras estés conmigo (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVbB_0pxPbYB0ZU6VZmmxN29#.mkv
 #EXTINF:-1 xui-id="189425" tvg-name="Minions y sus amigos: Volumen 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ib78eWDzoccYt2BhPp8TvwpguO0.jpg" group-title="NETFLIX",Minions y sus amigos: Volumen 2 (2022)
@@ -3447,8 +3282,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVbi6dc1
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVYOmr2gvSCTmuoLS1DmbdlA#.mkv
 #EXTINF:-1 xui-id="189423" tvg-name="Me llaman Radio (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YmK87FddOH4oNxNzNSMiwVCoOA.jpg" group-title="NETFLIX",Me llaman Radio (2003)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVa2ZwrDkVGeLMNlzDizElFA#.mkv
-#EXTINF:-1 xui-id="189422" tvg-name="Matilda (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icsytUzUc9f97a9SdafFG0eqijR.jpg" group-title="NETFLIX",Matilda (1996)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVZ0GXXerWomQ6OZiJEYO--q#.mkv
 #EXTINF:-1 xui-id="189421" tvg-name="Milagro en la celda 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg" group-title="NETFLIX",Milagro en la celda 7 (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBjPHQCM32SVeFLW1FXbBVYUmE89Po14Pvjq_KhXPN4Z#.mkv
 #EXTINF:-1 xui-id="189420" tvg-name="Matrimillas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJEVd5M5Klf7EYTF30lEC5ETh3B.jpg" group-title="NETFLIX",Matrimillas (2022)
@@ -3461,18 +3294,12 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZPj_thh
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZOp_208VskxgFlEAXQw2J1n#.mkv
 #EXTINF:-1 xui-id="189416" tvg-name="Los vigilantes de Malibú: La nueva ola (2020)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyNXmZN4OZ9wb0m26UQYqFENvSeHh5cA4wzRBGA5Fxew.jpg" group-title="NETFLIX",Los vigilantes de Malibú: La nueva ola (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZNlpwtabx1NhaC9qFKOdkqR#.mkv
-#EXTINF:-1 xui-id="189415" tvg-name="Madagascar (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg" group-title="NETFLIX",Madagascar (2005)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZOE4CzZ1OKCqRQmGYnL5iTG#.mkv
 #EXTINF:-1 xui-id="189414" tvg-name="Married to Work (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRVhuRJTlrz0b2WRmSiih0piI2i.jpg" group-title="NETFLIX",Married to Work (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZOZYJcifNN6gQ992cLsoMDx#.mkv
-#EXTINF:-1 xui-id="189413" tvg-name="Los pingüinos de Madagascar (2014)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLq_F7HzwRkLh6XantQuE0HLTBlbuKGWJNVrDZ1bmo5a4.jpg" group-title="NETFLIX",Los pingüinos de Madagascar (2014)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZOds-w-mMrnl_B6-SeV2YuY#.mkv
 #EXTINF:-1 xui-id="189412" tvg-name="Los hermanos Willoughby (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1W9uSS3W7oil0Lo9QUJesey0i5.jpg" group-title="NETFLIX",Los hermanos Willoughby (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZOKiT0kH6SDELSDSQs33PTR#.mkv
 #EXTINF:-1 xui-id="189411" tvg-name="Mae Martin: SAP (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNYsoly1451oIj5RtBk0gBF9zfQ.jpg" group-title="NETFLIX",Mae Martin: SAP (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZNhWbWA60pU_7oejBWW1m6i#.mkv
-#EXTINF:-1 xui-id="189410" tvg-name="Los dos Papas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KrH8cM2KudyhjJK8NtTgf2lMIP.jpg" group-title="NETFLIX",Los dos Papas (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNtOQNIwgrgeF0LMfekCCZONBVhL-4YlRQqC0myFcvsK#.mkv
 #EXTINF:-1 xui-id="189409" tvg-name="Dueños de la calle (2008)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAagxteqgPEsE6aESr-kD7yPoBukNIU0gJIHEHzG26gg.jpg" group-title="NETFLIX",Dueños de la calle (2008)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGQZHAadftVaeWo5gjV4BGWcnB9pxyQZul4jQ_zuKMM7#.mkv
 #EXTINF:-1 xui-id="189408" tvg-name="Los crímenes de la academia (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiKQiOBIeQBZLMY1nVcdAw8MckkToO_rdDvvpmS6WMpI.jpg" group-title="NETFLIX",Los crímenes de la academia (2022)
@@ -3587,8 +3414,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJzgbuJVkw04C6TK6lT2yFUj3ZoQ
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJzgbuJVkw04C6TK6lT2yFUA44B5lcslcTw16QJiv5Vt#.mkv
 #EXTINF:-1 xui-id="189353" tvg-name="Ruido mental (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JIBwcHAEEteIAgepqf4asxRKSh.jpg" group-title="NETFLIX",Ruido mental (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJzgbuJVkw04C6TK6lT2yFVXQxwtAbBgjzV5S6SuAgZ5#.mkv
-#EXTINF:-1 xui-id="189352" tvg-name="最佳女婿 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14vJXF7F748fBeNFGpm0QxLTxkw.jpg" group-title="NETFLIX",最佳女婿 (1988)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJzgbuJVkw04C6TK6lT2yFWt1XVeFiJfpNWKQIUAU0ap#.mkv
 #EXTINF:-1 xui-id="189351" tvg-name="Esperando a los bárbaros (2019)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjdsNrDe9EoqngkSTGuPFwWhiBcL0Wbvkw2VP_0AVJXk.jpg" group-title="NETFLIX",Esperando a los bárbaros (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJzgbuJVkw04C6TK6lT2yFXkbfkpL_QesHm1qs7jbIti#.mkv
 #EXTINF:-1 xui-id="189350" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8STWO9pUTqubPV04iXZ2R6SClME.jpg" group-title="NETFLIX",Enola Holmes (2020)
@@ -3641,8 +3466,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM0w4zTfG5bJhSNBhZ69A4yMs7PU
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM0w4zTfG5bJhSNBhZ69A4w2xm4ih5yj2DZ1eqSoiX9M#.mkv
 #EXTINF:-1 xui-id="189326" tvg-name="El olvido que seremos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ZpJoyVkM0nCiBPvZMqtQjAnrY.jpg" group-title="NETFLIX",El olvido que seremos (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM0w4zTfG5bJhSNBhZ69A4wcrgI-2aM-LMcvIGDIjttU#.mkv
-#EXTINF:-1 xui-id="189325" tvg-name="El paseo 5 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfESAjcwZO6NzgXVLTKYLViJDp7.jpg" group-title="NETFLIX",El paseo 5 (2018)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM0w4zTfG5bJhSNBhZ69A4wCz0fmav0c1aGr3NN0ifdS#.mkv
 #EXTINF:-1 xui-id="189324" tvg-name="El francotirador: La última masacre (2017)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRWf1ViCPokm1qmSUrh4RXDTW-m76zGzOTQ8ZGG1F0FU.jpg" group-title="NETFLIX",El francotirador: La última masacre (2017)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM0w4zTfG5bJhSNBhZ69A4w_-bnMEmv_5R9vXXqAzmH9#.mkv
 #EXTINF:-1 xui-id="189323" tvg-name="El exorcismo de Emily Rose (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1rbz4WeOZXxus57wY9cybkoPgC.jpg" group-title="NETFLIX",El exorcismo de Emily Rose (2005)
@@ -4075,8 +3898,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOHRmn9m9c-av9f6o4kk-GNgB5nX
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOHRmn9m9c-av9f6o4kk-GPeOshtBz5mWVS6JlU8YqHv#.mkv
 #EXTINF:-1 xui-id="188940" tvg-name="Final feliz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lecFKaVz16X6MM9T8EovMsbETNn.jpg" group-title="PELICULAS 2024",Final feliz (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOHRmn9m9c-av9f6o4kk-GPy5aET-xc3EH8Erg5s8men#.mkv
-#EXTINF:-1 xui-id="188939" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="PELICULAS 2024",Five Nights at Freddy's (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQRBz1KLqgiEMN8RZa0lHFl#.mkv
 #EXTINF:-1 xui-id="188938" tvg-name="Fanfik (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg" group-title="PELICULAS 2024",Fanfik (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQzIH9glwHa4A6BAvjJOHVD#.mkv
 #EXTINF:-1 xui-id="188937" tvg-name="Encuentro con la verdad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7EJ2fGLNR8a3TpPskvFGh7QJkB.jpg" group-title="PELICULAS 2024",Encuentro con la verdad (2023)
@@ -4423,8 +4244,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBiNTKEzGaB4evtw4EI0cuQWWccm
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WI__7iagbGJymIWOgQrqrmtAODH2pTXDsOyDOXgQssTW#.mkv
 #EXTINF:-1 xui-id="168603" tvg-name="Abzurdah (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH28FUPq2wjp23GXqMmzhOdvLcD.jpg" group-title="DISNEY+",Abzurdah (2015)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGDWc4HrBtOAExTBQKLZONrRev3IBAf2HTirnL23x0YZ#.mkv
-#EXTINF:-1 xui-id="144246" tvg-name="Black Phone (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSkaK0a3CyAiMy1uiHzxFCDuLnbWv1McdZOjZl8qGOI0.jpg" group-title="PELICULAS 2022",Black Phone (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEMlFFUSY1M1w_gQmlJEHSEBueN609v4AKRjHIusJ5jS#.mkv
 #EXTINF:-1 xui-id="142133" tvg-name="Yummy (2019)" tvg-logo="" group-title="AMAZON",Yummy (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPrAhw6TZs492qk8xwaCyvxL4CJNFkx3Jo0Hp_lkVevU#.mkv
 #EXTINF:-1 xui-id="142130" tvg-name="True Fiction (2019)" tvg-logo="" group-title="AMAZON",True Fiction (2019)
@@ -13333,66 +13152,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPMjAzN1LvShcUVSbYX4mCXQdp6v
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPMjAzN1LvShcUVSbYX4mCV0xs7tkfDtViHE3LeFmfCY#.mkv
 #EXTINF:-1 xui-id="322111" tvg-name="La noche más larga S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="NETFLIX",La noche más larga S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPMjAzN1LvShcUVSbYX4mCU5dLVlI9L_pUZaxKIxoQCu#.mkv
-#EXTINF:-1 xui-id="321032" tvg-name="Futurama S13E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeHECqn8KojLC9w-sOXT23Cy#.mkv
-#EXTINF:-1 xui-id="321031" tvg-name="Futurama S13E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeEqzfvHK-kniDuityfpFHXg#.mkv
-#EXTINF:-1 xui-id="321030" tvg-name="Futurama S13E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeEg4hZJoXRpXuRwCHxnskrX#.mkv
-#EXTINF:-1 xui-id="321029" tvg-name="Futurama S13E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeG6GFXr6HB5hjZ_UtQWSgrE#.mkv
-#EXTINF:-1 xui-id="321028" tvg-name="Futurama S13E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeGxKSuHCJbI5FSapdPCsbqZ#.mkv
-#EXTINF:-1 xui-id="321027" tvg-name="Futurama S13E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeF_p0vanf4wg4n6eli8ChWU#.mkv
-#EXTINF:-1 xui-id="321026" tvg-name="Futurama S13E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeFciZz71XAxUSYzpDNZzHwo#.mkv
-#EXTINF:-1 xui-id="321025" tvg-name="Futurama S13E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeEhKgaZQH-FWRu-3KGRZ9o9#.mkv
-#EXTINF:-1 xui-id="321024" tvg-name="Futurama S13E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeG11XSaDfjD-5KUDcwAwElU#.mkv
-#EXTINF:-1 xui-id="321023" tvg-name="Futurama S13E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S13E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeHFrrL54_zbDiO9zrbLBM2C#.mkv
-#EXTINF:-1 xui-id="321022" tvg-name="Futurama S12E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeEQo8xZbmM0e53As_FQPtSX#.mkv
-#EXTINF:-1 xui-id="321021" tvg-name="Futurama S12E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeH9qvy4xjXR1ZPKZrBS8vSb#.mkv
-#EXTINF:-1 xui-id="321020" tvg-name="Futurama S12E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeEFARcWmXimEXM3QnLQDEAN#.mkv
-#EXTINF:-1 xui-id="321019" tvg-name="Futurama S12E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeGWZ9Txo-stCiqNHeX_h00e#.mkv
-#EXTINF:-1 xui-id="321018" tvg-name="Futurama S12E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeHDAr16vsWVJCl3FDtM6cWm#.mkv
-#EXTINF:-1 xui-id="321017" tvg-name="Futurama S12E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeGW3IykFv9KjBEsnA6wwdeD#.mkv
-#EXTINF:-1 xui-id="321016" tvg-name="Futurama S12E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeE4ghBmsbnk7cLVMFGBJAYN#.mkv
-#EXTINF:-1 xui-id="321015" tvg-name="Futurama S12E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeEOS0SbabkKubKSWuAewA1t#.mkv
-#EXTINF:-1 xui-id="321014" tvg-name="Futurama S12E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeGXEUCv1rl7rvUR7SwFhe6z#.mkv
-#EXTINF:-1 xui-id="321013" tvg-name="Futurama S12E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XaBmXMyS0EpaLGBtyS_Ya6gzSkru5rQ6Y5nEkOQfg1o.jpg" group-title="DISNEY+",Futurama S12E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABREYwWDs4APt1c-PtgsMUZeFMDCLCoaK75CaqmpyHwJB2#.mkv
-#EXTINF:-1 xui-id="320477" tvg-name="Emily en París S05E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0N1O3PiW4f_KezV3PJ5QBkGgwqQ2SHqanSqZ65L1_jHM.jpg" group-title="NETFLIX",Emily en París S05E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabiUfa945GmdOUhAFYBTz76E#.mkv
-#EXTINF:-1 xui-id="320476" tvg-name="Emily en París S05E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0kPlHr04sEXiGvSI4amXOuTOwSXQVtVDGQ_Zak3JbFU8.jpg" group-title="NETFLIX",Emily en París S05E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabhqJ0ct0nB3x_v1FIF1Xo8l#.mkv
-#EXTINF:-1 xui-id="320475" tvg-name="Emily en París S05E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TkKGaJEx7oaPTUi4E-SwtbQb7l6Gv4sYOmGcOF04fz8.jpg" group-title="NETFLIX",Emily en París S05E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabi-3980P6Ur7zVSxxjUTcbL#.mkv
-#EXTINF:-1 xui-id="320474" tvg-name="Emily en París S05E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-057oOi9lei81cqZvLKu5HA3k5MQBtpNBOZH_VHMO6qOA.jpg" group-title="NETFLIX",Emily en París S05E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabhiEQupnsK3bTZWIaUlPMxK#.mkv
-#EXTINF:-1 xui-id="320473" tvg-name="Emily en París S05E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0YjH6STTJA81pqrHG6W3PGmv4wkTHBP_srDvJ_TzgD6A.jpg" group-title="NETFLIX",Emily en París S05E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabgGHv0rTb-Uyi821t7v_6Hs#.mkv
-#EXTINF:-1 xui-id="320472" tvg-name="Emily en París S05E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-06PqpLAwb05SoHsSYMKa5XMMhLODm5QCVx45Cu_3OTOc.jpg" group-title="NETFLIX",Emily en París S05E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabh4zqQlucV05UfivJ-e7gqQ#.mkv
-#EXTINF:-1 xui-id="320471" tvg-name="Emily en París S05E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-077aB5X-9PkeVdZnoiOMPXrQ2jrXg-GZxTUfFKfXz81o.jpg" group-title="NETFLIX",Emily en París S05E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabimBMZ1GF-Zok5uAoycB0ZX#.mkv
-#EXTINF:-1 xui-id="320470" tvg-name="Emily en París S05E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0MC4a6JTOjznHJxiP8DAZTpS7yccNcAwPcwnE7foykCc.jpg" group-title="NETFLIX",Emily en París S05E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabhR2_GAgcGwiUoGiVOTWQmn#.mkv
-#EXTINF:-1 xui-id="320469" tvg-name="Emily en París S05E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05WOW1lqVTxVA7lDEC77Rb9KWmgkKn6HeUqX99KBU03s.jpg" group-title="NETFLIX",Emily en París S05E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabik1dJtYOeUrrEAs32m6LwC#.mkv
-#EXTINF:-1 xui-id="320468" tvg-name="Emily en París S05E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Glz_0PhcTBxDgZ3eegqsEobWpw46FnImqXqyrDfqMnc.jpg" group-title="NETFLIX",Emily en París S05E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN0H8Vr7hBtQx-5yKhptabiG5mP6kRLzjreR_OfDUxLP#.mkv
 #EXTINF:-1 xui-id="318438" tvg-name="Stranger Things S05E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dL7jetyshOnIuYkW_LRtRYG7JYjS3TUZTmyUzpJ64Vg.jpg" group-title="NETFLIX",Stranger Things S05E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHGC1oHVO0gqyItpM5rXrKC5Z_Ub_h6OZhPAWmyQcVP6#.mkv
 #EXTINF:-1 xui-id="318364" tvg-name="Stranger Things S05E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03CcpuUDLpSfQxO_91qjAL0R-Zv0oeLJQu0uDloVFlgg.jpg" group-title="NETFLIX",Stranger Things S05E07
@@ -26771,66 +26530,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tUn6IM
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sYpXL1u-d_NOFxjzIxlBQW#.mkv
 #EXTINF:-1 xui-id="133693" tvg-name="Encerrado con el diablo S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Encerrado con el diablo S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04ub6WIAAks2CX-HkA94Qvwz#.mkv
-#EXTINF:-1 xui-id="133682" tvg-name="Amber S01E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Amber S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sCW7m1lPaAfzVI1qy6HjtT#.mkv
-#EXTINF:-1 xui-id="133681" tvg-name="Amber S01E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Amber S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04utVe0qSn65nmWOTz8S_Hlo#.mkv
-#EXTINF:-1 xui-id="133680" tvg-name="Amber S01E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Amber S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uQMKhwC821ILxvvWpSYQyP#.mkv
-#EXTINF:-1 xui-id="133679" tvg-name="Amber S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Amber S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sQc5dHpa8EBXcSI-wtJAI-#.mkv
-#EXTINF:-1 xui-id="133678" tvg-name="Amber S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Amber S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04vvmAkC9lcubfnuVy--c7Hi#.mkv
-#EXTINF:-1 xui-id="133677" tvg-name="Amber S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Amber S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uNpbVBlgXoQ3ejWwZkCE5Q#.mkv
-#EXTINF:-1 xui-id="133676" tvg-name="Amber S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVLhpCXzJHyGdK0Ddz4QtjzyQt7cDB21K1G2ZUQ4R3tR2Yu9SiaN1wZUIPEIdMYXgg.jpg" group-title="APPLETV+",Amber S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04vBHe4ThUJmXyvepfRWBhkd#.mkv
-#EXTINF:-1 xui-id="133675" tvg-name="Amber S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWe6Mbqa8f8bRArNVf4pDe3sNeISLvqv77hXcoe8NOVJMe7biGCt0jNXmoagcb9mTo.jpg" group-title="APPLETV+",Amber S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sT1xWAFyqErHYCUsCLAp5G#.mkv
-#EXTINF:-1 xui-id="133674" tvg-name="Amber S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUOYFUX7PhjqkUfxwl8gfMRit-082ZuK-Ek0aFYWJ2Di3WJkreHSKibtS10H_2FKyg.jpg" group-title="APPLETV+",Amber S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tIQkWZ80ySs-SUmVYfhQ3f#.mkv
-#EXTINF:-1 xui-id="133673" tvg-name="Amber S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUpLSJYBd6Dcv9WSXTVQ7E0wKvoWTN09mLpW_vxzrvAg55nkXc_uVEK1fGFYqNATQs.jpg" group-title="APPLETV+",Amber S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sgfBnceGMTO5qzoUI1k3AD#.mkv
-#EXTINF:-1 xui-id="133672" tvg-name="Acapulco S02E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUTyOdWy5fSRB1THhc9WnXuwbZE6lod0qnk6mkKxzUnHPBoUXvOPjC8X4o-ama50Cs.jpg" group-title="APPLETV+",Acapulco S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sy0yD9a5u5-wIPf9uFuzrI#.mkv
-#EXTINF:-1 xui-id="133671" tvg-name="Acapulco S02E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWRP2g8WEBXO0Qgc4QcRqcWXLhHF-9VN4vqtoh-Fu1R5EZ605tsC3X1lYr1foNIrJQ.jpg" group-title="APPLETV+",Acapulco S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04to0cOOlKTSIh5IwUQ9EiiQ#.mkv
-#EXTINF:-1 xui-id="133670" tvg-name="Acapulco S02E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVjL_Yrk50U6o1q3XKMYVb51CoJMyzLTxVqJTHcPFPKfieAp2b5aMVscCcghkUWPMs.jpg" group-title="APPLETV+",Acapulco S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04vyQqxtwEyxVTGGPjl9dCxo#.mkv
-#EXTINF:-1 xui-id="133669" tvg-name="Acapulco S02E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUSZ4ZsRg-yoL0ztaNFVW69ZlSmDAauG9pdeZyq-NmfDSNn0xlReCRFDUPSQ3yIPlQ.jpg" group-title="APPLETV+",Acapulco S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uPTve4ztOadK9wg7Coel6b#.mkv
-#EXTINF:-1 xui-id="133668" tvg-name="Acapulco S02E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWWIMEAkuH_2YWf21dM8FUiAYKx-ySzKGUNISM_vX0Pl1VdbE76zoC9j6evpkqrsCQ.jpg" group-title="APPLETV+",Acapulco S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tPZVRu0Pho9awiw_30_T_E#.mkv
-#EXTINF:-1 xui-id="133667" tvg-name="Acapulco S02E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGcmn2z2RbeRld4xJieVTziXTsl0jIQH8GRSgxHiPb4VvTfO6-IeODMmwYD7G5Djk.jpg" group-title="APPLETV+",Acapulco S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uBOaMZENxU4yGP6tuSQFil#.mkv
-#EXTINF:-1 xui-id="133666" tvg-name="Acapulco S02E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXbtfnnh3eUADxQ9wML7ZoFJ7lmIjCJ-4j755JVI_sfx0Hj3AqSXBMQ6m0cp3FtVVY.jpg" group-title="APPLETV+",Acapulco S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uq0-XEzvVLIlrldZQHBlus#.mkv
-#EXTINF:-1 xui-id="133665" tvg-name="Acapulco S02E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWLCdhO_ZNbT_LxF-2GrLQh5WdCabunBMCyqPV-qgagNoV0uL1gySv91h8i1Eb2YZs.jpg" group-title="APPLETV+",Acapulco S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uSUfcmKD_Dfn2AG-wPXqlN#.mkv
-#EXTINF:-1 xui-id="133664" tvg-name="Acapulco S02E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWLgN4koXwZrJdSIQZDQXI7CmrUWYJhUPLPawyJpBc6X58zZu7V4rIxd8dDZY7383o.jpg" group-title="APPLETV+",Acapulco S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uMmti1XoLPrMs3OR0h6Tkn#.mkv
-#EXTINF:-1 xui-id="133663" tvg-name="Acapulco S02E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVzAbyHFturVa0yoqd7FU8_QgU9bLLzzuZtVpqtn9TmGYhGLvFg1R7UKLZ1HVwGs9g.jpg" group-title="APPLETV+",Acapulco S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04vPCfXG_doAs1Gzinw_jS_u#.mkv
-#EXTINF:-1 xui-id="133662" tvg-name="Acapulco S01E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVtPdXPwbSCAc1Uds3csvDUwsSaTf06wRGj5-QJf9rJ0gz4TfBZcgm0D22-73bfRxo.jpg" group-title="APPLETV+",Acapulco S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uqhd8sejH1lRACMsvgWebv#.mkv
-#EXTINF:-1 xui-id="133661" tvg-name="Acapulco S01E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXYEQhazrI8crxDEfo5HF9F87ViWOGXAO3GbpQfbuMgVIznpbl07SUQ4VtEZQ6u088.jpg" group-title="APPLETV+",Acapulco S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tZL3nUtiEQ9d_GKqqnFY3E#.mkv
-#EXTINF:-1 xui-id="133660" tvg-name="Acapulco S01E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVymPY0WorzzD0HCtj17ZsIxkzI1MLVr29TmaK4uMT-9w.jpg" group-title="APPLETV+",Acapulco S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04urrQ80X2NR-ttipvfUZ0pa#.mkv
-#EXTINF:-1 xui-id="133659" tvg-name="Acapulco S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWe2aYB9DRZRoKa60UsFAEWI0iCrT42K9JImkrlbB7h3jFdKmsaOYUbMFxrmajiQU0.jpg" group-title="APPLETV+",Acapulco S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tIGEZ56ZcDhySEQk1d0P19#.mkv
-#EXTINF:-1 xui-id="133658" tvg-name="Acapulco S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbgvITaEKgIpL-PxTwhtpXnTXfJtNCwcUiLLZ3E9fKtqxWme2E9dbsO40BmSdVrOk.jpg" group-title="APPLETV+",Acapulco S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04s6R5McUoGyXkhSuOIU_C_r#.mkv
-#EXTINF:-1 xui-id="133657" tvg-name="Acapulco S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXb37DPocqQ0PkQiJdYLcvL6-1CIdPV_vZWK-sHpZOGdkzzldR8N-Ao6hAs930HRXY.jpg" group-title="APPLETV+",Acapulco S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uaP-SSoQBJJlwLt1eYQs-Q#.mkv
-#EXTINF:-1 xui-id="133656" tvg-name="Acapulco S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU66WeRfqn_P21KO-YrPAZs4Mip8UBSZWE8udFgv3iTR5MW45RympXR9YujNKuIBnU.jpg" group-title="APPLETV+",Acapulco S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04s8fhRgcbaOBevUWB1zYKhk#.mkv
-#EXTINF:-1 xui-id="133655" tvg-name="Acapulco S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUOYTHOBMlipnzkOXJYvQsekhpagR7EAxN2WHTAKj4W8A.jpg" group-title="APPLETV+",Acapulco S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04vXDCOIjRcQLIhX2Icth12I#.mkv
-#EXTINF:-1 xui-id="133654" tvg-name="Acapulco S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeII9RzieiLNFW8QxHKUPizowVnulljxekuxMjoXXGFAbxmR5hG4K2AtlU9WNw7qk.jpg" group-title="APPLETV+",Acapulco S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uDUrwxuoV1R9md_abXCwuI#.mkv
-#EXTINF:-1 xui-id="133653" tvg-name="Acapulco S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWheIxsG121ifeS8hiqPAMB57X9aaL-v_heaLBYAON55qL7-NZaDwCPcNzFOcnTwGQ.jpg" group-title="APPLETV+",Acapulco S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04s0cmn4b7j2eWiEMTPx9_Rv#.mkv
 #EXTINF:-1 xui-id="130436" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVi4cFFln5nB_jwsWFqU-QSLPX-2zmhLvXxCH_6m8uWZZP4dCzo_sawzp5YtUxP9iE.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E10
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5Tbw6p11XrkaKPi85Vy5YqD#.mkv
 #EXTINF:-1 xui-id="130435" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVflZL40JExUn8y3wEs_W4iuahO1yPFaRIVxdJeNBQeqIqYoCPAnuKOAKLVUvDRuy0.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E09
