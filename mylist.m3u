@@ -107,10 +107,24 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26421
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69151
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://lo1.in/fr/cspthd.png" group-title="FR| SPORTS",FR| CANAL+ SPORT HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1657
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 1" tvg-logo="" group-title="FR| SPORTS",AFR| CANAL+ SPORT 1
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185218
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 3" tvg-logo="" group-title="FR| SPORTS",AFR| CANAL+ SPORT 3
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185240
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="https://i.ibb.co/S0mgwLQ/canelatv.png" group-title="ECUADOR",Canela TV
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2381.ts
 #EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlEL2z5jpgK9S6-_S4ItlROfKIvQlNa2qZpjoMCnl6lx
+#EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBshkggHemM-EidQqZ3PDbrJuT62NhCY4cvttK8bWeceO
+#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS+ FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhzFlImuJiOjjM4ohH3CkHI_sbJwxToFYnickON87jhJ
+#EXTINF:-1 tvg-id="ECUTV" tvg-name="Ecuador TV FHD" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR",Ecuador TV FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2382.ts
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito
@@ -119,14 +133,32 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" ,ExtremaTv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FMMundo.ec",FM Mundo
-https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 xui-id="119786" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
+#EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN HD" tvg-logo="https://lo1.in/nl/espn.png" group-title="NL| SPORTS",( NL ) ESPN HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8206
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 2 HD" tvg-logo="https://lo1.in/nl/espn2.png" group-title="NL| SPORTS",( NL ) ESPN 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 3 HD" tvg-logo="https://lo1.in/nl/espn3.png" group-title="NL| SPORTS",( NL ) ESPN 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8202
+#EXTINF:-1 xui-id="119401" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087W-2_hxVWXxH8WcQdKKD0GHYGGPYYpsyv0apYYYk5a0U.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuEUO7MpoP-rAw8fHlZAKYxcba7TnGvij65wB4P1Twct
+#EXTINF:-1 xui-id="119402" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087S5OgsStqdJAEpntJw7k95rnnLJNHkua2uBDIOX0XdHX.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkeCd1nZ5pkg7_G5kMUn_Wz08idaGi-Rh3MeXVR4dc-N
+#EXTINF:-1 xui-id="119404" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnbZpAZaMRdBvlHm4R8mbW8fPcBbWUeeXxKhYfEt3m1y
+#EXTINF:-1 xui-id="119405" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjWc5YEY4-uiEKPQRv6gGkcbBeBlS1QYZLmJtQql7MYD
 #EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50174.png" group-title="TR| SPOR",EUROSPORT 1 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2043
 #EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50170.png" group-title="TR| SPOR",EUROSPORT 2 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2042
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" ,ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="FMMundo.ec",FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 MX (ON)" tvg-logo="https://i.postimg.cc/VNzdwQfJ/10.png" group-title="CANALES DE DEPORTES",FOX SPORTS 1 MX (ON)
 http://matrivagoweb.xyz:8080/115375/123456/52783
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MX" tvg-logo="https://i.postimg.cc/cHbHfvQ3/11.png" group-title="CANALES DE DEPORTES",FOX SPORTS 2 MX
@@ -135,6 +167,22 @@ http://matrivagoweb.xyz:8080/115375/123456/315561
 http://matrivagoweb.xyz:8080/115375/123456/52785
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/XYSr2Btc/9.png" group-title="CANALES DE DEPORTES",FOX SPORTS PREMIUM
 http://matrivagoweb.xyz:8080/115375/123456/66137
+#EXTINF:-1 xui-id="118328" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI8lzmf5e8RBdOGKwjKB7TchslyfIWNQmt-iX4JxeIz
+#EXTINF:-1 xui-id="118329" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZMx0psb6Pd9x0QRYYpUA3eHC4xIvUmOZaGSgjBzdDd
+#EXTINF:-1 xui-id="118330" tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvDWVzlFQfNyZCgU2YjMogdgj7MAC-0DeBe2IwA-mTgF
+#EXTINF:-1 xui-id="118331" tvg-id="" tvg-name="AR | FOX SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtd9jOZhCGbQGD86GRV_zX9GaawMkdH2YaOQrFldSj4c
+#EXTINF:-1 xui-id="118332" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnBL7pqz6PHhQAiPAQDvC4XD7OTsmnZxdZo5_iOTiH3L
+#EXTINF:-1 xui-id="118333" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBr6U37woOCIplP4i94lXwZK3IX-RCj4GA2VxgH3HMO2w
+#EXTINF:-1 xui-id="118340" tvg-id="" tvg-name="MX | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvbyZvqbahr-PJuJyAX5rnOCKvYDrdUxqllAuY2g18sM
+#EXTINF:-1 xui-id="118341" tvg-id="" tvg-name="MX | FOX SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiLNGx_GAx8vsJOl0gEwle9uPv-v_JJMePr_3ldV9HHL
 #EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MajestadTelevision.ec@SD",Majestad Televisión
@@ -231,8 +279,30 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8012
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15135
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRTSPOR UHD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR UHD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2049
+#EXTINF:-1 xui-id="118334" tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
+#EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
+#EXTINF:-1 xui-id="120106" tvg-id="" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS PREMIUM HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
+#EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
+#EXTINF:-1 xui-id="119412" tvg-id="" tvg-name="MX | TUDN X2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087b9jggSQ2EHf1i-97DwnQuhFM8HNxIKGnF2_dyRfvyMH.png" group-title="⚽ DEPORTES MEXICO",MX | TUDN X2 HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuTajNrsVlf-TtDGqYw-yRUtDz0K35DmGbQiBMbC5BxV
+#EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
+#EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
+#EXTINF:-1 xui-id="118338" tvg-id="" tvg-name="AR | TyC SPORTS INTERNACIONAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS INTERNACIONAL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBid5hse2jkxp-XDy_kEn4O2rBkUvKEXuIf7R75RDOkUD
 #EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1662
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR| SPORTS",FR| RMC SPORT 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1661
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportsmixhd.png" group-title="DE| SPORTS",DE| SKY SPORT MIX HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/63271
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportspremierleaguehd.png" group-title="DE| SPORTS",DE| SKY SPORT PREMIER LEAGUE HD
@@ -303,68 +373,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68836
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
 #EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1662
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR| SPORTS",FR| RMC SPORT 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1661
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 1" tvg-logo="" group-title="FR| SPORTS",AFR| CANAL+ SPORT 1
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185218
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 3" tvg-logo="" group-title="FR| SPORTS",AFR| CANAL+ SPORT 3
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185240
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN HD" tvg-logo="https://lo1.in/nl/espn.png" group-title="NL| SPORTS",( NL ) ESPN HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8206
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 2 HD" tvg-logo="https://lo1.in/nl/espn2.png" group-title="NL| SPORTS",( NL ) ESPN 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 3 HD" tvg-logo="https://lo1.in/nl/espn3.png" group-title="NL| SPORTS",( NL ) ESPN 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8202
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139942
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 2 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8213
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 3 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8218
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 4 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 5 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
-#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS 2 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlEL2z5jpgK9S6-_S4ItlROfKIvQlNa2qZpjoMCnl6lx
-#EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBshkggHemM-EidQqZ3PDbrJuT62NhCY4cvttK8bWeceO
-#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS+ FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhzFlImuJiOjjM4ohH3CkHI_sbJwxToFYnickON87jhJ
-#EXTINF:-1 xui-id="118328" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI8lzmf5e8RBdOGKwjKB7TchslyfIWNQmt-iX4JxeIz
-#EXTINF:-1 xui-id="118329" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZMx0psb6Pd9x0QRYYpUA3eHC4xIvUmOZaGSgjBzdDd
-#EXTINF:-1 xui-id="118330" tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvDWVzlFQfNyZCgU2YjMogdgj7MAC-0DeBe2IwA-mTgF
-#EXTINF:-1 xui-id="118331" tvg-id="" tvg-name="AR | FOX SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtd9jOZhCGbQGD86GRV_zX9GaawMkdH2YaOQrFldSj4c
-#EXTINF:-1 xui-id="118332" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnBL7pqz6PHhQAiPAQDvC4XD7OTsmnZxdZo5_iOTiH3L
-#EXTINF:-1 xui-id="118333" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBr6U37woOCIplP4i94lXwZK3IX-RCj4GA2VxgH3HMO2w
-#EXTINF:-1 xui-id="118334" tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
-#EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
-#EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
-#EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
-#EXTINF:-1 xui-id="118338" tvg-id="" tvg-name="AR | TyC SPORTS INTERNACIONAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS INTERNACIONAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBid5hse2jkxp-XDy_kEn4O2rBkUvKEXuIf7R75RDOkUD
-#EXTINF:-1 xui-id="118340" tvg-id="" tvg-name="MX | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvbyZvqbahr-PJuJyAX5rnOCKvYDrdUxqllAuY2g18sM
-#EXTINF:-1 xui-id="118341" tvg-id="" tvg-name="MX | FOX SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiLNGx_GAx8vsJOl0gEwle9uPv-v_JJMePr_3ldV9HHL
 #EXTINF:-1 xui-id="119383" tvg-id="" tvg-name="CO | WINSPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsgFZh0j-Wc1xzouYiFQlYRBANaS3zFFVoyyOd_4Rl-e
 #EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
@@ -381,24 +389,22 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBitDmOFzG5r3XiDGsYYzlZXG-t8X
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh72XOj0wSsDbPEkQ21mBu4heErWtMM57pxEjsFvgpOX
 #EXTINF:-1 xui-id="119392" tvg-id="" tvg-name="CO | WINSPORTS+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
-#EXTINF:-1 xui-id="119401" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087W-2_hxVWXxH8WcQdKKD0GHYGGPYYpsyv0apYYYk5a0U.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuEUO7MpoP-rAw8fHlZAKYxcba7TnGvij65wB4P1Twct
-#EXTINF:-1 xui-id="119402" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087S5OgsStqdJAEpntJw7k95rnnLJNHkua2uBDIOX0XdHX.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkeCd1nZ5pkg7_G5kMUn_Wz08idaGi-Rh3MeXVR4dc-N
-#EXTINF:-1 xui-id="119404" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnbZpAZaMRdBvlHm4R8mbW8fPcBbWUeeXxKhYfEt3m1y
-#EXTINF:-1 xui-id="119405" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjWc5YEY4-uiEKPQRv6gGkcbBeBlS1QYZLmJtQql7MYD
-#EXTINF:-1 xui-id="119412" tvg-id="" tvg-name="MX | TUDN X2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087b9jggSQ2EHf1i-97DwnQuhFM8HNxIKGnF2_dyRfvyMH.png" group-title="⚽ DEPORTES MEXICO",MX | TUDN X2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuTajNrsVlf-TtDGqYw-yRUtDz0K35DmGbQiBMbC5BxV
-#EXTINF:-1 xui-id="119786" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
-#EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
-#EXTINF:-1 xui-id="120106" tvg-id="" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS PREMIUM HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
-#EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
+#EXTINF:-1 tvg-id="ZaracayTV.ec",Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139942
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 2 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8213
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 3 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8218
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 4 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 4 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 5 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 5 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
+#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
+#EXTINF:-1 tvg-id="" tvg-name="z@pping" tvg-logo="" group-title="LIGA PRO EC",zapping
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/714853.ts
 #EXTINF:-1 xui-id="120115" tvg-id="" tvg-name="PE | LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087flSuD2155XzDHmRljpFggqS2Mn4SoAJJ-d_fGzD44JSvyqYgC5FmcRF3ZmSG5D7uKhAg8yEUJwzIl4Ebbj1fE0.jpg" group-title="⚽ DEPORTES PERU",PE | LIGA 1 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQYsghjrddw8U1kZu5
 #EXTINF:-1 xui-id="120119" tvg-id="" tvg-name="UR | VTV HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WI5BR6k8PwBt79TtychZ1w4qtG1zxBJuUOWbODwwUW8.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV HD
