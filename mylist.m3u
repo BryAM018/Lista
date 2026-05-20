@@ -10,10 +10,6 @@ http://matrivagoweb.xyz:8080/115375/123456/315672
 http://matrivagoweb.xyz:8080/115375/123456/315673
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Uno - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| Azteca Uno 
 http://matrivagoweb.xyz:8080/115375/123456/315674
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69005
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 4K
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69558
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 VO" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 VO
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69008
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2
@@ -104,10 +100,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26421
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69151
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://lo1.in/fr/cspthd.png" group-title="FR| SPORTS",FR| CANAL+ SPORT HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1657
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 1" tvg-logo="" group-title="FR| SPORTS",AFR| CANAL+ SPORT 1
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185218
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 3" tvg-logo="" group-title="FR| SPORTS",AFR| CANAL+ SPORT 3
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/185240
 #EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="https://i.ibb.co/S0mgwLQ/canelatv.png" group-title="ECUADOR",Canela TV
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2381.ts
 #EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
@@ -156,14 +148,10 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
 #EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
-#EXTINF:-1 xui-id="120905" tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RHBfcP627EWUAXT0lBQZu8i8EDdWdGBXSfmDd_Qky4I.png" group-title="⚽ ESPN",AR | ESPN PREMIUM HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu_n8p0GWNjuxkhu4AnP9F2EQnby3_jl8AqLC2m7Km0T
 #EXTINF:-1 xui-id="120907" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlaMCYp18xgYAiY_SPpc3QMLO17xV61Uawp_Vp9Gbz7k
 #EXTINF:-1 xui-id="120908" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt-dAdjI0RxMQkO8TKo81l5ZWjQ49HQ7Ii-lBLyTJ1nF
-#EXTINF:-1 xui-id="120909" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBupqZpUrHu5dL-vtpZ9V1ZEPhbgHDCcDUMePgZtc8H-i
 #EXTINF:-1 xui-id="120911" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh9GDofnKcHDq6hhfdn1R4IGUP9B4jcekd-Od512DhEo
 #EXTINF:-1 xui-id="120912" tvg-id="" tvg-name="MX | ESPN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN FHD
@@ -184,8 +172,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmuWEd9VkAo7qJPix6i-5OLG8-d6
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
 #EXTINF:-1 xui-id="120922" tvg-id="" tvg-name="MX | ESPN 3 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiL7G0aw-xqeGHzDhPW1H0exUuhOXYHIVvUewcFq7344
-#EXTINF:-1 xui-id="120926" tvg-id="" tvg-name="AR | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",AR | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuOzO-0ZRQrzC20jMxVZJxObgI9f8VqkODZ-4KJV13_X
 #EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
 #EXTINF:-1 xui-id="141615" tvg-id="" tvg-name="CO | ESPN 3 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 SD
@@ -196,8 +182,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8206
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 3 HD" tvg-logo="https://lo1.in/nl/espn3.png" group-title="NL| SPORTS",( NL ) ESPN 3 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8202
-#EXTINF:-1 xui-id="119401" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087W-2_hxVWXxH8WcQdKKD0GHYGGPYYpsyv0apYYYk5a0U.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuEUO7MpoP-rAw8fHlZAKYxcba7TnGvij65wB4P1Twct
 #EXTINF:-1 xui-id="119402" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087S5OgsStqdJAEpntJw7k95rnnLJNHkua2uBDIOX0XdHX.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkeCd1nZ5pkg7_G5kMUn_Wz08idaGi-Rh3MeXVR4dc-N
 #EXTINF:-1 xui-id="119404" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
@@ -302,8 +286,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189151
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189152
 #EXTINF:-1 xui-id="221080" tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD 1" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d7QQ_I92LXIlEKLe_pD2cTPosijEBxzgv6pDHxzhAThxmcEDMBd2BIFn5DdESHil7YKEhA92HxP312plEv50Rk.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LA LIGA FHD 1
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBq-ScW6SGiIMoEhokQbt2fTphWHFS8BJvTEyacznJ6ER
-#EXTINF:-1 xui-id="221082" tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d7QQ_I92LXIlEKLe_pD2cTPosijEBxzgv6pDHxzhAThxmcEDMBd2BIFn5DdESHil7YKEhA92HxP312plEv50Rk.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LA LIGA 1
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuDvmzyADkNDLiUlFt0OSkMcrH-SLfM1e6hBjkIGhfTl
 #EXTINF:-1 xui-id="221094" tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SNF8yMfZCNrjMiKbt4E1AthHSbVl6Bm42rEWLmrASKp.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtTFsd-RvqKUogUQ3FjlTSZFE-CMCKz3iiJp0RofGr6e
 #EXTINF:-1 xui-id="221095" tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SNF8yMfZCNrjMiKbt4E1AthHSbVl6Bm42rEWLmrASKp.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 HD
@@ -338,8 +320,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
 #EXTINF:-1 xui-id="261093" tvg-id="" tvg-name="VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cVx203ByB7TdNq2UJAJhgkCRNWdlVjnmRiovaeY2VOeOeaByVP4W8j0bqaWHk8Qxw.png" group-title="VENEZUELA",VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvakEaolTx8sEZ2VZzRpiG7eIYKke3ggytSMoDsg8qut
-#EXTINF:-1 xui-id="260567" tvg-id="" tvg-name="BRA | PREMIERE 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuuLNvyP1zJvT34qw3iEVmn3SzBkLQnyISyc9Q8hRBLd
 #EXTINF:-1 xui-id="260568" tvg-id="" tvg-name="BRA | PREMIERE 2 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlkMiR2LFq2AaNRtTDqCA4Jsv0ogb6xr_m6flGYFDlkE
 #EXTINF:-1 xui-id="260573" tvg-id="" tvg-name="BRA | PREMIERE 4 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 4 FHD
@@ -530,8 +510,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZu
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
 #EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
-#EXTINF:-1 xui-id="119412" tvg-id="" tvg-name="MX | TUDN X2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087b9jggSQ2EHf1i-97DwnQuhFM8HNxIKGnF2_dyRfvyMH.png" group-title="⚽ DEPORTES MEXICO",MX | TUDN X2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuTajNrsVlf-TtDGqYw-yRUtDz0K35DmGbQiBMbC5BxV
 #EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
 #EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
@@ -546,8 +524,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlrAzxSJuriHzKKQAuV7Z0YxqzWo
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoTYSWr4gVSD6mcBTLCu9SZJzjOoVX7Kl_IoHBtMo0hy
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
-#EXTINF:-1 xui-id="119695" tvg-id="" tvg-name="LA | UNIVERSAL CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087duQ-0QhVzUOBwP8XhPVXgkmDKPvnpwM7CDqubinRMVeF397E5NWgetn06r06fclrg.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CHANNEL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu7qlFecT9nFrCIe7ChF9nYahEs7tUUZz7LBeO1R6vik
 #EXTINF:-1 xui-id="119697" tvg-id="" tvg-name="LA | UNIVERSAL CINEMA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dd084XUfJdaTUzje5IWDsbhnPQYH4UAuiKbWDwAJ7AEYbP8ARRyZa5hifBDlOh-xQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CINEMA HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtGjvnmhOnWEI3ht9YaYW6zdtIZBtT-f4Ewcr4c1rBFS
 #EXTINF:-1 xui-id="119698" tvg-id="" tvg-name="LA | UNIVERSAL CINEMA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dd084XUfJdaTUzje5IWDsbhnPQYH4UAuiKbWDwAJ7AEYbP8ARRyZa5hifBDlOh-xQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CINEMA HD
@@ -560,8 +536,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoUfwju-h6LMKc1kkoq4mCGfROFf
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgbl-n22lwuICSRqWfbr-Hh-DEllyThIdsl8_xIsy6Tv
 #EXTINF:-1 xui-id="119705" tvg-id="" tvg-name="LA | UNIVERSAL PREMIERE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SvOftnu85shArbtLh3LAUZx-cRu1BVSATKu2xsKHusEZTUQDKzZ0QfZv6ctt_kfmw.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL PREMIERE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvv8hYnZOZqbSLjip2DVpk2RoV6MuxY9VFHKK8FYMTDL
-#EXTINF:-1 xui-id="119707" tvg-id="" tvg-name="LA | UNIVERSAL PREMIERE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SvOftnu85shArbtLh3LAUZx-cRu1BVSATKu2xsKHusEZTUQDKzZ0QfZv6ctt_kfmw.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL PREMIERE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBu32Cbe26gilQ9AfGzjGEKJYwhuzpPkFOGNgIaP6vABU
 #EXTINF:-1 xui-id="119708" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk-GUKyfJE_eKNPqKEbmOTPl8Y8tCnr2PGpTTqVxxkpo
 #EXTINF:-1 xui-id="119709" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
@@ -584,8 +558,6 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsgFZh0j-Wc1xzouYiFQlYRBANaS3zFFVoyyOd_4Rl-e
 #EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYpqA4bvCer1MMNmX0k
-#EXTINF:-1 xui-id="119386" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBuKmaNs_rOZICg2BulYIF5P-mzbgi5s2MkK0ZB9mIoLw
 #EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
 #EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
@@ -612,20 +584,32 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E22" tvg-logo="https://image.tmdb.org/t/p/w1280/si1rzZskavyY6jSedZCtqq5AdU5.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E22
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562534.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E21" tvg-logo="https://image.tmdb.org/t/p/w1280/q9lYYFeTx7coNawd3YymCTie0cJ.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E21
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562532.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E20" tvg-logo="https://image.tmdb.org/t/p/w1280/kzme3TmWPS7OqK1aFXw8fFIQZeA.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E20
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562541.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E19" tvg-logo="https://image.tmdb.org/t/p/w1280/hQobjT6HTH2IWudF0VU6YrG03TS.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E19
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562536.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E18" tvg-logo="https://image.tmdb.org/t/p/w1280/ghV30AN3fXLyoJNJA6SVw0tj5du.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E18
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562531.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E17" tvg-logo="https://image.tmdb.org/t/p/w1280/dezSHDhYkcELCokuJrodGiWGlOj.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E17
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562537.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S04E16" tvg-logo="https://image.tmdb.org/t/p/w1280/4Jx8jFi2ktUN7JnK241Lfxa9hAA.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S04E16
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562530.mkv
+#EXTINF:-1 xui-id="189639" tvg-name="Black Widow (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3KH58uwCFJBjeTmu9uf6taBkCP.jpg" group-title="DISNEY+",Black Widow (2019)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF1O8a2ZQ6gv3adjZIKU8Q3p#.mkv
+#EXTINF:-1 xui-id="190151" tvg-name="Ghost in the Shell 2: Innocence (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltaWpzIbNWUnGlPLLre4tDi0PU8.jpg" group-title="CRUNCHYROLL",Ghost in the Shell 2: Innocence (2004)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA8EAknaLJawBSTFsi4kAgWsnzYPAyCRf6UK861sqQ_E#.mkv
+#EXTINF:-1 xui-id="204175" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtMf3h4RoUJ26P0JQBU6W3bel3o9mptKEPIXgkVBJwOo.jpg" group-title="SAGAS",El amanecer del planeta de los simios (2014)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5G2ElZ11VJCQjJre15E3X4w#.mkv
+#EXTINF:-1 xui-id="204172" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" group-title="SAGAS",La guerra del planeta de los simios (2017)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5FmQ6MD28vaYNwe1YSz4uSJ#.mkv
+#EXTINF:-1 xui-id="214757" tvg-name="El reino del planeta de los simios (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oVDC7u36IMXUIoS-JoPxP0uHkgsAtX5RZ1idfGudAD8.jpg" group-title="PELICULAS 2024",El reino del planeta de los simios (2024)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WByoFs4CO-ILopc52KCQClbm8FJJZcOiDYjLJ34gvaP5#.mkv
+#EXTINF:-1 xui-id="339801" tvg-name="The Acolyte S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SFXl3yQ_SzHFNLv3J6VRH_UGFBXFAJkm7iCm-r5ZAXA.jpg" group-title="DISNEY+",The Acolyte S01E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6NFRMwTLvoY2cd3mscwBj7s#.mkv
+#EXTINF:-1 xui-id="339800" tvg-name="The Acolyte S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lK8IrxoCtySCrcmzCmIt_D64AlXm5jv4qUNYCvB0V48.jpg" group-title="DISNEY+",The Acolyte S01E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6PY1qhYCv5LeRnKT9OR9zI2#.mkv
+#EXTINF:-1 xui-id="339799" tvg-name="The Acolyte S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zky2FK8qU-9YRSZVEwxQZkGD5by655k-6weAUTPUW6U.jpg" group-title="DISNEY+",The Acolyte S01E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0Geb2pca4xaYNpk2eAKXZyQ#.mkv
+#EXTINF:-1 xui-id="339798" tvg-name="The Acolyte S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0w5yJmC58ATS5eLrSOutp-X9pQ8QHypIa3KRAzyJjbvE.jpg" group-title="DISNEY+",The Acolyte S01E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GHPn3_O6enVtQ8YA6FKWJK#.mkv
+#EXTINF:-1 xui-id="339797" tvg-name="The Acolyte S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ygEb6YD53187uGuLrGO5Sd0TIhU9D1jY3Xtv0gxWdw0.jpg" group-title="DISNEY+",The Acolyte S01E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GVCckkgNP4n1VhrOAArxSy#.mkv
+#EXTINF:-1 xui-id="339796" tvg-name="The Acolyte S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Zbj767IN65h6HRlTzOH9xIn4GC7NazkanATq0d16gW4.jpg" group-title="DISNEY+",The Acolyte S01E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0G8YxBJd0zs5Mt2AQqRzFw0#.mkv
+#EXTINF:-1 xui-id="339795" tvg-name="The Acolyte S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ovh8ULYYuyLm6sXzVzE4UqaQOzDQuz_6blUVuhuSVDs.jpg" group-title="DISNEY+",The Acolyte S01E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0FNd7M-hlXEhbPg8-dz-lDI#.mkv
+#EXTINF:-1 xui-id="339794" tvg-name="The Acolyte S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ivk8e1gex9Ehmwys2xLJVOk9n3VwKvCkzYyQ4NhC5DY.jpg" group-title="DISNEY+",The Acolyte S01E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GvjZ0aba1P5IsFZNyBSt2T#.mkv
 #EXTINF:-1 xui-id="189592" tvg-name="Super Mario Bros: La película (2023)" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png" group-title="PELICULAS 2024",Super Mario Bros: La película (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIFC6IfQ2HTtN_lc6Hvj2XJ54A3V8SGzL93TRg0sgkwn#.mkv
 #EXTINF:-1 xui-id="169343" tvg-name="El diablo viste a la moda (2006)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nGsB3zN481GLk6Sd4XNcAU3qZGjb3-wpJi_TDfS3ho8.jpg" group-title="DISNEY+",El diablo viste a la moda (2006)
@@ -638,16 +622,210 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEWl6KN2
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEUUp9Gj5WV43EPkUqH3G2Cq#.mkv
 #EXTINF:-1 xui-id="322201" tvg-name="Zootrópolis 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0twA43Ta1HIo05x1B-KwYi6rRMVUXh7t9n-EPnRO2gek.jpg" group-title="DISNEY+",Zootrópolis 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDTXj-H90aD4j77Xl1jDfOUtKdC2tkDMMzz3uYeWx_-z#.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E13" tvg-logo="https://image.tmdb.org/t/p/w1280/n7FQx95PN1EYgzoXkKx8sbeQc41.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E13
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562595.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E12" tvg-logo="https://image.tmdb.org/t/p/w1280/bsuafDfrPQbE1m3QkRBTArpaCSI.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E12
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562583.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E09" tvg-logo="https://image.tmdb.org/t/p/w1280/gf7hv0W9YmCQbjYcWaX3OjmY9bd.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E09
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562582.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E11" tvg-logo="https://image.tmdb.org/t/p/w1280/moduxusarIDsIYkKdnnPEr0Ixnh.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E11
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562581.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E10" tvg-logo="https://image.tmdb.org/t/p/w1280/hQa82CMnJcXjRJYQmjqXo8qH5PA.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E10
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562580.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E07" tvg-logo="https://image.tmdb.org/t/p/w1280/vFZLLNUqFqdppOQXrxIP9ed7osD.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E07
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562579.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E05" tvg-logo="https://image.tmdb.org/t/p/w1280/bjbbEiSrgmNlggY2NK97yspV6yq.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E05
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562578.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E08" tvg-logo="https://image.tmdb.org/t/p/w1280/38edv27e4dIa7RsobJDE9FrmynP.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E08
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562577.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E06" tvg-logo="https://image.tmdb.org/t/p/w1280/470yUzMw7xH5qMI5yqbxCpwKyds.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E06
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562576.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E04" tvg-logo="https://image.tmdb.org/t/p/w1280/vU0L4g7i319csEbfsV4CtdXCRea.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E04
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562575.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E03" tvg-logo="https://image.tmdb.org/t/p/w1280/6iuYwXFN3GCEf14cgVmBAwWciyF.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E03
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562574.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E02" tvg-logo="https://image.tmdb.org/t/p/w1280/7ed2hlNWrER2KounC5fS3hOeRP9.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E02
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562573.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E01" tvg-logo="https://image.tmdb.org/t/p/w1280/gsqIC0yTTZNxxNIvf0NSsRDRHJy.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E01
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562572.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E12" tvg-logo="https://image.tmdb.org/t/p/w1280/giYsOCMPfRjf1xjdGuzXnH24Ejg.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E12
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562571.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E13" tvg-logo="https://image.tmdb.org/t/p/w1280/jRrgeEvci7Bk54zyhNI4nfjqYP4.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E13
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562570.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E10" tvg-logo="https://image.tmdb.org/t/p/w1280/nJCHJRs6CtluaXxNDwWLeNO1iqd.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E10
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562569.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E11" tvg-logo="https://image.tmdb.org/t/p/w1280/pyCuhWEU2q7PkQVfpMUxKXqfetx.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E11
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562568.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E09" tvg-logo="https://image.tmdb.org/t/p/w1280/pzzfipYotpyi3ETxKMxBvbDXHFl.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E09
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562567.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E06" tvg-logo="https://image.tmdb.org/t/p/w1280/3KvpgeeQEJ1Fu1cH4YPvd4RCoRR.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E06
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562566.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E08" tvg-logo="https://image.tmdb.org/t/p/w1280/pBvPVdJvKzDj7I8vWGZfl7oHWpJ.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E08
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562565.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E07" tvg-logo="https://image.tmdb.org/t/p/w1280/aCKSrJYMGZPXSW0PRuMBCJta5z2.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E07
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562564.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E03" tvg-logo="https://image.tmdb.org/t/p/w1280/cs8UQk3j0pthMFcEvj06h6mPQEF.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E03
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562563.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E02" tvg-logo="https://image.tmdb.org/t/p/w1280/6hGD1KKJ5WsrEDr09AQXjFunx7B.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E02
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562562.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E01" tvg-logo="https://image.tmdb.org/t/p/w1280/8Oi4EnmkjvKvRcr6Gl55AZPZafS.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E01
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562561.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E21" tvg-logo="https://image.tmdb.org/t/p/w1280/4yTICAokMKSbwSUAOePbo4sI2Go.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E21
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562560.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E20" tvg-logo="https://image.tmdb.org/t/p/w1280/a1XMqzJmxyqrvcgntfzIF6PBPee.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E20
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562559.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E19" tvg-logo="https://image.tmdb.org/t/p/w1280/nEkUod26K6PWb8XCWpxiS7YAUWn.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E19
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562558.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E04" tvg-logo="https://image.tmdb.org/t/p/w1280/r6G5BoHmrA15MsMwwDPJY6x38f1.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E04
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562557.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E05" tvg-logo="https://image.tmdb.org/t/p/w1280/soFPb57Fmcx3zOjxflS5L6QWjpg.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E05
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562556.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E22" tvg-logo="https://image.tmdb.org/t/p/w1280/iGmakkW8rZsjYicxkwhdXdXoBHw.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E22
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562555.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E17" tvg-logo="https://image.tmdb.org/t/p/w1280/9FOoE8Gnd17e44nWuNUs5EclQ3v.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E17
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562554.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E13" tvg-logo="https://image.tmdb.org/t/p/w1280/ai9kXmJonEpPHopdGXAAA44lqpD.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E13
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562553.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E18" tvg-logo="https://image.tmdb.org/t/p/w1280/GmExOnLAkvLBPjX7QzkuzhJxaY.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E18
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562552.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E15" tvg-logo="https://image.tmdb.org/t/p/w1280/qHSFnkrBOKk4MO0h8Iyk1qorrG1.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E15
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562551.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E16" tvg-logo="https://image.tmdb.org/t/p/w1280/dKoRC5MvQja9AESNXorEKbhTftI.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E16
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562550.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E14" tvg-logo="https://image.tmdb.org/t/p/w1280/nL0nBxllWTYicvbv6brgcOFYMkT.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E14
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562549.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E11" tvg-logo="https://image.tmdb.org/t/p/w1280/siOkSTI24kb32GGbf1y5vSAjMGC.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E11
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562548.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E12" tvg-logo="https://image.tmdb.org/t/p/w1280/iO7XQdrOw5zPL5UELCtxpMVQXhi.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E12
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562547.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E09" tvg-logo="https://image.tmdb.org/t/p/w1280/cioAUESvVLcIWwndbCeZKbPxirA.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E09
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562546.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E06" tvg-logo="https://image.tmdb.org/t/p/w1280/2lk9fcC6TeWZY8rvMRjNduJtCXB.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E06
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562545.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E07" tvg-logo="https://image.tmdb.org/t/p/w1280/xubuyzhtX4myRiWQo7L23HObEq0.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E07
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562544.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E05" tvg-logo="https://image.tmdb.org/t/p/w1280/aTygSKD0IkETonRQ14IEvl250C4.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E05
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562543.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E10" tvg-logo="https://image.tmdb.org/t/p/w1280/a6PT1YU8NRjsszYl6Zgo7tkZBx2.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E10
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562542.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E02" tvg-logo="https://image.tmdb.org/t/p/w1280/ck6j5jj1C6SH2is9l10p0Ni12JE.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E02
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562540.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E03" tvg-logo="https://image.tmdb.org/t/p/w1280/5AEiNx7UPry5gbPi5zQ1PWX5B7M.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E03
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562539.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/wC9W1TmWUZ6Ovo0TZJBg8EBNfPd.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E08
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562538.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/h7D0iGgcZXDqOmzYv7GJt2JfBFx.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E01
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562535.mkv
+#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E04" tvg-logo="https://image.tmdb.org/t/p/w1280/w1FqL8iGCfSbJzrGlYn0xLssQkW.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E04
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562533.mkv
 #EXTINF:-1 xui-id="318757" tvg-name="La vida de Chuck (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XvPjRIp63pzWHECJdJbmexywSammP1B_SbQtqTAf1Zo.jpg" group-title="AMAZON",La vida de Chuck (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEykAoPLhlrn8F8E7abMgFXvKhG4NJYNY7M4eP8HpEzz#.mkv
 #EXTINF:-1 xui-id="188939" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="PELICULAS 2024",Five Nights at Freddy's (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQRBz1KLqgiEMN8RZa0lHFl#.mkv
 #EXTINF:-1 xui-id="318370" tvg-name="Five Nights at Freddy's 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wy4bqWYlH-QCog0MYKRVkh6z3nI29iNpxrsg_lvwo4A.jpg" group-title="AMAZON",Five Nights at Freddy's 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOpf2amDop_Pd42AE3cpd3DbZVcnUrXgi2o7REgpHRH5#.mkv
-#EXTINF:-1 xui-id="317880" tvg-name="Wicked Parte II (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_LEzGiAppmWTl8gckWQQimUPJz9-fSH9MSwimIxmQv8.jpg" group-title="APPLETV+",Wicked Parte II (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIPAdqgCeOiXn0xRiWdKaFnCGcP1sWFdbQyJ6lCTrA-6#.mkv
-#EXTINF:-1 xui-id="317879" tvg-name="Matate amor (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tC0KURgClZisuNAwAd-S9wuxe5uyiuHDpJcvnvTMDT8.jpg" group-title="APPLETV+",Matate amor (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lmfnRmvRA5uhF71qfk-fYif#.mkv
+#EXTINF:-1 xui-id="197046" tvg-name="American Horror Story S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/j75cyPWx1pmYsid11FiUAsOserM.jpg" group-title="DISNEY+",American Horror Story S05E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0r-BhjHKkUQGBjat4KWwoNJ#.mkv
+#EXTINF:-1 xui-id="197045" tvg-name="American Horror Story S04E13" tvg-logo="https://image.tmdb.org/t/p/w1280/j7rKqKSP3jyEP6NAwyGrhes82gA.jpg" group-title="DISNEY+",American Horror Story S04E13
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qsg-l6FcsRJv0zcb73ZJeX#.mkv
+#EXTINF:-1 xui-id="197044" tvg-name="American Horror Story S05E12" tvg-logo="https://image.tmdb.org/t/p/w1280/5DImPlCtApJbKGfnp96Tn9skQ9F.jpg" group-title="DISNEY+",American Horror Story S05E12
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qKWkHbR0lXtUiwzxyaA6jh#.mkv
+#EXTINF:-1 xui-id="197043" tvg-name="American Horror Story S05E11" tvg-logo="https://image.tmdb.org/t/p/w1280/uacbm3cpIdeTV6FWdBHQiXcv6Gl.jpg" group-title="DISNEY+",American Horror Story S05E11
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pMnITS0qQhk_i7lWrXDgKW#.mkv
+#EXTINF:-1 xui-id="197042" tvg-name="American Horror Story S05E04" tvg-logo="https://image.tmdb.org/t/p/w1280/mvf6mqjM5iFZ9l0N34IzW8vyvU6.jpg" group-title="DISNEY+",American Horror Story S05E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qM9Nx8p5j8LH-yCvAuNuIH#.mkv
+#EXTINF:-1 xui-id="197041" tvg-name="American Horror Story S05E05" tvg-logo="https://image.tmdb.org/t/p/w1280/7a1g2fs8vOR5THMHHL9Pg1QsX1W.jpg" group-title="DISNEY+",American Horror Story S05E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0prrjrd-_OIYDqzqgPpVmrp#.mkv
+#EXTINF:-1 xui-id="197040" tvg-name="American Horror Story S05E09" tvg-logo="https://image.tmdb.org/t/p/w1280/ppih0fbnhUesTL6ycMBkcHYE99H.jpg" group-title="DISNEY+",American Horror Story S05E09
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rn7iMFVScIiu_gxybuU8Th#.mkv
+#EXTINF:-1 xui-id="197039" tvg-name="American Horror Story S05E10" tvg-logo="https://image.tmdb.org/t/p/w1280/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg" group-title="DISNEY+",American Horror Story S05E10
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oLCTOiHEo4e891RZ4O4PCw#.mkv
+#EXTINF:-1 xui-id="197038" tvg-name="American Horror Story S05E07" tvg-logo="https://image.tmdb.org/t/p/w1280/jvTvsErxd6pVaEVq4inbY6cHTDZ.jpg" group-title="DISNEY+",American Horror Story S05E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0r8Ark3EkR33idqsPFCZgmq#.mkv
+#EXTINF:-1 xui-id="197037" tvg-name="American Horror Story S04E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iC8Va2UVW4RX0Uzs4dEanzUMNGc.jpg" group-title="DISNEY+",American Horror Story S04E11
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0r0dxWk4rm6EY8rq0Nit1ou#.mkv
+#EXTINF:-1 xui-id="197036" tvg-name="American Horror Story S05E02" tvg-logo="https://image.tmdb.org/t/p/w1280/4YRXAeL9CBYOw0wdqSDayQbLApk.jpg" group-title="DISNEY+",American Horror Story S05E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rGAwtgeQzS4XJezhcNf76O#.mkv
+#EXTINF:-1 xui-id="197035" tvg-name="American Horror Story S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/89eu71hZLaEae2Zj19j63rBAym8.jpg" group-title="DISNEY+",American Horror Story S05E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0q_rBdm6kW4KnMiyK9UE7IG#.mkv
+#EXTINF:-1 xui-id="197034" tvg-name="American Horror Story S04E10" tvg-logo="https://image.tmdb.org/t/p/w1280/liYpJfIdeZiAdDduEH6gddOKhh2.jpg" group-title="DISNEY+",American Horror Story S04E10
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pTRgdacrIc51wnR66Jx_WU#.mkv
+#EXTINF:-1 xui-id="197033" tvg-name="American Horror Story S04E12" tvg-logo="https://image.tmdb.org/t/p/w1280/mxbYAKo5Y129hsXluiOulpmY58I.jpg" group-title="DISNEY+",American Horror Story S04E12
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0otuogIWX9QtvQgrWl320hc#.mkv
+#EXTINF:-1 xui-id="197032" tvg-name="American Horror Story S05E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yjvwYPPTe1uGcmtDBTdjjgB4ZVk.jpg" group-title="DISNEY+",American Horror Story S05E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qA8EB8YFhwo2vEMHX4vUkO#.mkv
+#EXTINF:-1 xui-id="197031" tvg-name="American Horror Story S05E06" tvg-logo="https://image.tmdb.org/t/p/w1280/dd4BGh0wvkwghybBdWErwSvMl1x.jpg" group-title="DISNEY+",American Horror Story S05E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qo4cp-F8UpKwN0YL6UPFP6#.mkv
+#EXTINF:-1 xui-id="197030" tvg-name="American Horror Story S04E08" tvg-logo="https://image.tmdb.org/t/p/w1280/y2wSsXT9krEaBGRuGDBRxwuf5BR.jpg" group-title="DISNEY+",American Horror Story S04E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0ooVUaeSsWlJzpGqMZi5IuY#.mkv
+#EXTINF:-1 xui-id="197029" tvg-name="American Horror Story S04E09" tvg-logo="https://image.tmdb.org/t/p/w1280/15WkSNFV7T0IywdleODVloeJ6rQ.jpg" group-title="DISNEY+",American Horror Story S04E09
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0ot8MVpxeWUSvlt3WJDHIlB#.mkv
+#EXTINF:-1 xui-id="197028" tvg-name="American Horror Story S04E07" tvg-logo="https://image.tmdb.org/t/p/w1280/zS95p8e7ZmifgDaBcR1CCQrCbpK.jpg" group-title="DISNEY+",American Horror Story S04E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rJVOFnlR-P5GX-lHUwNnaM#.mkv
+#EXTINF:-1 xui-id="197027" tvg-name="American Horror Story S04E06" tvg-logo="https://image.tmdb.org/t/p/w1280/u4aro94og1c3r1Ids67veIS8s31.jpg" group-title="DISNEY+",American Horror Story S04E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oHHV_XTFwmZsrZByoa1PL_#.mkv
+#EXTINF:-1 xui-id="197026" tvg-name="American Horror Story S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/323bxodJTRE3AfvMaRyecRwuyHr.jpg" group-title="DISNEY+",American Horror Story S03E10
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0okHShzJpJi9FYetJWApn1l#.mkv
+#EXTINF:-1 xui-id="197025" tvg-name="American Horror Story S04E04" tvg-logo="https://image.tmdb.org/t/p/w1280/lZpprblfjXNOAHkdkHYXOr07jgf.jpg" group-title="DISNEY+",American Horror Story S04E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oHmMAClvZ8Tspf71EHcXw3#.mkv
+#EXTINF:-1 xui-id="197024" tvg-name="American Horror Story S04E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fIciCZARRhb91aWZtIPGhTSCjX8.jpg" group-title="DISNEY+",American Horror Story S04E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rWdfhYmTOFUZeJvAC55IXO#.mkv
+#EXTINF:-1 xui-id="197023" tvg-name="American Horror Story S04E05" tvg-logo="https://image.tmdb.org/t/p/w1280/xu1BpUcKV7cWeRy5abA3gmqgo38.jpg" group-title="DISNEY+",American Horror Story S04E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0q9ktLxNitboZV3HTk0glIy#.mkv
+#EXTINF:-1 xui-id="197022" tvg-name="American Horror Story S04E02" tvg-logo="https://image.tmdb.org/t/p/w1280/5tHkRWsLBWhCdRMU5Wme17oyyC4.jpg" group-title="DISNEY+",American Horror Story S04E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qjkO1nEM3sZtGlkf42oBc5#.mkv
+#EXTINF:-1 xui-id="197021" tvg-name="American Horror Story S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/78uSyvutlDQe2I3uIktJCQprjVO.jpg" group-title="DISNEY+",American Horror Story S03E12
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rCYObZuio_uRdLZ7eM7rJa#.mkv
+#EXTINF:-1 xui-id="197020" tvg-name="American Horror Story S04E01" tvg-logo="https://image.tmdb.org/t/p/w1280/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg" group-title="DISNEY+",American Horror Story S04E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rQ4zl7VSyVXzR2aBhyy7Hn#.mkv
+#EXTINF:-1 xui-id="197019" tvg-name="American Horror Story S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/hNgAAaTwEEE9e9N13Gfu6F1Mv9r.jpg" group-title="DISNEY+",American Horror Story S03E11
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pBe-_jNMG1MJBroaC0mxzG#.mkv
+#EXTINF:-1 xui-id="197018" tvg-name="American Horror Story S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/3k4ZSPPChsEyExEpnlMNnQDzn01.jpg" group-title="DISNEY+",American Horror Story S03E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0ppjE4VcAr0qVLh5nKUAoY2#.mkv
+#EXTINF:-1 xui-id="197017" tvg-name="American Horror Story S03E13" tvg-logo="https://image.tmdb.org/t/p/w1280/3TDHOFauAvIv1IDGO9njRqarMS0.jpg" group-title="DISNEY+",American Horror Story S03E13
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qmPUZtF73olC7Fg0mAP-Hj#.mkv
+#EXTINF:-1 xui-id="197016" tvg-name="American Horror Story S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/rs3VgNjPrYtmAklYWnsFBmVPR4v.jpg" group-title="DISNEY+",American Horror Story S03E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qXj6Y1PMSWHJqZUKt9AhDM#.mkv
+#EXTINF:-1 xui-id="197015" tvg-name="American Horror Story S02E11" tvg-logo="https://image.tmdb.org/t/p/w1280/6QYCnSmOeaWCL9HgagjTmVRZXDk.jpg" group-title="DISNEY+",American Horror Story S02E11
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pkjNu43jaTHnjbBsPSkcDW#.mkv
+#EXTINF:-1 xui-id="197014" tvg-name="American Horror Story S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/sWdUyVIO5R24WiWDKdKQtyNgN75.jpg" group-title="DISNEY+",American Horror Story S02E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rtg7eMrEMDYsXV1BZh1TB4#.mkv
+#EXTINF:-1 xui-id="197013" tvg-name="American Horror Story S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/6QPoHRATOHCRmnkbI4Y1Mg145MH.jpg" group-title="DISNEY+",American Horror Story S03E09
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qxwn8rqOPD1lQRQWa99SVA#.mkv
+#EXTINF:-1 xui-id="197012" tvg-name="American Horror Story S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/pC5E5whPyU5N4UGTdliutSCdEFX.jpg" group-title="DISNEY+",American Horror Story S03E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pND_RkEcFk-yl70uMo9GTQ#.mkv
+#EXTINF:-1 xui-id="197011" tvg-name="American Horror Story S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/9s2ihbFkazJ8IICagmEDIMfBTnV.jpg" group-title="DISNEY+",American Horror Story S03E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qp-jzbWPZ3xuKInLbeI_BW#.mkv
+#EXTINF:-1 xui-id="197010" tvg-name="American Horror Story S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/wtpfsxhFqQAbk17pvLaUpT1Hxqs.jpg" group-title="DISNEY+",American Horror Story S03E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oZtEDCoZZaFiGlsy2W1uH9#.mkv
+#EXTINF:-1 xui-id="197009" tvg-name="American Horror Story S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/6JzYxiQjVEhsb2hzZub1jzPBZnh.jpg" group-title="DISNEY+",American Horror Story S03E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qQp3wI9JNbExGlnBRuqTiY#.mkv
+#EXTINF:-1 xui-id="197008" tvg-name="American Horror Story S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg" group-title="DISNEY+",American Horror Story S03E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0opoSHNTk_UTVG-YQx5svqw#.mkv
+#EXTINF:-1 xui-id="197007" tvg-name="American Horror Story S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/bVE5WEmqQ0K5x4gF2gpVLluYAOR.jpg" group-title="DISNEY+",American Horror Story S02E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qGTpSGGVDN_57JVCQoouwt#.mkv
+#EXTINF:-1 xui-id="197006" tvg-name="American Horror Story S02E10" tvg-logo="https://image.tmdb.org/t/p/w1280/rCGdvTrXhPb6iJEJVw8kMnYZXvZ.jpg" group-title="DISNEY+",American Horror Story S02E10
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0o9RVmANYXDvD20RVLhR6VG#.mkv
+#EXTINF:-1 xui-id="197005" tvg-name="American Horror Story S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wKw0kdTel5qwuBKf464Iaxr4J7V.jpg" group-title="DISNEY+",American Horror Story S03E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pdwfxXeaQR61446MNpOzn4#.mkv
+#EXTINF:-1 xui-id="197004" tvg-name="American Horror Story S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/viadz8P4ASoDipnkRYDW0e1q3DP.jpg" group-title="DISNEY+",American Horror Story S02E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qR5D4W7tNkL74EWe4K6JRH#.mkv
+#EXTINF:-1 xui-id="197003" tvg-name="American Horror Story S02E13" tvg-logo="https://image.tmdb.org/t/p/w1280/rH1EHLK2qAlv8AAbQW0qRbgRL7P.jpg" group-title="DISNEY+",American Horror Story S02E13
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0q-_jQWDu-2cKdjPqAnMo6I#.mkv
+#EXTINF:-1 xui-id="197002" tvg-name="American Horror Story S02E12" tvg-logo="https://image.tmdb.org/t/p/w1280/kmlZ7sl8FUoF1bSEMULpy40585G.jpg" group-title="DISNEY+",American Horror Story S02E12
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0onV3F5P7rxTO4_AEAgdz_j#.mkv
+#EXTINF:-1 xui-id="197001" tvg-name="American Horror Story S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/dBPs6NuD1UjjAfLGJ1MkpIJpM0E.jpg" group-title="DISNEY+",American Horror Story S02E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rIX8JjUe48Zi6d9-5NINKC#.mkv
+#EXTINF:-1 xui-id="197000" tvg-name="American Horror Story S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/cf9MPvTzmlOXYQsU0o0NjnJLfKe.jpg" group-title="DISNEY+",American Horror Story S02E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0p65CfQ1XAE5q1VvGGKUcuY#.mkv
+#EXTINF:-1 xui-id="196999" tvg-name="American Horror Story S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/ldjL9mHJDPXHyXCiuYhOnYvYg0w.jpg" group-title="DISNEY+",American Horror Story S02E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDRlovrfw1v4X_JpEmFxAPzY#.mkv
+#EXTINF:-1 xui-id="196998" tvg-name="American Horror Story S02E09" tvg-logo="https://image.tmdb.org/t/p/w1280/rpXHrb7v3NPBVtXODmbmwdJI3SO.jpg" group-title="DISNEY+",American Horror Story S02E09
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDRp7l9w97xjH9gmqiR6eq8e#.mkv
+#EXTINF:-1 xui-id="196997" tvg-name="American Horror Story S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/rKBnKQFnqxxNa5alMyzTYvaLc7A.jpg" group-title="DISNEY+",American Horror Story S02E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSMfC5t40sOoMMOGfXcciQ1#.mkv
+#EXTINF:-1 xui-id="196996" tvg-name="American Horror Story S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg" group-title="DISNEY+",American Horror Story S02E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSEhWAg6SaLN94j5x6TfjLZ#.mk
 #EXTINF:-1 xui-id="317875" tvg-name="Good Boy (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03kHkzwvw6I80LH0AViYjLrmJwLBDvYp9eUN4J4uyN3c.jpg" group-title="APPLETV+",Good Boy (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lklvjVILMiZgQSMettE6y4o#.mkv
 #EXTINF:-1 xui-id="317874" tvg-name="Chainsaw Man - La película: El arco de Reze (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oPUU7dFTm95wyGNB9RkCIuixcBZ8f7mUs5Us6_pUpE0.jpg" group-title="APPLETV+",Chainsaw Man - La película: El arco de Reze (2025)
@@ -1788,8 +1966,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WB8e6lZqT3Fwu7q7stKwT7a59upO
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WByoFs4CO-ILopc52KCQClao6bvksErZn41Zo4gha9NA#.mkv
 #EXTINF:-1 xui-id="214758" tvg-name="Garfield: La película (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0G6TzT9VVyaOSxuJ-zSalOW6F8gmu8saaMzLWC2EsKSk.jpg" group-title="PELICULAS 2024",Garfield: La película (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WByoFs4CO-ILopc52KCQClbMMPgkLFGV4f0bpEP9H9So#.mkv
-#EXTINF:-1 xui-id="214757" tvg-name="El reino del planeta de los simios (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oVDC7u36IMXUIoS-JoPxP0uHkgsAtX5RZ1idfGudAD8.jpg" group-title="PELICULAS 2024",El reino del planeta de los simios (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WByoFs4CO-ILopc52KCQClbm8FJJZcOiDYjLJ34gvaP5#.mkv
 #EXTINF:-1 xui-id="214756" tvg-name="Furiosa: De la saga Mad Max (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0th3lZFwo_G_DAprcfCkS6ps2oajVD4E2JFSUOTLDJbY.jpg" group-title="PELICULAS 2024",Furiosa: De la saga Mad Max (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WByoFs4CO-ILopc52KCQCla94ppgO-huuD7qDIq7080j#.mkv
 #EXTINF:-1 xui-id="213910" tvg-name="Superdetective en Hollywood: Axel F. (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0y-7zvFsJsUgnvOeNgMe0uzTmTf5OtiQcEN9meWCl_iE.jpg" group-title="PELICULAS 2024",Superdetective en Hollywood: Axel F. (2024)
@@ -1874,14 +2050,10 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNmEwOlcC_5exXrrbwk0bAcX_8yO
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNmEwOlcC_5exXrrbwk0bAf84hYFsDKkXCDeoHKvKRZG#.mkv
 #EXTINF:-1 xui-id="204176" tvg-name="Huida del planeta de los simios (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbFub0UiNQi3SBSOjwGNLhEroc.jpg" group-title="SAGAS",Huida del planeta de los simios (1971)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5FRSX-iMLuvQ6Mg6L8qfIFE#.mkv
-#EXTINF:-1 xui-id="204175" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtMf3h4RoUJ26P0JQBU6W3bel3o9mptKEPIXgkVBJwOo.jpg" group-title="SAGAS",El amanecer del planeta de los simios (2014)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5G2ElZ11VJCQjJre15E3X4w#.mkv
 #EXTINF:-1 xui-id="204174" tvg-name="El origen del planeta de los simios (2011)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-WO2894CpEspQ-kFZHXbrlefaXWHAqkjuxnKwr6lsIo.jpg" group-title="SAGAS",El origen del planeta de los simios (2011)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5EQBtJvobguTVas0VNoSnhO#.mkv
 #EXTINF:-1 xui-id="204173" tvg-name="El planeta de los simios (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg" group-title="SAGAS",El planeta de los simios (2001)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5EITUAhTNjPu8S-mK9A_FSZ#.mkv
-#EXTINF:-1 xui-id="204172" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" group-title="SAGAS",La guerra del planeta de los simios (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5FmQ6MD28vaYNwe1YSz4uSJ#.mkv
 #EXTINF:-1 xui-id="204170" tvg-name="La conquista del planeta de los simios (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kQ0wmBzoL4EZEF2jTft58AhBuv.jpg" group-title="SAGAS",La conquista del planeta de los simios (1973)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5H3MZ6RsnOKzfxV7Ic9GiNq#.mkv
 #EXTINF:-1 xui-id="204169" tvg-name="Regreso al planeta de los simios (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNh22vYIfd2Xr6zBoh8ZQGivt1L.jpg" group-title="SAGAS",Regreso al planeta de los simios (1970)
@@ -2458,8 +2630,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMZnDsQnxBQkESswh-HK0GSbjDpl
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMZnDsQnxBQkESswh-HK0GQaw2dtTsut_ID9e7I2LFs2#.mkv
 #EXTINF:-1 xui-id="190164" tvg-name="One Piece: Strong World (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg" group-title="CRUNCHYROLL",One Piece: Strong World (2009)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMZnDsQnxBQkESswh-HK0GSww7WZLq0Nq_Fchzy80cv-#.mkv
-#EXTINF:-1 xui-id="190151" tvg-name="Ghost in the Shell 2: Innocence (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltaWpzIbNWUnGlPLLre4tDi0PU8.jpg" group-title="CRUNCHYROLL",Ghost in the Shell 2: Innocence (2004)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA8EAknaLJawBSTFsi4kAgWsnzYPAyCRf6UK861sqQ_E#.mkv
 #EXTINF:-1 xui-id="190149" tvg-name="Blame (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnUoDaNvZXc1iD9SO43lMJ2xDCV.jpg" group-title="CRUNCHYROLL",Blame (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKFJbqInRgrYDSqfcb8s4_oBKCAX3_J36vy2LRRRA6KE#.mkv
 #EXTINF:-1 xui-id="190148" tvg-name="Belle (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg" group-title="CRUNCHYROLL",Belle (2013)
@@ -2890,8 +3060,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJQ1Ldk0OQyVLxgRIamG-E80ZOA0
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJQ1Ldk0OQyVLxgRIamG-E-WNCtcyXrznJ4UDQtji6GY#.mkv
 #EXTINF:-1 xui-id="189640" tvg-name="Bob Esponja presenta: La zona intermareal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0LRmNW4Rsu5086CswtrueFoAdz.jpg" group-title="PELICULAS 2024",Bob Esponja presenta: La zona intermareal (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJQ1Ldk0OQyVLxgRIamG-E-LRWPOC2NlVooepj2DGOK9#.mkv
-#EXTINF:-1 xui-id="189639" tvg-name="Black Widow (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3KH58uwCFJBjeTmu9uf6taBkCP.jpg" group-title="DISNEY+",Black Widow (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF1O8a2ZQ6gv3adjZIKU8Q3p#.mkv
 #EXTINF:-1 xui-id="189638" tvg-name="Aladdín (2019)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhLBx2j95eMeGnDCCJ0uvITWrNyccBnWRIoiVF4AuHb4.jpg" group-title="DISNEY+",Aladdín (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF0NAnsxftMxWIAES73DQMAv#.mkv
 #EXTINF:-1 xui-id="189637" tvg-name="Maleficio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEN0YnUefVD7AR4I0leT4Ep9tSm.jpg" group-title="NETFLIX",Maleficio (2022)
@@ -3644,8 +3812,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgUK70BD
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgXnrbZa-xFnkCqH5RafwAWX#.mkv
 #EXTINF:-1 xui-id="189082" tvg-name="Jackass Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCfviMjtmvMJUGBWK1xjUsQhn7S.jpg" group-title="PELICULAS 2022",Jackass Forever (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgV7k25wpnsNH3BMHpFUB_2c#.mkv
-#EXTINF:-1 xui-id="189081" tvg-name="Halloween: El final (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9J2CQk79hu9oiLUUbODq640eVYe.jpg" group-title="PELICULAS 2022",Halloween: El final (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgVLz13J_7cgIs3VEUWCGb5g#.mkv
 #EXTINF:-1 xui-id="189080" tvg-name="Gladiadores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwyBbGEku7KzjM7DzL3AX0ZOrJl.jpg" group-title="PELICULAS 2022",Gladiadores
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgUI8jdh8nB8JXv-rDBx74SG#.mkv
 #EXTINF:-1 xui-id="189079" tvg-name="Hawa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg" group-title="PELICULAS 2022",Hawa (2022)
@@ -8466,22 +8632,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6NkJjHT
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6Nw9gFrry1fNl1S4089wDV9#.mkv
 #EXTINF:-1 xui-id="339802" tvg-name="The Veil: red de mentiras S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0VgvewxK-kFdZPA5RptmSGmQgoI-GTNroCDoxIsd4bPo.jpg" group-title="DISNEY+",The Veil: red de mentiras S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6MOBFJ7_Xpku0IKYOT-hop7#.mkv
-#EXTINF:-1 xui-id="339801" tvg-name="The Acolyte S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SFXl3yQ_SzHFNLv3J6VRH_UGFBXFAJkm7iCm-r5ZAXA.jpg" group-title="DISNEY+",The Acolyte S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6NFRMwTLvoY2cd3mscwBj7s#.mkv
-#EXTINF:-1 xui-id="339800" tvg-name="The Acolyte S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lK8IrxoCtySCrcmzCmIt_D64AlXm5jv4qUNYCvB0V48.jpg" group-title="DISNEY+",The Acolyte S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6PY1qhYCv5LeRnKT9OR9zI2#.mkv
-#EXTINF:-1 xui-id="339799" tvg-name="The Acolyte S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zky2FK8qU-9YRSZVEwxQZkGD5by655k-6weAUTPUW6U.jpg" group-title="DISNEY+",The Acolyte S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0Geb2pca4xaYNpk2eAKXZyQ#.mkv
-#EXTINF:-1 xui-id="339798" tvg-name="The Acolyte S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0w5yJmC58ATS5eLrSOutp-X9pQ8QHypIa3KRAzyJjbvE.jpg" group-title="DISNEY+",The Acolyte S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GHPn3_O6enVtQ8YA6FKWJK#.mkv
-#EXTINF:-1 xui-id="339797" tvg-name="The Acolyte S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ygEb6YD53187uGuLrGO5Sd0TIhU9D1jY3Xtv0gxWdw0.jpg" group-title="DISNEY+",The Acolyte S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GVCckkgNP4n1VhrOAArxSy#.mkv
-#EXTINF:-1 xui-id="339796" tvg-name="The Acolyte S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Zbj767IN65h6HRlTzOH9xIn4GC7NazkanATq0d16gW4.jpg" group-title="DISNEY+",The Acolyte S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0G8YxBJd0zs5Mt2AQqRzFw0#.mkv
-#EXTINF:-1 xui-id="339795" tvg-name="The Acolyte S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ovh8ULYYuyLm6sXzVzE4UqaQOzDQuz_6blUVuhuSVDs.jpg" group-title="DISNEY+",The Acolyte S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0FNd7M-hlXEhbPg8-dz-lDI#.mkv
-#EXTINF:-1 xui-id="339794" tvg-name="The Acolyte S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ivk8e1gex9Ehmwys2xLJVOk9n3VwKvCkzYyQ4NhC5DY.jpg" group-title="DISNEY+",The Acolyte S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GvjZ0aba1P5IsFZNyBSt2T#.mkv
 #EXTINF:-1 xui-id="339547" tvg-name="Agatha, En todas partes S01E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0iOb0STSmW-S5D7KSXUhX59DdMHn8S8es6oL1cJVYGUQ.jpg" group-title="DISNEY+",Agatha, En todas partes S01E09
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRFIduhDYjXXJLE3A6FsAOq-w14EahrsaQUj1XdEpoQGA#.mkv
 #EXTINF:-1 xui-id="339546" tvg-name="Agatha, En todas partes S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0I6ao8KT12VPbnBVkwvwIxvb18m08YdBe4v36d8zk4PM.jpg" group-title="DISNEY+",Agatha, En todas partes S01E07
@@ -18376,14 +18526,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRAnN1ZdRw1cuzswUHA3-WcOnV2cn
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRAnN1ZdRw1cuzswUHA3-WcMqXLw2gtbDjC-9sFhjqXYA#.mkv
 #EXTINF:-1 xui-id="200200" tvg-name="Record of Ragnarok S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/aai6GXiCf2eeISDv5iTHZVAl34u.jpg" group-title="CRUNCHYROLL",Record of Ragnarok S01E02
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRAnN1ZdRw1cuzswUHA3-WcNshKPbgvdWy9CqKw97EQSS#.mkv
-#EXTINF:-1 xui-id="200199" tvg-name="Periodo azul S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/ibpThNOSS9IVvx8dw42PkNhxCQ3.jpg" group-title="CRUNCHYROLL",Periodo azul S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pbbG0J44_ioTtCjA2e9GX1s#.mkv
-#EXTINF:-1 xui-id="200182" tvg-name="Neon Genesis Evangelion S01E16" tvg-logo="https://image.tmdb.org/t/p/w1280/8bc2G10f8DgO2q1bjoMA9b1o1ml.jpg" group-title="CRUNCHYROLL",Neon Genesis Evangelion S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pZ5kJyV9AyOct6OgiSapSBr#.mkv
-#EXTINF:-1 xui-id="200158" tvg-name="Naruto S04E07" tvg-logo="https://image.tmdb.org/t/p/w1280/8bc2G10f8DgO2q1bjoMA9b1o1ml.jpg" group-title="CRUNCHYROLL",Naruto S04E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pZ940N3XvAO04GrB-_pFpP-#.mkv
-#EXTINF:-1 xui-id="200157" tvg-name="Naruto S03E52" tvg-logo="https://image.tmdb.org/t/p/w1280/8bc2G10f8DgO2q1bjoMA9b1o1ml.jpg" group-title="CRUNCHYROLL",Naruto S03E52
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pbwST_16u1cH_o5dNrHP7KH#.mkv
 #EXTINF:-1 xui-id="200145" tvg-name="Ultramarine Magmell S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/k6iciAPrxzy1b5lbbVBlwAwv4TS.jpg" group-title="CRUNCHYROLL",Ultramarine Magmell S01E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pbMmiMomFelrGlfxqvHdTAr#.mkv
 #EXTINF:-1 xui-id="200144" tvg-name="Little Witch Academia S02E25" tvg-logo="https://image.tmdb.org/t/p/w1280/k6iciAPrxzy1b5lbbVBlwAwv4TS.jpg" group-title="CRUNCHYROLL",Little Witch Academia S02E25
@@ -20952,134 +21094,8 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJiNjr_ez5Nk7UxD-xq-9ZBXsErX
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJiNjr_ez5Nk7UxD-xq-9ZCSeEio_N4xlALIj3AtMm9P#.mkv
 #EXTINF:-1 xui-id="197186" tvg-name="Asesinato en el fin del mundo S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/qiHJdGNgiHD760vIZvMejtmPDaH.jpg" group-title="DISNEY+",Asesinato en el fin del mundo S01E02
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJiNjr_ez5Nk7UxD-xq-9ZCA5jBpO8sorNnIf79BESYR#.mkv
-#EXTINF:-1 xui-id="197046" tvg-name="American Horror Story S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/j75cyPWx1pmYsid11FiUAsOserM.jpg" group-title="DISNEY+",American Horror Story S05E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0r-BhjHKkUQGBjat4KWwoNJ#.mkv
-#EXTINF:-1 xui-id="197045" tvg-name="American Horror Story S04E13" tvg-logo="https://image.tmdb.org/t/p/w1280/j7rKqKSP3jyEP6NAwyGrhes82gA.jpg" group-title="DISNEY+",American Horror Story S04E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qsg-l6FcsRJv0zcb73ZJeX#.mkv
-#EXTINF:-1 xui-id="197044" tvg-name="American Horror Story S05E12" tvg-logo="https://image.tmdb.org/t/p/w1280/5DImPlCtApJbKGfnp96Tn9skQ9F.jpg" group-title="DISNEY+",American Horror Story S05E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qKWkHbR0lXtUiwzxyaA6jh#.mkv
-#EXTINF:-1 xui-id="197043" tvg-name="American Horror Story S05E11" tvg-logo="https://image.tmdb.org/t/p/w1280/uacbm3cpIdeTV6FWdBHQiXcv6Gl.jpg" group-title="DISNEY+",American Horror Story S05E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pMnITS0qQhk_i7lWrXDgKW#.mkv
-#EXTINF:-1 xui-id="197042" tvg-name="American Horror Story S05E04" tvg-logo="https://image.tmdb.org/t/p/w1280/mvf6mqjM5iFZ9l0N34IzW8vyvU6.jpg" group-title="DISNEY+",American Horror Story S05E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qM9Nx8p5j8LH-yCvAuNuIH#.mkv
-#EXTINF:-1 xui-id="197041" tvg-name="American Horror Story S05E05" tvg-logo="https://image.tmdb.org/t/p/w1280/7a1g2fs8vOR5THMHHL9Pg1QsX1W.jpg" group-title="DISNEY+",American Horror Story S05E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0prrjrd-_OIYDqzqgPpVmrp#.mkv
-#EXTINF:-1 xui-id="197040" tvg-name="American Horror Story S05E09" tvg-logo="https://image.tmdb.org/t/p/w1280/ppih0fbnhUesTL6ycMBkcHYE99H.jpg" group-title="DISNEY+",American Horror Story S05E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rn7iMFVScIiu_gxybuU8Th#.mkv
-#EXTINF:-1 xui-id="197039" tvg-name="American Horror Story S05E10" tvg-logo="https://image.tmdb.org/t/p/w1280/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg" group-title="DISNEY+",American Horror Story S05E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oLCTOiHEo4e891RZ4O4PCw#.mkv
-#EXTINF:-1 xui-id="197038" tvg-name="American Horror Story S05E07" tvg-logo="https://image.tmdb.org/t/p/w1280/jvTvsErxd6pVaEVq4inbY6cHTDZ.jpg" group-title="DISNEY+",American Horror Story S05E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0r8Ark3EkR33idqsPFCZgmq#.mkv
-#EXTINF:-1 xui-id="197037" tvg-name="American Horror Story S04E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iC8Va2UVW4RX0Uzs4dEanzUMNGc.jpg" group-title="DISNEY+",American Horror Story S04E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0r0dxWk4rm6EY8rq0Nit1ou#.mkv
-#EXTINF:-1 xui-id="197036" tvg-name="American Horror Story S05E02" tvg-logo="https://image.tmdb.org/t/p/w1280/4YRXAeL9CBYOw0wdqSDayQbLApk.jpg" group-title="DISNEY+",American Horror Story S05E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rGAwtgeQzS4XJezhcNf76O#.mkv
-#EXTINF:-1 xui-id="197035" tvg-name="American Horror Story S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/89eu71hZLaEae2Zj19j63rBAym8.jpg" group-title="DISNEY+",American Horror Story S05E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0q_rBdm6kW4KnMiyK9UE7IG#.mkv
-#EXTINF:-1 xui-id="197034" tvg-name="American Horror Story S04E10" tvg-logo="https://image.tmdb.org/t/p/w1280/liYpJfIdeZiAdDduEH6gddOKhh2.jpg" group-title="DISNEY+",American Horror Story S04E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pTRgdacrIc51wnR66Jx_WU#.mkv
-#EXTINF:-1 xui-id="197033" tvg-name="American Horror Story S04E12" tvg-logo="https://image.tmdb.org/t/p/w1280/mxbYAKo5Y129hsXluiOulpmY58I.jpg" group-title="DISNEY+",American Horror Story S04E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0otuogIWX9QtvQgrWl320hc#.mkv
-#EXTINF:-1 xui-id="197032" tvg-name="American Horror Story S05E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yjvwYPPTe1uGcmtDBTdjjgB4ZVk.jpg" group-title="DISNEY+",American Horror Story S05E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qA8EB8YFhwo2vEMHX4vUkO#.mkv
-#EXTINF:-1 xui-id="197031" tvg-name="American Horror Story S05E06" tvg-logo="https://image.tmdb.org/t/p/w1280/dd4BGh0wvkwghybBdWErwSvMl1x.jpg" group-title="DISNEY+",American Horror Story S05E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qo4cp-F8UpKwN0YL6UPFP6#.mkv
-#EXTINF:-1 xui-id="197030" tvg-name="American Horror Story S04E08" tvg-logo="https://image.tmdb.org/t/p/w1280/y2wSsXT9krEaBGRuGDBRxwuf5BR.jpg" group-title="DISNEY+",American Horror Story S04E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0ooVUaeSsWlJzpGqMZi5IuY#.mkv
-#EXTINF:-1 xui-id="197029" tvg-name="American Horror Story S04E09" tvg-logo="https://image.tmdb.org/t/p/w1280/15WkSNFV7T0IywdleODVloeJ6rQ.jpg" group-title="DISNEY+",American Horror Story S04E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0ot8MVpxeWUSvlt3WJDHIlB#.mkv
-#EXTINF:-1 xui-id="197028" tvg-name="American Horror Story S04E07" tvg-logo="https://image.tmdb.org/t/p/w1280/zS95p8e7ZmifgDaBcR1CCQrCbpK.jpg" group-title="DISNEY+",American Horror Story S04E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rJVOFnlR-P5GX-lHUwNnaM#.mkv
-#EXTINF:-1 xui-id="197027" tvg-name="American Horror Story S04E06" tvg-logo="https://image.tmdb.org/t/p/w1280/u4aro94og1c3r1Ids67veIS8s31.jpg" group-title="DISNEY+",American Horror Story S04E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oHHV_XTFwmZsrZByoa1PL_#.mkv
-#EXTINF:-1 xui-id="197026" tvg-name="American Horror Story S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/323bxodJTRE3AfvMaRyecRwuyHr.jpg" group-title="DISNEY+",American Horror Story S03E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0okHShzJpJi9FYetJWApn1l#.mkv
-#EXTINF:-1 xui-id="197025" tvg-name="American Horror Story S04E04" tvg-logo="https://image.tmdb.org/t/p/w1280/lZpprblfjXNOAHkdkHYXOr07jgf.jpg" group-title="DISNEY+",American Horror Story S04E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oHmMAClvZ8Tspf71EHcXw3#.mkv
-#EXTINF:-1 xui-id="197024" tvg-name="American Horror Story S04E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fIciCZARRhb91aWZtIPGhTSCjX8.jpg" group-title="DISNEY+",American Horror Story S04E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rWdfhYmTOFUZeJvAC55IXO#.mkv
-#EXTINF:-1 xui-id="197023" tvg-name="American Horror Story S04E05" tvg-logo="https://image.tmdb.org/t/p/w1280/xu1BpUcKV7cWeRy5abA3gmqgo38.jpg" group-title="DISNEY+",American Horror Story S04E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0q9ktLxNitboZV3HTk0glIy#.mkv
-#EXTINF:-1 xui-id="197022" tvg-name="American Horror Story S04E02" tvg-logo="https://image.tmdb.org/t/p/w1280/5tHkRWsLBWhCdRMU5Wme17oyyC4.jpg" group-title="DISNEY+",American Horror Story S04E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qjkO1nEM3sZtGlkf42oBc5#.mkv
-#EXTINF:-1 xui-id="197021" tvg-name="American Horror Story S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/78uSyvutlDQe2I3uIktJCQprjVO.jpg" group-title="DISNEY+",American Horror Story S03E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rCYObZuio_uRdLZ7eM7rJa#.mkv
-#EXTINF:-1 xui-id="197020" tvg-name="American Horror Story S04E01" tvg-logo="https://image.tmdb.org/t/p/w1280/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg" group-title="DISNEY+",American Horror Story S04E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rQ4zl7VSyVXzR2aBhyy7Hn#.mkv
-#EXTINF:-1 xui-id="197019" tvg-name="American Horror Story S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/hNgAAaTwEEE9e9N13Gfu6F1Mv9r.jpg" group-title="DISNEY+",American Horror Story S03E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pBe-_jNMG1MJBroaC0mxzG#.mkv
-#EXTINF:-1 xui-id="197018" tvg-name="American Horror Story S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/3k4ZSPPChsEyExEpnlMNnQDzn01.jpg" group-title="DISNEY+",American Horror Story S03E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0ppjE4VcAr0qVLh5nKUAoY2#.mkv
-#EXTINF:-1 xui-id="197017" tvg-name="American Horror Story S03E13" tvg-logo="https://image.tmdb.org/t/p/w1280/3TDHOFauAvIv1IDGO9njRqarMS0.jpg" group-title="DISNEY+",American Horror Story S03E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qmPUZtF73olC7Fg0mAP-Hj#.mkv
-#EXTINF:-1 xui-id="197016" tvg-name="American Horror Story S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/rs3VgNjPrYtmAklYWnsFBmVPR4v.jpg" group-title="DISNEY+",American Horror Story S03E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qXj6Y1PMSWHJqZUKt9AhDM#.mkv
-#EXTINF:-1 xui-id="197015" tvg-name="American Horror Story S02E11" tvg-logo="https://image.tmdb.org/t/p/w1280/6QYCnSmOeaWCL9HgagjTmVRZXDk.jpg" group-title="DISNEY+",American Horror Story S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pkjNu43jaTHnjbBsPSkcDW#.mkv
-#EXTINF:-1 xui-id="197014" tvg-name="American Horror Story S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/sWdUyVIO5R24WiWDKdKQtyNgN75.jpg" group-title="DISNEY+",American Horror Story S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rtg7eMrEMDYsXV1BZh1TB4#.mkv
-#EXTINF:-1 xui-id="197013" tvg-name="American Horror Story S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/6QPoHRATOHCRmnkbI4Y1Mg145MH.jpg" group-title="DISNEY+",American Horror Story S03E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qxwn8rqOPD1lQRQWa99SVA#.mkv
-#EXTINF:-1 xui-id="197012" tvg-name="American Horror Story S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/pC5E5whPyU5N4UGTdliutSCdEFX.jpg" group-title="DISNEY+",American Horror Story S03E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pND_RkEcFk-yl70uMo9GTQ#.mkv
-#EXTINF:-1 xui-id="197011" tvg-name="American Horror Story S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/9s2ihbFkazJ8IICagmEDIMfBTnV.jpg" group-title="DISNEY+",American Horror Story S03E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qp-jzbWPZ3xuKInLbeI_BW#.mkv
-#EXTINF:-1 xui-id="197010" tvg-name="American Horror Story S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/wtpfsxhFqQAbk17pvLaUpT1Hxqs.jpg" group-title="DISNEY+",American Horror Story S03E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0oZtEDCoZZaFiGlsy2W1uH9#.mkv
-#EXTINF:-1 xui-id="197009" tvg-name="American Horror Story S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/6JzYxiQjVEhsb2hzZub1jzPBZnh.jpg" group-title="DISNEY+",American Horror Story S03E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qQp3wI9JNbExGlnBRuqTiY#.mkv
-#EXTINF:-1 xui-id="197008" tvg-name="American Horror Story S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg" group-title="DISNEY+",American Horror Story S03E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0opoSHNTk_UTVG-YQx5svqw#.mkv
-#EXTINF:-1 xui-id="197007" tvg-name="American Horror Story S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/bVE5WEmqQ0K5x4gF2gpVLluYAOR.jpg" group-title="DISNEY+",American Horror Story S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qGTpSGGVDN_57JVCQoouwt#.mkv
-#EXTINF:-1 xui-id="197006" tvg-name="American Horror Story S02E10" tvg-logo="https://image.tmdb.org/t/p/w1280/rCGdvTrXhPb6iJEJVw8kMnYZXvZ.jpg" group-title="DISNEY+",American Horror Story S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0o9RVmANYXDvD20RVLhR6VG#.mkv
-#EXTINF:-1 xui-id="197005" tvg-name="American Horror Story S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wKw0kdTel5qwuBKf464Iaxr4J7V.jpg" group-title="DISNEY+",American Horror Story S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0pdwfxXeaQR61446MNpOzn4#.mkv
-#EXTINF:-1 xui-id="197004" tvg-name="American Horror Story S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/viadz8P4ASoDipnkRYDW0e1q3DP.jpg" group-title="DISNEY+",American Horror Story S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0qR5D4W7tNkL74EWe4K6JRH#.mkv
-#EXTINF:-1 xui-id="197003" tvg-name="American Horror Story S02E13" tvg-logo="https://image.tmdb.org/t/p/w1280/rH1EHLK2qAlv8AAbQW0qRbgRL7P.jpg" group-title="DISNEY+",American Horror Story S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0q-_jQWDu-2cKdjPqAnMo6I#.mkv
-#EXTINF:-1 xui-id="197002" tvg-name="American Horror Story S02E12" tvg-logo="https://image.tmdb.org/t/p/w1280/kmlZ7sl8FUoF1bSEMULpy40585G.jpg" group-title="DISNEY+",American Horror Story S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0onV3F5P7rxTO4_AEAgdz_j#.mkv
-#EXTINF:-1 xui-id="197001" tvg-name="American Horror Story S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/dBPs6NuD1UjjAfLGJ1MkpIJpM0E.jpg" group-title="DISNEY+",American Horror Story S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0rIX8JjUe48Zi6d9-5NINKC#.mkv
-#EXTINF:-1 xui-id="197000" tvg-name="American Horror Story S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/cf9MPvTzmlOXYQsU0o0NjnJLfKe.jpg" group-title="DISNEY+",American Horror Story S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRLpxC8GXFHrALRYrwSHv-0p65CfQ1XAE5q1VvGGKUcuY#.mkv
-#EXTINF:-1 xui-id="196999" tvg-name="American Horror Story S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/ldjL9mHJDPXHyXCiuYhOnYvYg0w.jpg" group-title="DISNEY+",American Horror Story S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDRlovrfw1v4X_JpEmFxAPzY#.mkv
-#EXTINF:-1 xui-id="196998" tvg-name="American Horror Story S02E09" tvg-logo="https://image.tmdb.org/t/p/w1280/rpXHrb7v3NPBVtXODmbmwdJI3SO.jpg" group-title="DISNEY+",American Horror Story S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDRp7l9w97xjH9gmqiR6eq8e#.mkv
-#EXTINF:-1 xui-id="196997" tvg-name="American Horror Story S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/rKBnKQFnqxxNa5alMyzTYvaLc7A.jpg" group-title="DISNEY+",American Horror Story S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSMfC5t40sOoMMOGfXcciQ1#.mkv
-#EXTINF:-1 xui-id="196996" tvg-name="American Horror Story S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg" group-title="DISNEY+",American Horror Story S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSEhWAg6SaLN94j5x6TfjLZ#.mkv
-#EXTINF:-1 xui-id="196995" tvg-name="American Horror Story S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/sVVbEAkSUbH692x9r3nlyjniJDD.jpg" group-title="DISNEY+",American Horror Story S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSJc2fZlSWRo8aG1oV2pDSJ#.mkv
-#EXTINF:-1 xui-id="196994" tvg-name="American Horror Story S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/w9inideNIdY01pIfitvADtECjsC.jpg" group-title="DISNEY+",American Horror Story S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDR1gVqqDIA9ulYP54dQFwst#.mkv
-#EXTINF:-1 xui-id="196993" tvg-name="American Horror Story S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/uyvewdpjODNcfyYMSBQ3B9aDccP.jpg" group-title="DISNEY+",American Horror Story S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDQUgmMsfkf-xULhsPCkxeNs#.mkv
-#EXTINF:-1 xui-id="196992" tvg-name="American Horror Story S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/8iKtNib84Iy6ASU3xfElZz0V5Ae.jpg" group-title="DISNEY+",American Horror Story S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDTquG2z922hnZ9kC9iKsWXJ#.mkv
-#EXTINF:-1 xui-id="196991" tvg-name="American Horror Story S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/u9P51AgyvsaoKVlqDyUBC00yw65.jpg" group-title="DISNEY+",American Horror Story S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDT47mLS3F5nGQqQlYArWj3j#.mkv
 #EXTINF:-1 xui-id="196990" tvg-name="American Horror Stories S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/b30dqD4u2J6FaYGzW0VgkWAFXac.jpg" group-title="DISNEY+",American Horror Stories S02E02
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSavs9bhxpqNZEtF5mTQasq#.mkv
-#EXTINF:-1 xui-id="196989" tvg-name="American Horror Story S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/zrmWli2rdj9mrWeVHRoWZbn513c.jpg" group-title="DISNEY+",American Horror Story S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDQqE9IM9tGoYWA1q6zx9Hjk#.mkv
-#EXTINF:-1 xui-id="196988" tvg-name="American Horror Story S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/sSliNZXfHzDZKQQZc85zkth9rSR.jpg" group-title="DISNEY+",American Horror Story S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDThs4VRZiiQtun3edgWTNVG#.mkv
-#EXTINF:-1 xui-id="196987" tvg-name="American Horror Story S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/2ZfgFdAnPLw264NiIpob6ODNR2L.jpg" group-title="DISNEY+",American Horror Story S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDR14hHF0uT4tybIMPMqFMdz#.mkv
-#EXTINF:-1 xui-id="196986" tvg-name="American Horror Story S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/wEyVM1QLBAqTLGxxSQWi5wsc0FD.jpg" group-title="DISNEY+",American Horror Story S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDQJQ-46Z3XfsIWKHHIQV_mQ#.mkv
-#EXTINF:-1 xui-id="196985" tvg-name="American Horror Story S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/24ugyFFz3CD9g6t7jEbdXLiUmro.jpg" group-title="DISNEY+",American Horror Story S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDTVFe1s81MqMH0zbchTed5G#.mkv
-#EXTINF:-1 xui-id="196984" tvg-name="American Horror Story S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/71aRrn1Bu3rIlIURFWAgFzLZkjf.jpg" group-title="DISNEY+",American Horror Story S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDTowIRa29vhApp8UQei501O#.mkv
-#EXTINF:-1 xui-id="196983" tvg-name="American Horror Story S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/qYZj2000oVgQvL2qWGZbm1Z2LYX.jpg" group-title="DISNEY+",American Horror Story S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDT26z1HK7DgjmxQAVDJwfe5#.mkv
 #EXTINF:-1 xui-id="196982" tvg-name="American Horror Stories S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/5ZW4jGelauY3n5yVoZMIZL7nM7S.jpg" group-title="DISNEY+",American Horror Stories S02E07
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDQfSfB5Um-hM2i_qFPptd9y#.mkv
 #EXTINF:-1 xui-id="196981" tvg-name="American Horror Stories S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/yMtpnXxf0NOY2d5JX7LW5ZS9n40.jpg" group-title="DISNEY+",American Horror Stories S02E08
@@ -24462,408 +24478,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDy-zP0JsilJxBVyuxccz9F_Is7V
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDy-zP0JsilJxBVyuxccz9Em4UVbk6sIZT3qws-DEiED#.mkv
 #EXTINF:-1 xui-id="184616" tvg-name="Shōgun S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cK5bnO5LeBimz6oibtnLCnOmUSJ.jpg" group-title="DISNEY+",Shōgun S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDy-zP0JsilJxBVyuxccz9H9T5tIUDAd7o3MKfyxzAJG#.mkv
-#EXTINF:-1 xui-id="183756" tvg-name="Friends S10E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XmwmXkJtObpt6ABPENanrJHlg9.jpg" group-title="HBO MAX",Friends S10E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaa5zbgZqE_QoKbHhHVXcAC#.mkv
-#EXTINF:-1 xui-id="183755" tvg-name="Friends S10E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUrlzwAmzoLj7TvZIWs9OJO7up1.jpg" group-title="HBO MAX",Friends S10E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaN0pGuLthEjz9-C-vJavF9#.mkv
-#EXTINF:-1 xui-id="183754" tvg-name="Friends S10E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsTrgh20e7J7zq8QLbCE7jNVPmH.jpg" group-title="HBO MAX",Friends S10E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qbOE7YRmqQfUI5s6VxXlzXS#.mkv
-#EXTINF:-1 xui-id="183753" tvg-name="Friends S10E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUs9QYIyKLxAqIwLvDDOrTgvkW8.jpg" group-title="HBO MAX",Friends S10E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qbrBjnx7pK6Y-y3y2EsizOG#.mkv
-#EXTINF:-1 xui-id="183752" tvg-name="Friends S10E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvULxfWrSrPgpaeNF6MqbHRo7jp.jpg" group-title="HBO MAX",Friends S10E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYIpRsGB3QnalyMNaWohe4p#.mkv
-#EXTINF:-1 xui-id="183751" tvg-name="Friends S10E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOQGYXWmvgBVslgEbmy67Zu4eOq.jpg" group-title="HBO MAX",Friends S10E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYjT2uiQTvk5kROn3xSHZaj#.mkv
-#EXTINF:-1 xui-id="183750" tvg-name="Friends S10E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lMKnJt9mdMAOO063pTPp8pDB4A.jpg" group-title="HBO MAX",Friends S10E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaRqGR6huJaIiGBQ9w02-bV#.mkv
-#EXTINF:-1 xui-id="183749" tvg-name="Friends S10E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Md5d3VpR4MbP0MjbelfmDeB81A.jpg" group-title="HBO MAX",Friends S10E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaenZzdJZurUhdTeBiTwB7n#.mkv
-#EXTINF:-1 xui-id="183748" tvg-name="Friends S10E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s7D54BlT3bx1nNoTUEYxofeIMW.jpg" group-title="HBO MAX",Friends S10E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaKivzi_pp9EFDrmk-7_8FL#.mkv
-#EXTINF:-1 xui-id="183747" tvg-name="Friends S10E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy23se5VuWF574aHoljxvwoSudK.jpg" group-title="HBO MAX",Friends S10E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaynYoISAMuUqdZg_SdLjoN#.mkv
-#EXTINF:-1 xui-id="183746" tvg-name="Friends S10E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCnDBgrjzDPIBPMSlo1TdMk28C6.jpg" group-title="HBO MAX",Friends S10E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qat8zUWL5Rs8bEr9OqoX0P6#.mkv
-#EXTINF:-1 xui-id="183745" tvg-name="Friends S10E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEsHJvPzYy5ajdY3Rkct2Z5QrZ6.jpg" group-title="HBO MAX",Friends S10E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qatoAQvRsGUImdww1QrLYyK#.mkv
-#EXTINF:-1 xui-id="183744" tvg-name="Friends S10E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCmLkDHifFFkoFnZ9j7h4Vrxnaf.jpg" group-title="HBO MAX",Friends S10E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qb3d6QzkS0bnRP-2OQ5-DVL#.mkv
-#EXTINF:-1 xui-id="183743" tvg-name="Friends S10E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY5jQGe5Z6yyV66ElDGwDcNZGMQ.jpg" group-title="HBO MAX",Friends S10E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaJpKtI36DQJj-uSwkbdm0B#.mkv
-#EXTINF:-1 xui-id="183742" tvg-name="Friends S10E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2NYOpUX2ZE1KFkBr2h5mrYiN1P.jpg" group-title="HBO MAX",Friends S10E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qahBaWyrhjyPirvCffgg-lu#.mkv
-#EXTINF:-1 xui-id="183741" tvg-name="Friends S10E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K1zPklVTR9Z2l47iJFuvRzGjOx.jpg" group-title="HBO MAX",Friends S10E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qbJagmuutZTtnYP4ZcWnraj#.mkv
-#EXTINF:-1 xui-id="183740" tvg-name="Friends S10E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eo4ySedQXdpKoB2cRshDA9UEbLO.jpg" group-title="HBO MAX",Friends S10E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYQE16KJVsiACMeuWz8Dzn3#.mkv
-#EXTINF:-1 xui-id="183739" tvg-name="Friends S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNPVvR7WmxgxRddVxOA3xdxVOKj.jpg" group-title="HBO MAX",Friends S09E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYbtOACZVbFffsZ-NRZMyKu#.mkv
-#EXTINF:-1 xui-id="183738" tvg-name="Friends S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Wne3Hui6xRR9pmbYr4cjxpvWIU.jpg" group-title="HBO MAX",Friends S09E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZGjki1kVjAGu4svAXmDNUJ#.mkv
-#EXTINF:-1 xui-id="183737" tvg-name="Friends S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7VpwLq0wtQLHEl0a05BNq4TWEb.jpg" group-title="HBO MAX",Friends S09E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYiYkq65vvpUvXm8QtT6BiH#.mkv
-#EXTINF:-1 xui-id="183736" tvg-name="Friends S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wH9b3svJ1m2kZGc7rNCqfkvvCJ.jpg" group-title="HBO MAX",Friends S09E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qY-Me1MENv1tITzkQku8Zx-#.mkv
-#EXTINF:-1 xui-id="183735" tvg-name="Friends S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/862ijAk0BbamUuYNbPAR1vr60ov.jpg" group-title="HBO MAX",Friends S09E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qagjZahE9WYFwp1YOuypUeW#.mkv
-#EXTINF:-1 xui-id="183734" tvg-name="Friends S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toJZ7LoCvdJRjLFLKmtDav3gBhi.jpg" group-title="HBO MAX",Friends S09E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qb6C1t3Qv_0wxvfGGZvnG4u#.mkv
-#EXTINF:-1 xui-id="183733" tvg-name="Friends S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0Lu8f06CXqIB1KHqFNdU41zcco.jpg" group-title="HBO MAX",Friends S09E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYSZly4euDevWxBTJSKQ-Il#.mkv
-#EXTINF:-1 xui-id="183732" tvg-name="Friends S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xNYEIa6uVBNSeplys4pAjT195U.jpg" group-title="HBO MAX",Friends S09E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qb8p702UmCbTxZ3opJcvZ-T#.mkv
-#EXTINF:-1 xui-id="183731" tvg-name="Friends S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBEazpZAqKuTMliM1ydfTq2QGWc.jpg" group-title="HBO MAX",Friends S09E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZJre-YkQcHalbCm6JC-_ey#.mkv
-#EXTINF:-1 xui-id="183730" tvg-name="Friends S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FRftNRoz7VDKiWMBNfv0uxbMXh.jpg" group-title="HBO MAX",Friends S09E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZvr-jJQ6nLxINvDw1njj6e#.mkv
-#EXTINF:-1 xui-id="183729" tvg-name="Friends S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upFUL4W5piQPWrHRwykCHNnlQe3.jpg" group-title="HBO MAX",Friends S09E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZaaZ2wZQZ6qjb8eqpzLAbI#.mkv
-#EXTINF:-1 xui-id="183728" tvg-name="Friends S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTlqu2AsioTFRDiok3oVV0OFTGl.jpg" group-title="HBO MAX",Friends S09E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaPNolQVDPo7W737q6gS4cg#.mkv
-#EXTINF:-1 xui-id="183727" tvg-name="Friends S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpY4Re3IqvYrPG75AlTrRQAvYNW.jpg" group-title="HBO MAX",Friends S09E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaqZLXnEg64w_17k-wao87M#.mkv
-#EXTINF:-1 xui-id="183726" tvg-name="Friends S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dg0JY99c3DOKkt9VuBUQ1rYwctA.jpg" group-title="HBO MAX",Friends S09E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qadwPOoNX-8ydbMI315vG3V#.mkv
-#EXTINF:-1 xui-id="183725" tvg-name="Friends S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fLrbwWlk71ijfQNQd7ZGIkokgM.jpg" group-title="HBO MAX",Friends S09E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZvzRrkIAUmHT3rsIyDGFND#.mkv
-#EXTINF:-1 xui-id="183724" tvg-name="Friends S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZbrGwsRcMYTJ5eMedOyz16obgO.jpg" group-title="HBO MAX",Friends S09E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZTYLYWxOwmPPtJzr8AY81Q#.mkv
-#EXTINF:-1 xui-id="183723" tvg-name="Friends S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBnUEJawXmeYZyY32jxvcepvfFY.jpg" group-title="HBO MAX",Friends S09E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYbFQDdKxbdce0DylnW2nne#.mkv
-#EXTINF:-1 xui-id="183722" tvg-name="Friends S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95NzE8ACrk96PtNCM88k1o98wuj.jpg" group-title="HBO MAX",Friends S09E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYUjjw6YryRL38oWoLwQlJ0#.mkv
-#EXTINF:-1 xui-id="183721" tvg-name="Friends S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAN1Ws0X6seDBw9sSq5IeTThXSh.jpg" group-title="HBO MAX",Friends S09E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYMGAsjYxCPJVEj0CALMCJl#.mkv
-#EXTINF:-1 xui-id="183720" tvg-name="Friends S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlogeZvRNX0kkN80hhoPAMjMoZT.jpg" group-title="HBO MAX",Friends S09E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaz12XbENqXbrn_MZ5IsMxm#.mkv
-#EXTINF:-1 xui-id="183719" tvg-name="Friends S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svtWGUDz560o96lHLSIo0PN8zxS.jpg" group-title="HBO MAX",Friends S09E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qY2BxI-KAetkWKOAPEsTipV#.mkv
-#EXTINF:-1 xui-id="183718" tvg-name="Friends S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WMGVmrp5ZOiLjMTCcx8J7Ws18g.jpg" group-title="HBO MAX",Friends S09E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qbzDQOIvs3rPaXE186Kp7Dx#.mkv
-#EXTINF:-1 xui-id="183717" tvg-name="Friends S09E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNqS2szoMmfgfFttsVZTggXjttz.jpg" group-title="HBO MAX",Friends S09E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZQXluJ5WJzCOfRQaFhlNwM#.mkv
-#EXTINF:-1 xui-id="183716" tvg-name="Friends S08E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNqS2szoMmfgfFttsVZTggXjttz.jpg" group-title="HBO MAX",Friends S08E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qbt6SyTMAG94fIWd4ffLJ3p#.mkv
-#EXTINF:-1 xui-id="183715" tvg-name="Friends S08E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk7CtLH2RXUK5LBdr6Mg1YZxn3j.jpg" group-title="HBO MAX",Friends S08E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaTB_KSygUlGvrE-8nmV_Ex#.mkv
-#EXTINF:-1 xui-id="183714" tvg-name="Friends S08E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtyhJQESigpYObHoJDdfTIjnt8g.jpg" group-title="HBO MAX",Friends S08E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZ7ONunBW0-BqMzklvcGY0Z#.mkv
-#EXTINF:-1 xui-id="183713" tvg-name="Friends S08E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paUWeSKy1BRnh7a1D4hUi8SQnJh.jpg" group-title="HBO MAX",Friends S08E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qbAEiEf_9es45P9NWxId4uN#.mkv
-#EXTINF:-1 xui-id="183712" tvg-name="Friends S08E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQIq9ALRWu2WB2WDMVz7lWNTnQd.jpg" group-title="HBO MAX",Friends S08E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYbG3UVvjs-rOuHLYMWp9VP#.mkv
-#EXTINF:-1 xui-id="183711" tvg-name="Friends S08E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIw1XSopqnujd78Tgm24I2Pzq61.jpg" group-title="HBO MAX",Friends S08E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYV2jnVv1yqMlSgYGx4m6w8#.mkv
-#EXTINF:-1 xui-id="183710" tvg-name="Friends S08E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KO8iJzaNQBbQxYzoJtV1W06T4S.jpg" group-title="HBO MAX",Friends S08E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYQH0bVqShZ1J41YBMIJ1Nf#.mkv
-#EXTINF:-1 xui-id="183709" tvg-name="Friends S08E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZB8MEwEBktPcL2nr8dqyl1bi0x.jpg" group-title="HBO MAX",Friends S08E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYLuVgmc9fU9aWAwWz7jMtt#.mkv
-#EXTINF:-1 xui-id="183708" tvg-name="Friends S08E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t7nMNohxhwKBUuDI1v93Y9ekWF.jpg" group-title="HBO MAX",Friends S08E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaQgXX2fX8MQJcaMNFHTi8_#.mkv
-#EXTINF:-1 xui-id="183707" tvg-name="Friends S08E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRwuancw8f7wJr5t3bkct4X5E5P.jpg" group-title="HBO MAX",Friends S08E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qZTwUbiVbu7LQssLK226TEl#.mkv
-#EXTINF:-1 xui-id="183706" tvg-name="Friends S08E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIZ4ZbdqiUW0X7iGDbC1eTBwSms.jpg" group-title="HBO MAX",Friends S08E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaTkGu0m7u4bzlh9d4Pfg56#.mkv
-#EXTINF:-1 xui-id="183705" tvg-name="Friends S08E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcmxlN6YdOIScblA4c3qmq2gsx8.jpg" group-title="HBO MAX",Friends S08E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qb-zLJxAV06ZHNxiEzg0aWG#.mkv
-#EXTINF:-1 xui-id="183704" tvg-name="Friends S08E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kagedGmNAj0de2q2ej1CQVyAlsk.jpg" group-title="HBO MAX",Friends S08E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYi_BRM1IGysNXvYKv-FW8v#.mkv
-#EXTINF:-1 xui-id="183703" tvg-name="Friends S08E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7JMRcbWK211dg4GUABjZWOjykB.jpg" group-title="HBO MAX",Friends S08E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaLDIoaMq5DS2Bicb6wsZ13#.mkv
-#EXTINF:-1 xui-id="183702" tvg-name="Friends S08E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRRYtxCn7nrS2Y6rHwg2vpnSt68.jpg" group-title="HBO MAX",Friends S08E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaMU984l947KBBMBxBWB5JK#.mkv
-#EXTINF:-1 xui-id="183701" tvg-name="Friends S08E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhQ7irmtvCdMqGbfmN21Vf0FI4H.jpg" group-title="HBO MAX",Friends S08E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qYNVHfEW7fNFILGjKRiw1_S#.mkv
-#EXTINF:-1 xui-id="183700" tvg-name="Friends S08E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ol7aXhn4TCZmwbud9g72uR8WGFc.jpg" group-title="HBO MAX",Friends S08E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJt8QrLV_ZNCIXftoq2F4qaVr8W5dFHl3U_qoY3amdU3#.mkv
-#EXTINF:-1 xui-id="183699" tvg-name="Friends S08E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/busMxkMHJCt5hyd4LRMH9Teg5KZ.jpg" group-title="HBO MAX",Friends S08E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_VzUGslXmbzGzPXAgwJ5Zp#.mkv
-#EXTINF:-1 xui-id="183698" tvg-name="Friends S08E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etHUWVLhXpPHCbzH4uNNetEQkUq.jpg" group-title="HBO MAX",Friends S08E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_s4b4neYa8wogLEolFFP6H#.mkv
-#EXTINF:-1 xui-id="183697" tvg-name="Friends S08E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hn9Wxur1Y4s8esWI8w8VrNbSbz8.jpg" group-title="HBO MAX",Friends S08E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-pk5dwwlOLwNrLq3qvuS_g#.mkv
-#EXTINF:-1 xui-id="183696" tvg-name="Friends S08E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1znECVU4xrWkzs2Khs0YHvTNSTo.jpg" group-title="HBO MAX",Friends S08E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9M_R8QcvxjFp8C9W00FQ2P#.mkv
-#EXTINF:-1 xui-id="183695" tvg-name="Friends S08E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZeIsy5034XouvErUT9fAI8UIjy.jpg" group-title="HBO MAX",Friends S08E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-UicqqU-lUUAFGrExSfWAw#.mkv
-#EXTINF:-1 xui-id="183694" tvg-name="Friends S08E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac5DNKZFRjlemuae22SKqI8geEB.jpg" group-title="HBO MAX",Friends S08E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8-c7TYrQMX7unXfHZCHRh9#.mkv
-#EXTINF:-1 xui-id="183693" tvg-name="Friends S08E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTVPfthOgP1yz9PcOxHRwPMEAUS.jpg" group-title="HBO MAX",Friends S08E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-U7gG91tcsGDvyaXvrlbbV#.mkv
-#EXTINF:-1 xui-id="183692" tvg-name="Friends S07E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTVPfthOgP1yz9PcOxHRwPMEAUS.jpg" group-title="HBO MAX",Friends S07E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-tCx4Od0gx9WnsUXwiF9su#.mkv
-#EXTINF:-1 xui-id="183691" tvg-name="Friends S07E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omXc88sdzQHamGPW0GR5zL5McPB.jpg" group-title="HBO MAX",Friends S07E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8-Kf-hsGkv9WkKfx3XxXe3#.mkv
-#EXTINF:-1 xui-id="183690" tvg-name="Friends S07E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ApTQ7uUhUkLI3si7r2iLp3xXt4.jpg" group-title="HBO MAX",Friends S07E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8vaxXvC8sxHuUJ75uFkPEe#.mkv
-#EXTINF:-1 xui-id="183689" tvg-name="Friends S07E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgLt31d0oEed39CIkw3lsO4EZ9c.jpg" group-title="HBO MAX",Friends S07E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8--QZ_ZgRdkYAr05S9N1B3#.mkv
-#EXTINF:-1 xui-id="183688" tvg-name="Friends S07E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xh9Wk6wyQDza7mKVc39wGcjGDRb.jpg" group-title="HBO MAX",Friends S07E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-pxrm-XakLG8gKkD63tlxE#.mkv
-#EXTINF:-1 xui-id="183687" tvg-name="Friends S07E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikhwogIjntfhWquuOfxdJwg8GHL.jpg" group-title="HBO MAX",Friends S07E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW82vleLTCFYK-7lrRlXx2Az#.mkv
-#EXTINF:-1 xui-id="183686" tvg-name="Friends S07E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7j4ammK2F5K9pmyLh946m1eIhOF.jpg" group-title="HBO MAX",Friends S07E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8W0Pbd5MB88IMvb-1m7QEV#.mkv
-#EXTINF:-1 xui-id="183685" tvg-name="Friends S07E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EdqJXkjEaoN09otW5e0Q3fchIl.jpg" group-title="HBO MAX",Friends S07E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-scVI_TGpMoghyVI0V-OiL#.mkv
-#EXTINF:-1 xui-id="183684" tvg-name="Friends S07E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfsPxEQ5cmpg4pEDAWssR3TW489.jpg" group-title="HBO MAX",Friends S07E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8VXvt_E3QWd7COZOJVMg6V#.mkv
-#EXTINF:-1 xui-id="183683" tvg-name="Friends S07E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCJg30mOZFUUjAdig3aeSbXL7VW.jpg" group-title="HBO MAX",Friends S07E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9Y4zUwyzd74OTqeBBoIlcQ#.mkv
-#EXTINF:-1 xui-id="183682" tvg-name="Friends S07E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eghy8EUnsmH6w6vEMAV2Ug18GXn.jpg" group-title="HBO MAX",Friends S07E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-gcwbvROP9q4wxU3XbCcdo#.mkv
-#EXTINF:-1 xui-id="183681" tvg-name="Friends S07E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeur7OVIlBZpNXKl4cgsPFQnVJ7.jpg" group-title="HBO MAX",Friends S07E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-Y_UYRWQFaBE_n-uKPxp16#.mkv
-#EXTINF:-1 xui-id="183680" tvg-name="Friends S07E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1lnv5Nar6WIxbrQo5cV7P8YAeU.jpg" group-title="HBO MAX",Friends S07E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8kekKuhUozXfAHzQPUmA5R#.mkv
-#EXTINF:-1 xui-id="183679" tvg-name="Friends S07E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WSZPGVEY78CsWiFBr6LfERuZwT.jpg" group-title="HBO MAX",Friends S07E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_wdBMMxjDasTm9a5CHBMmI#.mkv
-#EXTINF:-1 xui-id="183678" tvg-name="Friends S07E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfwc29L9N22vhU1mh7I8QBrXLjX.jpg" group-title="HBO MAX",Friends S07E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_twI5VnbAKC_nodvnBm3V1#.mkv
-#EXTINF:-1 xui-id="183677" tvg-name="Friends S07E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kX1MNGKOCJl5mn6E02upYEvowd.jpg" group-title="HBO MAX",Friends S07E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9njTsIVhpA1qP3Om8r5q17#.mkv
-#EXTINF:-1 xui-id="183676" tvg-name="Friends S07E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWoxm88Cqir55r6QMQX5ZT4eLQ1.jpg" group-title="HBO MAX",Friends S07E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-x-7JglgNx7YYeTDx7_s2H#.mkv
-#EXTINF:-1 xui-id="183675" tvg-name="Friends S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/st1Om9JiUPGUNuF2gnYfAspMDNY.jpg" group-title="HBO MAX",Friends S07E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_ly5hllF6O_15QeVPFGW5q#.mkv
-#EXTINF:-1 xui-id="183674" tvg-name="Friends S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2DIHHrmqqyaEEzwVF6kXGEFUuQ.jpg" group-title="HBO MAX",Friends S07E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-OjjQKQ0FAypI92Yr0_7yn#.mkv
-#EXTINF:-1 xui-id="183673" tvg-name="Friends S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SKIbk7GXFVk7o95eLrNXsTboNl.jpg" group-title="HBO MAX",Friends S07E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-WEwsVe8H4yxrM0cljyPlT#.mkv
-#EXTINF:-1 xui-id="183672" tvg-name="Friends S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8pwwXI3buttxvgjBvn1ShmFb89.jpg" group-title="HBO MAX",Friends S07E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-RwH7cuLk3QLAk_d-j9Xzl#.mkv
-#EXTINF:-1 xui-id="183671" tvg-name="Friends S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2jCzF7wnHJMs0gLrJzgPEbd1Zd.jpg" group-title="HBO MAX",Friends S07E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-UtiYS92t9n_Cz2rSKn4d0#.mkv
-#EXTINF:-1 xui-id="183670" tvg-name="Friends S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV05qgkIsfjEN33gDsuNMgqPjAT.jpg" group-title="HBO MAX",Friends S07E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9h6FaQrB0ygmQt7Tk_p5Fr#.mkv
-#EXTINF:-1 xui-id="183669" tvg-name="Friends S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imDBzYIzNH5iSOarKkq84I5L167.jpg" group-title="HBO MAX",Friends S07E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-qWS-F2FmO5CRCILME7NyQ#.mkv
-#EXTINF:-1 xui-id="183668" tvg-name="Friends S06E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imDBzYIzNH5iSOarKkq84I5L167.jpg" group-title="HBO MAX",Friends S06E25
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8LV1k9_7uve4O4nhb6HVqq#.mkv
-#EXTINF:-1 xui-id="183667" tvg-name="Friends S06E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imDBzYIzNH5iSOarKkq84I5L167.jpg" group-title="HBO MAX",Friends S06E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9dUA-GOcbUe_Ke_BITKryH#.mkv
-#EXTINF:-1 xui-id="183666" tvg-name="Friends S06E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OWXfD3koZkh2EbTLk95rSGJcG.jpg" group-title="HBO MAX",Friends S06E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_Ovlw7a5wT7_j2JsXaL06I#.mkv
-#EXTINF:-1 xui-id="183665" tvg-name="Friends S06E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grpysBMIoetM5LqWxWVZwjQsoT3.jpg" group-title="HBO MAX",Friends S06E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-pFYReMlTVK2lqTZIDAb8x#.mkv
-#EXTINF:-1 xui-id="183664" tvg-name="Friends S06E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyzT86Ob4sqWevYel1ZdroL2hSV.jpg" group-title="HBO MAX",Friends S06E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_HNpruj4pmzsidAQ1p2K7t#.mkv
-#EXTINF:-1 xui-id="183663" tvg-name="Friends S06E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t8pBcCf87asXhsO1UYvECTKU1b.jpg" group-title="HBO MAX",Friends S06E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8AXf0iQ4QPSmodY2tGDOYa#.mkv
-#EXTINF:-1 xui-id="183662" tvg-name="Friends S06E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8EycgFaGhknaUnWxkMza4Okj24.jpg" group-title="HBO MAX",Friends S06E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-X3ytC-aj7aKMRa7BkiCYS#.mkv
-#EXTINF:-1 xui-id="183661" tvg-name="Friends S06E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsK0ljsXaUVPJyMMyEZLIFjhHzR.jpg" group-title="HBO MAX",Friends S06E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9lJbEwlmtzCuksqrdyHhVU#.mkv
-#EXTINF:-1 xui-id="183660" tvg-name="Friends S06E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12OVdVusbxyZKN5YFEhuMLkuFQP.jpg" group-title="HBO MAX",Friends S06E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9Cm9CCbKtZaSZZ_OGjDDUy#.mkv
-#EXTINF:-1 xui-id="183659" tvg-name="Friends S06E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAf0eTcqL8ehrfWYyKbNSzwiHuv.jpg" group-title="HBO MAX",Friends S06E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-LcIO3lcxpnXLF4rd4JGsE#.mkv
-#EXTINF:-1 xui-id="183658" tvg-name="Friends S06E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhUs4A5qAOZZRkHsiBNvhUbzAbd.jpg" group-title="HBO MAX",Friends S06E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8XPyINlxXEwTl8XbKBfPc7#.mkv
-#EXTINF:-1 xui-id="183657" tvg-name="Friends S06E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9jXwRkamJyt5ZwoC9eD3c2XHKJ.jpg" group-title="HBO MAX",Friends S06E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8iTqLD4GyLZ2j3ZVpKO_K8#.mkv
-#EXTINF:-1 xui-id="183656" tvg-name="Friends S06E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIekB9Iqefj7g2RTUgeOrawGhDV.jpg" group-title="HBO MAX",Friends S06E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-qFLKoVmEMsJGx2kn6ibat#.mkv
-#EXTINF:-1 xui-id="183655" tvg-name="Friends S06E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaDAyW9hOFhFjhcYBwvNqIpDCe.jpg" group-title="HBO MAX",Friends S06E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-fWGB4cozhkFWq8kUXLG_I#.mkv
-#EXTINF:-1 xui-id="183654" tvg-name="Friends S06E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W0BPGJbP5sjJWgjLlnQGkXWKYF.jpg" group-title="HBO MAX",Friends S06E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_Myi71JMWG-qeJHYk9TJj_#.mkv
-#EXTINF:-1 xui-id="183653" tvg-name="Friends S06E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGOc4JFywXjpQclb0ZFNN1OgOVj.jpg" group-title="HBO MAX",Friends S06E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-piNue1j6Fyt7n3aZS5BDG#.mkv
-#EXTINF:-1 xui-id="183652" tvg-name="Friends S06E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cu4c4rxWLPox2VAV2kWvT4MpYvO.jpg" group-title="HBO MAX",Friends S06E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9pylPDNSzKm4lCdaCstAzs#.mkv
-#EXTINF:-1 xui-id="183651" tvg-name="Friends S06E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/937TB5b6bv9OJb4OPfXvVTtweOf.jpg" group-title="HBO MAX",Friends S06E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8eh-HliBuwIZVb8gTyZi_P#.mkv
-#EXTINF:-1 xui-id="183650" tvg-name="Friends S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGA8jD6BqXSAVoEGy5bmbZOHqQY.jpg" group-title="HBO MAX",Friends S06E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-yBFFcVBZy-759hBgs-tAe#.mkv
-#EXTINF:-1 xui-id="183649" tvg-name="Friends S06E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nNQPYtxDjMmtlJie8LLtzYu5gU.jpg" group-title="HBO MAX",Friends S06E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_CZcEBpL-UmiDjdGi5sqGi#.mkv
-#EXTINF:-1 xui-id="183648" tvg-name="Friends S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itDy7O5nij71D7Z1MZXJjlLB9w0.jpg" group-title="HBO MAX",Friends S06E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_qB3NWN42SmdvEr7FBS9IG#.mkv
-#EXTINF:-1 xui-id="183647" tvg-name="Friends S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohFKAbC5iZtGfzLh9JfylXfhwKr.jpg" group-title="HBO MAX",Friends S06E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9a5ueOiCjmZKpIJxfjos-V#.mkv
-#EXTINF:-1 xui-id="183646" tvg-name="Friends S06E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brF8eLr2ml3UaNMmBVZQ615iyBy.jpg" group-title="HBO MAX",Friends S06E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_IfiIVujOvu9aBRRb92sQR#.mkv
-#EXTINF:-1 xui-id="183645" tvg-name="Friends S06E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5c8xKhUKsR4afHWc17POaCs444.jpg" group-title="HBO MAX",Friends S06E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-b2fupIENy04JMvPC2yTuI#.mkv
-#EXTINF:-1 xui-id="183644" tvg-name="Friends S06E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T3D3y98XDM2owdjxcj8PEiQFP8.jpg" group-title="HBO MAX",Friends S06E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9DmBDkk0_1FIDP2C8M7zXZ#.mkv
-#EXTINF:-1 xui-id="183643" tvg-name="Friends S05E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T3D3y98XDM2owdjxcj8PEiQFP8.jpg" group-title="HBO MAX",Friends S05E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW93DhSIcE11634Bb9bO34bu#.mkv
-#EXTINF:-1 xui-id="183642" tvg-name="Friends S05E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB39sjCHdWGoyHOkFdbM9AN1fLK.jpg" group-title="HBO MAX",Friends S05E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8N-HAGP5hdFYGITQBfELDQ#.mkv
-#EXTINF:-1 xui-id="183641" tvg-name="Friends S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAV4BBUpsnlPATryvLZyh9aiH1U.jpg" group-title="HBO MAX",Friends S05E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-O2GtyQOc6Rb6e2lFymmiv#.mkv
-#EXTINF:-1 xui-id="183640" tvg-name="Friends S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgMzbHY39qF0uwPfH14jZNJDypw.jpg" group-title="HBO MAX",Friends S05E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW96Zioe7LzHb74VPc9pyGCz#.mkv
-#EXTINF:-1 xui-id="183639" tvg-name="Friends S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xBJqfHQI3qUOC9XB5ePZzbYD4L.jpg" group-title="HBO MAX",Friends S05E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_1ijlz-NV7-ftngAKXTjWv#.mkv
-#EXTINF:-1 xui-id="183638" tvg-name="Friends S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nURp3j9Fax9yt2qvhRttzPygkJN.jpg" group-title="HBO MAX",Friends S05E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_gtL63f-TU2EU2CGt7MdHv#.mkv
-#EXTINF:-1 xui-id="183637" tvg-name="Friends S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXPDYJa1yWBGLRTDOexq6VJMedL.jpg" group-title="HBO MAX",Friends S05E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-l8zylcw4KmRjj4BXHGljQ#.mkv
-#EXTINF:-1 xui-id="183636" tvg-name="Friends S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPCW94qruOX0aRPuj5Uy8vlJKSJ.jpg" group-title="HBO MAX",Friends S05E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_vtnWb_NH6Z5j1mXfAnwod#.mkv
-#EXTINF:-1 xui-id="183635" tvg-name="Friends S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDSmE7EeiiWQkVPMTOi7XqtkLsk.jpg" group-title="HBO MAX",Friends S05E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8pLLcZMave7DL-Ya1RlFGf#.mkv
-#EXTINF:-1 xui-id="183634" tvg-name="Friends S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrc6ZSrttUlXghs2DNgsFOgGGNo.jpg" group-title="HBO MAX",Friends S05E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_QDdd83hmQ5miq5zTdxCoH#.mkv
-#EXTINF:-1 xui-id="183633" tvg-name="Friends S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/widPOemNRxvcAnV5QthXouKyTK.jpg" group-title="HBO MAX",Friends S05E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9OyiUeymtiP_NM_ltmhYMZ#.mkv
-#EXTINF:-1 xui-id="183632" tvg-name="Friends S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKV9NJAG9Dey4dMELVFwQWJGlCv.jpg" group-title="HBO MAX",Friends S05E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-yG6TvXG6OfBHy9J6veHE9#.mkv
-#EXTINF:-1 xui-id="183631" tvg-name="Friends S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NlO0o3YwcrC22ODfSJJlMq37r5.jpg" group-title="HBO MAX",Friends S05E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_aB9E6SB4aWQ1cnl_pXuFT#.mkv
-#EXTINF:-1 xui-id="183630" tvg-name="Friends S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/842QH0JXJixa6GKeL5AyVbbIhrI.jpg" group-title="HBO MAX",Friends S05E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9yb0GaBV3ITZpigjI2Ik_c#.mkv
-#EXTINF:-1 xui-id="183629" tvg-name="Friends S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUeg9m9Nplam46nlchyfGeE9ZWC.jpg" group-title="HBO MAX",Friends S05E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9eWZMzD7Xd8nCm-k46wHkY#.mkv
-#EXTINF:-1 xui-id="183628" tvg-name="Friends S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcsl24ON4OM0O5Nsy6ZAdF9469c.jpg" group-title="HBO MAX",Friends S05E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8t2Ic9dGYQhbyUEE_Y7cxq#.mkv
-#EXTINF:-1 xui-id="183627" tvg-name="Friends S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49W5shiaO1VYhHErOt2tJXCqfz0.jpg" group-title="HBO MAX",Friends S05E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8qWzouzG52ndFCF49c-UeJ#.mkv
-#EXTINF:-1 xui-id="183626" tvg-name="Friends S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hBS598Oi90z7A0CRISPbwJ9JPH.jpg" group-title="HBO MAX",Friends S05E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8vh15ehvmiUTWFdoJcoc1B#.mkv
-#EXTINF:-1 xui-id="183625" tvg-name="Friends S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8frUbTNAaU585dwir1wRcylauR.jpg" group-title="HBO MAX",Friends S05E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_tZvnQK6RBP7MVY-lk7m8o#.mkv
-#EXTINF:-1 xui-id="183624" tvg-name="Friends S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QOC8UgmezlCsk5vu7DGjtNG1Qd.jpg" group-title="HBO MAX",Friends S05E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-7wY1NAGj5q6DUGzMdk2jv#.mkv
-#EXTINF:-1 xui-id="183623" tvg-name="Friends S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D2MBiGgf1mBPKZ31N3L9sVGNve.jpg" group-title="HBO MAX",Friends S05E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9tF0aA9UXjgsrpUMifvsI-#.mkv
-#EXTINF:-1 xui-id="183622" tvg-name="Friends S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6ZuOAGSqls2mr012J0IK1D7m4u.jpg" group-title="HBO MAX",Friends S05E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9-LXsKF2oeXgH9dmDXeZ6B#.mkv
-#EXTINF:-1 xui-id="183621" tvg-name="Friends S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LswaLN9QpjjBNFbtPrLQoHXSi0.jpg" group-title="HBO MAX",Friends S05E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW98m9o3irqwEsjw42iXXFmF#.mkv
-#EXTINF:-1 xui-id="183620" tvg-name="Friends S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jn9nGNo7avmHNqfk1qeVI9U7i6.jpg" group-title="HBO MAX",Friends S05E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_DZoWx0mM6ePHBXUMf4tyh#.mkv
-#EXTINF:-1 xui-id="183619" tvg-name="Friends S04E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jn9nGNo7avmHNqfk1qeVI9U7i6.jpg" group-title="HBO MAX",Friends S04E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_rWx_lHobaDx1JrGIsaknF#.mkv
-#EXTINF:-1 xui-id="183618" tvg-name="Friends S04E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvRlowH2KAAHaveAHXA6ZvyHPvD.jpg" group-title="HBO MAX",Friends S04E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9b6ZRl_huxQmxeNQdOA3ek#.mkv
-#EXTINF:-1 xui-id="183617" tvg-name="Friends S04E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBaqspVkyo2C7XlEAnGEylM7pG.jpg" group-title="HBO MAX",Friends S04E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9MRiHa7fZ98IH6i_7X9Lio#.mkv
-#EXTINF:-1 xui-id="183616" tvg-name="Friends S04E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOlyFkFyMhhoeHbVxgKGRneplS9.jpg" group-title="HBO MAX",Friends S04E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW94Sh6xJmcLNGrhhE6WMYFf#.mkv
-#EXTINF:-1 xui-id="183615" tvg-name="Friends S04E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HoqXdCE3NItOrlgKzE5HsUHuSE.jpg" group-title="HBO MAX",Friends S04E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8EqxISbx1GKcHH-fOriLzq#.mkv
-#EXTINF:-1 xui-id="183614" tvg-name="Friends S04E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcJAFWAHCsjcrl4cxB9SLM5vek4.jpg" group-title="HBO MAX",Friends S04E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9IeEL8BgqZssQVgb0CrUPW#.mkv
-#EXTINF:-1 xui-id="183613" tvg-name="Friends S04E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lX0Ui3DMEyljM5oDWWfInQaGtRP.jpg" group-title="HBO MAX",Friends S04E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9XLhMPwkc6h3GYf4GR5G-y#.mkv
-#EXTINF:-1 xui-id="183612" tvg-name="Friends S04E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlg9ZvKBF6JmxogJx1syGqvXB2D.jpg" group-title="HBO MAX",Friends S04E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-uhHMKmkcTn4yyj0kEQ0u3#.mkv
-#EXTINF:-1 xui-id="183611" tvg-name="Friends S04E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFybiEckDorc9beXc8cHxNeAHg.jpg" group-title="HBO MAX",Friends S04E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9cjY-wvSs5qbyp84EfRXKl#.mkv
-#EXTINF:-1 xui-id="183610" tvg-name="Friends S04E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTWf0xRUTztjHXElg65TiXKW4nS.jpg" group-title="HBO MAX",Friends S04E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9uzioUu9R2Qd7Uj4HW_fLU#.mkv
-#EXTINF:-1 xui-id="183609" tvg-name="Friends S04E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNXV6xfkk1njmF3ftIHxJ3A1vkh.jpg" group-title="HBO MAX",Friends S04E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW92g2904O3oEyxjAp69PvOK#.mkv
-#EXTINF:-1 xui-id="183608" tvg-name="Friends S04E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIMOQQjaxNqPdmw0ro3ilrRAC4d.jpg" group-title="HBO MAX",Friends S04E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_aFRYIoKGY2M0YZjzdwBFK#.mkv
-#EXTINF:-1 xui-id="183607" tvg-name="Friends S04E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRXtaq1enijfiDwxzAPhJKkFtsu.jpg" group-title="HBO MAX",Friends S04E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8IYCUKbNgX1Z7OBbOCSy2a#.mkv
-#EXTINF:-1 xui-id="183606" tvg-name="Friends S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT2D93C06aLnO8VkxA6rnTSiuVm.jpg" group-title="HBO MAX",Friends S04E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8d1enGRtjOkUlmLSbi5lFu#.mkv
-#EXTINF:-1 xui-id="183605" tvg-name="Friends S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNLBOFFQN5r3GpFUKvPmWYWz6DM.jpg" group-title="HBO MAX",Friends S04E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW-u86B2F7rms7P3h5qLbQGi#.mkv
-#EXTINF:-1 xui-id="183604" tvg-name="Friends S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8zYaSOftPKM4q05IOQcqYdWrs7.jpg" group-title="HBO MAX",Friends S04E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8v2xfq--3DtXfxPwMYflKg#.mkv
-#EXTINF:-1 xui-id="183603" tvg-name="Friends S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOz3zqyisPN5MkFi7KMFw2uYx4A.jpg" group-title="HBO MAX",Friends S04E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW_kDSMyviFd5NK0zorzYyHv#.mkv
-#EXTINF:-1 xui-id="183602" tvg-name="Friends S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MhRmA4n6ZBDum4dBTF9xDBiuwx.jpg" group-title="HBO MAX",Friends S04E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW99FKLvM8sJSm3CTr4HLRrP#.mkv
-#EXTINF:-1 xui-id="183601" tvg-name="Friends S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yt3mMbJHwNxhFGMzXMWulzfE2T.jpg" group-title="HBO MAX",Friends S04E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW8OCrrLDMQ9Fu7lNW-1LGcx#.mkv
-#EXTINF:-1 xui-id="183600" tvg-name="Friends S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Hym8m1BzQct9GHljwzNgLPQoLy.jpg" group-title="HBO MAX",Friends S04E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRECxLF53QL3Jf3k20hyQNW9ZoPMgxzHjPaq76jg9FFyr#.mkv
-#EXTINF:-1 xui-id="183599" tvg-name="Friends S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khxmKmjmsQVXxJW1P8VbCdeFMoA.jpg" group-title="HBO MAX",Friends S04E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZN_ttlqHAw4dWWj7ZbEsgVO#.mkv
-#EXTINF:-1 xui-id="183598" tvg-name="Friends S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqXZu4P3QTa27Ne2fzkZM5sdbpG.jpg" group-title="HBO MAX",Friends S04E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOlIHqcWt6Isdrod1NygMkn#.mkv
-#EXTINF:-1 xui-id="183597" tvg-name="Friends S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zEnoQyjbystjf9nywj07dpMwza.jpg" group-title="HBO MAX",Friends S04E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOwMx-Ic5Txg4P2w72f8Shd#.mkv
-#EXTINF:-1 xui-id="183596" tvg-name="Friends S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67tiGi36IUXlNAPlPJy98INk2DQ.jpg" group-title="HBO MAX",Friends S04E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZM90QHG1XtCq30KnnqJa1Od#.mkv
-#EXTINF:-1 xui-id="183595" tvg-name="Friends S03E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YwKZ32SvyhjdA3cBtoyn5oNXFL.jpg" group-title="HBO MAX",Friends S03E25
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMpCo7y0TygeOUWiffL3e0s#.mkv
-#EXTINF:-1 xui-id="183594" tvg-name="Friends S03E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ryBGyo6AAfcGnpGrSNt35lgVF.jpg" group-title="HBO MAX",Friends S03E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMFo0FpHP9bCqr7tuH6vYwV#.mkv
-#EXTINF:-1 xui-id="183593" tvg-name="Friends S03E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgQi42yjC73KixG77IDuasPSdXl.jpg" group-title="HBO MAX",Friends S03E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNN9-WyTcZi2fy3vJttV1nR#.mkv
-#EXTINF:-1 xui-id="183592" tvg-name="Friends S03E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHqib05ysQ05YcFTdFSNdyKHDA.jpg" group-title="HBO MAX",Friends S03E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMcI_qo0LI2H_1TfEg3zUuD#.mkv
-#EXTINF:-1 xui-id="183591" tvg-name="Friends S03E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZycDRGAImK2Qpmm5PdG3gforx.jpg" group-title="HBO MAX",Friends S03E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOT9RHyX2cSFiki78PU0Rkc#.mkv
-#EXTINF:-1 xui-id="183590" tvg-name="Friends S03E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKaDNoe48je6AQIjNIM110c8SeY.jpg" group-title="HBO MAX",Friends S03E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMBOKSPfGAOM2vq1I8Kk0Vt#.mkv
-#EXTINF:-1 xui-id="183589" tvg-name="Friends S03E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxEjTxnAGl0kTaBJdH0WAF8DmpD.jpg" group-title="HBO MAX",Friends S03E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZPC8mVHnDXeDyNB6LN49F9P#.mkv
-#EXTINF:-1 xui-id="183588" tvg-name="Friends S03E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01b0UomTW9WNWmDr87aOFoQW1T.jpg" group-title="HBO MAX",Friends S03E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNMhwx9QZFsoQH0s4o8Dk38#.mkv
-#EXTINF:-1 xui-id="183587" tvg-name="Friends S03E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xO5fIPn0xa9IAS30U3POy3ZG8c.jpg" group-title="HBO MAX",Friends S03E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNTPxQ0oL1IwsG8UTSFrk-7#.mkv
-#EXTINF:-1 xui-id="183586" tvg-name="Friends S03E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rM97ao2TZZMHUrfsnP1XCOh1Jx.jpg" group-title="HBO MAX",Friends S03E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZO9F9kk22nUsEQQoPoTp6eA#.mkv
-#EXTINF:-1 xui-id="183585" tvg-name="Friends S03E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQ7vb9GxKeHq8zhy3L15TWmcXlq.jpg" group-title="HBO MAX",Friends S03E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNld-WlY2hqWfF8LSwR57Ae#.mkv
-#EXTINF:-1 xui-id="183584" tvg-name="Friends S03E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Towvxh6qAtJycuJ7XW8GJQhB3N.jpg" group-title="HBO MAX",Friends S03E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNLEAnPFDLF3ZB9TfzOclUU#.mkv
-#EXTINF:-1 xui-id="183583" tvg-name="Friends S03E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIbd5XEEa5gK2oXRbIeYT9PrK2W.jpg" group-title="HBO MAX",Friends S03E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNOMkMhJGQ2zGhmFDo5aJUC#.mkv
-#EXTINF:-1 xui-id="183582" tvg-name="Friends S03E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz9hYNhS92EFfii4apZoPaH3TxZ.jpg" group-title="HBO MAX",Friends S03E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOGB2KHfSsra6rYOU5jcvVE#.mkv
-#EXTINF:-1 xui-id="183581" tvg-name="Friends S03E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14vp2eC2vuJvvmxry86j6gugpNF.jpg" group-title="HBO MAX",Friends S03E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZPIdeiTfD0tb_XJ-8lecxEO#.mkv
-#EXTINF:-1 xui-id="183580" tvg-name="Friends S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVgaNrwBiYu0O1mpqvOLuEvvIf3.jpg" group-title="HBO MAX",Friends S03E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZN7J0K9SRZeeQYHrc49woDv#.mkv
-#EXTINF:-1 xui-id="183579" tvg-name="Friends S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQpnuhi29rAZLp820hakowPpPaR.jpg" group-title="HBO MAX",Friends S03E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMmMKRGjvCFRLsMEOqell0h#.mkv
-#EXTINF:-1 xui-id="183578" tvg-name="Friends S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu2f7cegzxOPSI3snkYj5CgdEGO.jpg" group-title="HBO MAX",Friends S03E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNkbogQERS4rT3Ws6pH93tv#.mkv
-#EXTINF:-1 xui-id="183577" tvg-name="Friends S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCUk2Mytau5IX7oEndRnwtzThOT.jpg" group-title="HBO MAX",Friends S03E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNq-m01nqeOm5cmYpCVpSbI#.mkv
-#EXTINF:-1 xui-id="183576" tvg-name="Friends S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAVRp4FQO858ZurhMkjy2Ry8BbM.jpg" group-title="HBO MAX",Friends S03E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZPWAC0ijaKpI12qsWE4MYoH#.mkv
-#EXTINF:-1 xui-id="183575" tvg-name="Friends S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV4gS3ZbpbDDRy1iTAzD9pWone2.jpg" group-title="HBO MAX",Friends S03E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZPiT4pGJSN7tj6KmiDpDh1P#.mkv
-#EXTINF:-1 xui-id="183574" tvg-name="Friends S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLnfUmRWirw55UJ9vUu9DBXhxKw.jpg" group-title="HBO MAX",Friends S03E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNsl1rCt0CC5J8XJkAt1WLx#.mkv
-#EXTINF:-1 xui-id="183573" tvg-name="Friends S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNgjqLtlhQBjNRFdX10edanoke1.jpg" group-title="HBO MAX",Friends S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMzGLlSzunDnZM-q_TCI2Zg#.mkv
-#EXTINF:-1 xui-id="183572" tvg-name="Friends S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBmgNbrW0ozjaiKDKKfijwKWdRc.jpg" group-title="HBO MAX",Friends S03E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOAIiypybamSn1z9SkqGmLx#.mkv
-#EXTINF:-1 xui-id="183571" tvg-name="Friends S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ci28CPpvg6EEDPlCbMLtNUDJPcR.jpg" group-title="HBO MAX",Friends S03E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOAjUXo1Wyf2oIxqSBcdBfX#.mkv
-#EXTINF:-1 xui-id="183570" tvg-name="Friends S02E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3o85MotMLDmbCPIiIwCfPYzDYgY.jpg" group-title="HBO MAX",Friends S02E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNGxbhBrtMysnplxzrURGr4#.mkv
-#EXTINF:-1 xui-id="183569" tvg-name="Friends S02E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVSXGWFFGGKs3iWDX8RZmtNJlDA.jpg" group-title="HBO MAX",Friends S02E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMqB2e-uU7AtSLI-7snFf07#.mkv
-#EXTINF:-1 xui-id="183568" tvg-name="Friends S02E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKmPfjA0QssEqOuiSMyJGEoEJdt.jpg" group-title="HBO MAX",Friends S02E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOtZqhellL2mbtR8OMOiNGs#.mkv
-#EXTINF:-1 xui-id="183567" tvg-name="Friends S02E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNgv7rAm7YkvooOGOpFSTlfS5wS.jpg" group-title="HBO MAX",Friends S02E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNgo4HAfDbRGMk5Oq_gkRUf#.mkv
-#EXTINF:-1 xui-id="183566" tvg-name="Friends S02E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfBhzSGoBFWnHr7HGo4OHUn48gI.jpg" group-title="HBO MAX",Friends S02E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNzP2NzQaP5i6k6Zu-doH5C#.mkv
-#EXTINF:-1 xui-id="183565" tvg-name="Friends S02E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPaqxogdoDIb81HJ488dsVbkpCw.jpg" group-title="HBO MAX",Friends S02E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMxoxKKylUbwzGmx347XK6-#.mkv
-#EXTINF:-1 xui-id="183564" tvg-name="Friends S02E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CdJM0V4iUOYTrGbn7XZ0sfdmaG.jpg" group-title="HBO MAX",Friends S02E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZP3jfkMf4DoHSti1ix4Zcbv#.mkv
-#EXTINF:-1 xui-id="183563" tvg-name="Friends S02E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjGdr3fu5LaoFGKMcXwvwEX3lNu.jpg" group-title="HBO MAX",Friends S02E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZP-oklBjiMaGAhMYmzJhHHm#.mkv
-#EXTINF:-1 xui-id="183562" tvg-name="Friends S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OKGNoKDtFxQY3hNXOP6y3JRO53.jpg" group-title="HBO MAX",Friends S02E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZNTGCWniu1coAjryC37Jv6f#.mkv
-#EXTINF:-1 xui-id="183561" tvg-name="Friends S02E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEnD6mvkwRgapYZr8tZBSoEAHcn.jpg" group-title="HBO MAX",Friends S02E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMOia1MO4-yCfpTcfqp-Ao0#.mkv
-#EXTINF:-1 xui-id="183560" tvg-name="Friends S02E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaj00vryGCmBzpkrEDHgT6Pj5z5.jpg" group-title="HBO MAX",Friends S02E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMBikSFhtiGNb-sdXHbipK3#.mkv
-#EXTINF:-1 xui-id="183559" tvg-name="Friends S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOWF2fMQiDrdzb6IpAOiTmnJaC.jpg" group-title="HBO MAX",Friends S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZMa1CCp3XzaE1hS6V3e_coM#.mkv
-#EXTINF:-1 xui-id="183558" tvg-name="Friends S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPPHEnQDdTEFWzG0fLEFp7AAAU1.jpg" group-title="HBO MAX",Friends S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOK8DwKQukiaeKOJ1xkmuli#.mkv
-#EXTINF:-1 xui-id="183557" tvg-name="Friends S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHhsoHmPSG0hVopaKsnM9pu7zD6.jpg" group-title="HBO MAX",Friends S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZOub1YV_rHinTfvIhhknBV_#.mkv
-#EXTINF:-1 xui-id="183556" tvg-name="Friends S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDoRfPdUWKdhl3MSiMckp1wtzWC.jpg" group-title="HBO MAX",Friends S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZO1DcW184QtVSwYK-D5Kzuz#.mkv
 #EXTINF:-1 xui-id="183545" tvg-name="X-Men '97 S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OrsWyKwX23DLRvDcIH65hkXkR7.jpg" group-title="DISNEY+",X-Men '97 S01E03
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRGzj2TIb4cy4vDgcRcIGcZPaAkUAfDZt_NJ1im0J4zwb#.mkv
 #EXTINF:-1 xui-id="183508" tvg-name="X-Men '97 S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28IFCY8Ac2DBSwMNiN9JG0KcYWf.jpg" group-title="DISNEY+",X-Men '97 S01E02
