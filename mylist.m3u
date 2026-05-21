@@ -1,9 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="120182" tvg-id="" tvg-name="ENT | AXN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Z_-sTPX01lmyXYXbEMDwBNtdkOpFNzvbEtF7Hz_NzWnsshgBS8RUyk6NknJhl3_ew.png" group-title="ENTRETENIMIENTO LATINO",AXN
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBl41tUgFXcsRcyg9nz0JTwwWaAfDWhnOX32cnyxPwqzy
-#EXTINF:-1 tvg-id="" tvg-name="Az Click  @ Azteca - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| Az Click 
-http://matrivagoweb.xyz:8080/115375/123456/315670
 #EXTINF:-1 tvg-id="" tvg-name="AZ Mundo  @ Azteca - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| AZ Mundo 
 http://matrivagoweb.xyz:8080/115375/123456/315672
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7 - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| Azteca 7 
@@ -76,14 +72,10 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1651
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1650
 #EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 8" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX8HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 8
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1649
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 9" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX9HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 9
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1648
 #EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 10" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX10HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 10
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1647
 #EXTINF:-1 tvg-id="2618" tvg-name="beINSPORTS HABER HD" tvg-logo="http://45.129.183.111/spor_files/beinhaberfhd.png" group-title="TR| SPOR",beINSPORTS HABER HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37165
-#EXTINF:-1 xui-id="120151" tvg-id="" tvg-name="MX | CANAL 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WK1R6EfCDhqFTS0GBj2snY5JgpOpPckgjlEgCdWUPNG.png" group-title="MEXICO",MX | CANAL 5 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn06aZtRgBBrpTlQg8Ohaba_07nVABawkw3fxSK-lBLk
 #EXTINF:-1 tvg-id="CanalCHD.co@SD",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 9" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live9.png" group-title="FR| SPORTS",FR| CANAL+LIVE 9
@@ -104,36 +96,22 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1657
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2381.ts
 #EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ-PUh7630VuABXV8m
-#EXTINF:-1 xui-id="119765" tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBin5We8Nxss5yDCKVURSRlY9h1sypq54j97Q3CQrpZXo
 #EXTINF:-1 xui-id="119766" tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqRDk_F2A8X8XV9lMuWbrhCBnZS_D3DJGjVgUcjVk3hv
-#EXTINF:-1 xui-id="119767" tvg-id="" tvg-name="CO | CARACOL HD2" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL HD2
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnh4TYEjArRYwd5f10YzHmiooXaqa6hOPndOkQ7SGLsu
-#EXTINF:-1 xui-id="120184" tvg-id="" tvg-name="ENT | CINE CANAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RL0GzJ4ohwfz8J8pGCJPG8uPMYvqjPk0NNfbTfTC1BS.png" group-title="ENTRETENIMIENTO LATINO",ENT | CINE CANAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn4dUTzO3Y-HT-tS1bYMiWVr67BX0GoHgKHL9fXNK9lO
 #EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 xui-id="120048" tvg-id="" tvg-name="GT | CLARO SPORTS 2 HD - GUATE" tvg-logo="http://supertele.xyz:8080/images/QCqX5p5x3Y181Q8jwb82JB3PSoWIVjZjPiGSZofi589Zbi9MNLoS-oB9PcKaSBB5bdg3oEaUCA4z5f_3ZSa7yA.png" group-title="GUATEMALA",GT | CLARO SPORTS 2 HD - GUATE
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmBXuLCP88Qj6EBpKBiE9CXUIAteeOOW37FnmvXqF0Pc
-#EXTINF:-1 xui-id="120049" tvg-id="" tvg-name="GT | CLARO SPORTS 2 HD  OP 2" tvg-logo="http://supertele.xyz:8080/images/QCqX5p5x3Y181Q8jwb82JB3PSoWIVjZjPiGSZofi589Zbi9MNLoS-oB9PcKaSBB5bdg3oEaUCA4z5f_3ZSa7yA.png" group-title="GUATEMALA",GT | CLARO SPORTS 2 HD  OP 2
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiDoJvgH9S4C7UzYKlBnBo7f3vAVboozlcDf_zjhVKgD
-#EXTINF:-1 xui-id="221064" tvg-id="" tvg-name="ES | DAZN LA LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VJlzh8USHWCjtmGOm3Bk3QX6DdoATU7x4jm7HZC3h5Sd3IY-iR-_RdYRkyUj3avsA.png" group-title="⚽ DEPORTES DAZN",ES | DAZN LA LIGA 1 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnQhB7FlgRHeX4mE0bKSQtAHuKntIr1cnuocODDhnVBG
 #EXTINF:-1 xui-id="119640" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA LATINO",CUL | DISCOVERY CHANNEL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohGMsjjojpoUPOTXiN88gKB5hBrlvZiIT0dovyGEI1h
 #EXTINF:-1 xui-id="119428" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA ESPAÑA",CUL | DISCOVERY CHANNEL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrmxI9-DIqdIXYhUqHcM-gKM9o9t2HBIfloc0majN0D5
 #EXTINF:-1 xui-id="119618" tvg-id="" tvg-name="INF | DISCOVERY KIDS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QzGcETs4KZDJZ--U8pBv9uFyT0MUzUBdge1NFCPY6u4.png" group-title="INFANTILES LATINO",INF | DISCOVERY KIDS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBozkV4ZIuOYx5LZvRZTt5ZjHxmtoXvuyVxAsGDvDnM1_
-#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS 2 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlEL2z5jpgK9S6-_S4ItlROfKIvQlNa2qZpjoMCnl6lx
 #EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBshkggHemM-EidQqZ3PDbrJuT62NhCY4cvttK8bWeceO
-#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS+ FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhzFlImuJiOjjM4ohH3CkHI_sbJwxToFYnickON87jhJ
 #EXTINF:-1 tvg-id="ECUTV" tvg-name="Ecuador TV FHD" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR",Ecuador TV FHD
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2382.ts
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil
@@ -148,30 +126,18 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
 #EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
-#EXTINF:-1 xui-id="120907" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlaMCYp18xgYAiY_SPpc3QMLO17xV61Uawp_Vp9Gbz7k
 #EXTINF:-1 xui-id="120908" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt-dAdjI0RxMQkO8TKo81l5ZWjQ49HQ7Ii-lBLyTJ1nF
-#EXTINF:-1 xui-id="120911" tvg-id="" tvg-name="CO | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",CO | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh9GDofnKcHDq6hhfdn1R4IGUP9B4jcekd-Od512DhEo
-#EXTINF:-1 xui-id="120912" tvg-id="" tvg-name="MX | ESPN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiuxieaJzkhquwN7hzuaqmHCWuDzLP4jUXVeq22KtH8O
 #EXTINF:-1 xui-id="120913" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsZXdF9JSz0Q5OE5djeQPp_Q5FCEJ5_tStOMwEx8LWJC
 #EXTINF:-1 xui-id="120914" tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrbudCLd7vqTJSfdjpxyvlgLP_eTOLv6N5FWDl9q5XNd
 #EXTINF:-1 xui-id="120915" tvg-id="" tvg-name="AR | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",AR | ESPN 2 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsoxgc6lDaIcWMIX7tSlQjUtyqlLO9uTFkbMjcScB062
-#EXTINF:-1 xui-id="120918" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",MX | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkRApFdtxMofCZdj7FldZVYGmdztE1XjOF84_0HRVdH2
-#EXTINF:-1 xui-id="120919" tvg-id="" tvg-name="CO | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmdYHqAXRapXM27QrcHtfnGTRlTXgv5L3CLQBaItQ5QC
-#EXTINF:-1 xui-id="120920" tvg-id="" tvg-name="CO | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 FHD
+#EXTINF:-1 xui-id="120920" tvg-id="" tvg-name="CO | ESPN 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087f6lw4DCA4m01m7lb8rI0XR76r7GPkuoP2u6Nqx5Yuq2.png" group-title="⚽ ESPN",CO | ESPN 2 
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmuWEd9VkAo7qJPix6i-5OLG8-d6YZQtJvvM9H07jMBK
 #EXTINF:-1 xui-id="120921" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
-#EXTINF:-1 xui-id="120922" tvg-id="" tvg-name="MX | ESPN 3 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiL7G0aw-xqeGHzDhPW1H0exUuhOXYHIVvUewcFq7344
 #EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
 #EXTINF:-1 xui-id="141615" tvg-id="" tvg-name="CO | ESPN 3 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 SD
@@ -182,26 +148,8 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8206
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 3 HD" tvg-logo="https://lo1.in/nl/espn3.png" group-title="NL| SPORTS",( NL ) ESPN 3 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8202
-#EXTINF:-1 xui-id="119402" tvg-id="" tvg-name="MX | ESPN 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087S5OgsStqdJAEpntJw7k95rnnLJNHkua2uBDIOX0XdHX.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkeCd1nZ5pkg7_G5kMUn_Wz08idaGi-Rh3MeXVR4dc-N
-#EXTINF:-1 xui-id="119404" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnbZpAZaMRdBvlHm4R8mbW8fPcBbWUeeXxKhYfEt3m1y
 #EXTINF:-1 xui-id="119405" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjWc5YEY4-uiEKPQRv6gGkcbBeBlS1QYZLmJtQql7MYD
-#EXTINF:-1 xui-id="221267" tvg-id="" tvg-name="ES | ESPN 5 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnuuve33tKp8u7gGzXfmDmbI-LHLl1sefjnKcjbwSMvx
-#EXTINF:-1 xui-id="221268" tvg-id="" tvg-name="ES | ESPN 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhBokpzwBJM2jwCT7toGd9mWLBuutH9Ci9fWZgTcdQOt
-#EXTINF:-1 xui-id="221269" tvg-id="" tvg-name="ES | ESPN 5 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q59cQK82-CxlgO-ud6Cgu4EHxV7X4NCyUzccOm16OTA.jpg" group-title="⚽ ESPN",ES | ESPN 5 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiv4y_K7poFRt9x_KuYZGHQOgrUTnbsRwZEYY4ZNrlIv
-#EXTINF:-1 xui-id="221272" tvg-id="" tvg-name="ES | ESPN 6 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087XO7oJa5YPr6g669G256xRF50fSGYL-P-5YY_81HnGF3.jpg" group-title="⚽ ESPN",ES | ESPN 6 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlXXU34GatF0Am5z445WF53VPzxRA3KCdYjBfGssR943
-#EXTINF:-1 xui-id="221273" tvg-id="" tvg-name="ES | ESPN 7 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RSm0UQoA-Q8s8UdxkfVUD7zLZ7FATex_Y1QdZAQXFbL.jpg" group-title="⚽ ESPN",ES | ESPN 7 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnj1kzP3q--s86TyUOtm1KUu-Q1XnVa-qiRQHMWHAlP8
-#EXTINF:-1 xui-id="221274" tvg-id="" tvg-name="ES | ESPN 7 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RSm0UQoA-Q8s8UdxkfVUD7zLZ7FATex_Y1QdZAQXFbL.jpg" group-title="⚽ ESPN",ES | ESPN 7 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEaULN3fFo6ZvG2Ld5BYSB_NgOedURADCTv9LVtlsv_
-#EXTINF:-1 xui-id="221104" tvg-id="" tvg-name="ES | EUROSPORTS 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Ug91R3w20C-lPpxYLp8t2fFf3A6nIOkniZPVoO2V-8p.png" group-title="⚽ DEPORTES ESPAÑA",ES | EUROSPORTS 1 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiFtKwabbH933bQIbkjkMFyTIztP-h9NCcvFKsI5Ge8K
 #EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50174.png" group-title="TR| SPOR",EUROSPORT 1 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2043
 #EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50170.png" group-title="TR| SPOR",EUROSPORT 2 HD
@@ -220,38 +168,22 @@ http://matrivagoweb.xyz:8080/115375/123456/52785
 http://matrivagoweb.xyz:8080/115375/123456/66137
 #EXTINF:-1 xui-id="118328" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI8lzmf5e8RBdOGKwjKB7TchslyfIWNQmt-iX4JxeIz
-#EXTINF:-1 xui-id="118329" tvg-id="" tvg-name="AR | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Wq4S9JXSGb-UXY9llF2IPlpuB7opCVJDVOdM_U_jsPRgNvDtKlTihx20rfXpR5cZw.png" group-title="⚽ DEPORTES",AR | FOX SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZMx0psb6Pd9x0QRYYpUA3eHC4xIvUmOZaGSgjBzdDd
 #EXTINF:-1 xui-id="118330" tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvDWVzlFQfNyZCgU2YjMogdgj7MAC-0DeBe2IwA-mTgF
 #EXTINF:-1 xui-id="118331" tvg-id="" tvg-name="AR | FOX SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cHw5g5fQhW1bxGXfJGFoFT_00GdFHDNjtxYJL5_ay29.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtd9jOZhCGbQGD86GRV_zX9GaawMkdH2YaOQrFldSj4c
-#EXTINF:-1 xui-id="118332" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnBL7pqz6PHhQAiPAQDvC4XD7OTsmnZxdZo5_iOTiH3L
 #EXTINF:-1 xui-id="118333" tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087d1rMt9lPmna9zmGBHrEZusHcydeUaTFOASDk8PzUj7f.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBr6U37woOCIplP4i94lXwZK3IX-RCj4GA2VxgH3HMO2w
 #EXTINF:-1 xui-id="118340" tvg-id="" tvg-name="MX | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvbyZvqbahr-PJuJyAX5rnOCKvYDrdUxqllAuY2g18sM
-#EXTINF:-1 xui-id="118341" tvg-id="" tvg-name="MX | FOX SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiLNGx_GAx8vsJOl0gEwle9uPv-v_JJMePr_3ldV9HHL
 #EXTINF:-1 xui-id="119663" tvg-id="" tvg-name="ENT | HBO FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SDUYZ6YCd5l6W8fSG6mS5dk_AoY8rjdtzeZ2TqnTCZ2.png" group-title="PAQUETE HBO",ENT | HBO FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmHL0r0oj4YgaOZP4xkGVLxtifsHOXumxIOawcNcQJO5
-#EXTINF:-1 xui-id="119668" tvg-id="" tvg-name="ENT | HBO 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087THwJmK-xWLAPhglGtFWe07xAvOtgVZ2dwu3VDAa1TGA.png" group-title="PAQUETE HBO",ENT | HBO 2 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhK4vpylhJ00WgFh0WlZzP06Lz_wdriMUtrKRPK6KWR3
 #EXTINF:-1 xui-id="119669" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBj9ySVbnYGjxSvc5ZIBhpT4CwSV5AuEPm7IuUjeQufR4
-#EXTINF:-1 xui-id="119670" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiZJCP4FlrlcT9bw0Hkln0vG9mAMFdC8eCb6ekyO4WBJ
-#EXTINF:-1 xui-id="119671" tvg-id="" tvg-name="ENT | HBO PLUS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087UYtR-TJ8dqutMshkBdRyA-oinBUVT2VodOiF_HhEQuw.png" group-title="PAQUETE HBO",ENT | HBO PLUS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhhVBfL9mbNeUj-NIyGjBckpMQPFumzBwrfaJ2Ig5xIP
 #EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title="PAQUETE HBO",ENT | HB0 SIGNATURE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqeUUjUCFOcC1iqXYzNrXIdxtH2ISZhXXauHDGQxwehL
-#EXTINF:-1 xui-id="119678" tvg-id="" tvg-name="ENT | HBO EXTREME HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZtMEiqmeD3-FP8H9lNieDXA9WaQW2yXWk9SUpcYIayU.png" group-title="PAQUETE HBO",ENT | HBO EXTREME HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBl44moj9K0nFFCsD4kS0Wv1Tk_e_KkQlJUl-ozLf0B_v
 #EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 xui-id="260550" tvg-id="" tvg-name="VE | IVC SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cExZukaO0U0kHC-gci7_0O4BEgWiJ1OTvY3rZBwU-IG.png" group-title="VENEZUELA",VE | IVC SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBis5zJjR4ThZ2aL9qIadbPPJB-KYC0qtOFQ6EJu1FgaD
 #EXTINF:-1 tvg-id="MajestadTelevision.ec@SD",Majestad Televisión
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec",Marca TV
@@ -296,8 +228,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpFG_DzSI6aMpau6yUB7jJXzJqLz
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvJakK1mBDZ7MS4X0wqQ9Ge1kgq2Cz1cUHorBJlO7o5b
 #EXTINF:-1 xui-id="119638" tvg-id="" tvg-name="USL | NBCUNIVERSO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dqZNY7c-IaVz_r3rTsZFLfH3duLDlkek5KJCjeRy8Ku.png" group-title="USA LATINO",USL | NBCUNIVERSO HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp7ara5kfAaHurUqtuzFoMUxxuCj52HUVcR8_r_O2S5u
-#EXTINF:-1 xui-id="222111" tvg-id="" tvg-name="PAN | NEXT TV 21 HD" tvg-logo="https://i.postimg.cc/vmDY3qV7/nex-tv.jpg" group-title="PANAMA",PAN | NEXT TV 21 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBkZW1l55E-FaLj-lbKcM9A7-dmzS_ekxMyY7TFoRbJgN
 #EXTINF:-1 xui-id="119612" tvg-id="" tvg-name="INF | NICK HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fozJKl431piTg8H8tBf4rijIkyqUZYtSRe3c5ZWDv-k.png" group-title="INFANTILES LATINO",INF | NICK HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohsBVAeUwyjKATtpg5A8aQunACnZ_-N4hBesQXP1ejn
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
@@ -320,14 +250,8 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
 #EXTINF:-1 xui-id="261093" tvg-id="" tvg-name="VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cVx203ByB7TdNq2UJAJhgkCRNWdlVjnmRiovaeY2VOeOeaByVP4W8j0bqaWHk8Qxw.png" group-title="VENEZUELA",VE | LIGA FUTVE #1 (PARTIDOS DISPONIBLES A LA HORA DEL EVENTO)
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvakEaolTx8sEZ2VZzRpiG7eIYKke3ggytSMoDsg8qut
-#EXTINF:-1 xui-id="260568" tvg-id="" tvg-name="BRA | PREMIERE 2 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 2 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlkMiR2LFq2AaNRtTDqCA4Jsv0ogb6xr_m6flGYFDlkE
 #EXTINF:-1 xui-id="260573" tvg-id="" tvg-name="BRA | PREMIERE 4 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 4 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt7gj9uCt-5UbLAPhAUl6bWu4nfgSjQTAtOyrdcGa-67
-#EXTINF:-1 xui-id="260576" tvg-id="" tvg-name="BRA | PREMIERE 5 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 5 HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnefUuk5Gho5bEcI9tPaVapf4PBMg2vo4yXUykgGCD3n
-#EXTINF:-1 xui-id="260579" tvg-id="" tvg-name="BRA | PREMIERE 6 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 6 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBixtVpcXpY1UHyi8OfBqZ_-dvX4R4v-rWinEhF0lG6pe
 #EXTINF:-1 xui-id="119768" tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI3Mi_NVMgwM5dO0MLXY8qImc5UY9s3gPh4HLMIUnVP
 #EXTINF:-1 xui-id="119769" tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN SD
@@ -336,8 +260,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmbgJ2P08VX4ipX7jGEaNhutzzBR
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqFtB8_418sHslATPDxjzjRnIgR8DtAyS4YM2hGM75r8
 #EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
-#EXTINF:-1 xui-id="119773" tvg-id="" tvg-name="CO | RCN NOVELAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk4WR4l20eHVR01am8ATdX7bpu2eJEnfA5d8z_1UONGZ
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
@@ -414,18 +336,10 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/46649
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpxFPegF10cu1LKWINUEZxF1aj15nyPc847XSo76hcBe
 #EXTINF:-1 xui-id="120187" tvg-id="" tvg-name="ENT | SONY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="ENTRETENIMIENTO LATINO",ENT | SONY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEOL2IdOzLqqBL30fvd10BWcnN2oBYj1ReHAIC6phXk
-#EXTINF:-1 xui-id="119683" tvg-id="" tvg-name="LA | SONY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk1SYnuq103I6qwAO2-1sHNPSOuq2-YubuIVzL05RXia
 #EXTINF:-1 xui-id="119684" tvg-id="" tvg-name="LA | SONY CHANNEL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpDVUZtYjPnXEOj3Sw10utBgn1qeapNzzfVCTC5IDGq7
-#EXTINF:-1 xui-id="119687" tvg-id="" tvg-name="LA | SONY MOVIES FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X_q4l24Y3iCqLC79thuAgMP7SvSbo4A4FvwC57OZH_QV8Tt1EZ7qz6lUVUOxv_BkA.png" group-title="PAQUETE SONY",LA | SONY MOVIES FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBn2lor5iu9UtQnrODr0jLXUwDS22_2vvgODe8FttE8hA
 #EXTINF:-1 xui-id="119711" tvg-id="" tvg-name="LA | STUDIO UNIVERSAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VMZPAtTANWCYhgjxAlZvpNoMHZsSGbeAUZuhkiBLIAp.png" group-title="PAQUETE UNIVERSAL+",LA | STUDIO UNIVERSAL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrku_-xrnnbOxwlxEpUnoHKgnHOGN5JsFjmrHl6-PTEQ
-#EXTINF:-1 xui-id="120178" tvg-id="" tvg-name="ENT | SPACE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QuEz0xop77O4c5sg_8ZVqs3XnznVmNmetXgm99u-TofU8FyCzFISC8MKKmil395SQ.png" group-title="ENTRETENIMIENTO LATINO",ENT | SPACE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk5RhNGdrWGxTIVoH-JhNZ9yUM3YlEK7h6wZrSDY1Fkv
-#EXTINF:-1 xui-id="120179" tvg-id="" tvg-name="ENT | SPACE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QuEz0xop77O4c5sg_8ZVqs3XnznVmNmetXgm99u-TofU8FyCzFISC8MKKmil395SQ.png" group-title="ENTRETENIMIENTO LATINO",ENT | SPACE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0CzMKPXjGg2kd0KFo7gRtj2YYyFjYhLLnYy80qqZHb
 #EXTINF:-1 xui-id="120176" tvg-id="" tvg-name="ENT | SYFY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e06MKoUT5DQ2tFDxZYD76ytTprgNOvwlQgUgCOdEgoy.png" group-title="ENTRETENIMIENTO LATINO",ENT | SYFY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqd0hexVo1-PGxA12O16FatiK1DgXztkoDiaiYDLEITf
 #EXTINF:-1 tvg-id="" tvg-name="tabii SPOR HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR HD
@@ -460,8 +374,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164612
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/174092
 #EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 UHD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 UHD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/66692
-#EXTINF:-1 xui-id="119795" tvg-id="" tvg-name="EC | TC TELEVISION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlMHJSS3BSO7Dx16P5QR7AwQ0idH_VRQ7sQtawefGeQn
 #EXTINF:-1 xui-id="119796" tvg-id="" tvg-name="EC | TC TELEVISION SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmKe8mI-08v4D8-36_AtJp-Vk4y8ZrDHy-GtOerJ5K7i
 #EXTINF:-1 xui-id="119797" tvg-id="" tvg-name="EC | TELEAMAZONAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WHxDAYLr1h3Y2VxRIcPayDtY13dyRuGsObS0fec0cVi.png" group-title="ECUADOR",EC | TELEAMAZONAS FHD
@@ -476,14 +388,8 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpZsdPV2ek0h59zemooVUGGdKC635BDUHOOcSzjxIMLT
 #EXTINF:-1 xui-id="142346" tvg-id="" tvg-name="CR | TD+2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgf9w7CggLIfMj6KEp7MbnobT_7oCNlYO3W3k6rtprBt
-#EXTINF:-1 xui-id="142348" tvg-id="" tvg-name="CR | TIGO SPORTS CR FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="⚽ DEPORTES COSTA RICA",CR | TIGO SPORTS CR FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Xar4w0mLXHU9QKzSSA3TaEeTwPCOWy79a6JqEdeGS
 #EXTINF:-1 xui-id="142349" tvg-id="" tvg-name="CR | TIGO SPORTS CR HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="⚽ DEPORTES COSTA RICA",CR | TIGO SPORTS CR HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBta69PXvZp1woeq44_iV85-i1OkZi3V1v3V2jtzsQ77I
-#EXTINF:-1 xui-id="222259" tvg-id="" tvg-name="PAN | TIGO SPORTS FHD" tvg-logo="https://i.postimg.cc/1XrdKGMG/tigo-sports-pan.jpg" group-title="PANAMA",PAN | TIGO SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiVH7tmkkmWyh9Seowa4ydAz9zxW6r71soFmoppekqzF
-#EXTINF:-1 xui-id="222260" tvg-id="" tvg-name="PAN | TIGO SPORTS HD" tvg-logo="https://i.postimg.cc/1XrdKGMG/tigo-sports-pan.jpg" group-title="PANAMA",PAN | TIGO SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh2fcj9tAtwCV6_Rx-prvZQKJfMUuSJdPvpULHqupWvI
 #EXTINF:-1 xui-id="120036" tvg-id="" tvg-name="GT | TIGO SPORTS" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QqcrH9PwJ5xAoSqGI5kcXynsp5_xxUPREIAxgQISUpHSaAlftsqGyxQ2DcOmaq2rA.png" group-title="GUATEMALA",GT | TIGO SPORTS
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcUBVAh_ilUFID2oxBOaNYThI3F4ahFfKkJ2Qw6IYlL
 #EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR| SPOR",TIVIBUSPOR HD
@@ -506,28 +412,16 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBspPUfHRTFWxOhU9JLGB_0_R4iwy
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
 #EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
-#EXTINF:-1 xui-id="120106" tvg-id="" tvg-name="CL | TNT SPORTS PREMIUM HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS PREMIUM HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBizhXX6wBhLmCWy84wCGxvScxNmKJzcimjqv92-xtPiD
-#EXTINF:-1 xui-id="120108" tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aZCWs2sAjeGzIyvmDWFmUmDp9Vr7SKZ_UskF8HwNhvj.png" group-title="⚽ DEPORTES CHILE",CL | TNT SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh0iF4icH2wYZYeDhoUnFKvUY3K9KW_5K9WuIWJ5v9OB
-#EXTINF:-1 xui-id="118336" tvg-id="" tvg-name="AR | TyC SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBi2Zrs7TCcOsr72DBONTsyR3qf-f33QjlVSfPPZylM7G
 #EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
-#EXTINF:-1 xui-id="118338" tvg-id="" tvg-name="AR | TyC SPORTS INTERNACIONAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS INTERNACIONAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBid5hse2jkxp-XDy_kEn4O2rBkUvKEXuIf7R75RDOkUD
 #EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 xui-id="260547" tvg-id="" tvg-name="VE | TELEVEN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBlrAzxSJuriHzKKQAuV7Z0YxqzWoVO_4SCUQm1L7VwsW
 #EXTINF:-1 xui-id="260548" tvg-id="" tvg-name="VE | TELEVEN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoTYSWr4gVSD6mcBTLCu9SZJzjOoVX7Kl_IoHBtMo0hy
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
 #EXTINF:-1 xui-id="119697" tvg-id="" tvg-name="LA | UNIVERSAL CINEMA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dd084XUfJdaTUzje5IWDsbhnPQYH4UAuiKbWDwAJ7AEYbP8ARRyZa5hifBDlOh-xQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CINEMA HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtGjvnmhOnWEI3ht9YaYW6zdtIZBtT-f4Ewcr4c1rBFS
-#EXTINF:-1 xui-id="119698" tvg-id="" tvg-name="LA | UNIVERSAL CINEMA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dd084XUfJdaTUzje5IWDsbhnPQYH4UAuiKbWDwAJ7AEYbP8ARRyZa5hifBDlOh-xQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CINEMA HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhvAEyxFhL7Fuddr0jYnQYqVNubHmRcxXXnLqNM8WTIr
 #EXTINF:-1 xui-id="119700" tvg-id="" tvg-name="LA | UNIVERSAL COMEDIA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Xj4U5Gobyoq-zi9Qamouvczi0D9WiQF4Hg15L4RXENNvN3Tc7gFAxVhCFIzgOzhSA.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL COMEDIA HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoT98aRGw11H-JigfvQs9gOiC0hvdCjSE4GFRu95eCnX
 #EXTINF:-1 xui-id="119701" tvg-id="" tvg-name="LA | UNIVERSAL COMEDIA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Xj4U5Gobyoq-zi9Qamouvczi0D9WiQF4Hg15L4RXENNvN3Tc7gFAxVhCFIzgOzhSA.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL COMEDIA HD
@@ -536,20 +430,8 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoUfwju-h6LMKc1kkoq4mCGfROFf
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgbl-n22lwuICSRqWfbr-Hh-DEllyThIdsl8_xIsy6Tv
 #EXTINF:-1 xui-id="119705" tvg-id="" tvg-name="LA | UNIVERSAL PREMIERE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SvOftnu85shArbtLh3LAUZx-cRu1BVSATKu2xsKHusEZTUQDKzZ0QfZv6ctt_kfmw.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL PREMIERE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvv8hYnZOZqbSLjip2DVpk2RoV6MuxY9VFHKK8FYMTDL
-#EXTINF:-1 xui-id="119708" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBk-GUKyfJE_eKNPqKEbmOTPl8Y8tCnr2PGpTTqVxxkpo
 #EXTINF:-1 xui-id="119709" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqYUQgSy74S1ZVsI4GjKsQActC8a95LmpsYm6XWIa9HF
-#EXTINF:-1 xui-id="119710" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnCAuyXKmByLIvB45MY7t2H29opuWQnRQoEnCt_luD6R
-#EXTINF:-1 xui-id="260590" tvg-id="" tvg-name="USL | UNIVISION CHICAGO FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SLZvSr4v5kMGj_7EGcB2mKG5QnDYe9RJXX6ExPdYUna.png" group-title="UNIVISION LATINO",USL | UNIVISION CHICAGO FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBnhNHANHaVTFhTyTz6U9Yh5BCL5S_izrUBcFjgEZLZgR
-#EXTINF:-1 xui-id="260591" tvg-id="" tvg-name="USL | UNIVISION CHICAGO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SLZvSr4v5kMGj_7EGcB2mKG5QnDYe9RJXX6ExPdYUna.png" group-title="UNIVISION LATINO",USL | UNIVISION CHICAGO HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBiHv2U9mgr5Brz3WCQM5hcdc_g-ur8fhL6m6oL83TGUm
-#EXTINF:-1 xui-id="120119" tvg-id="" tvg-name="UR | VTV HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WI5BR6k8PwBt79TtychZ1w4qtG1zxBJuUOWbODwwUW8.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBhM1mR8XAhW-iya6mdTq3cMsr-iDCdaEsys9sSauSy5G
-#EXTINF:-1 xui-id="120121" tvg-id="" tvg-name="UR | VTV+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh-U0TO70002Bd6KpTAFDRBKTl6B26e0hH5uTU5El7ze
 #EXTINF:-1 xui-id="120122" tvg-id="" tvg-name="UR | VTV+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoel58RsLXHsnpMr-EAt-KtbUDoVshB99wNWkZOPPcVW
 #EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
@@ -562,10 +444,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYp
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
 #EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D3GgVZ4iARAHk3TdV
-#EXTINF:-1 xui-id="119389" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBitDmOFzG5r3XiDGsYYzlZXG-t8XQtaQX1reSQZpObCk
-#EXTINF:-1 xui-id="119390" tvg-id="" tvg-name="CO | WINSPORTS+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBh72XOj0wSsDbPEkQ21mBu4heErWtMM57pxEjsFvgpOX
 #EXTINF:-1 xui-id="119392" tvg-id="" tvg-name="CO | WINSPORTS+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
 #EXTINF:-1 tvg-id="" tvg-name="z@pping" tvg-logo="" group-title="LIGA PRO EC",zapping
@@ -584,16 +462,8 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
-#EXTINF:-1 xui-id="189639" tvg-name="Black Widow (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3KH58uwCFJBjeTmu9uf6taBkCP.jpg" group-title="DISNEY+",Black Widow (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF1O8a2ZQ6gv3adjZIKU8Q3p#.mkv
-#EXTINF:-1 xui-id="190151" tvg-name="Ghost in the Shell 2: Innocence (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltaWpzIbNWUnGlPLLre4tDi0PU8.jpg" group-title="CRUNCHYROLL",Ghost in the Shell 2: Innocence (2004)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA8EAknaLJawBSTFsi4kAgWsnzYPAyCRf6UK861sqQ_E#.mkv
-#EXTINF:-1 xui-id="204175" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtMf3h4RoUJ26P0JQBU6W3bel3o9mptKEPIXgkVBJwOo.jpg" group-title="SAGAS",El amanecer del planeta de los simios (2014)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5G2ElZ11VJCQjJre15E3X4w#.mkv
-#EXTINF:-1 xui-id="204172" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" group-title="SAGAS",La guerra del planeta de los simios (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEOpim8AuBL4mfuW-d8D5FmQ6MD28vaYNwe1YSz4uSJ#.mkv
-#EXTINF:-1 xui-id="214757" tvg-name="El reino del planeta de los simios (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oVDC7u36IMXUIoS-JoPxP0uHkgsAtX5RZ1idfGudAD8.jpg" group-title="PELICULAS 2024",El reino del planeta de los simios (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WByoFs4CO-ILopc52KCQClbm8FJJZcOiDYjLJ34gvaP5#.mkv
+#EXTINF:-1 xui-id="179661" tvg-name="Viuda negra (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DX7cHc-no_5lPHAaEtgBYi6qywEJWDl9-9pCqEwd5kA.jpg" group-title="MARVEL",Viuda negra (2021)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBZmLVQNg4Auen56jKAPPHmevYlJqzwMrFKJEmP2YiR1#.mkv
 #EXTINF:-1 xui-id="339801" tvg-name="The Acolyte S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SFXl3yQ_SzHFNLv3J6VRH_UGFBXFAJkm7iCm-r5ZAXA.jpg" group-title="DISNEY+",The Acolyte S01E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRExmbFJ6oA9j8soZczT4s6NFRMwTLvoY2cd3mscwBj7s#.mkv
 #EXTINF:-1 xui-id="339800" tvg-name="The Acolyte S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lK8IrxoCtySCrcmzCmIt_D64AlXm5jv4qUNYCvB0V48.jpg" group-title="DISNEY+",The Acolyte S01E07
@@ -614,6 +484,22 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GvjZ0a
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIFC6IfQ2HTtN_lc6Hvj2XJ54A3V8SGzL93TRg0sgkwn#.mkv
 #EXTINF:-1 xui-id="169343" tvg-name="El diablo viste a la moda (2006)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nGsB3zN481GLk6Sd4XNcAU3qZGjb3-wpJi_TDfS3ho8.jpg" group-title="DISNEY+",El diablo viste a la moda (2006)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD80NG3r63lrtnbG6tHnAAzsekelGn1bQRbyfo8iUmeh#.mkv
+#EXTINF:-1 xui-id="338719" tvg-name="ONE PIECE S02E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0usYU0ohgQG8CAohU2k26NxCHh4qDTWv496XaWiIrVIY.jpg" group-title="NETFLIX",ONE PIECE S02E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DVmllDnmvGgn9MFl9id8Hr#.mkv
+#EXTINF:-1 xui-id="338718" tvg-name="ONE PIECE S02E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-08H1ndYcuHa9PvS-v26Vb4yUzVPvxb0iOiy53TG0Mff4.jpg" group-title="NETFLIX",ONE PIECE S02E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DghSzEKx9-gpjqh7axoLCx#.mkv
+#EXTINF:-1 xui-id="338717" tvg-name="ONE PIECE S02E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0qAFca0kXvsiCHwDKh6QxIctGUX3BDmql3lni8gXJpCE.jpg" group-title="NETFLIX",ONE PIECE S02E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DJY5gNwM543M24d4_sHdpF#.mkv
+#EXTINF:-1 xui-id="338716" tvg-name="ONE PIECE S02E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BF4vUEz5zSqMHH1r2VFou0yVu7KnKsZXRbpTZxpNFzc.jpg" group-title="NETFLIX",ONE PIECE S02E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5CcNk8coFc2l34kBPHxTIRv#.mkv
+#EXTINF:-1 xui-id="338715" tvg-name="ONE PIECE S02E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0LtOykimWJgnB0Naw4Y7AO-l3P6XlljRnTHRMENY-fhE.jpg" group-title="NETFLIX",ONE PIECE S02E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BHV8eb1xe37pR4ngaZdTJk#.mkv
+#EXTINF:-1 xui-id="338714" tvg-name="ONE PIECE S02E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bD3VArJ6bCrtpFrFb0BeGNwAAD4M2bxjQXaNBfdIWdI.jpg" group-title="NETFLIX",ONE PIECE S02E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BlTM9IP5-KM8diXT0ggXZD#.mkv
+#EXTINF:-1 xui-id="338713" tvg-name="ONE PIECE S02E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-095dqvK4z9ll4OgHJlakEgJQxIN10gP27CYqSAqyqFnE.jpg" group-title="NETFLIX",ONE PIECE S02E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DEstjrO6KpKuGoVK3xXycA#.mkv
+#EXTINF:-1 xui-id="338712" tvg-name="ONE PIECE S02E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ivvr_kz5bmTVCkvMTdTOwP_5x4yc71vC8KJwMixn9E8.jpg" group-title="NETFLIX",ONE PIECE S02E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BdOuFdda2Dk6nZofvyU7Je#.mkv
 #EXTINF:-1 xui-id="263726" tvg-name="Greenland: El último refugio (2020)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlYLo-v3EFJSsvCxNfxKZUc9cOJJxkXVFqLm_NjzhOJU.jpg" group-title="PELICULAS 2022",Greenland: El último refugio (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuSmoe22BoY_nVpXoO1EQJaX#.mkv
 #EXTINF:-1 xui-id="337063" tvg-name="X-Men: Apocalipsis (2016)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bN3I2opP8w6pl-cbKVPQIvRl0BL0GVsmULFNCPZonJ0.jpg" group-title="SAGAS",X-Men: Apocalipsis (2016)
@@ -826,6 +712,8 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDRp7l9w
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSMfC5t40sOoMMOGfXcciQ1#.mkv
 #EXTINF:-1 xui-id="196996" tvg-name="American Horror Story S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg" group-title="DISNEY+",American Horror Story S02E03
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSEhWAg6SaLN94j5x6TfjLZ#.mk
+#EXTINF:-1 xui-id="190116" tvg-name="Alien vs. Predator (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" group-title="SAGAS",Alien vs. Predator (2004)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZgCWC3ZbpoxisyBoCb-XKbD#.mkv
 #EXTINF:-1 xui-id="317875" tvg-name="Good Boy (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03kHkzwvw6I80LH0AViYjLrmJwLBDvYp9eUN4J4uyN3c.jpg" group-title="APPLETV+",Good Boy (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lklvjVILMiZgQSMettE6y4o#.mkv
 #EXTINF:-1 xui-id="317874" tvg-name="Chainsaw Man - La película: El arco de Reze (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oPUU7dFTm95wyGNB9RkCIuixcBZ8f7mUs5Us6_pUpE0.jpg" group-title="APPLETV+",Chainsaw Man - La película: El arco de Reze (2025)
@@ -886,8 +774,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHZ_WnXtfuOZBrsi-OrGs9MzzQvh
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GVqkBFj8wffAOevssfHNOfn#.mkv
 #EXTINF:-1 xui-id="303932" tvg-name="Expediente Warren: El último rito (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XA7Xiiw4XgqbqD8gdkXnvATFSuIErRvPZfnvbuWziRo.jpg" group-title="APPLETV+",Expediente Warren: El último rito (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GXU3GL8fTR33WtRo_fTMZd0#.mkv
-#EXTINF:-1 xui-id="303931" tvg-name="Padre de familia: Música para Halloween (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IsYsak3LgeenuH-BfutkeUagmIJi9nFEH7n6mc-QZAQ.jpg" group-title="AMAZON",Padre de familia: Música para Halloween (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GUDzEeTv7WRJqzKrFfO9fJo#.mkv
 #EXTINF:-1 xui-id="303929" tvg-name="Rockstar: DUKI desde el fin del mundo (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01VAbyaCasTxYFZeMhQGKR0V4FQ4EWpTjUq_NnFX6BJ4.jpg" group-title="NETFLIX",Rockstar: DUKI desde el fin del mundo (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHyNlegD1jYWmlw8tMXY_daooILz5-iZ_X9BtQWPpmDg#.mkv
 #EXTINF:-1 xui-id="303289" tvg-name="Weapons (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dCt5sU2sNebfdACYJctLJyrAPB6H7Q2ZlEjYqDmtYSs.jpg" group-title="HBO MAX",Weapons (2025)
@@ -1038,8 +924,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNyyH-2Q6ZkRRzDFXTYTT4w2f3DR
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKGr-obZqPWvna_CqQ8IybrLO_9JX6RiR5UEizRZ3uYG#.mkv
 #EXTINF:-1 xui-id="290478" tvg-name="Detectives en Guerra (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDNWFHE3rpWbacPAgRQ5rn17OpkiAWRqa48FA8op2HYE.jpg" group-title="PELICULAS 2022",Detectives en Guerra (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WP62Tou2wSl8gX95rw5ah1ix7YmM5ZIPnc3MVpg_cyA3#.mkv
-#EXTINF:-1 xui-id="290474" tvg-name="Predator: La presa (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7j1TxSP9vHgXlX-KvUg2D0zpGxbsNJ4VoFvPI0EmsrY.jpg" group-title="PELICULAS 2022",Predator: La presa (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WP62Tou2wSl8gX95rw5ah1i10jcFtw23Wqa0mF-_BDRa#.mkv
 #EXTINF:-1 xui-id="290469" tvg-name="Darby y los espíritus (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLw3CDuS7YyB9835ONZza0_64cdQTqXQePklJcri1_vBs.jpg" group-title="PELICULAS 2022",Darby y los espíritus (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK1-RggWlU5IHh1nOceIQITsSMfxBotqsZatsHvfhSE5#.mkv
 #EXTINF:-1 xui-id="290451" tvg-name="Una boda explosiva (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbpHrCDcWT2tmY1vU7JnUfaswt19ewSzRq91cbbOlKrk.jpg" group-title="PELICULAS 2022",Una boda explosiva (2022)
@@ -2678,8 +2562,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WElpgR2kM_aP03ywFTaKBBKty3CT
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WElpgR2kM_aP03ywFTaKBBJ21Ob2845mE8lnD8hM9aUi#.mkv
 #EXTINF:-1 xui-id="190121" tvg-name="Rocky III (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHI45vT6yGST06JtzZ5UFcySysN.jpg" group-title="SAGAS",Rocky III (1982)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WElpgR2kM_aP03ywFTaKBBIWjGF1Y4-UdAVAOaLS82ye#.mkv
-#EXTINF:-1 xui-id="190116" tvg-name="Alien vs. Predator (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" group-title="SAGAS",Alien vs. Predator (2004)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZgCWC3ZbpoxisyBoCb-XKbD#.mkv
 #EXTINF:-1 xui-id="190113" tvg-name="Ip Man 4: El final (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg" group-title="SAGAS",Ip Man 4: El final (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZhZu_bEpWpVe9O-d-iDYTZS#.mkv
 #EXTINF:-1 xui-id="190112" tvg-name="Alien (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI5eeqdoiZ62zv11WSMEev6Ynim.jpg" group-title="SAGAS",Alien (2017)
@@ -2882,8 +2764,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCamwC3--81OSB50xZYRpOSEC96R
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCamwC3--81OSB50xZYRpORSH-iwe4kAjsedW9c298AL#.mkv
 #EXTINF:-1 xui-id="189990" tvg-name="The Hanging Sun (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ds-fNjX_pADYheydT_1zfWUnK6cfaJ7-CPSB8vN52hA.jpg" group-title="AMAZON",The Hanging Sun (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCamwC3--81OSB50xZYRpOTiOklAwBI2FLSuaDR40HLT#.mkv
-#EXTINF:-1 xui-id="189989" tvg-name="The Offering (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-079yb3T8_eEaJ1oeaJLcLrxq9-yyflDiQLT2LWAYO0rk.jpg" group-title="AMAZON",The Offering (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOQ_JjqQz5tQ3_j20Eet_errRPrQG0ALXwhodsisPjYz#.mkv
 #EXTINF:-1 xui-id="189988" tvg-name="Vigília (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_-4Cixl8H5dGVS0wAD-tcSLQXQ9CdYH1JFbtHy9W5pw.jpg" group-title="AMAZON",Vigília (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOQ_JjqQz5tQ3_j20Eet_ephiUsA_hu9UrIikG2WO5Ql#.mkv
 #EXTINF:-1 xui-id="189987" tvg-name="The Darker the Lake (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0v0YL98Vh78T68mcHOGqWjY9T0u2h_DZaLQ_aJ6WG8-g.jpg" group-title="AMAZON",The Darker the Lake (2022)
@@ -3060,22 +2940,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJQ1Ldk0OQyVLxgRIamG-E80ZOA0
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJQ1Ldk0OQyVLxgRIamG-E-WNCtcyXrznJ4UDQtji6GY#.mkv
 #EXTINF:-1 xui-id="189640" tvg-name="Bob Esponja presenta: La zona intermareal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0LRmNW4Rsu5086CswtrueFoAdz.jpg" group-title="PELICULAS 2024",Bob Esponja presenta: La zona intermareal (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJQ1Ldk0OQyVLxgRIamG-E-LRWPOC2NlVooepj2DGOK9#.mkv
-#EXTINF:-1 xui-id="189638" tvg-name="Aladdín (2019)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhLBx2j95eMeGnDCCJ0uvITWrNyccBnWRIoiVF4AuHb4.jpg" group-title="DISNEY+",Aladdín (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF0NAnsxftMxWIAES73DQMAv#.mkv
-#EXTINF:-1 xui-id="189637" tvg-name="Maleficio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEN0YnUefVD7AR4I0leT4Ep9tSm.jpg" group-title="NETFLIX",Maleficio (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF3oKvdWn2MVdQOz1HTfJx5L#.mkv
-#EXTINF:-1 xui-id="189636" tvg-name="Llaman a la puerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" group-title="NETFLIX",Llaman a la puerta (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF08AbMqju331tnaJmiL3I52#.mkv
-#EXTINF:-1 xui-id="189634" tvg-name="Resident Evil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbaJGqRQCs5xYknZ8TeTsEZTNRk.jpg" group-title="PELICULAS 2024",Resident Evil (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF0Ib6y9YWZDvOXWS_ISAfOI#.mkv
-#EXTINF:-1 xui-id="189633" tvg-name="S.O.S Mamis 2: Mosquita muerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJeJt7JzgGleBtM9LaFmtxTVdAN.jpg" group-title="PELICULAS 2024",S.O.S Mamis 2: Mosquita muerta (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF0g8-9yD-K6Mkp6N4hHl8v9#.mkv
-#EXTINF:-1 xui-id="189632" tvg-name="Felicidad para principiantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUfV8e0ub6oHngppOQ4XPtV9QbE.jpg" group-title="PELICULAS 2024",Felicidad para principiantes (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF1_DnQMC5iiVACCrlR-RoaP#.mkv
-#EXTINF:-1 xui-id="189631" tvg-name="El exorcista del papa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z1PVqfzvT4KjPNpQRfy5HpsyIW.jpg" group-title="PELICULAS 2024",El exorcista del papa (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF1M-7LNicxqNYqCh09HQNi-#.mkv
-#EXTINF:-1 xui-id="189630" tvg-name="Asesinada (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UutUHbRBbI6uMJrLQrqFELneJk.jpg" group-title="PELICULAS 2024",Asesinada (2012)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJ5ilJ0C4liHmI1foit8BF2IR8LYt0BqiVqsL5llEQzN#.mkv
 #EXTINF:-1 xui-id="189628" tvg-name="Alice, cariño (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6jQjUEV5Zmk1Ni_fQFAA_vSu_Z7LEUOTcvgvdDtftrI.jpg" group-title="PELICULAS 2024",Alice, cariño (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNHokaPkqnatcUa7PKMjMd1_OTMpQ70UsVnKP-uyJUva#.mkv
 #EXTINF:-1 xui-id="189627" tvg-name="Loca obsesión (2009)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkHUQiI9ozR6SBlVVzjBBD8BeIRG2wYeRn1RuwHbCSrM.jpg" group-title="DISNEY+",Loca obsesión (2009)
@@ -3126,8 +2990,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAS9OrplbZp8r7uV_g7kMqcLdWa5
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAS9OrplbZp8r7uV_g7kMqf3eidCeenFOxEzj5tX5-Uu#.mkv
 #EXTINF:-1 xui-id="189600" tvg-name="¿Qué culpa tiene el karma? (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTyJpcmUzWdopzVzJvZrF6mRaFOvy_4UWK_jjPW7yTDM.jpg" group-title="PELICULAS 2022",¿Qué culpa tiene el karma? (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAS9OrplbZp8r7uV_g7kMqd-szUOVF51iDJ1YIMiTZ0a#.mkv
-#EXTINF:-1 xui-id="189599" tvg-name="Predator: La presa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg" group-title="PELICULAS 2022",Predator: La presa (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIFC6IfQ2HTtN_lc6Hvj2XIZ8rok4HDaq4Kppp_gz6uh#.mkv
 #EXTINF:-1 xui-id="189598" tvg-name="Caos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6g59qFwxwp5IHlooBtdQeR9VYbO.jpg" group-title="PELICULAS 2022",Caos (2010)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIFC6IfQ2HTtN_lc6Hvj2XKgGgzTSt-i5VstDlEAIeTD#.mkv
 #EXTINF:-1 xui-id="189597" tvg-name="¿Asesinato? ¿Qué asesinato? (2023)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuZxH6jYG3koD17dj8pKgGMKdLIcemQsrwE1Btp_oeJU.jpg" group-title="PELICULAS 2024",¿Asesinato? ¿Qué asesinato? (2023)
@@ -4244,8 +4106,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHjhPSZRSv1VRhRZ5ZUMzZhik0CB
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKM-DJQ6SDyvlek0faDRMM6sH_mOaNrANWHZer4yCkW5#.mkv
 #EXTINF:-1 xui-id="180912" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g56u2k9CvMHP5IG257QVj9gj1b.jpg" group-title="MARVEL",Deadpool 2 (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJGF-H9sNB2wqC57lpl2ApBhAwrCZ-XNhpht8oVqLA_E#.mkv
-#EXTINF:-1 xui-id="179661" tvg-name="Viuda negra (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DX7cHc-no_5lPHAaEtgBYi6qywEJWDl9-9pCqEwd5kA.jpg" group-title="MARVEL",Viuda negra (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBZmLVQNg4Auen56jKAPPHmevYlJqzwMrFKJEmP2YiR1#.mkv
 #EXTINF:-1 xui-id="179659" tvg-name="Vengadores: Infinity War (2018)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qrt_Fu03AdTImN39cp9oeGQROKQA5KJb4ORGi7-1ryw.jpg" group-title="MARVEL",Vengadores: Infinity War (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEh4-ZLf3zjwN6Ve36CDUibH-p4enzZ6m2vLNM53nRPf#.mkv
 #EXTINF:-1 xui-id="179658" tvg-name="Vengadores: Endgame (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qrt_Fu03AdTImN39cp9oeGQROKQA5KJb4ORGi7-1ryw.jpg" group-title="DISNEY+",Vengadores: Endgame (2019)
@@ -9290,372 +9150,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5AWKPwG
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5B4nOTHIu5oNV8NZ1PUIUgv#.mkv
 #EXTINF:-1 xui-id="338720" tvg-name="Outlander S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0h1JVLWHb-72MPrKc3i8DdspOxhp0lFaibcQUDbD7Sh8.jpg" group-title="DISNEY+",Outlander S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5D-ueNeKhAAVxP9IZi2hejM#.mkv
-#EXTINF:-1 xui-id="338719" tvg-name="ONE PIECE S02E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0usYU0ohgQG8CAohU2k26NxCHh4qDTWv496XaWiIrVIY.jpg" group-title="NETFLIX",ONE PIECE S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DVmllDnmvGgn9MFl9id8Hr#.mkv
-#EXTINF:-1 xui-id="338718" tvg-name="ONE PIECE S02E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-08H1ndYcuHa9PvS-v26Vb4yUzVPvxb0iOiy53TG0Mff4.jpg" group-title="NETFLIX",ONE PIECE S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DghSzEKx9-gpjqh7axoLCx#.mkv
-#EXTINF:-1 xui-id="338717" tvg-name="ONE PIECE S02E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0qAFca0kXvsiCHwDKh6QxIctGUX3BDmql3lni8gXJpCE.jpg" group-title="NETFLIX",ONE PIECE S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DJY5gNwM543M24d4_sHdpF#.mkv
-#EXTINF:-1 xui-id="338716" tvg-name="ONE PIECE S02E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BF4vUEz5zSqMHH1r2VFou0yVu7KnKsZXRbpTZxpNFzc.jpg" group-title="NETFLIX",ONE PIECE S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5CcNk8coFc2l34kBPHxTIRv#.mkv
-#EXTINF:-1 xui-id="338715" tvg-name="ONE PIECE S02E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0LtOykimWJgnB0Naw4Y7AO-l3P6XlljRnTHRMENY-fhE.jpg" group-title="NETFLIX",ONE PIECE S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BHV8eb1xe37pR4ngaZdTJk#.mkv
-#EXTINF:-1 xui-id="338714" tvg-name="ONE PIECE S02E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bD3VArJ6bCrtpFrFb0BeGNwAAD4M2bxjQXaNBfdIWdI.jpg" group-title="NETFLIX",ONE PIECE S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BlTM9IP5-KM8diXT0ggXZD#.mkv
-#EXTINF:-1 xui-id="338713" tvg-name="ONE PIECE S02E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-095dqvK4z9ll4OgHJlakEgJQxIN10gP27CYqSAqyqFnE.jpg" group-title="NETFLIX",ONE PIECE S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DEstjrO6KpKuGoVK3xXycA#.mkv
-#EXTINF:-1 xui-id="338712" tvg-name="ONE PIECE S02E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ivvr_kz5bmTVCkvMTdTOwP_5x4yc71vC8KJwMixn9E8.jpg" group-title="NETFLIX",ONE PIECE S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BdOuFdda2Dk6nZofvyU7Je#.mkv
-#EXTINF:-1 xui-id="338711" tvg-name="ONE PIECE S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0OfoidtcIOQodAO9Gx8joM5DpBo9WNcVZpI5bRY5cJ_A.jpg" group-title="NETFLIX",ONE PIECE S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5AxRWkbnynADYN8PqMHurg3#.mkv
-#EXTINF:-1 xui-id="338710" tvg-name="ONE PIECE S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0PIPVPymoBOwWgNfvu2dtSsuZgOHl-V0pTOIRLxw148A.jpg" group-title="NETFLIX",ONE PIECE S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5AbwKmSlRW1yN8w7FLuQ4Zu#.mkv
-#EXTINF:-1 xui-id="338709" tvg-name="ONE PIECE S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_N4Uf8BHRYkNRk27q6oOgtRXwxohkT7K8uFAjcYrD3Y.jpg" group-title="NETFLIX",ONE PIECE S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5CxoHJ64GiyLGyVfxxKRmcq#.mkv
-#EXTINF:-1 xui-id="338708" tvg-name="ONE PIECE S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0CP5UN73FxntPcb2DgkJtrAttc0IPY1iC57LwflUs3rY.jpg" group-title="NETFLIX",ONE PIECE S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5AbSkByfqhlVF6mgIhggh14#.mkv
-#EXTINF:-1 xui-id="338707" tvg-name="ONE PIECE S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0p2KYnePdCHuz7a2hQQaeYO6Lz5rZXx8bd_3iFHxtF6E.jpg" group-title="NETFLIX",ONE PIECE S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DojMhVZHfXQLjSymJ3yhsD#.mkv
-#EXTINF:-1 xui-id="338706" tvg-name="ONE PIECE S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0L2eYRASDO-PoMpzlFXeHaD9J-Wt6T7nlmkRpjqK45WU.jpg" group-title="NETFLIX",ONE PIECE S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BBKMVYUbRB1pSpT3ZxxyLd#.mkv
-#EXTINF:-1 xui-id="338705" tvg-name="ONE PIECE S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WVEG20XQ8o-Y_JJBsK2RetTCaE7eapp7JPg65aerd7I.jpg" group-title="NETFLIX",ONE PIECE S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5CBztvPjX7plxFTkY62F8Mf#.mkv
-#EXTINF:-1 xui-id="338704" tvg-name="ONE PIECE S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="NETFLIX",ONE PIECE S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5As5U-DT1F6LY2YHUjnwDuI#.mkv
-#EXTINF:-1 xui-id="338703" tvg-name="Chicas de oficina S05E28" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E28
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5CXSNhRFTf_990Njg-wJ-Rb#.mkv
-#EXTINF:-1 xui-id="338702" tvg-name="Chicas de oficina S05E27" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E27
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5Dwcm_Wuw-jep_JJuS0NeFH#.mkv
-#EXTINF:-1 xui-id="338701" tvg-name="Chicas de oficina S05E26" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E26
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5AGfnFbmUXsZ-Tl5DL0kiDv#.mkv
-#EXTINF:-1 xui-id="338700" tvg-name="Chicas de oficina S05E25" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E25
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5Cb0hRIiFKSIQQK4N54kCK2#.mkv
-#EXTINF:-1 xui-id="338699" tvg-name="Chicas de oficina S05E24" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgdHF5JOIc38tueFHFPRpc2#.mkv
-#EXTINF:-1 xui-id="338698" tvg-name="Chicas de oficina S05E23" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrii78a4mbOB2RDK9VNA5F2n#.mkv
-#EXTINF:-1 xui-id="338697" tvg-name="Chicas de oficina S05E22" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriqT2OZTuXdKMw94IcFYFO9#.mkv
-#EXTINF:-1 xui-id="338696" tvg-name="Chicas de oficina S05E21" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgyuV7r_u9Q1jEq2HoXCqo9#.mkv
-#EXTINF:-1 xui-id="338695" tvg-name="Chicas de oficina S05E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjbrUrkuu68321OMYblVBRT#.mkv
-#EXTINF:-1 xui-id="338694" tvg-name="Chicas de oficina S05E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgIVmCFhXoZJ34P6MjVA7cf#.mkv
-#EXTINF:-1 xui-id="338693" tvg-name="Chicas de oficina S05E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrg2e2wT-dSRwkNeCQipfnla#.mkv
-#EXTINF:-1 xui-id="338692" tvg-name="Chicas de oficina S05E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjvZ4OTe6VOLELQcNfYWELc#.mkv
-#EXTINF:-1 xui-id="338691" tvg-name="Chicas de oficina S05E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgKlAJs229TntyHzl0tBxSn#.mkv
-#EXTINF:-1 xui-id="338690" tvg-name="Chicas de oficina S05E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhksMN_TejdRkd0_TDGXbph#.mkv
-#EXTINF:-1 xui-id="338689" tvg-name="Chicas de oficina S05E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjaShCSceEJ7ZQj8VwN0uyR#.mkv
-#EXTINF:-1 xui-id="338688" tvg-name="Chicas de oficina S05E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrj3cLTiK4E_hLtjgXS3X47f#.mkv
-#EXTINF:-1 xui-id="338687" tvg-name="Chicas de oficina S05E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjdQ3jmxA1R7C8PBANFi0De#.mkv
-#EXTINF:-1 xui-id="338686" tvg-name="Chicas de oficina S05E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjaL_0ZLybPlXJiPCxN76KL#.mkv
-#EXTINF:-1 xui-id="338685" tvg-name="Chicas de oficina S05E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriYOpKXOnTilvFGvTHkPO-0#.mkv
-#EXTINF:-1 xui-id="338684" tvg-name="Chicas de oficina S05E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjc28F-5N4r-6u4fRa7nJvd#.mkv
-#EXTINF:-1 xui-id="338683" tvg-name="Chicas de oficina S05E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriAMbj8_p8Na3PWsR7hMBLe#.mkv
-#EXTINF:-1 xui-id="338682" tvg-name="Chicas de oficina S05E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjC0d4HQw_stQcUFm7mOdJG#.mkv
-#EXTINF:-1 xui-id="338681" tvg-name="Chicas de oficina S05E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhon92mmNq3wfc5lei4a5O1#.mkv
-#EXTINF:-1 xui-id="338680" tvg-name="Chicas de oficina S05E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrioRPrIfdlb4yuVBRNWEsnF#.mkv
-#EXTINF:-1 xui-id="338679" tvg-name="Chicas de oficina S05E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjWGcYvfsbU6v9qNw94P72P#.mkv
-#EXTINF:-1 xui-id="338678" tvg-name="Chicas de oficina S05E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriL-Zfl7Li47zoajN7dH3C_#.mkv
-#EXTINF:-1 xui-id="338677" tvg-name="Chicas de oficina S05E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrj96nP71rXD9wYBS-UxUSkM#.mkv
-#EXTINF:-1 xui-id="338676" tvg-name="Chicas de oficina S05E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S05E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhnp6_rn3IURw1Uz2KBnmZL#.mkv
-#EXTINF:-1 xui-id="338675" tvg-name="Chicas de oficina S04E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZricbJNryopTRI2tnIU2dPBZ#.mkv
-#EXTINF:-1 xui-id="338674" tvg-name="Chicas de oficina S04E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrixtSMy1NwTVTpv_3MVvmS_#.mkv
-#EXTINF:-1 xui-id="338673" tvg-name="Chicas de oficina S04E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgtlK4L15k0VLyBSYUsXd7m#.mkv
-#EXTINF:-1 xui-id="338672" tvg-name="Chicas de oficina S04E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrj4AuqIWNwrt1t-ksfLN_FF#.mkv
-#EXTINF:-1 xui-id="338671" tvg-name="Chicas de oficina S04E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgNFSzq0zjLWPM7GJ17URRz#.mkv
-#EXTINF:-1 xui-id="338670" tvg-name="Chicas de oficina S04E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrijewgpcXXSednqLRJzBO0h#.mkv
-#EXTINF:-1 xui-id="338669" tvg-name="Chicas de oficina S04E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrg1-U6heYziPSDMxMWLmKut#.mkv
-#EXTINF:-1 xui-id="338668" tvg-name="Chicas de oficina S04E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZri3k0fG-sbBuPAyUw9fpOkT#.mkv
-#EXTINF:-1 xui-id="338667" tvg-name="Chicas de oficina S04E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhPHf4jPPXGxEW5cEDBu1Uq#.mkv
-#EXTINF:-1 xui-id="338666" tvg-name="Chicas de oficina S04E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgxJGhmonp8lA2asOmkBn9P#.mkv
-#EXTINF:-1 xui-id="338665" tvg-name="Chicas de oficina S04E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjXdipECHgHOYlMAhBZMV1X#.mkv
-#EXTINF:-1 xui-id="338664" tvg-name="Chicas de oficina S04E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhC_KfXg-aMMTeMyQ_zK1XN#.mkv
-#EXTINF:-1 xui-id="338663" tvg-name="Chicas de oficina S04E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhQagBMIbjK8-lfcwgrCM9R#.mkv
-#EXTINF:-1 xui-id="338662" tvg-name="Chicas de oficina S04E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhqlEy8jD9tpW0m8h36UMC4#.mkv
-#EXTINF:-1 xui-id="338661" tvg-name="Chicas de oficina S04E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrg2MpwSTP3w_5yZnOgXzYsV#.mkv
-#EXTINF:-1 xui-id="338660" tvg-name="Chicas de oficina S04E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjSUjC8lKEtNUxj19rB_zVQ#.mkv
-#EXTINF:-1 xui-id="338659" tvg-name="Chicas de oficina S04E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriXBFKF9XpTP7L6iA_TiQx1#.mkv
-#EXTINF:-1 xui-id="338658" tvg-name="Chicas de oficina S04E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgC1zETAbkFD5FVF0FvfZ8w#.mkv
-#EXTINF:-1 xui-id="338657" tvg-name="Chicas de oficina S04E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S04E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhh-e3zEOw67_wztrh8TAua#.mkv
-#EXTINF:-1 xui-id="338656" tvg-name="Chicas de oficina S03E25" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E25
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriz8xGYlc59BFdIyY0eMNtZ#.mkv
-#EXTINF:-1 xui-id="338655" tvg-name="Chicas de oficina S03E24" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgwf2udlqw0u7zTjoyhCdsf#.mkv
-#EXTINF:-1 xui-id="338654" tvg-name="Chicas de oficina S03E23" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrizWQtdU9zNlapfrslXKniJ#.mkv
-#EXTINF:-1 xui-id="338653" tvg-name="Chicas de oficina S03E22" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhVfcnrv0zlqae_XICJGx4C#.mkv
-#EXTINF:-1 xui-id="338652" tvg-name="Chicas de oficina S03E21" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhedXP6W-NSrQFrfj-iFhpU#.mkv
-#EXTINF:-1 xui-id="338651" tvg-name="Chicas de oficina S03E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjrKQ2BXdLyltRI00RrYr9q#.mkv
-#EXTINF:-1 xui-id="338650" tvg-name="Chicas de oficina S03E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgdVveKlZ2kDvBzX3y8IHRi#.mkv
-#EXTINF:-1 xui-id="338649" tvg-name="Chicas de oficina S03E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhzwM4nOOhUd26LjXCuzEoV#.mkv
-#EXTINF:-1 xui-id="338648" tvg-name="Chicas de oficina S03E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgzqnD6KX9gO02HrZMFzedp#.mkv
-#EXTINF:-1 xui-id="338647" tvg-name="Chicas de oficina S03E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgIh7uQF7hJEdj1WYAs5jMb#.mkv
-#EXTINF:-1 xui-id="338646" tvg-name="Chicas de oficina S03E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrj8cKqc6Zf9Lhkzo8Msb42O#.mkv
-#EXTINF:-1 xui-id="338645" tvg-name="Chicas de oficina S03E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjzOpCAaEQYzor4WEaW9bt9#.mkv
-#EXTINF:-1 xui-id="338644" tvg-name="Chicas de oficina S03E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZri21KxG6cHp3Rm2nMxCcgEC#.mkv
-#EXTINF:-1 xui-id="338643" tvg-name="Chicas de oficina S03E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrigVlWmYI5_w2XGi0cfU1_E#.mkv
-#EXTINF:-1 xui-id="338642" tvg-name="Chicas de oficina S03E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrifeBvGKJj33tXIMMb-hOnw#.mkv
-#EXTINF:-1 xui-id="338641" tvg-name="Chicas de oficina S03E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhWkQacO4p17nRdohOcInJ1#.mkv
-#EXTINF:-1 xui-id="338640" tvg-name="Chicas de oficina S03E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhSHaoVGaFcjYEokd1_hJ1J#.mkv
-#EXTINF:-1 xui-id="338639" tvg-name="Chicas de oficina S03E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhauDldFmVEiIrZwsxQMaWM#.mkv
-#EXTINF:-1 xui-id="338638" tvg-name="Chicas de oficina S03E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjhJ7yMmUKmWglaTqH7AGaZ#.mkv
-#EXTINF:-1 xui-id="338637" tvg-name="Chicas de oficina S03E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjAAYYDFZyZ8qUgHGXX9LLI#.mkv
-#EXTINF:-1 xui-id="338636" tvg-name="Chicas de oficina S03E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhCtDMNZFh6Vg3rfnBO855h#.mkv
-#EXTINF:-1 xui-id="338635" tvg-name="Chicas de oficina S03E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrg61r--IQnyVD59f3cUxh5O#.mkv
-#EXTINF:-1 xui-id="338634" tvg-name="Chicas de oficina S03E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhjf4vzaXFvW0shLb6UPEKd#.mkv
-#EXTINF:-1 xui-id="338633" tvg-name="Chicas de oficina S03E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjR3dZhU4SF6jtrBeH8lgRV#.mkv
-#EXTINF:-1 xui-id="338632" tvg-name="Chicas de oficina S03E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S03E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjknR20Se24zSPxefSVoTuN#.mkv
-#EXTINF:-1 xui-id="338631" tvg-name="Chicas de oficina S02E22" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgbPq4D4ByvO6KbZvwCJgDo#.mkv
-#EXTINF:-1 xui-id="338630" tvg-name="Chicas de oficina S02E21" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgkFJnwn91IOJYlmqaVobNC#.mkv
-#EXTINF:-1 xui-id="338629" tvg-name="Chicas de oficina S02E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgzq1sJelRSh1jPZDd3R0BZ#.mkv
-#EXTINF:-1 xui-id="338628" tvg-name="Chicas de oficina S02E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhvpKVfBc3cIIu3h3dLNDv_#.mkv
-#EXTINF:-1 xui-id="338627" tvg-name="Chicas de oficina S02E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgyaMvA9NDgrsRQU6MPp-_1#.mkv
-#EXTINF:-1 xui-id="338626" tvg-name="Chicas de oficina S02E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhOCX3Ed_8JlobCnDNXd3eX#.mkv
-#EXTINF:-1 xui-id="338625" tvg-name="Chicas de oficina S02E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgo_cPNyW8t2MEYHnXw81-v#.mkv
-#EXTINF:-1 xui-id="338624" tvg-name="Chicas de oficina S02E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrh-a-icLXNJvC2gnHm5kYOW#.mkv
-#EXTINF:-1 xui-id="338623" tvg-name="Chicas de oficina S02E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgr6VUT46p7hGmK_3WHo6Ia#.mkv
-#EXTINF:-1 xui-id="338622" tvg-name="Chicas de oficina S02E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgtX01spm36LnaJVd3EMTkC#.mkv
-#EXTINF:-1 xui-id="338621" tvg-name="Chicas de oficina S02E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhygkM6HPovNrNF1LVDG5Zj#.mkv
-#EXTINF:-1 xui-id="338620" tvg-name="Chicas de oficina S02E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgcsqKZNCKk4AKERYVQwa6m#.mkv
-#EXTINF:-1 xui-id="338619" tvg-name="Chicas de oficina S02E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhjWkAEVPHrI9tdv4Q5oyM_#.mkv
-#EXTINF:-1 xui-id="338618" tvg-name="Chicas de oficina S02E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhYJCi8wS4eNSQzd28oNCW7#.mkv
-#EXTINF:-1 xui-id="338617" tvg-name="Chicas de oficina S02E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjn1TNjrTNh46GPN-Vzyujj#.mkv
-#EXTINF:-1 xui-id="338616" tvg-name="Chicas de oficina S02E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjzrUpD_Vj92Hah8MoDJ3Ns#.mkv
-#EXTINF:-1 xui-id="338615" tvg-name="Chicas de oficina S02E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgd_yPWKs8xQooC3XANc1f2#.mkv
-#EXTINF:-1 xui-id="338614" tvg-name="Chicas de oficina S02E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrg8M96Tr2ANOjVYgZqYvkFN#.mkv
-#EXTINF:-1 xui-id="338613" tvg-name="Chicas de oficina S02E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriwulT_2eK0GFD40iOqVa50#.mkv
-#EXTINF:-1 xui-id="338612" tvg-name="Chicas de oficina S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriFIRNEuUtutR31paTYTQZC#.mkv
-#EXTINF:-1 xui-id="338611" tvg-name="Chicas de oficina S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjBh8LaPlMVmgcApLwMYbyG#.mkv
-#EXTINF:-1 xui-id="338610" tvg-name="Chicas de oficina S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgqlJhMUZfYuGeBFpD6Aj3i#.mkv
-#EXTINF:-1 xui-id="338609" tvg-name="Chicas de oficina S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrhcOYlF9biqLOETcsAhsqJ1#.mkv
-#EXTINF:-1 xui-id="338608" tvg-name="Chicas de oficina S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrifoj9ZpBSX5N5MsA85Bbjn#.mkv
-#EXTINF:-1 xui-id="338607" tvg-name="Chicas de oficina S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0WgpD8g8lIOKfvZBFcm7wRXfo1cCAhMTI1XbMA0TlEGY.jpg" group-title="AMAZON",Chicas de oficina S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgP6y3iS6zEg8t5xFn4i5dM#.mkv
-#EXTINF:-1 xui-id="338606" tvg-name="Crónicas vampíricas S08E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0t-FN7YqVmeF-09HO9UBnMWZJ7dVV-HN3VA9STFhcQ2U.jpg" group-title="AMAZON",Crónicas vampíricas S08E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZriZwmCgFD2lat4L0KwzLRu-#.mkv
-#EXTINF:-1 xui-id="338605" tvg-name="Crónicas vampíricas S08E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cleSqvr5iu8RNyIRECLRHbK0xE15nybW9cAscpn25Es.jpg" group-title="AMAZON",Crónicas vampíricas S08E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrh2Gb0tsoxeFS2uiikpz2bo#.mkv
-#EXTINF:-1 xui-id="338604" tvg-name="Crónicas vampíricas S08E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0X3bpwloY_A4Er5hfYqSzNA2FnhqwiHztdrkHQpipNpk.jpg" group-title="AMAZON",Crónicas vampíricas S08E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjPQdKqp_5e5PsAUOnRC3Bj#.mkv
-#EXTINF:-1 xui-id="338603" tvg-name="Crónicas vampíricas S08E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0x3i_dJD-AMXiOJ-L1o_JnoCzgBApCA1VXZ852Vigbb4.jpg" group-title="AMAZON",Crónicas vampíricas S08E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjUKwYQ1_AidfVUNdzK0Li3#.mkv
-#EXTINF:-1 xui-id="338602" tvg-name="Crónicas vampíricas S08E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0492UW2cDHwBRUJm49i8ymNv31tylLYs4hR3t7-T58z8.jpg" group-title="AMAZON",Crónicas vampíricas S08E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgtSv1q-LBAxfdqJrvME7MO#.mkv
-#EXTINF:-1 xui-id="338601" tvg-name="Crónicas vampíricas S08E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0S-xcj4k1YxghR825f013K7HQY9RKWcPIVI-1heIwuQI.jpg" group-title="AMAZON",Crónicas vampíricas S08E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrjNJfZaFNzApGalkeNM0Y2D#.mkv
-#EXTINF:-1 xui-id="338600" tvg-name="Crónicas vampíricas S08E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oL3vQTWkT_BveT4vdMrgyAl4U6MLIwWdn1qRaeJrSIU.jpg" group-title="AMAZON",Crónicas vampíricas S08E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJaOXbZc9D9H1kTm00eIZrgr5aJZghQlzHw6TXhCyNlx#.mkv
-#EXTINF:-1 xui-id="338599" tvg-name="Crónicas vampíricas S08E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-06Xmg5Mt4FqOWxKKpznV5ErofvEFkgNpkbuwgPIHpRsQ.jpg" group-title="AMAZON",Crónicas vampíricas S08E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVaMokR1eQ5B51yq3nlxD1I#.mkv
-#EXTINF:-1 xui-id="338598" tvg-name="Crónicas vampíricas S08E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lH3OIJ7cyx5z-FB_HfoVdzgIaaPyKfzfwyU62vPHrOM.jpg" group-title="AMAZON",Crónicas vampíricas S08E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKX7gEYnkWC-OmcGWUHiJ2SO#.mkv
-#EXTINF:-1 xui-id="338597" tvg-name="Crónicas vampíricas S08E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0k_l89ce3n24xa7dCajZ08j_TPSa_bNff-0k5u2-bX74.jpg" group-title="AMAZON",Crónicas vampíricas S08E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUgLSCwktI485VaROKnWdah#.mkv
-#EXTINF:-1 xui-id="338596" tvg-name="Crónicas vampíricas S08E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0j2zVeNdUi2Pq_pHpLi8y4weqpRQQtsfd77bfoRDmH-0.jpg" group-title="AMAZON",Crónicas vampíricas S08E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKW8A0e90OygfWr7BlulDCB5#.mkv
-#EXTINF:-1 xui-id="338595" tvg-name="Crónicas vampíricas S08E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05-Gcj_UuA4EzSz7f5uepyhuCeggbUIETLqG5YMoTPBE.jpg" group-title="AMAZON",Crónicas vampíricas S08E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXxH7CXetZgCOaJNq6Prama#.mkv
-#EXTINF:-1 xui-id="338594" tvg-name="Crónicas vampíricas S08E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wCPUxspNRUax8MeSknTHZfQhTjPKmwLPf-_o06kpec0.jpg" group-title="AMAZON",Crónicas vampíricas S08E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVUM202ttiKqtCWXh_rV2Ex#.mkv
-#EXTINF:-1 xui-id="338593" tvg-name="Crónicas vampíricas S08E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SnL3vn1JRcIcBgrBUrDznX5DXUqrXtjWarLAZFHFvYM.jpg" group-title="AMAZON",Crónicas vampíricas S08E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUu19038b7aAc6k7UhDTpPH#.mkv
-#EXTINF:-1 xui-id="338592" tvg-name="Crónicas vampíricas S08E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qkw50CzlhdMVyh6oqlqI7J648jMvphafgG3CL0GHZd4.jpg" group-title="AMAZON",Crónicas vampíricas S08E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVF42XbFj_mZrSAdq6iBjhb#.mkv
-#EXTINF:-1 xui-id="338591" tvg-name="Crónicas vampíricas S08E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05AgwMrXjBjPhOpLn7E66RUCTS9N0it_PSLdxDNYNhNA.jpg" group-title="AMAZON",Crónicas vampíricas S08E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXsMNuNIRG60ldLfXitoh_x#.mkv
-#EXTINF:-1 xui-id="338590" tvg-name="Crónicas vampíricas S07E22" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tlyyVGSUGcUAOBE7m5QEvqhrFJhZq3aPvDcuhfl6nQg.jpg" group-title="AMAZON",Crónicas vampíricas S07E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXV0BwYIfoWO3Y-NTCR2P-4#.mkv
-#EXTINF:-1 xui-id="338589" tvg-name="Crónicas vampíricas S07E21" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0OjPoOk9hz18oUTDIEbQwPJi6BogKKtfIzA9nau2QdS8.jpg" group-title="AMAZON",Crónicas vampíricas S07E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVChSmnyViPiJ2uGKo_wrvV#.mkv
-#EXTINF:-1 xui-id="338588" tvg-name="Crónicas vampíricas S07E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0u-9wpbh0AjcCTwf0QX142NnSLjC-PaaOR-FX9879lCo.jpg" group-title="AMAZON",Crónicas vampíricas S07E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVZk1wB1UVw-WJa8hpVsoia#.mkv
-#EXTINF:-1 xui-id="338587" tvg-name="Crónicas vampíricas S07E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01NY5ZWueFX2JqapHb5xgHdJ5rwqA-0x0HiONzc3eHvw.jpg" group-title="AMAZON",Crónicas vampíricas S07E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKW4E9D6aReuVHjrOiQURrJW#.mkv
-#EXTINF:-1 xui-id="338586" tvg-name="Crónicas vampíricas S07E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0mMRYiQeWFGtHfqDfrXagZwEc0zosbSTXUfYfz9Dozcc.jpg" group-title="AMAZON",Crónicas vampíricas S07E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXjWp0NoIduPjVt49gcIEHP#.mkv
-#EXTINF:-1 xui-id="338585" tvg-name="Crónicas vampíricas S07E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GvEND1VxxeadFaNA1ieDsuvJkFgxYS9bpe9TNJBO7pg.jpg" group-title="AMAZON",Crónicas vampíricas S07E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXPIKwgYGhgitckcNrc2igi#.mkv
-#EXTINF:-1 xui-id="338584" tvg-name="Crónicas vampíricas S07E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ca7yZQ23oNihvJ842TOwwUM_xpSy2uQJSHM-CPSwPes.jpg" group-title="AMAZON",Crónicas vampíricas S07E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWx8RjTZpOaaWlABOTsgAiF#.mkv
-#EXTINF:-1 xui-id="338583" tvg-name="Crónicas vampíricas S07E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0mBnWloSowM7fIOb8rqMW33d6SCnFtZRUbmxy5Lj8QSk.jpg" group-title="AMAZON",Crónicas vampíricas S07E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWoe2RDVBhS0QYZv03Pb8sB#.mkv
-#EXTINF:-1 xui-id="338582" tvg-name="Crónicas vampíricas S07E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Q9hxpFrvjj6dlDdhG5VaUqsTxnJ7BAkUZkVytkV1rIo.jpg" group-title="AMAZON",Crónicas vampíricas S07E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKX7UG7zcefQLqORzFjmxJ39#.mkv
-#EXTINF:-1 xui-id="338581" tvg-name="Crónicas vampíricas S07E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SdIs36fLgwE-tA9R_x5nJq4SA45VRL9VpMY9e2P7sh0.jpg" group-title="AMAZON",Crónicas vampíricas S07E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUiJSg1SOJAXKy-3bBcrIcx#.mkv
-#EXTINF:-1 xui-id="338580" tvg-name="Crónicas vampíricas S07E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ijbI5BBjkS_4N-ByiLd1rYAYTrN_08LwccJCT1Ee4aQ.jpg" group-title="AMAZON",Crónicas vampíricas S07E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVUb_-KegjSRO80obxMKEHP#.mkv
-#EXTINF:-1 xui-id="338579" tvg-name="Crónicas vampíricas S07E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DqOwbhTdc6kL1gWekdSwUSxMSvdZNJgz2V4ZuH1atFU.jpg" group-title="AMAZON",Crónicas vampíricas S07E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVkIHq0uQQ4fcG6zvK7f5w8#.mkv
-#EXTINF:-1 xui-id="338578" tvg-name="Crónicas vampíricas S07E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ydhzt2pkaTgAu2PfIomOZ34riRNzDMwXKGMYBF35Gc0.jpg" group-title="AMAZON",Crónicas vampíricas S07E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWLrAvbwuw4Fcw_VELP_TRQ#.mkv
-#EXTINF:-1 xui-id="338577" tvg-name="Crónicas vampíricas S07E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Vc2qaRwkZ6jywx1z_KWUoMC-DowQzFjypNN5Yx5P90U.jpg" group-title="AMAZON",Crónicas vampíricas S07E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUz_6M5aTDNKAivYXoY4eg4#.mkv
-#EXTINF:-1 xui-id="338576" tvg-name="Crónicas vampíricas S07E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0jCUKH0VV6KxgjRQxEfAjq9HvUay-hnMZp3teMBr3ZC4.jpg" group-title="AMAZON",Crónicas vampíricas S07E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWbuC58b-ZubCLUsY19uzo5#.mkv
-#EXTINF:-1 xui-id="338575" tvg-name="Crónicas vampíricas S07E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0k-l0zTroaEKTkPFMqTqs0lJRCFXWnItkm8Vy3s4nFu0.jpg" group-title="AMAZON",Crónicas vampíricas S07E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKU7l4Vh9UsB504p-FvBM0fu#.mkv
-#EXTINF:-1 xui-id="338574" tvg-name="Crónicas vampíricas S07E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0hQzigLnS_Sadhp5rlAT8t5-l_ySLr9qBHbY6RgFb0a0.jpg" group-title="AMAZON",Crónicas vampíricas S07E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVr-wuYqXyw_pGSie3nTex-#.mkv
-#EXTINF:-1 xui-id="338573" tvg-name="Crónicas vampíricas S07E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KkljNVdy4m24W1ayoljjqdeVnbfR2ozyI-50Oxnfw3A.jpg" group-title="AMAZON",Crónicas vampíricas S07E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVsTFHBEBdF48O_O1cG9RE3#.mkv
-#EXTINF:-1 xui-id="338572" tvg-name="Crónicas vampíricas S07E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Omu2Mxn8sUwrrdSzoT4m_e8prSx6F1dMsH5ES1AARMM.jpg" group-title="AMAZON",Crónicas vampíricas S07E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVMl-ERxDYXsnbYhTiH7U59#.mkv
-#EXTINF:-1 xui-id="338571" tvg-name="Crónicas vampíricas S07E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AfSTqdb5pGkegwxGYUAffTj_N_3VjAS6W0CjHsaXV4g.jpg" group-title="AMAZON",Crónicas vampíricas S07E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXNTTQWQ0Kv2n1Ys7-pgxSm#.mkv
-#EXTINF:-1 xui-id="338570" tvg-name="Crónicas vampíricas S07E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IU8bEgv5QeCKpm5WONYNvJpxj21HQPyFsSMhoz1K1eo.jpg" group-title="AMAZON",Crónicas vampíricas S07E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUisciSztJC30R_xrWBS2jb#.mkv
-#EXTINF:-1 xui-id="338569" tvg-name="Crónicas vampíricas S07E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-04oPHenLeoiZd7E-oDtnA7vDWfVnY4uUOHmIPF2wt2Us.jpg" group-title="AMAZON",Crónicas vampíricas S07E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVtxFbRwIP6DZVe7Br29PZF#.mkv
-#EXTINF:-1 xui-id="338568" tvg-name="Crónicas vampíricas S06E22" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SJTvCOWH7V05X3aBT8cpKCacAvGkPXCJCwf0gFVVq84.jpg" group-title="AMAZON",Crónicas vampíricas S06E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUJyA2ibshB8s-XUNyE1FUF#.mkv
-#EXTINF:-1 xui-id="338567" tvg-name="Crónicas vampíricas S06E21" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oYSxj2Pmopz7lIIfZAx_SHm_nmdcv1bLkFbI1SxddBs.jpg" group-title="AMAZON",Crónicas vampíricas S06E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVW8KM75ju5YOQsKlsf1aY3#.mkv
-#EXTINF:-1 xui-id="338566" tvg-name="Crónicas vampíricas S06E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lpNySia5LX-0FvhtTOcTM6N0xo1OGYovA0oEBX7VRcU.jpg" group-title="AMAZON",Crónicas vampíricas S06E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVON3jogfhc_s2C00c1gt6x#.mkv
-#EXTINF:-1 xui-id="338565" tvg-name="Crónicas vampíricas S06E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0FtvoDHRSeBy8ncR8ExcqXj42riN5_6PS8DnD9hMt_1c.jpg" group-title="AMAZON",Crónicas vampíricas S06E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXVt1HE6LzQdPQjuvILV-U5#.mkv
-#EXTINF:-1 xui-id="338564" tvg-name="Crónicas vampíricas S06E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o5AwJNBMw9JInsHzThkSVVHR2zZBPsnA3wL0Odju4-I.jpg" group-title="AMAZON",Crónicas vampíricas S06E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWmpKU-6yez59WRkpnC2R2x#.mkv
-#EXTINF:-1 xui-id="338563" tvg-name="Crónicas vampíricas S06E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0QQq_A7XoZkYkBemgmgC-Ltf-Sdxlz_gVHEAuQcdYPX8.jpg" group-title="AMAZON",Crónicas vampíricas S06E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKX8-mOekSYGHGQDVgmPJOsx#.mkv
-#EXTINF:-1 xui-id="338562" tvg-name="Crónicas vampíricas S06E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IJWX9vayNi05wJaRc-OTzwt7OSB1IJ1SfRwVWetYG_Y.jpg" group-title="AMAZON",Crónicas vampíricas S06E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWmLGjMxlZw_W_2oOXyM4y3#.mkv
-#EXTINF:-1 xui-id="338561" tvg-name="Crónicas vampíricas S06E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01u1rCGB1JI0aqEAha1URLDj1v_YWnJbtudS7irQVRvw.jpg" group-title="AMAZON",Crónicas vampíricas S06E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKX2vB_h9eREklgXZQaTLj4s#.mkv
-#EXTINF:-1 xui-id="338560" tvg-name="Crónicas vampíricas S06E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0-aKXQKnkEv_5X_w3vOZ3dAzT-LP1HM_rHWpslsoT4pA.jpg" group-title="AMAZON",Crónicas vampíricas S06E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXq-yNfVvBcMIGVP2VliZIe#.mkv
-#EXTINF:-1 xui-id="338559" tvg-name="Crónicas vampíricas S06E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0836OpoGNtvBeEWclBVsMaYh-WzYmoNKdWEv-cyDow-Q.jpg" group-title="AMAZON",Crónicas vampíricas S06E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKU367cbERRxfktbVAo8eMSO#.mkv
-#EXTINF:-1 xui-id="338558" tvg-name="Crónicas vampíricas S06E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0iskJcqQUwAkW4VCcOe9R-kjHUnszBuyyvy1P3XwsE_U.jpg" group-title="AMAZON",Crónicas vampíricas S06E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUaHTK-cYYHZH7De1Yc783b#.mkv
-#EXTINF:-1 xui-id="338557" tvg-name="Crónicas vampíricas S06E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dFV8jFibvW5oMUl168EW02uZTuZkhPTnvdScFRao9u0.jpg" group-title="AMAZON",Crónicas vampíricas S06E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXUL6kRGQjRDBJqFLuASWtp#.mkv
-#EXTINF:-1 xui-id="338556" tvg-name="Crónicas vampíricas S06E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0eRXLlt1VnUiMuZIhaonBQcCYLKsiwa9j2bhICitFDeI.jpg" group-title="AMAZON",Crónicas vampíricas S06E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWFGR-IFsSB1kTsAAiwqcpr#.mkv
-#EXTINF:-1 xui-id="338555" tvg-name="Crónicas vampíricas S06E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tUHhk_oHEE7jUTrt5wvLSzkBpKWqAEzuFnma8Hyt_Fk.jpg" group-title="AMAZON",Crónicas vampíricas S06E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWCVpt2Bcco_SbLQrGuSg6F#.mkv
-#EXTINF:-1 xui-id="338554" tvg-name="Crónicas vampíricas S06E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AdRXRhNbmYosD4oznB4owZw732yPAssVK2xxK0Z4giE.jpg" group-title="AMAZON",Crónicas vampíricas S06E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKU5hUeCKyRV-REORKMqamsD#.mkv
-#EXTINF:-1 xui-id="338553" tvg-name="Crónicas vampíricas S06E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dGp600uoi50S49HWKUPJosX5oC5RlDp5QKRAFPhJ0ZI.jpg" group-title="AMAZON",Crónicas vampíricas S06E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWM1BKIbmQoCpDHXbMgNeWp#.mkv
-#EXTINF:-1 xui-id="338552" tvg-name="Crónicas vampíricas S06E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-08i-mRNTEVarJngem2PUGeIxQc9dt4PKT5937nvPVAcM.jpg" group-title="AMAZON",Crónicas vampíricas S06E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKWbZyoF1SPsulrm7IhXIukW#.mkv
-#EXTINF:-1 xui-id="338551" tvg-name="Crónicas vampíricas S06E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0eAqCTrAaplufR6DS52U30K64EhnsUkPVkooaRhAjv5E.jpg" group-title="AMAZON",Crónicas vampíricas S06E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKVsbxt4TdVQKg9NnpKii48o#.mkv
-#EXTINF:-1 xui-id="338550" tvg-name="Crónicas vampíricas S06E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0YGL1ADccblhgEAHO62gQApHceda7NAXuXHYZRab9erA.jpg" group-title="AMAZON",Crónicas vampíricas S06E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKUPuqcxP1lP180W1hWnPETd#.mkv
-#EXTINF:-1 xui-id="338549" tvg-name="Crónicas vampíricas S06E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Cd9BnwOHfz9F_yOm6uxWcah1zax7Ukt-jVKI1zt1zKQ.jpg" group-title="AMAZON",Crónicas vampíricas S06E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXmhXHATLeco3F6oVmMvUAo#.mkv
-#EXTINF:-1 xui-id="338548" tvg-name="Crónicas vampíricas S06E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0rt1bgkF2cuZnFi1dZpWQFwuBhMMTdvF02Vjwctqebcg.jpg" group-title="AMAZON",Crónicas vampíricas S06E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXgPQzyxeaSdU7Zvj61gVCd#.mkv
-#EXTINF:-1 xui-id="338547" tvg-name="Crónicas vampíricas S06E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ArNYi1pXJL74_sWVC8vchhmIWbv5nF9K1zvBerpZlqM.jpg" group-title="AMAZON",Crónicas vampíricas S06E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJdL-0W5OwLBSXtgX9x-qKXgtWY4UIRdglDTBMrHd4Rj#.mkv
-#EXTINF:-1 xui-id="338478" tvg-name="Crónicas vampíricas S02E21" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0HpjD1bvgNrSJMhKMfoQHJR1jHRPuHFCzXepoETz9L74.jpg" group-title="AMAZON",Crónicas vampíricas S02E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5NuSxgPlHDt6ewgYxxpBJ9x#.m4v
-#EXTINF:-1 xui-id="338476" tvg-name="Crónicas vampíricas S02E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0VeNJwIiwB19GnqIINYR9O0ouhqqjoQNWwsNYxoAnCL0.jpg" group-title="AMAZON",Crónicas vampíricas S02E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5O_U-ocDRD3LgyMil3vE-Jp#.m4v
-#EXTINF:-1 xui-id="338475" tvg-name="Crónicas vampíricas S02E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0azyJT3sT-7DQUb53HP9uirydQGjlUhyu6qIn-Cypwes.jpg" group-title="AMAZON",Crónicas vampíricas S02E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5OeeJvb0TCUfl9KJIFDGrDl#.m4v
-#EXTINF:-1 xui-id="338474" tvg-name="Crónicas vampíricas S02E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ipnbb8-RyOlNBt478O1B4oI6tb4_BejdjwzjKB0F4sg.jpg" group-title="AMAZON",Crónicas vampíricas S02E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5MKTfV3_mz0SAHGPbT6w2EL#.m4v
-#EXTINF:-1 xui-id="338472" tvg-name="Crónicas vampíricas S02E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0toHfD0GqJ0orDg2EBK5MPsAeAfdLHjUrm0fRLdgmb1o.jpg" group-title="AMAZON",Crónicas vampíricas S02E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5Mpa-oxgA6OwLAjq-JXZB7e#.m4v
-#EXTINF:-1 xui-id="338471" tvg-name="Crónicas vampíricas S02E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ouea_eu-1OuRz1iclIdBLmN-WYmKxDS1L6Uulti6HHE.jpg" group-title="AMAZON",Crónicas vampíricas S02E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5OxIfgAbR4s8DjTpuMcKdON#.m4v
-#EXTINF:-1 xui-id="338470" tvg-name="Crónicas vampíricas S02E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zfK9ZhFGwa0_sMKXjxzFWQ79aLQZviLxLHzaWr1L1E0.jpg" group-title="AMAZON",Crónicas vampíricas S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5MsOMKGqejpSSToBurVqMMC#.m4v
-#EXTINF:-1 xui-id="338469" tvg-name="Crónicas vampíricas S02E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0mgjaC6fmcRcp5OP32yNkM7oZ7zh0g-SPZOMmy58wBAQ.jpg" group-title="AMAZON",Crónicas vampíricas S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5OVc5tT_aOysd3_6Fv0kNLI#.m4v
-#EXTINF:-1 xui-id="338468" tvg-name="Crónicas vampíricas S02E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cC-iWb5ZTpZ8hZe6qqOAMFNLXFvUzib3wMpAmrsc5Go.jpg" group-title="AMAZON",Crónicas vampíricas S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5M0zB0_VD3oFryQrkgyRT9_#.m4v
-#EXTINF:-1 xui-id="338458" tvg-name="Crónicas vampíricas S02E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TMmkRPLs084tcprTsKVX_N654QVMV9d_RaIBPRGRQvM.jpg" group-title="AMAZON",Crónicas vampíricas S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5NnGMF49DEQIuxEaGaGsprs#.m4v
 #EXTINF:-1 xui-id="338435" tvg-name="The Terminal List: Dark Wolf S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Je8WKgMfozipr7v9S-MYHkoftjIb7_P3xoa4fKmg8rw.jpg" group-title="AMAZON",The Terminal List: Dark Wolf S01E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKx0uXVabgNHk1PZYBqbN5N29qP5QnAXKLKDDqDGH3I8#.mkv
 #EXTINF:-1 xui-id="338434" tvg-name="The Terminal List: Dark Wolf S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zPJcFU9E8bdDeZY_4MwVpxgMraB12VDOktPX0lZ3e-g.jpg" group-title="AMAZON",The Terminal List: Dark Wolf S01E07
@@ -10986,40 +10480,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDic4F1yG
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDifmYp3o8YMS3_HAGPsu9sY1#.mkv
 #EXTINF:-1 xui-id="335861" tvg-name="Dexter: New Blood S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ie6tMslMstBj0yPVVJ8tLO9AqYk0-oYj7u6PntUuPpg.jpg" group-title="PARAMOUNT+",Dexter: New Blood S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDic71SGEo_Rz8QKIWlf3o5qm#.mkv
-#EXTINF:-1 xui-id="335860" tvg-name="La oferta S01E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0hcYGJFPO1_InMbpX-pGUwRaRRDxkOFGMEz4CO0vo6w0.jpg" group-title="PARAMOUNT+",La oferta S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDifHhlwt5kPWAUjaFrMMASuV#.mkv
-#EXTINF:-1 xui-id="335859" tvg-name="La oferta S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0m7QDf_sD4lsiq6qTSgBNSh1pOiknE1y7bSrYd-ZAT80.jpg" group-title="PARAMOUNT+",La oferta S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDieKsOeaWJVc3m2IkcBne6Lk#.mkv
-#EXTINF:-1 xui-id="335858" tvg-name="La oferta S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-02KXQMH9m1ERdbpHKmW55e4dGX9l5KvWTXf1PNouKX0w.jpg" group-title="PARAMOUNT+",La oferta S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDic-ufEuBYlyNTyDvKWs1PSk#.mkv
-#EXTINF:-1 xui-id="335857" tvg-name="La oferta S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bxcnMipQ38LUckK8GtRIMGhooDx6LMCrlpWjjv6f5MU.jpg" group-title="PARAMOUNT+",La oferta S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDieca9LqNsIeQ2L2oF8a9oUP#.mkv
-#EXTINF:-1 xui-id="335856" tvg-name="La oferta S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05fhiUF5Cnz9O4VmP-r_rZTkF7fQvBee0Rt9DWN_nDYM.jpg" group-title="PARAMOUNT+",La oferta S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDidOLJbdERLKRzfGskie5m05#.mkv
-#EXTINF:-1 xui-id="335855" tvg-name="La oferta S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03_p1tCILYeOXBdMTU70e-_nirY6MF0NzzkRpovkxfak.jpg" group-title="PARAMOUNT+",La oferta S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDidaM5RNi0hoqn9DGaMxeaTn#.mkv
-#EXTINF:-1 xui-id="335854" tvg-name="La oferta S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ztYo6De_UKEuPB1M33Nur1npOMeSR0Z2sE35ocxq-yM.jpg" group-title="PARAMOUNT+",La oferta S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDifCliQGtGAZVIbL4HfRXACz#.mkv
-#EXTINF:-1 xui-id="335853" tvg-name="La oferta S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0yCxvHA5Wg3eo_JYmnS6b5ZXyNX-jpvFzO2ildjujvlA.jpg" group-title="PARAMOUNT+",La oferta S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDidENCHUGy2c16Usd5YkGHr2#.mkv
-#EXTINF:-1 xui-id="335852" tvg-name="La oferta S01E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wXuCdGLtsECAwnCVv2JFpqpLC8fk37fceh4u45hTvyw.jpg" group-title="PARAMOUNT+",La oferta S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDieD7BCbxITjzBEc0k4AtUy-#.mkv
-#EXTINF:-1 xui-id="335851" tvg-name="La oferta S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0E7IXIL42DMc_8aRtERlT6-inq564Zj69UcNfUjVtOJ0.jpg" group-title="PARAMOUNT+",La oferta S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDifhaC5A6P9BL8gDyrks82-q#.mkv
-#EXTINF:-1 xui-id="335850" tvg-name="Patricio es la estrella S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0alaLUTJqFURT2-3NBqMGKbLbLcj_1fJJ785kPl-dl_M.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDifQaMWMNLpsfPJ7I7tvfbg1#.mkv
-#EXTINF:-1 xui-id="335849" tvg-name="Patricio es la estrella S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KJN-5t_KX-8mJgo0cdqC_VBEh38sWiuJwHdFDxTL4dw.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDif5w85dz1iDLSd9PFJrtWaC#.mkv
-#EXTINF:-1 xui-id="335848" tvg-name="Patricio es la estrella S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BxdeHREG8Orvdc2TsDSCumz0avvrw9RBUGAdlBpBwIo.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDicAchoeqhyk2cTtoeXccYiD#.mkv
-#EXTINF:-1 xui-id="335847" tvg-name="Patricio es la estrella S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01Jlw-JNrVfIvtHpjoAZXBL7-mdXa_G9p317O2kLtqBM.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDif1v05tmfktO1kiIctoJ4K3#.mkv
-#EXTINF:-1 xui-id="335846" tvg-name="Patricio es la estrella S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-08wG2uw7uHxFGMQDAy-hwo0wI8jTeIeDUiU42Vc1zDJI.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDicivj1nKwq552gnjag3ECeG#.mkv
-#EXTINF:-1 xui-id="335845" tvg-name="Patricio es la estrella S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Sb4VaBThiTkFVOeDG2ZLG13zcG3J6O3Bkn1UTc0BHmI.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDidq1_j7fzwckGJZ8rH63T8q#.mkv
-#EXTINF:-1 xui-id="335844" tvg-name="Patricio es la estrella S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0v4jA5McAGoRxQNd7uFnqC4jUqBBwch33VGBCZpnBIsM.jpg" group-title="PARAMOUNT+",Patricio es la estrella S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDicPo84O8F3OzHYRY9ylwSQT#.mkv
 #EXTINF:-1 xui-id="335843" tvg-name="Star Trek: Strange New Worlds S01E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-00e8t6CjxG00J4RP8Oq0VVD6Qh72yWKMv1t9M8Fb6Lx8.jpg" group-title="PARAMOUNT+",Star Trek: Strange New Worlds S01E10
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROjCIGhyspkwZ6lFUoylDicy2PMfljMhux-bbaRDN53n#.mkv
 #EXTINF:-1 xui-id="335842" tvg-name="Star Trek: Strange New Worlds S01E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IdSdiExhQ8Ht4wZ-jgESeR4HR4eNufqIhutgQ6jJiO0.jpg" group-title="PARAMOUNT+",Star Trek: Strange New Worlds S01E09
@@ -26184,102 +25644,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5SS3rBK
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5T2obAI77IDCTaUDpvpMUQY#.mkv
 #EXTINF:-1 xui-id="130417" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUJf-o4ljL061hkP8VDUdDe2l_nD4aWKMnI2FF-omTIY5NQJcFW4pNZs2q-VqDOz80.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5Sd4TEZ-MQI-eSvrGMJi7cK#.mkv
-#EXTINF:-1 xui-id="130254" tvg-name="Modern Family S02E24" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVB8jPjjL0GiuQGznhKyHSxk54K_xm65yFrAiXgtuz56VyPl09vowrtO-vNRUV7jps.jpg" group-title="DISNEY+",Modern Family S02E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-_C1feABtEwFmapKePmn-E#.mkv
-#EXTINF:-1 xui-id="130253" tvg-name="Modern Family S02E23" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX_VdTwwxkNPqITLLWXeKgY6hI8mpykurQ4Ep6o3Nt032lKEnfrFn8Ej2al9OZzIJA.jpg" group-title="DISNEY+",Modern Family S02E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-iyAwChwLLNtFn63J5akHX#.mkv
-#EXTINF:-1 xui-id="130252" tvg-name="Modern Family S02E22" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWHIArwyyn62aaPajaw7cLtzaayopyW-OKcLugkNTgOvvfh631EN4j05iqFqdi8s2s.jpg" group-title="DISNEY+",Modern Family S02E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_R9UwuDyD2w6HmEqEAtc7o#.mkv
-#EXTINF:-1 xui-id="130251" tvg-name="Modern Family S02E21" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGAB5eioBMNyEAi0T5zMD1akcy1YgXp3IWbW1zMgI5Sd2Fj1pLgJqQbbv_DaqszjY.jpg" group-title="DISNEY+",Modern Family S02E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9PxivZXKJQG-TeenCyBmnN#.mkv
-#EXTINF:-1 xui-id="130250" tvg-name="Modern Family S02E20" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVOIZMtzfnwDWdbrZItS4hIQH7B6XaxOsH6xL5DXW-nMlKMcVYPfA958_PEogS0ExI.jpg" group-title="DISNEY+",Modern Family S02E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_OampoolhnAvpSECSuNbm1#.mkv
-#EXTINF:-1 xui-id="130249" tvg-name="Modern Family S02E19" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW2A1XNG9Gr7Ni5ut_KLHFy7bkEm9wYzXfHeV1v5_DDBJi-zFO4MCOArbIwwO0ImWk.jpg" group-title="DISNEY+",Modern Family S02E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_9ArSexba2_eJhPD6B4LWg#.mkv
-#EXTINF:-1 xui-id="130248" tvg-name="Modern Family S02E18" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVLsLVMhsE1o2_6wJvOiNBU1MytI9yLYhIIm-geV1hjA.jpg" group-title="DISNEY+",Modern Family S02E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_bjsFBlAh9wgRKPpoBAK04#.mkv
-#EXTINF:-1 xui-id="130247" tvg-name="Modern Family S02E17" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUIdwwepBL9A0_kdvZK6Tc7bXYLs2fkGwe_aRRYiVaXWN3HOFtwHc4sJlYFKmb3nsk.jpg" group-title="DISNEY+",Modern Family S02E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-U9WZaNA9JX29P3vwcNYni#.mkv
-#EXTINF:-1 xui-id="130246" tvg-name="Modern Family S02E16" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUZBtF0qN8kkxeU9QqEHo3HXyCK8ckmOkHJhPzNPlrfCudIl3k5JIYkZPQGhZi4_4k.jpg" group-title="DISNEY+",Modern Family S02E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-RtB1uZgP8QWkR67U4EfnZ#.mkv
-#EXTINF:-1 xui-id="130245" tvg-name="Modern Family S02E15" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXhMfSNiCsD8lD5KzsjPKwrEjB7oLz-tkhn5-7-4OETBhoDBa_tlmdiG822Ar1ei9g.jpg" group-title="DISNEY+",Modern Family S02E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9S1-IBZp7XLcbKgW0G_r5W#.mkv
-#EXTINF:-1 xui-id="130244" tvg-name="Modern Family S02E14" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXbtDzbM_k8sAdu-d21YsgjOHGB-rj6KVNwIdRMUAmYyLPXylZfmURRdbTIh6kNmrs.jpg" group-title="DISNEY+",Modern Family S02E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop89Fj94O5rp_vTK7aoQ9pxn#.mkv
-#EXTINF:-1 xui-id="130243" tvg-name="Modern Family S02E13" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWgp7YQxTzPaB4BsSHhiXzErYlg33f5ep78T5ETHaA83maf7cd35_p0JCQ5V6iTyrc.jpg" group-title="DISNEY+",Modern Family S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-8ZQNV6mT_MjPSKKkUF7tQ#.mkv
-#EXTINF:-1 xui-id="130242" tvg-name="Modern Family S02E12" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXByzu0dPt-ofNQ7CPGGhJtmT0S2doi233l-OjRGlQsgXi7BHad5YX2V5SpdZbnBjs.jpg" group-title="DISNEY+",Modern Family S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_s2045XzeSddLwU7LzB0DF#.mkv
-#EXTINF:-1 xui-id="130241" tvg-name="Modern Family S02E11" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVY9YyIOoUDnQR3QnYqxOsPWb0z5otjgmGTRhW2tbMkYHj40vni1otlMy-JzUJKmpw.jpg" group-title="DISNEY+",Modern Family S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_JKqCQJcgNiNjxYzL0rxzG#.mkv
-#EXTINF:-1 xui-id="130240" tvg-name="Modern Family S02E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVvg9rQRfNmD08GWX-AURR8OGqC1p985Fi1v8E9ieesT-68-pzr2cTWNYyEF8KZOuY.jpg" group-title="DISNEY+",Modern Family S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9-L7L-Bmtft0Q_bEeQ859C#.mkv
-#EXTINF:-1 xui-id="130239" tvg-name="Modern Family S02E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXMSLH4Lr9AeJeZt6nmlPTcCBuTACwvjeYkPFVxxR92XjfG3yLSLtCyhWnhx4MZNEs.jpg" group-title="DISNEY+",Modern Family S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_ZPL983k4AW_LqD-c_jDB9#.mkv
-#EXTINF:-1 xui-id="130238" tvg-name="Modern Family S02E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXmWaU5cq5TJslnEYvuKDgliGwwTdGg2Yy_aEUmoGU_GueLl4R3ZNffA4oNGpbQT_k.jpg" group-title="DISNEY+",Modern Family S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-cSaHYLSzbwqPz7flj-S-P#.mkv
-#EXTINF:-1 xui-id="130237" tvg-name="Modern Family S02E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUF0UWOkQfmJe16QY1FmS6ytiZMlACYaosKZvP-kxZs9pMoFXGCHgKQ93rZJX-0euU.jpg" group-title="DISNEY+",Modern Family S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_5TvL1z2iT8J9EmuEN6286#.mkv
-#EXTINF:-1 xui-id="130236" tvg-name="Modern Family S02E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWX2S8TNE4k0Ah8vC30roE8ohrQcRkTc0jhTfxnS74Fif4Y5LgTEuHNKadTa8cFrJQ.jpg" group-title="DISNEY+",Modern Family S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_an4dZbXrIPUXy8coCzTnM#.mkv
-#EXTINF:-1 xui-id="130235" tvg-name="Modern Family S02E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUjTEDTLlBAsBrb2Oo2SdBcaW9HinDm5Gspwek50uMTg6gMBhsc2jnUSCSZe3JgTzI.jpg" group-title="DISNEY+",Modern Family S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8Fx87BH0utfnnYGug3zobC#.mkv
-#EXTINF:-1 xui-id="130234" tvg-name="Modern Family S02E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWacGdLV2T6VwUH-g2a0SXemBhEqVpRkacQKSX5i7nOmLoTzlUWOYceYKDeVWKifX4.jpg" group-title="DISNEY+",Modern Family S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_J_oYGMDOfhd1gJyzApUUs#.mkv
-#EXTINF:-1 xui-id="130233" tvg-name="Modern Family S02E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWopKdWXDTOs0dvWL6JNAcd0WMsIQ6rWQxWfVXCT5GnpfBPCB5o9i5L7o5GymWt4Bo.jpg" group-title="DISNEY+",Modern Family S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9psv96Kie2-Z_9HkF_RBtN#.mkv
-#EXTINF:-1 xui-id="130232" tvg-name="Modern Family S02E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWrI9vu6xiAhuiHhSTQ9V5B4k1GhiVy135ou4osQhPCg10eyek3H-fhwhmHBNhsOxk.jpg" group-title="DISNEY+",Modern Family S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-se187lkcVcRghYWVSqbZn#.mkv
-#EXTINF:-1 xui-id="130231" tvg-name="Modern Family S02E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU5F5j3KNP7jTaUuO-19xy5ql0x6oS3F6z27T7tKBPNs9bAwOY4HS5ESgVN0t4SUQg.jpg" group-title="DISNEY+",Modern Family S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-2NHpfLXMaO2t0QZBlxseV#.mkv
-#EXTINF:-1 xui-id="130230" tvg-name="Modern Family S01E24" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU3nyEtK3CkXKsnZRJiyn-Gds9d6AQc_mxWhcFHqTz8Ny8kdywIfSAJ9eYLfOD3egw.jpg" group-title="DISNEY+",Modern Family S01E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8hit8U0Yr3b_rH4yq725AW#.mkv
-#EXTINF:-1 xui-id="130229" tvg-name="Modern Family S01E23" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUWp6guy_O0PKB0d7hC4r0-1Ghkr48ZdHzcDPAMqth2cpVfMshmU5XnHNefWp6Iz_o.jpg" group-title="DISNEY+",Modern Family S01E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_fLNadb5USq-3Pbp3vyaoV#.mkv
-#EXTINF:-1 xui-id="130228" tvg-name="Modern Family S01E22" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXcS9Gx6xKGNTLJYdgQe-VSQXCjO35fIZMOBeObq7sp3dLDIMq8c5NdqZzSosmW2BU.jpg" group-title="DISNEY+",Modern Family S01E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9zzYpkZiW-fud7uhjzTWBn#.mkv
-#EXTINF:-1 xui-id="130227" tvg-name="Modern Family S01E21" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXpwVPWerdh6xSAjgruxtObzxxkQdKC8N1PSd1Xiin8OQ7-aBlTsBOLlOT25eYywXA.jpg" group-title="DISNEY+",Modern Family S01E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-8uHpEoTjyA_-ktwQ2_rqn#.mkv
-#EXTINF:-1 xui-id="130226" tvg-name="Modern Family S01E20" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXQ2y3BNCEeezZSPEZ3-7X3w8W9rmtE1H1-N8XP-gAZuBgUo0gHPnkgg5ag_29yel4.jpg" group-title="DISNEY+",Modern Family S01E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9VK_iT8K3GRk-43o0u3Ar4#.mkv
-#EXTINF:-1 xui-id="130225" tvg-name="Modern Family S01E19" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWBgWx4EYpYuz8dPbBTaBj8X-xJHKrhm5FoChL5yhWHnr8d4au8ggzoeW0cntCYv_g.jpg" group-title="DISNEY+",Modern Family S01E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_4PVUPZlGvQbxPbaURruzN#.mkv
-#EXTINF:-1 xui-id="130224" tvg-name="Modern Family S01E18" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVCohNcs7DFX-378Vq75tvV8Yqeu-tH_gt4x5I6MDlvgsmBBTWayY1MNVJuHuLI8kM.jpg" group-title="DISNEY+",Modern Family S01E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-tdujEK5ih3GdIxEZ-CinP#.mkv
-#EXTINF:-1 xui-id="130223" tvg-name="Modern Family S01E17" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVW4D4S-NDnV7VBTkjcFW9MkGswATvIq6jMrd4A-BbCsvR1sa7S9wqr54_1TZIn-pU.jpg" group-title="DISNEY+",Modern Family S01E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9gdkwEtL_oTUG2rSEmcNbI#.mkv
-#EXTINF:-1 xui-id="130222" tvg-name="Modern Family S01E16" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWE25AJlLDy_AdSKB12dyYrrYxNC_7U_zFKhrlLs-lOEh8mMhrIKJ_439xJ0wptuSg.jpg" group-title="DISNEY+",Modern Family S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-KHezKb2uovypm9xnOlYtd#.mkv
-#EXTINF:-1 xui-id="130221" tvg-name="Modern Family S01E15" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUzSniCnoZfi6UWuZwPweg5F99Ew4WBRWTri-Tyj9LYEeceHDWp71vRg-9QposEYKM.jpg" group-title="DISNEY+",Modern Family S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8r0HhfOkKg8Rz09infSymb#.mkv
-#EXTINF:-1 xui-id="130220" tvg-name="Modern Family S01E14" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUiroqebB4iH1oQptcm9OzH_UnDuwK6RP-QG-i-GYS9XaT8KBjTlRTnsrAb4wnvpoU.jpg" group-title="DISNEY+",Modern Family S01E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9PmNQCDCC2IsWOgVweTb8D#.mkv
-#EXTINF:-1 xui-id="130219" tvg-name="Modern Family S01E13" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXDZ-0egHsWI060gF3AYIQN5Mi30iNB-4oamEs-mWEW_9pyxh6uYAgrfzhM-JmljiU.jpg" group-title="DISNEY+",Modern Family S01E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9ucPfuSfcGSLq3ABP7u2dM#.mkv
-#EXTINF:-1 xui-id="130218" tvg-name="Modern Family S01E12" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV3sXUXASgHg1NAOzMuIHYB_sPE2d_CmmW1sBkuazd9Vi7SieVj5xXBEfJfId3TWLo.jpg" group-title="DISNEY+",Modern Family S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_s8QVutlDsrSIt64ZfC4pE#.mkv
-#EXTINF:-1 xui-id="130217" tvg-name="Modern Family S01E11" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXBgnzzrRppI2Z_YHnzVI3hDJaYMtH1ha8q2MB1mN2TuXmxJNyoSlJ_Cqo1AUI0S5w.jpg" group-title="DISNEY+",Modern Family S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8T494qbGXVA5wEiLtdwMQ6#.mkv
-#EXTINF:-1 xui-id="130216" tvg-name="Modern Family S01E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVB6BKyZROIuPPEbv_4TgxFfuRF8-nsfFiWd6bpLtYwNv1shu-VrgJBaj8EdgTE5Dc.jpg" group-title="DISNEY+",Modern Family S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_dRMKtHQi7sIEadY4VCK08#.mkv
-#EXTINF:-1 xui-id="130215" tvg-name="Modern Family S01E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWebaPNIX0bTOb-rNvt7fSDoSd93Kvcfi6Fg7y3vEqWS9CwwgnZKHY21ldvQicvhoc.jpg" group-title="DISNEY+",Modern Family S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_o5sNS97G2BNivD1J9DX_r#.mkv
-#EXTINF:-1 xui-id="130214" tvg-name="Modern Family S01E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBSX_ImNjC6vo8rOlkvPF9K1YafGrGkVQM3l8RJrAzDSbuVYmE0p8wBREOmpKFQk.jpg" group-title="DISNEY+",Modern Family S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8wx8JnAAE3YbVORxgtyDuz#.mkv
-#EXTINF:-1 xui-id="130213" tvg-name="Modern Family S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUn4QB-TOMoKPBGAvJpn54-pDoQUxT3SHttRzstMiwl3Kfv59Ywg0iWiA-GBkNQaYw.jpg" group-title="DISNEY+",Modern Family S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_uwnJUnTxRsYDtwcIMxxVw#.mkv
-#EXTINF:-1 xui-id="130212" tvg-name="Modern Family S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW3p6D-kRclNUnXAZqxsaq4gFX4Gh3sFoiO57U3FWrDi6NnTj3EwP7Rhe6Rnv3y6Wg.jpg" group-title="DISNEY+",Modern Family S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_EMMXO8wo7hZXC8l8c0nyf#.mkv
-#EXTINF:-1 xui-id="130211" tvg-name="Modern Family S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVAFcsisTFmAlgSvXzP8wg0VkzEuIqb95ZOiP20MZl1xxjJXNTefEMOE5xhOxRSvWs.jpg" group-title="DISNEY+",Modern Family S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9OtGZXdfqh3V73iS7K_tO0#.mkv
-#EXTINF:-1 xui-id="130210" tvg-name="Modern Family S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWCPeVFVrGrlvOJ-KntF7S6wsDuvFDKt7GiZ33nobj0wA2_GB5HTRwO02w5en1-8Mk.jpg" group-title="DISNEY+",Modern Family S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8ZC_ufRD9B_7FsR0aDmGDz#.mkv
-#EXTINF:-1 xui-id="130209" tvg-name="Modern Family S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVmSKZEcGqg5EY_QdtJ-KJBNWOQNXqo4hqjI9IYhlDO37vsJlWdu5lhtODOjHM8qFM.jpg" group-title="DISNEY+",Modern Family S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_c5kPuwmumH2Dur8vDmaoh#.mkv
-#EXTINF:-1 xui-id="130208" tvg-name="Modern Family S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUb21upskSwJz_nlyDIky95Xxwk63B5_TYZ_ihvG3HsNfWqP4_BBydfzmPe_qGbfPI.jpg" group-title="DISNEY+",Modern Family S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9GYPxMfBw6BuYk9GjB_gos#.mkv
-#EXTINF:-1 xui-id="130207" tvg-name="Modern Family S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWsu4LF9oVwoLkLADL12-BoEK7g_0LLqNoX8nUvIu2gQEJUaO2-IXSjZPgpv55C3e8.jpg" group-title="DISNEY+",Modern Family S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-1vk8g4svdEBobA4pW89eK#.mkv
 #EXTINF:-1 xui-id="130206" tvg-name="Mike S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW3Farm1v3HK6wyiBPN2yVodBODD2DgXeukeo9PlYG9BAuDdVMNPl2fPFY4sFrKw8o.jpg" group-title="DISNEY+",Mike S01E06
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9kdeHdeOwG7E5IUwqNak3b#.mkv
 #EXTINF:-1 xui-id="130205" tvg-name="Mike S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW7MUpRJm15hl-lSXNZrFFWTDGFS8ntnu2ERDnFLRr9jPZwsuuCfSN7VeAg82KqTys.jpg" group-title="DISNEY+",Mike S01E05
