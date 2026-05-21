@@ -106,6 +106,8 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmBXuLCP88Qj6EBpKBiE9CXUIAteeOOW37FnmvXqF0Pc
 #EXTINF:-1 tvg-id="" tvg-name="LIDOM 07  | Coral" tvg-logo="" group-title="R. DOMINICANA",LIDOM 07  | Coral
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/426751.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="CHILE",FCL• DIRECTV SPORTS (HD) »1«
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/417198.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ACB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6yQx-SeRO77SL9O0aeLuPJlERxrr_LGhv7RHY63-VKmoQ1akSjZwDXyV2pT-G3NruRk&usqp=CAU" group-title="DEPORTES ESPAÑA",DAZN ACB
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/717975.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DZN L@L!G@ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="FUTBOL ESPAÑA",DZN L@L!G@ FHD
@@ -160,10 +162,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmuWEd9VkAo7qJPix6i-5OLG8-d6
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
 #EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
-#EXTINF:-1 xui-id="141615" tvg-id="" tvg-name="CO | ESPN 3 SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBo_EgjGLFv6x6swyicbgxd8oSPike4gMA-rts7SvbkMt
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN HD" tvg-logo="https://lo1.in/nl/espn.png" group-title="NL| SPORTS",( NL ) ESPN HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8206
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 2 HD" tvg-logo="https://lo1.in/nl/espn2.png" group-title="NL| SPORTS",( NL ) ESPN 2 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
 #EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 3 HD" tvg-logo="https://lo1.in/nl/espn3.png" group-title="NL| SPORTS",( NL ) ESPN 3 HD
@@ -261,9 +259,7 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQ
 #EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 6" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 6
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
 #EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 9" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 9
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880   
-#EXTINF:-1 xui-id="260573" tvg-id="" tvg-name="BRA | PREMIERE 4 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WLCFSXrHWt4IYqLL85mZy02kIzLQk3kMXPgZHqhF0PqqxR9Pm1xgbw3lDR2JAPFGw.png" group-title="⚽ DEPORTES BRASIL",BRA | PREMIERE 4 FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt7gj9uCt-5UbLAPhAUl6bWu4nfgSjQTAtOyrdcGa-67
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
 #EXTINF:-1 xui-id="119768" tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI3Mi_NVMgwM5dO0MLXY8qImc5UY9s3gPh4HLMIUnVP
 #EXTINF:-1 xui-id="119769" tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN SD
@@ -444,8 +440,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoUfwju-h6LMKc1kkoq4mCGfROFf
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgbl-n22lwuICSRqWfbr-Hh-DEllyThIdsl8_xIsy6Tv
 #EXTINF:-1 xui-id="119705" tvg-id="" tvg-name="LA | UNIVERSAL PREMIERE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SvOftnu85shArbtLh3LAUZx-cRu1BVSATKu2xsKHusEZTUQDKzZ0QfZv6ctt_kfmw.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL PREMIERE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvv8hYnZOZqbSLjip2DVpk2RoV6MuxY9VFHKK8FYMTDL
-#EXTINF:-1 xui-id="119709" tvg-id="" tvg-name="LA | UNIVERSAL REALITY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fJ2pIsFz_JvE_NJsKncL-C7S39K8zJaPs06iKGlZZzuonAjtyTol7GLrsH1wx1StQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL REALITY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqYUQgSy74S1ZVsI4GjKsQActC8a95LmpsYm6XWIa9HF
 #EXTINF:-1 xui-id="120122" tvg-id="" tvg-name="UR | VTV+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoel58RsLXHsnpMr-EAt-KtbUDoVshB99wNWkZOPPcVW
 #EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
@@ -492,10 +486,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0G8YxBJ
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0FNd7M-hlXEhbPg8-dz-lDI#.mkv
 #EXTINF:-1 xui-id="339794" tvg-name="The Acolyte S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ivk8e1gex9Ehmwys2xLJVOk9n3VwKvCkzYyQ4NhC5DY.jpg" group-title="DISNEY+",The Acolyte S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRH8laZJ20Khp8ZP6AtKW_0GvjZ0aba1P5IsFZNyBSt2T#.mkv
-#EXTINF:-1 xui-id="189592" tvg-name="Super Mario Bros: La película (2023)" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png" group-title="PELICULAS 2024",Super Mario Bros: La película (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIFC6IfQ2HTtN_lc6Hvj2XJ54A3V8SGzL93TRg0sgkwn#.mkv
-#EXTINF:-1 xui-id="169343" tvg-name="El diablo viste a la moda (2006)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nGsB3zN481GLk6Sd4XNcAU3qZGjb3-wpJi_TDfS3ho8.jpg" group-title="DISNEY+",El diablo viste a la moda (2006)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD80NG3r63lrtnbG6tHnAAzsekelGn1bQRbyfo8iUmeh#.mkv
 #EXTINF:-1 xui-id="338719" tvg-name="ONE PIECE S02E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0usYU0ohgQG8CAohU2k26NxCHh4qDTWv496XaWiIrVIY.jpg" group-title="NETFLIX",ONE PIECE S02E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DVmllDnmvGgn9MFl9id8Hr#.mkv
 #EXTINF:-1 xui-id="338718" tvg-name="ONE PIECE S02E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-08H1ndYcuHa9PvS-v26Vb4yUzVPvxb0iOiy53TG0Mff4.jpg" group-title="NETFLIX",ONE PIECE S02E07
@@ -512,114 +502,10 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BlTM9I
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5DEstjrO6KpKuGoVK3xXycA#.mkv
 #EXTINF:-1 xui-id="338712" tvg-name="ONE PIECE S02E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ivvr_kz5bmTVCkvMTdTOwP_5x4yc71vC8KJwMixn9E8.jpg" group-title="NETFLIX",ONE PIECE S02E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN5ZEkkW2vFqIteS6ar7q5BdOuFdda2Dk6nZofvyU7Je#.mkv
-#EXTINF:-1 xui-id="263726" tvg-name="Greenland: El último refugio (2020)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlYLo-v3EFJSsvCxNfxKZUc9cOJJxkXVFqLm_NjzhOJU.jpg" group-title="PELICULAS 2022",Greenland: El último refugio (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuSmoe22BoY_nVpXoO1EQJaX#.mkv
-#EXTINF:-1 xui-id="337063" tvg-name="X-Men: Apocalipsis (2016)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bN3I2opP8w6pl-cbKVPQIvRl0BL0GVsmULFNCPZonJ0.jpg" group-title="SAGAS",X-Men: Apocalipsis (2016)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEWl6KN2DeKIwhemEMHwnSdi#.mkv
-#EXTINF:-1 xui-id="337062" tvg-name="X-Men: Fénix oscura (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DksBxFV72rj7nv2FixwRBB_cuAOGNkMj9ebNzpS9qoc.jpg" group-title="SAGAS",X-Men: Fénix oscura (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA3-dYL-6uvsFEOdmfmouEUUp9Gj5WV43EPkUqH3G2Cq#.mkv
-#EXTINF:-1 xui-id="322201" tvg-name="Zootrópolis 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0twA43Ta1HIo05x1B-KwYi6rRMVUXh7t9n-EPnRO2gek.jpg" group-title="DISNEY+",Zootrópolis 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDTXj-H90aD4j77Xl1jDfOUtKdC2tkDMMzz3uYeWx_-z#.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E13" tvg-logo="https://image.tmdb.org/t/p/w1280/n7FQx95PN1EYgzoXkKx8sbeQc41.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E13
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562595.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E12" tvg-logo="https://image.tmdb.org/t/p/w1280/bsuafDfrPQbE1m3QkRBTArpaCSI.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E12
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562583.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E09" tvg-logo="https://image.tmdb.org/t/p/w1280/gf7hv0W9YmCQbjYcWaX3OjmY9bd.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E09
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562582.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E11" tvg-logo="https://image.tmdb.org/t/p/w1280/moduxusarIDsIYkKdnnPEr0Ixnh.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E11
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562581.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E10" tvg-logo="https://image.tmdb.org/t/p/w1280/hQa82CMnJcXjRJYQmjqXo8qH5PA.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E10
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562580.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E07" tvg-logo="https://image.tmdb.org/t/p/w1280/vFZLLNUqFqdppOQXrxIP9ed7osD.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E07
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562579.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E05" tvg-logo="https://image.tmdb.org/t/p/w1280/bjbbEiSrgmNlggY2NK97yspV6yq.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E05
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562578.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E08" tvg-logo="https://image.tmdb.org/t/p/w1280/38edv27e4dIa7RsobJDE9FrmynP.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E08
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562577.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E06" tvg-logo="https://image.tmdb.org/t/p/w1280/470yUzMw7xH5qMI5yqbxCpwKyds.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E06
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562576.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E04" tvg-logo="https://image.tmdb.org/t/p/w1280/vU0L4g7i319csEbfsV4CtdXCRea.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E04
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562575.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E03" tvg-logo="https://image.tmdb.org/t/p/w1280/6iuYwXFN3GCEf14cgVmBAwWciyF.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E03
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562574.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E02" tvg-logo="https://image.tmdb.org/t/p/w1280/7ed2hlNWrER2KounC5fS3hOeRP9.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E02
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562573.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S07E01" tvg-logo="https://image.tmdb.org/t/p/w1280/gsqIC0yTTZNxxNIvf0NSsRDRHJy.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S07E01
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562572.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E12" tvg-logo="https://image.tmdb.org/t/p/w1280/giYsOCMPfRjf1xjdGuzXnH24Ejg.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E12
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562571.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E13" tvg-logo="https://image.tmdb.org/t/p/w1280/jRrgeEvci7Bk54zyhNI4nfjqYP4.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E13
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562570.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E10" tvg-logo="https://image.tmdb.org/t/p/w1280/nJCHJRs6CtluaXxNDwWLeNO1iqd.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E10
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562569.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E11" tvg-logo="https://image.tmdb.org/t/p/w1280/pyCuhWEU2q7PkQVfpMUxKXqfetx.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E11
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562568.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E09" tvg-logo="https://image.tmdb.org/t/p/w1280/pzzfipYotpyi3ETxKMxBvbDXHFl.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E09
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562567.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E06" tvg-logo="https://image.tmdb.org/t/p/w1280/3KvpgeeQEJ1Fu1cH4YPvd4RCoRR.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E06
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562566.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E08" tvg-logo="https://image.tmdb.org/t/p/w1280/pBvPVdJvKzDj7I8vWGZfl7oHWpJ.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E08
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562565.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E07" tvg-logo="https://image.tmdb.org/t/p/w1280/aCKSrJYMGZPXSW0PRuMBCJta5z2.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E07
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562564.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E03" tvg-logo="https://image.tmdb.org/t/p/w1280/cs8UQk3j0pthMFcEvj06h6mPQEF.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E03
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562563.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E02" tvg-logo="https://image.tmdb.org/t/p/w1280/6hGD1KKJ5WsrEDr09AQXjFunx7B.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E02
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562562.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E01" tvg-logo="https://image.tmdb.org/t/p/w1280/8Oi4EnmkjvKvRcr6Gl55AZPZafS.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E01
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562561.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E21" tvg-logo="https://image.tmdb.org/t/p/w1280/4yTICAokMKSbwSUAOePbo4sI2Go.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E21
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562560.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E20" tvg-logo="https://image.tmdb.org/t/p/w1280/a1XMqzJmxyqrvcgntfzIF6PBPee.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E20
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562559.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E19" tvg-logo="https://image.tmdb.org/t/p/w1280/nEkUod26K6PWb8XCWpxiS7YAUWn.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E19
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562558.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E04" tvg-logo="https://image.tmdb.org/t/p/w1280/r6G5BoHmrA15MsMwwDPJY6x38f1.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E04
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562557.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S06E05" tvg-logo="https://image.tmdb.org/t/p/w1280/soFPb57Fmcx3zOjxflS5L6QWjpg.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S06E05
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562556.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E22" tvg-logo="https://image.tmdb.org/t/p/w1280/iGmakkW8rZsjYicxkwhdXdXoBHw.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E22
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562555.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E17" tvg-logo="https://image.tmdb.org/t/p/w1280/9FOoE8Gnd17e44nWuNUs5EclQ3v.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E17
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562554.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E13" tvg-logo="https://image.tmdb.org/t/p/w1280/ai9kXmJonEpPHopdGXAAA44lqpD.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E13
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562553.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E18" tvg-logo="https://image.tmdb.org/t/p/w1280/GmExOnLAkvLBPjX7QzkuzhJxaY.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E18
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562552.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E15" tvg-logo="https://image.tmdb.org/t/p/w1280/qHSFnkrBOKk4MO0h8Iyk1qorrG1.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E15
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562551.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E16" tvg-logo="https://image.tmdb.org/t/p/w1280/dKoRC5MvQja9AESNXorEKbhTftI.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E16
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562550.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E14" tvg-logo="https://image.tmdb.org/t/p/w1280/nL0nBxllWTYicvbv6brgcOFYMkT.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E14
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562549.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E11" tvg-logo="https://image.tmdb.org/t/p/w1280/siOkSTI24kb32GGbf1y5vSAjMGC.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E11
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562548.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E12" tvg-logo="https://image.tmdb.org/t/p/w1280/iO7XQdrOw5zPL5UELCtxpMVQXhi.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E12
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562547.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E09" tvg-logo="https://image.tmdb.org/t/p/w1280/cioAUESvVLcIWwndbCeZKbPxirA.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E09
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562546.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E06" tvg-logo="https://image.tmdb.org/t/p/w1280/2lk9fcC6TeWZY8rvMRjNduJtCXB.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E06
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562545.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E07" tvg-logo="https://image.tmdb.org/t/p/w1280/xubuyzhtX4myRiWQo7L23HObEq0.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E07
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562544.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E05" tvg-logo="https://image.tmdb.org/t/p/w1280/aTygSKD0IkETonRQ14IEvl250C4.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E05
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562543.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E10" tvg-logo="https://image.tmdb.org/t/p/w1280/a6PT1YU8NRjsszYl6Zgo7tkZBx2.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E10
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562542.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E02" tvg-logo="https://image.tmdb.org/t/p/w1280/ck6j5jj1C6SH2is9l10p0Ni12JE.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E02
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562540.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E03" tvg-logo="https://image.tmdb.org/t/p/w1280/5AEiNx7UPry5gbPi5zQ1PWX5B7M.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E03
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562539.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/wC9W1TmWUZ6Ovo0TZJBg8EBNfPd.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E08
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562538.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/h7D0iGgcZXDqOmzYv7GJt2JfBFx.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E01
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562535.mkv
-#EXTINF:-1 tvg-name="Agents of S.H.I.E.L.D S05E04" tvg-logo="https://image.tmdb.org/t/p/w1280/w1FqL8iGCfSbJzrGlYn0xLssQkW.jpg" group-title="Series Disney+",Agents of S.H.I.E.L.D S05E04
-http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/562533.mkv
 #EXTINF:-1 xui-id="318757" tvg-name="La vida de Chuck (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XvPjRIp63pzWHECJdJbmexywSammP1B_SbQtqTAf1Zo.jpg" group-title="AMAZON",La vida de Chuck (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEykAoPLhlrn8F8E7abMgFXvKhG4NJYNY7M4eP8HpEzz#.mkv
-#EXTINF:-1 xui-id="188939" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="PELICULAS 2024",Five Nights at Freddy's (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQRBz1KLqgiEMN8RZa0lHFl#.mkv
+#EXTINF:-1 tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg" group-title="CINE 2023",Five Nights at Freddy's (2023)
+http://avefenixtv.com:80/movie/hsgggew4g/sdf42sf22f4/537947.mkv
 #EXTINF:-1 xui-id="318370" tvg-name="Five Nights at Freddy's 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wy4bqWYlH-QCog0MYKRVkh6z3nI29iNpxrsg_lvwo4A.jpg" group-title="AMAZON",Five Nights at Freddy's 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOpf2amDop_Pd42AE3cpd3DbZVcnUrXgi2o7REgpHRH5#.mkv
 #EXTINF:-1 xui-id="197046" tvg-name="American Horror Story S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/j75cyPWx1pmYsid11FiUAsOserM.jpg" group-title="DISNEY+",American Horror Story S05E08
@@ -724,34 +610,50 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDRp7l9w
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSMfC5t40sOoMMOGfXcciQ1#.mkv
 #EXTINF:-1 xui-id="196996" tvg-name="American Horror Story S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg" group-title="DISNEY+",American Horror Story S02E03
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPEewV_3gejvVVm-f-naJDSEhWAg6SaLN94j5x6TfjLZ#.mk
-#EXTINF:-1 xui-id="190116" tvg-name="Alien vs. Predator (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" group-title="SAGAS",Alien vs. Predator (2004)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZgCWC3ZbpoxisyBoCb-XKbD#.mkv
-#EXTINF:-1 xui-id="317875" tvg-name="Good Boy (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03kHkzwvw6I80LH0AViYjLrmJwLBDvYp9eUN4J4uyN3c.jpg" group-title="APPLETV+",Good Boy (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lklvjVILMiZgQSMettE6y4o#.mkv
+#EXTINF:-1 tvg-name="Chainsaw Man S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/kDlpq8nGf1Ad4oYdPtFHAnBUj4b.jpg" group-title="Series Anime",Chainsaw Man S01E12
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/396440.mkv
+#EXTINF:-1 tvg-name="Chainsaw Man S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/kDlpq8nGf1Ad4oYdPtFHAnBUj4b.jpg" group-title="Series Anime",Chainsaw Man S01E11
+http://avefenixtv.com:80/series/hsgggew4g/sdf42sf22f4/396439.mkv
+#EXTINF:-1 xui-id="192610" tvg-name="Chainsaw Man S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/kk4Cvp4rZynFjvphJDfljdJKDX9.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E09
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7HxE5a2KI6RCdIurAYMdhG1#.mkv
+#EXTINF:-1 xui-id="192606" tvg-name="Chainsaw Man S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/dDwTq0HNQGMCpEdVQQyksvJvUcP.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E01
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7FX5YywgUmQ9f_9qmRK62dK#.mkv
+#EXTINF:-1 xui-id="192604" tvg-name="Chainsaw Man S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/wIm4VMhMB6iwqWcYqaQfQPC84EL.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E07
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7Ed5bHuxFomF_I3Em2L1Eqb#.mkv
+#EXTINF:-1 xui-id="202197" tvg-name="Chainsaw Man S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/78p3CwjbIbJv2MucbLWnvBtF34d.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E04
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMQxlNb3GmqVrGf3SN9pdT-3iKrHjlQn8iVf8FGTA4SI#.mkv
+#EXTINF:-1 xui-id="202196" tvg-name="Chainsaw Man S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3yToIKKsEM45uKTPlJVwqLZYMg8.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E08
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMQxlNb3GmqVrGf3SN9pdT-akeYVucCCT5OF8WSV5UKd#.mkv
+#EXTINF:-1 xui-id="200083" tvg-name="Chainsaw Man S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/fvAOxW42H60ssVZlZND7WwFfqGU.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E02
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9pY_wQcneoYClW7v8sX8ABj#.mkv
+#EXTINF:-1 xui-id="200081" tvg-name="Chainsaw Man S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/x20TB0bPovb6mcOoSWO3SNL7zhj.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E03
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9qSMpW7_vjiDYSOGcTbcY9c#.mkv
+#EXTINF:-1 xui-id="200080" tvg-name="Chainsaw Man S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/vq6IPO2Nu3NqnKpWAgK4IxhJI9B.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E10
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9pO5iy2Wuhg5srDIGbQT9Kd#.mkv
+#EXTINF:-1 xui-id="200078" tvg-name="Chainsaw Man S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/1gtFS9ch884GtW543RK4Ma0xAwW.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E06
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9q88egqic9IVFnEfzMYBtFo#.mkv
+#EXTINF:-1 xui-id="200075" tvg-name="Chainsaw Man S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/wELcAvuugIKpw9J7rrBr6erpRU.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E05
+http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9qaPAcGJgScV9s3_72OBIT5#.mkv
 #EXTINF:-1 xui-id="317874" tvg-name="Chainsaw Man - La película: El arco de Reze (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0oPUU7dFTm95wyGNB9RkCIuixcBZ8f7mUs5Us6_pUpE0.jpg" group-title="APPLETV+",Chainsaw Man - La película: El arco de Reze (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lnKWmZzcxfYHEg5Mv_xozAV#.mkv
+#EXTINF:-1 xui-id="317255" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05aSc2dCdgaSB_4D3GhZQGSK8HQnYbfvfcB5lP7LnSmg.jpg" group-title="DISNEY+",Avatar: El sentido del agua (2022)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCvhIaNcw-xxeP7SZQoBOQ6_BfCDQVuWk1Rh_XstIDj5#.mkv
+#EXTINF:-1 xui-id="144246" tvg-name="Black Phone (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSkaK0a3CyAiMy1uiHzxFCDuLnbWv1McdZOjZl8qGOI0.jpg" group-title="PELICULAS 2022",Black Phone (2022)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEMlFFUSY1M1w_gQmlJEHSEBueN609v4AKRjHIusJ5jS#.mkv
+#EXTINF:-1 xui-id="315465" tvg-name="Black Phone 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GiuhFZ07uvzAQLLa7ApP-7u2eOm7capl3T-p_HztFS0.jpg" group-title="APPLETV+",Black Phone 2 (2025)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Oph3xLTANJMZ4Ic5OmYl1zvp#.mkv
 #EXTINF:-1 xui-id="317873" tvg-name="Roofman (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BjThW-u0pOLvjS1gwkaRK4yf6YUJLpb6rsHHUGYsJ7s.jpg" group-title="AMAZON",Roofman (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lmhpKMDDRjRU7tZYn84H11Y#.mkv
 #EXTINF:-1 xui-id="317872" tvg-name="200% Wolf (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wreZxywxfUdqYPgsm9Sst-snIZRdYsIymlmIw_HCBAQ.jpg" group-title="APPLETV+",200% Wolf (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lngx4rk4UOhILoS0VlQ6S4O#.mkv
 #EXTINF:-1 xui-id="317870" tvg-name="¡Hola, Frida! (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cMgTayH2g3K-6b4n9PmzvXdZ7umyfnpXSBPPNd-Sofw.jpg" group-title="APPLETV+",¡Hola, Frida! (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9llofN3wH9loDnEMmsC2Qk-_#.mkv
-#EXTINF:-1 xui-id="317868" tvg-name="Sarah's Oil (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BKrIqaHkhAWVFqOSVLlDSbQRpGpjM7aTYPl6QC4-lq8.jpg" group-title="AMAZON",Sarah's Oil (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDk1GiVYGuena-ay17eWRYNe-X0D60TRqAw7ANzJs30L#.mkv
-#EXTINF:-1 xui-id="317866" tvg-name="Ha llegado la nieve a Fraggle Rock (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05MOhg9XXS9Kzwvii4saEJokk5DdIWT4hlsok_fwwMjA.jpg" group-title="APPLETV+",Ha llegado la nieve a Fraggle Rock (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDk1GiVYGuena-ay17eWRYMc5BrNkVEcL-wdcy1VUkcP#.mkv
-#EXTINF:-1 xui-id="317255" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05aSc2dCdgaSB_4D3GhZQGSK8HQnYbfvfcB5lP7LnSmg.jpg" group-title="DISNEY+",Avatar: El sentido del agua (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCvhIaNcw-xxeP7SZQoBOQ6_BfCDQVuWk1Rh_XstIDj5#.mkv
 #EXTINF:-1 xui-id="315473" tvg-name="El fiscal (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BapyfMeTR-dkIBfEAXC5IKfdXZ070awJwmwqavQd6Js.jpg" group-title="AMAZON",El fiscal (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmXNOqrJ_fZzQ0-Mb10FkL5V#.mkv
 #EXTINF:-1 xui-id="315472" tvg-name="Drácula (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sFpqZyCcvPfbNnSvHFPIXfiEEVDaHWIWvdyfQx_xb3Q.jpg" group-title="APPLETV+",Drácula (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmWrWdjTWmBqgcbUlIbccCVm#.mkv
 #EXTINF:-1 xui-id="315471" tvg-name="TRON: Ares (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0m7WbXANX7EPv5C_i99sFluokDxgmZ2vA9hNzvpvJDzU.jpg" group-title="AMAZON",TRON: Ares (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmUJCfSJv3qeow6XyiRHNM4e#.mkv
-#EXTINF:-1 xui-id="144246" tvg-name="Black Phone (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSkaK0a3CyAiMy1uiHzxFCDuLnbWv1McdZOjZl8qGOI0.jpg" group-title="PELICULAS 2022",Black Phone (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEMlFFUSY1M1w_gQmlJEHSEBueN609v4AKRjHIusJ5jS#.mkv
-#EXTINF:-1 xui-id="315465" tvg-name="Black Phone 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GiuhFZ07uvzAQLLa7ApP-7u2eOm7capl3T-p_HztFS0.jpg" group-title="APPLETV+",Black Phone 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Oph3xLTANJMZ4Ic5OmYl1zvp#.mkv
 #EXTINF:-1 xui-id="315462" tvg-name="La larga marcha (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0W4jlD-t_WWXYJCY8ZO_TkGdUDqdae9A2cvoWoYCn_fE.jpg" group-title="APPLETV+",La larga marcha (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0OpjCyi9gk8SJzPVu8BIYTURi#.mkv
 #EXTINF:-1 xui-id="315461" tvg-name="La Maquina The Smashing Machine (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sq_m33DMS8wAie2PimB21g982nmmN6cr_PiOJkjbhio.jpg" group-title="AMAZON",La Maquina The Smashing Machine (2025)
@@ -790,14 +692,8 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GXU3GL8
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHyNlegD1jYWmlw8tMXY_daooILz5-iZ_X9BtQWPpmDg#.mkv
 #EXTINF:-1 xui-id="303289" tvg-name="Weapons (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dCt5sU2sNebfdACYJctLJyrAPB6H7Q2ZlEjYqDmtYSs.jpg" group-title="HBO MAX",Weapons (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPBSNcltfDKntcdjBWkdVEis1ra7IoOQkh077pKSvaRc#.mkv
-#EXTINF:-1 xui-id="302882" tvg-name="Los Cuatro Fantásticos: Primeros pasos (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tvB_NhjBn9T92OhE8Ug8QNtozUlieoGkeDgA3JuNNKk.jpg" group-title="DISNEY+",Los Cuatro Fantásticos: Primeros pasos (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDxuKKImBKEWHBb9-8hdra7ihiaJVgFwuBsw6cKraX6d#.mkv
 #EXTINF:-1 xui-id="226200" tvg-name="Los tipos malos: ¿Truco o atraco? (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o7SVKGeAUcZxr1iH7veW04fbrU3tPXXu45GgUQCWj5k.jpg" group-title="PELICULAS 2024",Los tipos malos: ¿Truco o atraco? (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU-rNz1U66Om4sE1B4IGk-s-#.mkv
-#EXTINF:-1 xui-id="302881" tvg-name="Los tipos malos 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tv-gmeqUlisd6B_470SEq_etYEonb_jvp2ebnrDzmGQ.jpg" group-title="NETFLIX",Los tipos malos 2 (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDxuKKImBKEWHBb9-8hdra73MYGi49NpKVB34Unhb4N5#.mkv
-#EXTINF:-1 xui-id="302880" tvg-name="28 años después (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0vLYwXDmSeWa2EWi4Ng2WtZRHdH-1SafP2Dq1BRKEpFo.jpg" group-title="APPLETV+",28 años después (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDxuKKImBKEWHBb9-8hdra6eTctR7uBOfVH-B9iZTFeA#.mkv
 #EXTINF:-1 xui-id="302879" tvg-name="Together (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0O9_qu5udPx-398e4rayy4-rgsTiRrNy2xCjCF3t9J2Y.jpg" group-title="AMAZON",Together (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEH1QWfkDWOmd2GzEiE0_4RiROaWdeFqZ2nihsd8GpXF#.mkv
 #EXTINF:-1 xui-id="302878" tvg-name="Batman Azteca: Choque de imperios (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uZ_okm7Zq8smGtNpfK-twG5JJK8dgFy701KoVEAYuo8.jpg" group-title="APPLETV+",Batman Azteca: Choque de imperios (2025)
@@ -860,8 +756,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEpufAJb-WSxICS2zATWkwHnFrZj
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEpufAJb-WSxICS2zATWkwEOunWWY1FdaYYvI7X3XI6y#.mkv
 #EXTINF:-1 xui-id="292980" tvg-name="Oh (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJ6oSmQI6LWvnVnhIgdaZNOr_vXrmCwOGsnAb9H315tc.jpg" group-title="PELICULAS 2022",Oh (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEpufAJb-WSxICS2zATWkwFO9UESCTGmoB_fazp1AxEF#.mkv
-#EXTINF:-1 xui-id="292460" tvg-name="Obsesiones (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTxAcYnK6NZC3eMOPlt1LW5GzHEmQdJI94SJ-cyg-jwY.jpg" group-title="PELICULAS 2022",Obsesiones (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDJBZ2gTWkBFY4f8ybIx6TDFfb_KqiSRiNf0S13h45AZ#.mkv
 #EXTINF:-1 xui-id="292453" tvg-name="Nix: La Entidad (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLm6t0yHOcn49croP9gxOB414gNDmS4rbkXtIX_El_vjY.jpg" group-title="PELICULAS 2022",Nix: La Entidad (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKpXvvijUf3kDoHlCDosuIUA7cDvxoJBj40dZdO8X66C#.mkv
 #EXTINF:-1 xui-id="292452" tvg-name="Nikki y Nora: hermanas detectives (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0bgfarzxSm1tA0ifpWy0JHW07TW2V7OpXd8cqIyzIHs.jpg" group-title="PELICULAS 2022",Nikki y Nora: hermanas detectives (2022)
@@ -944,10 +838,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLEdxTj1XvwFUalm3P34kw8LqioH
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJL9z59oahc42DiLceOt6yrv-XN_ciVTSJ_4LOzRkzE3#.mkv
 #EXTINF:-1 xui-id="290447" tvg-name="El contragolpe (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4jRghUvUJWJa0X3kOOK66jAfEJ48rNHsKm6W6VvUa30.jpg" group-title="PELICULAS 2022",El contragolpe (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJL9z59oahc42DiLceOt6yo8X7Z0CohyJHIvL6Pf7nHQ#.mkv
-#EXTINF:-1 xui-id="289931" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05aSc2dCdgaSB_4D3GhZQGSK8HQnYbfvfcB5lP7LnSmg.jpg" group-title="PELICULAS 2022",Avatar: El sentido del agua (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD5jitCEht1z8huv9bvJeGJBYxPGUmCyXAmcPU4wc8jG#.mkv
-#EXTINF:-1 xui-id="289930" tvg-name="Atrapadas en familia (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLijWy7Z4yZ2t-ogn93E-2F76a6k8DUsCEMVfb0to4jQ.jpg" group-title="PELICULAS 2022",Atrapadas en familia (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD5jitCEht1z8huv9bvJeGL7QktY-pcLmcCLCp_nJrW4#.mkv
 #EXTINF:-1 xui-id="289914" tvg-name="Alice, cariño (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6jQjUEV5Zmk1Ni_fQFAA_vSu_Z7LEUOTcvgvdDtftrI.jpg" group-title="PELICULAS 2022",Alice, cariño (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBnlUlWnBDss4ZsivCgwtXmD5mssnz5zzTUa93fsTE_V#.mkv
 #EXTINF:-1 xui-id="289667" tvg-name="Aftersun (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_gRrVbrm-O8quXbeRI0-mYYcHD5BP1yh7pkosEmgkKY.jpg" group-title="PELICULAS 2022",Aftersun (2022)
@@ -1176,20 +1066,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJnZa1KelorWjdKpsyVzYHKTxQVj
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIRmgG3-807GIhv2pv72mNg3t4iA2XKk-tvVjlBDAQ8h#.mkv
 #EXTINF:-1 xui-id="271571" tvg-name="Killer Under The Bed ( Secretos bajo la Cama ) (2018)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0LbWv3t5CGwHyT98T6z_Nfx4fgvkUzhDeTimHJ2tzMDw.jpg" group-title="APPLETV+",Killer Under The Bed ( Secretos bajo la Cama ) (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIRmgG3-807GIhv2pv72mNjgts-L25jdULlW8AKw1Ikd#.mkv
-#EXTINF:-1 xui-id="271568" tvg-name="Corre como una chica (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07DD7X1O3GcacyMn_38QFa1rFyRZ6OIt1wtd8YLHVmdk.jpg" group-title="APPLETV+",Corre como una chica (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8ddehAy5WGgxdFEeqT9DCO4F#.mkv
-#EXTINF:-1 xui-id="271567" tvg-name="Brawl in Cell Block 99 ( Pricionero 99 ) (2017)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0jxon8Zi_tcN6I8mhOxjnvfCgaXP7FPAysmLEzqo_zLU.jpg" group-title="APPLETV+",Brawl in Cell Block 99 ( Pricionero 99 ) (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8df3TyOJJvfmwTpoj6LMJSpD#.mkv
-#EXTINF:-1 xui-id="271566" tvg-name="Khutulun – La Princesa Guerrera (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nerSTgwGJAnDK2or-KBFhBXLBrcEBhdR7F-LGO2m1xo.jpg" group-title="APPLETV+",Khutulun – La Princesa Guerrera (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8de95xR1d7Ukon38-XxuFTbo#.mkv
-#EXTINF:-1 xui-id="271564" tvg-name="Play Dead (2009)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IBC1exl7MhJul98Tfc4OuRz16wRSB0eDRB1iwSzJO7w.jpg" group-title="APPLETV+",Play Dead (2009)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8dfn9CLvc2I-lVoPDEFnTETz#.mkv
-#EXTINF:-1 xui-id="271563" tvg-name="El misterio de la nana (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-04Zq3M5S-rlt_9bJ7puIFM5q6_ATI28bbW4bWYi7nhQo.jpg" group-title="APPLETV+",El misterio de la nana (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8deOyQv_njzjMsS_5fIQQkzr#.mkv
-#EXTINF:-1 xui-id="271562" tvg-name="La Patrulla Canina: La película (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZJcEsQw8erUhBykJ7Ice7Jf1zqms_ghRrQ4L3iROGbM.jpg" group-title="APPLETV+",La Patrulla Canina: La película (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8ddZjE-59_CVZZ6L5mIePLPf#.mkv
-#EXTINF:-1 xui-id="271561" tvg-name="Blanco humano 2 (2016)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaseUeELPPpZyDPo4umfr9cHhZ_4CyH9pWN1fRDB7GX0.jpg" group-title="APPLETV+",Blanco humano 2 (2016)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD7RZKI2CwW-jvoe2g9J8ddJuWu8--8NImiprDtEcy3r#.mkv
 #EXTINF:-1 xui-id="271558" tvg-name="Burlesque (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3aXGmfWT4YenTvjqUF7lsvN4yd.jpg" group-title="APPLETV+",Burlesque (2010)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKKpO1uXCso8iBKQSWm9LwXdcF_nxr7OuMHg1rPEJPCY#.mkv
 #EXTINF:-1 xui-id="271557" tvg-name="No descanses en paz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6O7ILrEc6NeLgpz5LN6GDhvAvOm.jpg" group-title="APPLETV+",No descanses en paz (2020)
@@ -1426,26 +1302,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFpmkVgVeNO5l1-hw-Nx4WKabGL2
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFpmkVgVeNO5l1-hw-Nx4WKOcm_8g3lEUlmDo03FbBjD#.mkv
 #EXTINF:-1 xui-id="263740" tvg-name="365 días más (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvKpJZUxI1Rsgvrl8HHv62CpBBh.jpg" group-title="PELICULAS 2022",365 días más (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFpmkVgVeNO5l1-hw-Nx4WJyCJd7UbroCnWBxnx5rNPw#.mkv
-#EXTINF:-1 xui-id="263739" tvg-name="2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvKpJZUxI1Rsgvrl8HHv62CpBBh.jpg" group-title="PELICULAS 2022",2012
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDGCgAu3b18BKh94PXqdE_miyW38H_ShZEPaEk5nS1xu#.mkv
-#EXTINF:-1 xui-id="263733" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efnazMDdtbJ2uaHjL5Ra07IRD8j.jpg" group-title="PELICULAS 2022",Armageddon Time (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDGCgAu3b18BKh94PXqdE_lp0RKEMIEyT39ndUf4nU43#.mkv
-#EXTINF:-1 xui-id="263732" tvg-name="Contrarreloj (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0i-Xs8kDNa7mlzT_pKqa-irW6Y_hv0XRn0s1BW0RqKZI.jpg" group-title="PELICULAS 2024",Contrarreloj (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDGCgAu3b18BKh94PXqdE_kxDpVb5yCOyK0Vjwu5tnVa#.mkv
-#EXTINF:-1 xui-id="263731" tvg-name="Pinocho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76MYNTMpbiZYqzNArPXmXnPsQce.jpg" group-title="PELICULAS 2022",Pinocho (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDGCgAu3b18BKh94PXqdE_nQGKCTMDJrhbmwlA8zHrxv#.mkv
-#EXTINF:-1 xui-id="263730" tvg-name="Sin Aliento (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0h0nYMAyNF40qXsyJnSmaKQXqrJ3a-9C-f1WD4gEMcek.jpg" group-title="PELICULAS 2022",Sin Aliento (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDGCgAu3b18BKh94PXqdE_kPjABd8Ok8jYxunWZGvIIv#.mkv
-#EXTINF:-1 xui-id="263729" tvg-name="Los ancianos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwFxV2MSZjPWyV0nl4zwxZFkl0q.jpg" group-title="PELICULAS 2022",Los ancianos (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuSHF4JRm7D1wkQE48sKUAB0#.mkv
-#EXTINF:-1 xui-id="263728" tvg-name="Invasión 2: El fin de los tiempos (2020)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ornOsYjYica12Uu8Xj8BJahA2dK1Rh-s_cZMtPrzJ7o.jpg" group-title="PELICULAS 2022",Invasión 2: El fin de los tiempos (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuQT5htc_1qLXY_9wq9n9Bys#.mkv
-#EXTINF:-1 xui-id="263727" tvg-name="Estación Zombie" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zaeT7TuG-dmGasnwHS-HtwDLShkHNWCAIqeZiwu9jrg.jpg" group-title="PELICULAS 2022",Estación Zombie
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuQyzpafsVNket81QHHtNSnC#.mkv
-#EXTINF:-1 xui-id="263725" tvg-name="Crush (2013)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0fir7gMpfqPsFxj9sUeKSxBHgqyb1JLtj7BTI1AgMCjY.jpg" group-title="PELICULAS 2022",Crush (2013)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLAlihsNXADMvlq6ZMP3xuQGFnocNFtCoBBMjwxfsnkQ#.mkv
-#EXTINF:-1 xui-id="263460" tvg-name="El libro de la selva (1942)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qc-kdTA8HO-_xBHgJFmZSL5s1k6HXUhCBaPOsEeCgPc.jpg" group-title="DISNEY+",El libro de la selva (1942)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDOPjs67nojuQ4iT0kyhCO1Yi6ehk4Q1-e2qm0rAC6eI#.mkv
 #EXTINF:-1 xui-id="260272" tvg-name="Blancanieves (2025)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLliIJDa6IOuI6eNwuFWve22R5_cF5o5O64huaffF5zuI.jpg" group-title="DISNEY+",Blancanieves (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN409cYPQaXtQtamhLbwCJ4CYbl31fpmWj2X_MPMbWS2#.mkv
 #EXTINF:-1 xui-id="260271" tvg-name="Estado eléctrico (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AMePv_F6aKsn3M96uT4EGFc94Lkt5qKNOFYYcQrJ9js.jpg" group-title="NETFLIX",Estado eléctrico (2025)
@@ -1494,8 +1350,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKmXCJSOFm1DuvHqA4-doxKKceqD
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKmXCJSOFm1DuvHqA4-doxJDenh9DX8kDKnuxy1Jxr1n#.mkv
 #EXTINF:-1 xui-id="254647" tvg-name="Amenaza en el aire (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tacJqXawzw81gcS3VhxaACX-5GqDFIMQSQjskZiBBxM.jpg" group-title="AMAZON",Amenaza en el aire (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKmXCJSOFm1DuvHqA4-doxJsFLd6C1nF8JsDAju5Q8E5#.mkv
-#EXTINF:-1 xui-id="245895" tvg-name="Nosferatu (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-08AOwE9CD0hN9oxQuN8Kr4ShAJDh0MVoO5VcAkvBqqzE.jpg" group-title="HBO MAX",Nosferatu (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDT_zO-xNuBd8MbH6SMu9ZwenvTahO0ioEza_aRaq2Pe#.mkv
 #EXTINF:-1 xui-id="245750" tvg-name="Superniños (2020)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KQx-GIuijz0vvdjIpEm463yT9kBQaiVhRiU8EgcVwwk.jpg" group-title="NETFLIX",Superniños (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOJ2ukhQPIsPDYLOaz73BYlwUVul2MaYGWtoo1uBH0D2#.mkv
 #EXTINF:-1 xui-id="245749" tvg-name="Anora (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0i3q3J-ozaDTEDqRJSs_5qYDGi5DlHFI6BGwYNe6gsNU.jpg" group-title="HBO MAX",Anora (2025)
@@ -1514,20 +1368,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIKKdA9m6HByu9-bPFCgR3ABcYR9
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIKKdA9m6HByu9-bPFCgR3AmKTJRvEECnexP917szKGd#.mkv
 #EXTINF:-1 xui-id="245741" tvg-name="Niko: La aventura de las narices frías (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qza26RIxrphwD0FEFRWmbuEvdCc8d7Gsc2YOUjQCyF8.jpg" group-title="AMAZON",Niko: La aventura de las narices frías (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIKKdA9m6HByu9-bPFCgR3BTSEDMkf1fi55JFkaBFqjI#.mkv
-#EXTINF:-1 xui-id="245739" tvg-name="Anora (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0i3q3J-ozaDTEDqRJSs_5qYDGi5DlHFI6BGwYNe6gsNU.jpg" group-title="PELICULAS 2024",Anora (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4qHyBkJjH5owJn2lJtpBapn#.mkv
-#EXTINF:-1 xui-id="245738" tvg-name="Cónclave (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0i3x8JCqSjh-gP_Wjps6nDw5iqmv8gxK5jgx2eSsycd4.jpg" group-title="HBO MAX",Cónclave (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4rNS--kWZ640EAzcbqDguqX#.mkv
-#EXTINF:-1 xui-id="245737" tvg-name="Un Completo Desconocido (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0RYoDJr2cpTQ7VYAnaMzG4Ieq1zSY_ChrPTXW1jQaFtc.jpg" group-title="AMAZON",Un Completo Desconocido (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4oWeRpfFQKaPQhOUNEs8t2P#.mkv
-#EXTINF:-1 xui-id="245736" tvg-name="Amenaza en el aire (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tacJqXawzw81gcS3VhxaACX-5GqDFIMQSQjskZiBBxM.jpg" group-title="AMAZON",Amenaza en el aire (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4rwBtF4kJ1E2P1RUNLfbtUe#.mkv
-#EXTINF:-1 xui-id="245735" tvg-name="Babygirl (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0P85K25XHdIxzuvUIi75r4IRFsu6ocf6Z0smy_vSlm4E.jpg" group-title="AMAZON",Babygirl (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4qwWdKDot4m2CnUiqieqo_k#.mkv
-#EXTINF:-1 xui-id="245733" tvg-name="El Conde de Montecristo (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wWXgB8lwj3x5X2VnwQsQkgOzakbMNS3IyhV5Tm5jl24.jpg" group-title="AMAZON",El Conde de Montecristo (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4oAp_Ieg0Myr-heIuW4POH4#.mkv
-#EXTINF:-1 xui-id="245732" tvg-name="Algo embarazada (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0RHJfHSAG72YPodVkXn3da0b_4L1Ql2CS5sS2jZi4byU.jpg" group-title="NETFLIX",Algo embarazada (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9PFnU35oBjvrMuASx8m4okSrIsUt0aybx9OIJU17mn#.mkv
 #EXTINF:-1 xui-id="245729" tvg-name="Contigo en el futuro (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IaERAc4Pe3tuICgl6T14YuspXeW0LuBvHn0yF0M7J7I.jpg" group-title="AMAZON",Contigo en el futuro (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJi4khSuUqICzzP-PjYDsr443AWKkzGYd10plEObV8rr#.mkv
 #EXTINF:-1 xui-id="245728" tvg-name="Algo Azul (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07Sfy93De6gbVr4TBGBoDAaEQFuOj8fXaYVZprtRg6Bw.jpg" group-title="AMAZON",Algo Azul (2025)
@@ -1556,20 +1396,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHY6j1enYoZq5zWZGvRXQ79dlddX
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEs4yEFwDBxBXOayOjjcdDyLE7ykNJNg_ADdPVYrV7tw#.mkv
 #EXTINF:-1 xui-id="242734" tvg-name="Kraven the Hunter (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0iXpRngnMLQMoYhyLWL429awlQWHKIvBJd6EcoRbcRco.jpg" group-title="HBO MAX",Kraven the Hunter (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEs4yEFwDBxBXOayOjjcdDzhgpUWCPWqDKuPZ6fDVg3P#.mkv
-#EXTINF:-1 xui-id="239844" tvg-name="Seals: Operación Rescate (2023)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0t8yCYqGEs9G1IODH4yyHCqDV6qRvb9kWz0DEZiQCsH4.jpg" group-title="AMAZON",Seals: Operación Rescate (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDBsHsUEdTZmGPJlY3SiR4gOq6vsBJh4TDlseAssDZ9F#.mkv
-#EXTINF:-1 xui-id="239843" tvg-name="Devara: Parte 1" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0efbx365BBSQcg6AWOQmfjhdsZi8tSo99rB39gfcpCqk.jpg" group-title="NETFLIX",Devara: Parte 1
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDBsHsUEdTZmGPJlY3SiR4gtrv_ehtbIIvt7GKa1euEr#.mkv
-#EXTINF:-1 xui-id="239842" tvg-name="Flow, un mundo que salvar" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BxCsHSz4KO1anXa7suLHUGpFtwGeDPoi27FoFF8S5fk.jpg" group-title="AMAZON",Flow, un mundo que salvar
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDBsHsUEdTZmGPJlY3SiR4hiAiXLGhJGcB_hfODTpNut#.mkv
-#EXTINF:-1 xui-id="239841" tvg-name="Saturday Night" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0K-yFme8R6sWnBbPIb5WSikpcNpgX2VDp4t_R-IlDK9U.jpg" group-title="HBO MAX",Saturday Night
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDBsHsUEdTZmGPJlY3SiR4g1QDgC06ir9p2TSTyz1Ohc#.mkv
-#EXTINF:-1 xui-id="239840" tvg-name="Wallace y Gromit: La venganza se sirve con plumas (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0R4QNWLJMNlZWlcUdAtEPDo9I-MYPDSJISebIz2DbPhA.jpg" group-title="PELICULAS 2024",Wallace y Gromit: La venganza se sirve con plumas (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDBsHsUEdTZmGPJlY3SiR4gikFrBLOxOiC39I85M69cl#.mkv
-#EXTINF:-1 xui-id="239839" tvg-name="Pimpinero: Sangre y gasolina (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dJKXYVxEz8Nch6Bf2IHa9xk8SfHIX5LcIZC4hx-FTz8.jpg" group-title="PELICULAS 2024",Pimpinero: Sangre y gasolina (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDAZvq0IAk5x6uOcM5iyXsMyqq8yVZ4qweLq9gdMPjOB#.mkv
-#EXTINF:-1 xui-id="239838" tvg-name="How to Have Sex (2023)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0L0KPZ0E_V9Bpz6hjtyZsaWaSWOS2azWKLGnYmqQDoqg.jpg" group-title="HBO MAX",How to Have Sex (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDAZvq0IAk5x6uOcM5iyXsPsnl83aAdetW3uW5pMDLmB#.mkv
 #EXTINF:-1 xui-id="239217" tvg-name="El señor de los anillos: La guerra de los Rohirrim (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0JU3cBSYN4lULIS4HVknIdawhG_cKpF65fVpJCQYxfeg.jpg" group-title="PELICULAS 2024",El señor de los anillos: La guerra de los Rohirrim (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WE2A7BRTA8Eh3Eg8pT4I4IE66hltAGJg1baNa9RpCw2p#.mkv
 #EXTINF:-1 xui-id="239215" tvg-name="Dune: Parte dos (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zJ4cGbf0NGoZn0ZUmtgmyI-hijMJTdFk2WK2fA3OXrw.jpg" group-title="PELICULAS 2024",Dune: Parte dos (2024)
@@ -1584,8 +1410,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFw2QEowIkW1eSFIEt3EhzGyxCKx
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOwI7c5gz52hS9Ro4ijE9Luw12pKlmq-D1-S5X6uymdu#.mkv
 #EXTINF:-1 xui-id="237788" tvg-name="Emilia Pérez (2024)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkdbTmx3MAKQfrc6ghVWEmaPHpKVTki00s6_Qev47eE0.jpg" group-title="PELICULAS 2024",Emilia Pérez (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOwI7c5gz52hS9Ro4ijE9LsGcEDuRuibBpmGm2hQeNRU#.mkv
-#EXTINF:-1 xui-id="236467" tvg-name="Red One ( Codigo Traje Rojo ) (2024)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLx5XjlABuVrWcyp_FNzbDwQM4LbTjMV6I5cCNtHoYUCk.jpg" group-title="PELICULAS 2024",Red One ( Codigo Traje Rojo ) (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDfN_P6W0fFZ6CUS2x-09pvRb_vdjuVmXXRs-Hpa_1J2#.mkv
 #EXTINF:-1 xui-id="236128" tvg-name="Gladiator II (2024)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJrvOrkGPKQAUaIJbjAZQ1xrrVgrzHKNXc-rgpLAckiE.jpg" group-title="PELICULAS 2024",Gladiator II (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNs_v_CEyH8x4XsHIJaUNI8FIU-_WNSU21fAtVn_L0D-#.mkv
 #EXTINF:-1 xui-id="236127" tvg-name="Horizon: An American Saga - Capítulo 1 (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cif14ycLVkFPw0QF7TNJ--7wG0hcUBVNo2mEIwzcwC0.jpg" group-title="PELICULAS 2024",Horizon: An American Saga - Capítulo 1 (2024)
@@ -1646,8 +1470,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM3tJ4QiPHc4VgNNDfdIddUmayzp
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM3tJ4QiPHc4VgNNDfdIddXT1llP3KeD4SdYdw3j4lxR#.mkv
 #EXTINF:-1 xui-id="230319" tvg-name="Papá Canguro (2003)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLihsNvbxFVDraqKLTKX6-lzPGHIVahuXj8lc-VT4fFcE.jpg" group-title="HBO MAX",Papá Canguro (2003)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPnuHNcq6PBMnmXM11okRPgHS-rm88Lq84MghldLDyMa#.mkv
-#EXTINF:-1 xui-id="230193" tvg-name="Gatlopp (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39h84nFtBfYd0iYm3C8Jo8naSII.jpg" group-title="PELICULAS 2022",Gatlopp (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD2SB79qx_I4td5lNKt9n_SF4Uo1SqxoHBos2eNsEEBN#.mkv
 #EXTINF:-1 xui-id="230138" tvg-name="El justiciero 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg" group-title="HBO MAX",El justiciero 2 (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNiLjGOLj1qVe1QbEbnkH5TU1mgdxVzIT1yDSmZu5YaX#.mkv
 #EXTINF:-1 xui-id="230137" tvg-name="El conjuro 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdNW0HWw11Wn2N94VGea8O44wOA.jpg" group-title="HBO MAX",El conjuro 2 (2016)
@@ -1886,10 +1708,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIF3mYkNFbXtcINno6cWI3-YpLhM
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHnexLkXj3_dSK4313tz2iT_zQ0YBHH0pCpV6Zap0F5P#.mkv
 #EXTINF:-1 xui-id="212198" tvg-name="Guerra Civil (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZvIKnTpF4G_mi8pYG-pQHOoBg9JDbsatkdWquTK6Rzg.jpg" group-title="PELICULAS 2024",Guerra Civil (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHnexLkXj3_dSK4313tz2iQoD8NglY5F4cAxEMiUKhRb#.mkv
-#EXTINF:-1 xui-id="211578" tvg-name="Atlas (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0UAvP0R_dMSlvU7WOPhTiN7oOyLowuBXjhPhBXGytmOY.jpg" group-title="PELICULAS 2024",Atlas (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD6c_2NR3LMwcNQ-AjkA_4TLz7LVt0EqVW9b7dnEEtb5#.mkv
-#EXTINF:-1 xui-id="211577" tvg-name="Bad Boys para siempre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" group-title="APPLETV+",Bad Boys para siempre (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD6c_2NR3LMwcNQ-AjkA_4TwMudcg-FkINTd03p9Wup3#.mkv
 #EXTINF:-1 xui-id="211455" tvg-name="The Imitation Game (Descifrando Enigma) (2014)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2c5Ytm_-QMwgqV8KIUbl4vHGp4nQFjmADHoRu_IpUMo.jpg" group-title="NETFLIX",The Imitation Game (Descifrando Enigma) (2014)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK9bsHJnLlU9UAqGSj0SS7USfLZNbOHe0sUz0ALS4xtI#.mkv
 #EXTINF:-1 xui-id="211191" tvg-name="1922 (2017)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0FuhPcZZixO2EgQnnDG6j06FzBJE7-AhMuBfakd-tbuE.jpg" group-title="NETFLIX",1922 (2017)
@@ -1922,8 +1740,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WC2wVmLRCKIomEtHEHgMBwBBwRH1
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WC2wVmLRCKIomEtHEHgMBwAhTfohIc8a0StayJYRwJ5e#.mkv
 #EXTINF:-1 xui-id="210908" tvg-name="Intensamente (Inside Out) (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg" group-title="DISNEY+",Intensamente (Inside Out) (2015)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WB02g2mE_weZhJrsr21AxEVJlKxw_f83-LQs0Y0tQy-o#.mkv
-#EXTINF:-1 xui-id="209466" tvg-name="Aladdin (1992)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLT_fBgLaN12mbvMy9q4BDQ-FbtI8-CwFECRT-RUNb_tU.jpg" group-title="DISNEY+",Aladdin (1992)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDp_mZ1SWLhd6KN4IOSZh7XtynGzhwZda_7IiEKHwxaf#.mkv
 #EXTINF:-1 xui-id="207951" tvg-name="Telma, la unicornio (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0b_9MndvPWator-FNp9uhPsQYSBs47baIW2X-gdipjwM.jpg" group-title="PELICULAS 2024",Telma, la unicornio (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGHWO8LnN64I58FlT8TFT8vayZGAbaO0PdPT_NZY8-bw#.mkv
 #EXTINF:-1 xui-id="207949" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ho-X6t42Rg5USl_h1Ze1w5OHreU-J-kZ--oz1Isnh-0.jpg" group-title="PELICULAS 2024",Godzilla y Kong: El nuevo imperio (2024)
@@ -2148,32 +1964,8 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCSCgaJo_O7zAlAkYTXDlb0EwMWg
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOfdjOVjOZdVfGPNugL6hIbcY9esyWQrN392OZFylAly#.mkv
 #EXTINF:-1 xui-id="202140" tvg-name="Invitación a un asesinato (2023)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-04C5Lv_YqVP_WnhgHRVzociql1_9QgpW4LIPWYbYx70U.jpg" group-title="AMAZON",Invitación a un asesinato (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOfdjOVjOZdVfGPNugL6hIblX4bcrG8GGZgXfaPtBx1n#.mkv
-#EXTINF:-1 xui-id="202134" tvg-name="Hermano de Jorel: Especial Carnaval Brutal (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01-ypZO2Kpge87k6OC8VNbzQj38NgXP6A7F4yzm1b3MM.jpg" group-title="AMAZON",Hermano de Jorel: Especial Carnaval Brutal (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDSaADgEJmfZ9FaRnkvAJSawQlgmszehz12jGnVOrZ_c#.mkv
-#EXTINF:-1 xui-id="202133" tvg-name="Amor para adultos (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-050afKZawtiBM5Ofd9Ip4zi9whU_HLO9VgiL_2euwEU8.jpg" group-title="NETFLIX",Amor para adultos (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDSaADgEJmfZ9FaRnkvAJSZCwT4ih9T9fmu7Ug-kMQOo#.mkv
-#EXTINF:-1 xui-id="202132" tvg-name="Amistad (1997)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-06Furin_wm47IyXfv_17B7A9zUhZit5ft47iexskIBqM.jpg" group-title="NETFLIX",Amistad (1997)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDSaADgEJmfZ9FaRnkvAJSa4YA9xDQl7sV5gDVeGXD6X#.mkv
-#EXTINF:-1 xui-id="202131" tvg-name="Jeepers Creepers: El renacer (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0rh42Y_Ficvd8K8SNemYS1DqcMGuxdmiN6C7CrNCH3lE.jpg" group-title="AMAZON",Jeepers Creepers: El renacer (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDSaADgEJmfZ9FaRnkvAJSbpK8OPyKasciC2EADSOU7W#.mkv
-#EXTINF:-1 xui-id="202130" tvg-name="Jefa por accidente (2018)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-09CElWX0_Thph6EUKkfgLIZ70Ac4S1pCfbwJN32BAEMg.jpg" group-title="AMAZON",Jefa por accidente (2018)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDSaADgEJmfZ9FaRnkvAJSaLMewd3ZsKAJJkVCcCyTgZ#.mkv
 #EXTINF:-1 xui-id="202115" tvg-name="Al otro lado de la ley (2018)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0OkSwVkU5SExY86u3sXFEAG2M7actiZNNjHtzjaLubNA.jpg" group-title="AMAZON",Al otro lado de la ley (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAOHQ55kSZIxcY9V_5qY_DizdlINDsLgPD7lx7jOjARw#.mkv
-#EXTINF:-1 xui-id="202099" tvg-name="Kate & Leopold (2001)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsXvW_LLxPZ14dO7rtBERYbXSH1ivB1GNe2TRVQdN6VY.jpg" group-title="AMAZON",Kate & Leopold (2001)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69ne1-Pvpg8hvWkdEO0A4-J4O#.mkv
-#EXTINF:-1 xui-id="202098" tvg-name="Toast (2010)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJ3YodKpMhTL_rhDxlfAVY5rSScvfed3bQFFOXbbiiYk.jpg" group-title="AMAZON",Toast (2010)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69nfj7tdOi4ovVm8Ir6aBccEi#.mkv
-#EXTINF:-1 xui-id="202095" tvg-name="Las Tortugas Ninja: Saliendo de sus Caparazones (1990)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Jmupmd5xLejNP58abBKv5xzsfer93FnLohLjtTsR028.jpg" group-title="AMAZON",Las Tortugas Ninja: Saliendo de sus Caparazones (1990)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69ndq8gtiz0S0xZpmMkwr6a42#.mkv
-#EXTINF:-1 xui-id="202094" tvg-name="Las tortugas ninja II: El secreto de los mocos verdes (1991)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01awklYyX95X3QLUiIWCGK3QV68VIZ8ISvUBgj2M9_gQ.jpg" group-title="AMAZON",Las tortugas ninja II: El secreto de los mocos verdes (1991)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69nehWPXYHadGZT345wjoCbA0#.mkv
-#EXTINF:-1 xui-id="202093" tvg-name="Tortugas Ninja III (1993)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0D_z39WdLbctMDeZ3-uWFyKchZqMHe2WbVDjfvQDCw0Q.jpg" group-title="AMAZON",Tortugas Ninja III (1993)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69neN_HPZmXwh6Izl_GpyfECc#.mkv
-#EXTINF:-1 xui-id="202091" tvg-name="Lo inevitable (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BAw9obgiqPCIdoST7_pwbS5XriweIlib6aj830miFM8.jpg" group-title="AMAZON",Lo inevitable (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69ncMAaSAhJvaYRJ6-Fp0HlcG#.mkv
-#EXTINF:-1 xui-id="202090" tvg-name="loca academia de pilotos  2 (1993)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0EdZW3BM-OcJhM5fZwy5r8ufUgelv0c-trZd372tmdGY.jpg" group-title="AMAZON",loca academia de pilotos  2 (1993)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD9GxhwsIH19dRZZANP69ndTNAJE9erPF8aQ909Pj8qw#.mkv
 #EXTINF:-1 xui-id="202089" tvg-name="loca academia de pilotos (1991)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0-2epKWSKsyqEdfAKYID_oNkONPYbE0xjz3gZosNZMSI.jpg" group-title="AMAZON",loca academia de pilotos (1991)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKVR2PDjCd_3zo60AX9OC_E6vK3iUZhSeRfh0A7-62Ma#.mkv
 #EXTINF:-1 xui-id="202088" tvg-name="Los Goonies (1985)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0-iJmgiM6nst9jCefQFbYDb35OKnvZvYoG21Zugre12w.jpg" group-title="AMAZON",Los Goonies (1985)
@@ -2184,10 +1976,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKVR2PDjCd_3zo60AX9OC_FZqtho
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKVR2PDjCd_3zo60AX9OC_GJH5pd0rgZ6XQwcK2YSyjY#.mkv
 #EXTINF:-1 xui-id="202080" tvg-name="Timadoras compulsivas (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Xr0d7Wfdl12yLaYqb1a5vrKM_mxIxnkZXvXHrnNu4Xc.jpg" group-title="AMAZON",Timadoras compulsivas (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WKVR2PDjCd_3zo60AX9OC_EWClwIsMVEQJIR8bpAhKCJ#.mkv
-#EXTINF:-1 xui-id="202075" tvg-name="Marlowe (2023)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KQj8HA-ee6ytgfP-q3F3FSIuQajGHsrJb0SQ_p-4KQE.jpg" group-title="AMAZON",Marlowe (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD59cVVGfCmrxCZZK1K7KvBAFQ-uY0hw9mYCGFH1SFK8#.mkv
-#EXTINF:-1 xui-id="202071" tvg-name="La Alcaldesa María (2020)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0S-46wEo0u8iN6tPJ422ci_4TqkyhrLG1VqLbqgCnM9E.jpg" group-title="AMAZON",La Alcaldesa María (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD59cVVGfCmrxCZZK1K7KvBJVePM-23eQbDiykzKtgij#.mkv
 #EXTINF:-1 xui-id="202062" tvg-name="Men (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0X-Bl42QoOP9tlAdDg11Tw6heSVdszlIt4QDw2Cv27PY.jpg" group-title="AMAZON",Men (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WJoLZEahAw4pC2I5nEPvXceNqLmVxlrfKe9X_356miaq#.mkv
 #EXTINF:-1 xui-id="202060" tvg-name="Apaches (2023)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBJ3QumwcxP-l11cJ2WFzrLmRNkLkB43msNqLMXH6Rck.jpg" group-title="PELICULAS 2024",Apaches (2023)
@@ -2254,8 +2042,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WER6ovUqq9Fe4woxz1jWhUwSgtoG
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WER6ovUqq9Fe4woxz1jWhUyZE35BKEl2Y5rqii1uYLtr#.mkv
 #EXTINF:-1 xui-id="190960" tvg-name="El clon de Tyrone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38dnJYc0JhXXigsycjZZCU8VsRF.jpg" group-title="PELICULAS 2024",El clon de Tyrone (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WER6ovUqq9Fe4woxz1jWhUx5gEA2PynA7rwhYfqJwh2p#.mkv
-#EXTINF:-1 xui-id="190942" tvg-name="Bambi 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enl6RjnQEriJqMyGcMb72qgT8Ei.jpg" group-title="DISNEY+",Bambi 2 (2006)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD1NXnKG271F9ca84r_AUxH9pXt4AJ3iBqmnvfyUuS_z#.mkv
 #EXTINF:-1 xui-id="190934" tvg-name="90 minutos en el cielo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Bi9eVHTu2OW24aqNZjLgGUYT3k.jpg" group-title="NETFLIX",90 minutos en el cielo (2015)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEvvHfDZElhK9qagV1iIdQMOmjqZ5flueHEnIrQVFaf2#.mkv
 #EXTINF:-1 xui-id="190929" tvg-name="Los desafíos (1969)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8UEwLf8F2FhfE8sYhZGRdZbS6wKMbxASWpBUq6YgFko.jpg" group-title="DISNEY+",Los desafíos (1969)
@@ -2318,20 +2104,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WE0jv57T3D-GF6bAcDm72q2YTUIa
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WE0jv57T3D-GF6bAcDm72q2qiXUiMVkPKSE7vuPIF9hx#.mkv
 #EXTINF:-1 xui-id="190540" tvg-name="La hora 11 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZQyqJhoqSXYhu27oRDqz3Tzl10.jpg" group-title="DISNEY+",La hora 11 (2007)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WE0jv57T3D-GF6bAcDm72q2xwu0ojq6uPwHaKU45zIPs#.mkv
-#EXTINF:-1 xui-id="190539" tvg-name="Noche americana (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYE5AayrDorA7vHqRoRNtyubO97.jpg" group-title="DISNEY+",Noche americana (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxlD-HovjOVMXV-ZBdoy5oTm#.mkv
-#EXTINF:-1 xui-id="190538" tvg-name="La mentira de Lance Armstrong (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i90vU3XY68o27nxJexDqT7S4cGN.jpg" group-title="DISNEY+",La mentira de Lance Armstrong (2013)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxmIuUlVk8NwIHAGf4X-HYf4#.mkv
-#EXTINF:-1 xui-id="190537" tvg-name="Ártico (2018)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwL99xoIZK1Tl1fuVYYLHv2LMeeqhaj3JZEWFM5ufC0g.jpg" group-title="DISNEY+",Ártico (2018)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxmqkiI8fTYyFQVtgUxSaY1y#.mkv
-#EXTINF:-1 xui-id="190536" tvg-name="Barbaro (2008)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9V5GCPGjjHqeVXiN20kQxQtN3Qr6GfOzQzR8Vy3QSjI.jpg" group-title="DISNEY+",Barbaro (2008)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxnX4K1CIZW8nnEbUcREDiah#.mkv
-#EXTINF:-1 xui-id="190535" tvg-name="Animales norteamericanos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="DISNEY+",Animales norteamericanos (2018)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxkou3WfHXBc24EulktNgKb_#.mkv
-#EXTINF:-1 xui-id="190531" tvg-name="Mallrats (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNm0AQFIc4nlzCd8Nqvbb5gccAV.jpg" group-title="APPLETV+",Mallrats (1995)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxnXj4CDrTwHxISY4R-W_uIn#.mkv
-#EXTINF:-1 xui-id="190530" tvg-name="Dvě matky (1921)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="APPLETV+",Dvě matky (1921)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDhi9pM4FTXF_dvCDulxCxml1IdlX6Usjd6sW4mm0mvl#.mkv
 #EXTINF:-1 xui-id="190529" tvg-name="Mainstream (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld3qGvCESHiJFvmpqu6WtRVRiTL.jpg" group-title="APPLETV+",Mainstream (2009)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WN_Kb3p05PO-qZCxjimis4ou5dupYw5kfmtmdBLriWqZ#.mkv
 #EXTINF:-1 xui-id="190528" tvg-name="Los caraconos (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zsVoSPQGFyxGiSD4Tmsqul54A.jpg" group-title="APPLETV+",Los caraconos (1993)
@@ -2500,22 +2272,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEPKA-h9zvYccHh43so1VbcB4Krs
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEPKA-h9zvYccHh43so1Vbf_ts7icOxCGm2N3buBIgO8#.mkv
 #EXTINF:-1 xui-id="190180" tvg-name="La tienda de los horrores (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS7gOIENg0loAwRDvqAVbMghqdT.jpg" group-title="PARAMOUNT+",La tienda de los horrores (1986)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEPKA-h9zvYccHh43so1Vbfy8ZX97S8g29FfOQQP2GXn#.mkv
-#EXTINF:-1 xui-id="190179" tvg-name="Honest Candidate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBUBlEYaJEaTRFGefPHpoFU7AvS.jpg" group-title="PARAMOUNT+",Honest Candidate (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6U3ZJnOpqxVULTFge5YBI8B#.mkv
-#EXTINF:-1 xui-id="190178" tvg-name="Las chicas de la mecánica (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFzguPe5NMh1kcDMpM06t43R3aF.jpg" group-title="PARAMOUNT+",Las chicas de la mecánica (2016)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6Xoh0aJtCnTNfFhdgLEj1Wl#.mkv
-#EXTINF:-1 xui-id="190177" tvg-name="Jackass 2.5 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qriTT0KQvvuCs73z0LyEduw6XX.jpg" group-title="PARAMOUNT+",Jackass 2.5 (2007)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6WcBk8d-VBwvBA-DHAwCwZG#.mkv
-#EXTINF:-1 xui-id="190176" tvg-name="La vida es bella (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg" group-title="PARAMOUNT+",La vida es bella (1997)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6XGsdOG4ojyzNoLsszW0eYJ#.mkv
-#EXTINF:-1 xui-id="190175" tvg-name="Juerga Tropical (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaS2TmyOvpPScmlRoBwK1jGueox.jpg" group-title="PARAMOUNT+",Juerga Tropical (1987)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6XF9zQl_ML48AXIvRgYMFgb#.mkv
-#EXTINF:-1 xui-id="190174" tvg-name="Abuelos Principiantes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuQdvLaHaOnjT2GrLLDvqIBKhvx.jpg" group-title="PARAMOUNT+",Abuelos Principiantes (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6UaE3DqWdotVfpoVN5CRfmT#.mkv
-#EXTINF:-1 xui-id="190173" tvg-name="A la mierda el amor... otra vez (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUvV0gcglEKjTl47olQd9aVLJQj.jpg" group-title="PARAMOUNT+",A la mierda el amor... otra vez (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6V6t-sXHsVhZodGkQmYBvtr#.mkv
-#EXTINF:-1 xui-id="190171" tvg-name="Violet Evergarden: La eternidad y la muñeca de recuerdos automáticos (2019)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0fbnNb0JtXis5yEeshAe8O_fCt7QwezFOfmKiwvdV_gE.jpg" group-title="CRUNCHYROLL",Violet Evergarden: La eternidad y la muñeca de recuerdos automáticos (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDuo0_Zto7BEacJa_trwO6UwGCZ8Hq27PoDVA8TKSP76#.mkv
 #EXTINF:-1 xui-id="190169" tvg-name="Neon Genesis Evangelion: The End of Evangelion (1997)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-04LhwYRIizLRmmZvg1Cfx2kuqN2CsMlJMVNunU0uhmTw.jpg" group-title="CRUNCHYROLL",Neon Genesis Evangelion: The End of Evangelion (1997)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMZnDsQnxBQkESswh-HK0GQc2wHczM0fWgrxWPu3wtIa#.mkv
 #EXTINF:-1 xui-id="190167" tvg-name="El viento se levanta (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1DKL2yPyxoZthv0du5gcAWA0gw.jpg" group-title="CRUNCHYROLL",El viento se levanta (2013)
@@ -2574,14 +2330,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WElpgR2kM_aP03ywFTaKBBKty3CT
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WElpgR2kM_aP03ywFTaKBBJ21Ob2845mE8lnD8hM9aUi#.mkv
 #EXTINF:-1 xui-id="190121" tvg-name="Rocky III (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHI45vT6yGST06JtzZ5UFcySysN.jpg" group-title="SAGAS",Rocky III (1982)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WElpgR2kM_aP03ywFTaKBBIWjGF1Y4-UdAVAOaLS82ye#.mkv
-#EXTINF:-1 xui-id="190113" tvg-name="Ip Man 4: El final (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg" group-title="SAGAS",Ip Man 4: El final (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZhZu_bEpWpVe9O-d-iDYTZS#.mkv
-#EXTINF:-1 xui-id="190112" tvg-name="Alien (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI5eeqdoiZ62zv11WSMEev6Ynim.jpg" group-title="SAGAS",Alien (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZhxs4iLQUP8sHZHWreukV_U#.mkv
-#EXTINF:-1 xui-id="190111" tvg-name="Vecinos de otro planeta (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acmmAHlsUDIXtEXLxY6yAGZs1eW.jpg" group-title="DISNEY+",Vecinos de otro planeta (1990)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZinktokWUo65NcTOih_zah1#.mkv
-#EXTINF:-1 xui-id="190110" tvg-name="Aire libre (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oszhFl8KWktanhDoCspQM3h2cnW.jpg" group-title="DISNEY+",Aire libre (2014)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3XjWg5lm8CulqqrxlaxZhhYcsce2IXZxjxSWbybKWm#.mkv
 #EXTINF:-1 xui-id="190109" tvg-name="American Pie ¡Menuda boda! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="DISNEY+",American Pie ¡Menuda boda! (2003)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WNJ6X_TLgJ4M4AqKCVHFWCx1kENbOnvfHAhWwt0fAYeA#.mkv
 #EXTINF:-1 xui-id="190108" tvg-name="Ola de Calor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SlG4YA9RfWwEDXuRrIAVtgEZA8.jpg" group-title="DISNEY+",Ola de Calor (2022)
@@ -2876,24 +2624,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WF9HskYkA73rzrz5hoWlPnRpX-n7
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WF9HskYkA73rzrz5hoWlPnRZ_81ayFycm-8amPzlrOHF#.mkv
 #EXTINF:-1 xui-id="189910" tvg-name="Dos en la carretera (1967)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lTLhfgHV2djxxcuH0I6iTKbM1abCRu9FAsWFSMuay8g.jpg" group-title="AMAZON",Dos en la carretera (1967)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WF9HskYkA73rzrz5hoWlPnRB-GRXoswFsWgCq4ea-Oxw#.mkv
-#EXTINF:-1 xui-id="189908" tvg-name="Comando especial (1981)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0iSEy4lWZfrD2rPL4NYKnAAn-iapmVML2PgNqi7DBXO4.jpg" group-title="AMAZON",Comando especial (1981)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fTtNgSGLgXEttvF239i3cF1#.mkv
-#EXTINF:-1 xui-id="189907" tvg-name="Detetive Madeinusa (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0NrNh4sFuHqXr_JvNxlujd5vi3N075pkboMknoOACpI8.jpg" group-title="AMAZON",Detetive Madeinusa (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fTmsBdbclgb8NPcAcJnakys#.mkv
-#EXTINF:-1 xui-id="189906" tvg-name="DON JEDIONDO: Totiese De La Risa (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-00qKsAsbBq50O2T8LPOe47wl0WVcY4JIti6aUUGfW82I.jpg" group-title="AMAZON",DON JEDIONDO: Totiese De La Risa (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fS32Z0t-jA2Ws2PPsswqQyq#.mkv
-#EXTINF:-1 xui-id="189905" tvg-name="Chilangolandia (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0M38FHQBeFM0CatJAspr1w4s17LmSqRAAkq72FKPzsOA.jpg" group-title="AMAZON",Chilangolandia (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fS_iOjyyXzVPw0nUQS_amnW#.mkv
-#EXTINF:-1 xui-id="189904" tvg-name="Chick Street Fighter (2003)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0d9ZS3eVYRB6ObewFzY8fE9E5wPGpRY3QLBgMM3gID4E.jpg" group-title="AMAZON",Chick Street Fighter (2003)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fRFOdu2RWvo4rnImkCuaaYk#.mkv
-#EXTINF:-1 xui-id="189903" tvg-name="The Bunker (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0L3h9tsPbH0zW6RCi6ySyYKNV8UZevccGHDP6AQI2gHM.jpg" group-title="AMAZON",The Bunker (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fRW3J29TN4ffxXF0QVF5rFD#.mkv
-#EXTINF:-1 xui-id="189902" tvg-name="Burn It All (2021)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0OJEcTlFb-RRHZaLMuLhpGqJ_Y3xmBqzTkyA3XsIAbS8.jpg" group-title="AMAZON",Burn It All (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fQTtlXtA6ftAk9W7FF-cn27#.mkv
-#EXTINF:-1 xui-id="189901" tvg-name="Ataque a los Titanes (2015)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Z5Zt9xxxVolLkaBzxycDbBf4FTyWM3bWLDKb8TAFsiQ.jpg" group-title="AMAZON",Ataque a los Titanes (2015)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fSpjETR08Lnyyie5JizQjuB#.mkv
-#EXTINF:-1 xui-id="189900" tvg-name="Alieu the Dreamer (2020)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0d6qtf-1-EkJJDuaOZkpbfBqDPqgf7uCF0Y8wYfGXxys.jpg" group-title="AMAZON",Alieu the Dreamer (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDUjCRcwjrMa0sfLSPHK6fTq3N473iUXYHwy0V_2yeqh#.mkv
 #EXTINF:-1 xui-id="189899" tvg-name="Ángeles en el campo abierto (1951)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_3vlH5D-i9jVqKQz35pw3CvXbN0_lMT4hdaGyXAYmSo.jpg" group-title="AMAZON",Ángeles en el campo abierto (1951)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOQ0wAMjiY9bYsv9Lu_4nl8VVdleKNAlwI1NPzN0Poqw#.mkv
 #EXTINF:-1 xui-id="189898" tvg-name="Beavis y Butt-Head: Recorren el Universo (2022)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07wVI4sGr04cFupv06vOohF3BFO5bDkTO4YJtF3wzlb4.jpg" group-title="AMAZON",Beavis y Butt-Head: Recorren el Universo (2022)
@@ -3362,26 +3092,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGQZHAadftVaeWo5gjV4BGXvuL0J
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGQZHAadftVaeWo5gjV4BGWYKuFWVTamJ9W8pfgMVDAw#.mkv
 #EXTINF:-1 xui-id="189400" tvg-name="Lo mejor de la vida (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IIgrbK7duALJgaRp3vZdcLxfZC.jpg" group-title="NETFLIX",Lo mejor de la vida (1967)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGQZHAadftVaeWo5gjV4BGUq2HgjsUlae7KaPQsuxapV#.mkv
-#EXTINF:-1 xui-id="189399" tvg-name="La teoría del todo (2014)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLMkZoJ04aE5PyiN9yek5D28S8_tV20IEZzZK0INd8CTE.jpg" group-title="NETFLIX",La teoría del todo (2014)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYGALrEO1GkQ14aGAFNLS0Yt#.mkv
-#EXTINF:-1 xui-id="189398" tvg-name="La mujer en la ventana (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg" group-title="NETFLIX",La mujer en la ventana (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYHpmo7ZBzg33tcsXcxzY_gV#.mkv
-#EXTINF:-1 xui-id="189397" tvg-name="La toma del poder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GNzSPbOZkuKYIA7mHbFHe1W3CH.jpg" group-title="NETFLIX",La toma del poder (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYHxUmiGpFt14ll-p1T-EguC#.mkv
-#EXTINF:-1 xui-id="189396" tvg-name="La hija oscura (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBlCeU1udaQnNncOvfSyDwzFuuV.jpg" group-title="NETFLIX",La hija oscura (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYFesX7Hig3AqKtlkfrVI2Mv#.mkv
-#EXTINF:-1 xui-id="189395" tvg-name="La otra Missy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg" group-title="NETFLIX",La otra Missy (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYEbtGMKTIrL-7FVkDqfyvMi#.mkv
-#EXTINF:-1 xui-id="189394" tvg-name="La ira de Dios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjDb1UWIJI06vdV9W0Of6f9JD9W.jpg" group-title="NETFLIX",La ira de Dios (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYHyety3kNL45P_YJgdlfAsg#.mkv
-#EXTINF:-1 xui-id="189393" tvg-name="La excavación (2021)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7snZPbSwyIkN6YU5yKkVbtMlCanaeUgvcZB_ouwMYas.jpg" group-title="NETFLIX",La excavación (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYEVfV49T9WdVmVT_dugyG_f#.mkv
-#EXTINF:-1 xui-id="189392" tvg-name="La dama de oro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkqlBlpeSv65GPKtWT0C7tXN2XJ.jpg" group-title="NETFLIX",La dama de oro (2015)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYGdxx9jnSO76ucIYXSjOIM2#.mkv
-#EXTINF:-1 xui-id="189391" tvg-name="La estrella de Belen (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b39VGy2mOTRHbW8iV1fQQwb73wy.jpg" group-title="NETFLIX",La estrella de Belen (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYFXDqMFwgvuAdjRjfUlMkSp#.mkv
-#EXTINF:-1 xui-id="189390" tvg-name="La chica salvaje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmKCI3tweszvv1S7MoK0OCWsvht.jpg" group-title="NETFLIX",La chica salvaje (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD-IjmOjCcX66LOG6vdBhYGxl-_Mxs1YFc3fFlBZ1vci#.mkv
 #EXTINF:-1 xui-id="189389" tvg-name="La captura del enfermero asesino (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EAvUIecAQJPuMEGp9rTP331hiF.jpg" group-title="NETFLIX",La captura del enfermero asesino (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCcjBDlVwXrfVSb0gn1g4dB1Lxh0KwgkKSufyBD66pZp#.mkv
 #EXTINF:-1 xui-id="189388" tvg-name="La casa de los abuelos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDlzLKAmK3SiEoVsMXFPGsF9iwg.jpg" group-title="NETFLIX",La casa de los abuelos (2021)
@@ -3550,14 +3260,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WABo3g19YCb7bRr46u-9ckd_yeG0
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WABo3g19YCb7bRr46u-9ckdfUYGlVHthT7CtBeRMR25o#.mkv
 #EXTINF:-1 xui-id="189300" tvg-name="Come, reza, ama (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHvxdzwUyHajBqcmx4EgfFDA7Qm.jpg" group-title="NETFLIX",Come, reza, ama (2010)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WABo3g19YCb7bRr46u-9ckc_d6pllqj6Nrc0QrvSOD6t#.mkv
-#EXTINF:-1 xui-id="189299" tvg-name="Cuarentones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xARmbhKwPFc1oMkcis0pAHFBMdX.jpg" group-title="NETFLIX",Cuarentones (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD560G0fZJMaJ1uiv2l5n8zJxNKvNXW1mQXuuj49CTeM#.mkv
-#EXTINF:-1 xui-id="189298" tvg-name="Confianza (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba8nzKYP4CclMTKwPRodyr55e4X.jpg" group-title="NETFLIX",Confianza (1980)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD560G0fZJMaJ1uiv2l5n8wdT6Z3U-x723KqU-4K-eR2#.mkv
-#EXTINF:-1 xui-id="189296" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="NETFLIX",Consejos de una canguro para cazar monstruos (2020)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD560G0fZJMaJ1uiv2l5n8wAEm3i1IXLMpBRhxPQ_tEv#.mkv
-#EXTINF:-1 xui-id="189291" tvg-name="Chokehold (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ck7y1li6vefAzqXqCs27Sju4qO9.jpg" group-title="NETFLIX",Chokehold (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD560G0fZJMaJ1uiv2l5n8w6IZpNTTHBA31JTLBjRTJp#.mkv
 #EXTINF:-1 xui-id="189289" tvg-name="Conquista a medias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gReRqOnhWEKOrRj6dW7wE1qfbzd.jpg" group-title="NETFLIX",Conquista a medias (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPvgS2Rxfs3NPjYf95ArtG_xH9DvhbV23VwuyoCkiysc#.mkv
 #EXTINF:-1 xui-id="189288" tvg-name="Chris Rock: Selective Outrage (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg" group-title="NETFLIX",Chris Rock: Selective Outrage (2023)
@@ -3938,24 +3640,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOHRmn9m9c-av9f6o4kk-GNgB5nX
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOHRmn9m9c-av9f6o4kk-GPeOshtBz5mWVS6JlU8YqHv#.mkv
 #EXTINF:-1 xui-id="188940" tvg-name="Final feliz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lecFKaVz16X6MM9T8EovMsbETNn.jpg" group-title="PELICULAS 2024",Final feliz (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOHRmn9m9c-av9f6o4kk-GPy5aET-xc3EH8Erg5s8men#.mkv
-#EXTINF:-1 xui-id="188938" tvg-name="Fanfik (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg" group-title="PELICULAS 2024",Fanfik (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQzIH9glwHa4A6BAvjJOHVD#.mkv
-#EXTINF:-1 xui-id="188937" tvg-name="Encuentro con la verdad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7EJ2fGLNR8a3TpPskvFGh7QJkB.jpg" group-title="PELICULAS 2024",Encuentro con la verdad (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMSs7agr52KUPgAyFZJvIES6#.mkv
-#EXTINF:-1 xui-id="188936" tvg-name="Eminence Hill (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMVWiHL3ictg513IcPK7tv6TwGL.jpg" group-title="APPLETV+",Eminence Hill (2019)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMT1Q3E4-y6rB2a_LeHznnbx#.mkv
-#EXTINF:-1 xui-id="188935" tvg-name="El lado dulce de la traición (2023)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzAXdC0WbzYpXeqOiYFiDUna1zabbsRXvOGlkU_-789M.jpg" group-title="PELICULAS 2024",El lado dulce de la traición (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQZSza7rnz_IUhCtCj80N75#.mkv
-#EXTINF:-1 xui-id="188934" tvg-name="Empieza el baile (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39PwnUTPbDjeNS6Yg5FP7kJqEGE.jpg" group-title="PELICULAS 2024",Empieza el baile (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQ-G68Kk8yLlqZqjcJ65a0K#.mkv
-#EXTINF:-1 xui-id="188933" tvg-name="El abismo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSZhgnlqfajabEHfXVmwCZIcpSI.jpg" group-title="PELICULAS 2024",El abismo
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMTHjdl9nlcyr7lCFWW4YhYJ#.mkv
-#EXTINF:-1 xui-id="188932" tvg-name="El extraño caso del fantasma claustrofóbico (2023)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwm_jWq1aXlU4qiSVfUf4yq9oLEDIVXxm6H5MSKk4aQQ.jpg" group-title="PELICULAS 2024",El extraño caso del fantasma claustrofóbico (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMTgXWe1sDrEKMO6M3UkFNJq#.mkv
-#EXTINF:-1 xui-id="188931" tvg-name="Encierro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIuQioqs28F6VjPzblUMVGMm8bB.jpg" group-title="PELICULAS 2024",Encierro (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMSDkPkLP3S6WMLpoARXdPIN#.mkv
-#EXTINF:-1 xui-id="188930" tvg-name="El final que quiero (My Happy Ending) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgJmAAho5Ghki8dltVfL3S84LNR.jpg" group-title="PELICULAS 2024",El final que quiero (My Happy Ending) (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDr8XnyOk67QxeZy2tpxrMQPiwRGdR2VFRhpse844pNh#.mkv
 #EXTINF:-1 xui-id="188929" tvg-name="El cuarto pasajero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg" group-title="PELICULAS 2024",El cuarto pasajero (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WASWdEXknKE8l7cRNfFrlu6tmvgEPQ3X8Ylc36D84Y7N#.mkv
 #EXTINF:-1 xui-id="188928" tvg-name="El exorcista: Creyente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6StdSKn9ej4rwtQjcl1XMk5E0iE.jpg" group-title="PELICULAS 2024",El exorcista: Creyente (2023)
@@ -4178,12 +3862,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMVce3W--23s1z_kTUTztpm4eppa
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHjAxQOO9rKZPKPA2PiBqYyzWl_dj5BNwW8Gd3CrwMQ8#.mkv
 #EXTINF:-1 xui-id="178475" tvg-name="David y los Elfos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNjQUytRwW9p2yfUdlGX6DoL3Gb.jpg" group-title="NETFLIX",David y los Elfos (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO3zzFWPT9cQDF4o6-ZwdFIc6ssGhvPFLdp9YdjF3Sdc#.mkv
-#EXTINF:-1 xui-id="178449" tvg-name="Confesiones de una chica invisible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaDCR6bgZceYNcFWF7KHPo3FVXQ.jpg" group-title="NETFLIX",Confesiones de una chica invisible (2021)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD00tb9hzNHgnvfszO1odTIIgxpYSPPX6bM8UZgwu-WB#.mkv
-#EXTINF:-1 xui-id="178447" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" group-title="DISNEY+",Coco (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD00tb9hzNHgnvfszO1odTIJkLDHhNMD4BqlSKwmoN9B#.mkv
-#EXTINF:-1 xui-id="178444" tvg-name="Cincuenta sombras más oscuras (2017)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9WNIOCzcTLq6vx4-SzGfl3xUbw-17qT4E-DP5t5CYzA.jpg" group-title="NETFLIX",Cincuenta sombras más oscuras (2017)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD00tb9hzNHgnvfszO1odTLbQxT-rWMkLjKCl5AiGt1r#.mkv
 #EXTINF:-1 xui-id="178438" tvg-name="Chicas perdidas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phnq8GaG1rjivBpPQuoAIARROC.jpg" group-title="NETFLIX",Chicas perdidas (2020)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFGg-iI8N65Wzv3ZjbeBV-zrbxZHybZn8XzMP-XBJqct#.mkv
 #EXTINF:-1 xui-id="178421" tvg-name="Carnaval (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="NETFLIX",Carnaval (2021)
@@ -4208,14 +3886,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO2cNn4rrWoigMR5-5HCNQU76shU
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLUkoMxsrMDvl5IFDgewYyLHi3mFf3CYGONNcgd3PmCJ#.mkv
 #EXTINF:-1 xui-id="177524" tvg-name="Minority Report (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5qipy536mgsejg6AWPP9lmkGkG.jpg" group-title="APPLETV+",Minority Report (2002)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLvIWnSsCwnPHrg5M51yJ1cDafqEvOdbsWw52LF6rkKY#.mkv
-#EXTINF:-1 xui-id="177315" tvg-name="Wonka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFyQa5WQqldIL44HBLaCmn5eERD.jpg" group-title="PELICULAS 2024",Wonka (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDvVxeUNUoquTLFfNuIKzgPFxlzVxACQjLNa7gBlo5f7#.mkv
-#EXTINF:-1 xui-id="177314" tvg-name="Pálido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weurvfmsfMIIQUegn6J4TJPFlRo.jpg" group-title="PELICULAS 2024",Pálido (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDvVxeUNUoquTLFfNuIKzgNEKrVCtWkwbvUC0C4jR2da#.mkv
-#EXTINF:-1 xui-id="177313" tvg-name="Orión y la oscuridad (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg" group-title="PELICULAS 2024",Orión y la oscuridad (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDvVxeUNUoquTLFfNuIKzgNobixh-h5_lUvn8ZxFJ-JK#.mkv
-#EXTINF:-1 xui-id="177312" tvg-name="Mátame si te atreves, cariño (2024)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTKBuMucCQUY7D3VpOj2W5y2b7UxZbxct1d9KGcZ8p8g.jpg" group-title="PELICULAS 2024",Mátame si te atreves, cariño (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDvVxeUNUoquTLFfNuIKzgOePh_G1RLfxAwp_sapcPIM#.mkv
 #EXTINF:-1 xui-id="177306" tvg-name="Los juegos del amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZSf89I56LeFdBg2AugV0tDk4Qu.jpg" group-title="PELICULAS 2024",Los juegos del amor (2024)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WOfTwjRMcs1L8_aHNVZl5XGk7B16KJvH30djgSp0KFaL#.mkv
 #EXTINF:-1 xui-id="177305" tvg-name="Upgrade: Ascenso (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXWcet0VjW9yFXFqwwtAzljJTTf.jpg" group-title="PELICULAS 2024",Upgrade: Ascenso (2024)
@@ -4374,8 +4044,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCJIKLtTvhcCmb7c_hPHopytCOre
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLJ03hfrhXidEXfsQ56Lws9rL0LKv6y-75-kQDWM5p1J#.mkv
 #EXTINF:-1 xui-id="113860" tvg-name="Espías con disfraz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2xcicPNXzNex47EYOfw45Dl1o0.jpg" group-title="DISNEY+",Espías con disfraz (2019)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLJ03hfrhXidEXfsQ56Lws--K2Rupk3KTfK65FPm4TMJ#.mkv
-#EXTINF:-1 xui-id="113834" tvg-name="Las locuras Del Emperador (2000)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCsAmWs0Ssfqu8_REFa9mRayzYnQKzcDPf5ENH5JLUsg.jpg" group-title="DISNEY+",Las locuras Del Emperador (2000)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WD6qZKGnF0R7Vz4TELfX32G3mIwfBaQ8x4waU2Ovfgtg#.mkv
 #EXTINF:-1 xui-id="113731" tvg-name="Los Increibles 2 (2018)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJ9QlAEtCSRKltBerdLmU6MwAE7o_cfP7MK25btnVdU0.jpg" group-title="DISNEY+",Los Increibles 2 (2018)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLTpvG7ior3US3MVep1DFwv2s-N3Oc1iPvhR6CrUM9q2#.mkv
 #EXTINF:-1 xui-id="112414" tvg-name="Hogar no tan dulce hogar (2015)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL40owWkVYSscU4XlSSMKCEIpAQ6yJmVgU6_-P3IH3aNs.jpg" group-title="HBO MAX",Hogar no tan dulce hogar (2015)
@@ -4390,8 +4058,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIlR6hHFyDLj2ivQwD2bM698ETgz
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIlR6hHFyDLj2ivQwD2bM68QuPNFexOLIx7BGIIPKLc8#.mkv
 #EXTINF:-1 xui-id="111578" tvg-name="Sin remordimientos (2021)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRpteWgjhThvt-uh_4DQcmkHFqI7Jp-6u7OKrJugslDQ.jpg" group-title="PELICULAS 2022",Sin remordimientos (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBQ3YE87IlL21WfS7voblUHanIaHZ0RHJ56w_5R8dxVf#.mkv
-#EXTINF:-1 xui-id="111221" tvg-name="Pacto de graduación (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/748fvxCzIKHKZI2c98DdWPAeNkR.jpg" group-title="DISNEY+",Pacto de graduación (2023)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WLA0gT0B2tQlrfve-qc8JKARVgNjIRX6ynU61dnf8ueq#.mkv
 #EXTINF:-1 xui-id="111219" tvg-name="Operación Fortune: El gran engaño (2023)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLswP0Ri1HKhjTnviDnQssMYJ6wgO82HkEmC_4kCU0ZxA.jpg" group-title="AMAZON",Operación Fortune: El gran engaño (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WABkBUEmjTVyFimG4XlNXiQy90zg6MeHAM4sEYRlzmxP#.mkv
 #EXTINF:-1 xui-id="111215" tvg-name="Momias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" group-title="HBO MAX",Momias (2023)
@@ -4476,8 +4142,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO5sKFWuE2zaFpgktiftYGuNqTq9
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WM0C9oc0bymB66yhh5UF_FccuhcwkYLacolntYAfIq5E#.mkv
 #EXTINF:-1 xui-id="93716" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="HBO MAX",Mortal Kombat (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAOKS9P3lCPABq5cFhFcDAu1xo8qd4WUyyyGqWyffwGS#.mkv
-#EXTINF:-1 xui-id="93599" tvg-name="Iron Man 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="DISNEY+",Iron Man 3 (2013)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDR6FjEPn7d3LEHoOMdMl-K1uuzZuoJLOHkuKVTwnjYQ#.mkv
 #EXTINF:-1 xui-id="93571" tvg-name="Hitman: Agent 47 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg" group-title="DISNEY+",Hitman: Agent 47 (2015)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAe9Z8JM3VPY5jwqnBsnLM4X4yUb-8BIhSsiU4JFNJ4I#.mkv
 #EXTINF:-1 xui-id="93497" tvg-name="Encanto (2021) 1" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRdOkM8hTcGXQ6ZSy-_DWDeVHWVlyURGNIM2KxnxvDP4.jpg" group-title="DISNEY+",Encanto (2021) 1
@@ -4496,8 +4160,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAPng-5b5D7z-tovkQlBJfhgsoap
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHf6WyMhaIGPUImX6AUkAmrA9DBztDabMHe1xAfo1ZbP#.mkv
 #EXTINF:-1 xui-id="92225" tvg-name="Pixels (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d45faoiDeZsrdIdYpLy34vtYf3S.jpg" group-title="NETFLIX",Pixels (2015)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHCH-arP7wvYk_M7rwfj4Kl_l2UFiQKBAk5qa4LLUDN0#.mkv
-#EXTINF:-1 xui-id="90982" tvg-name="The Punisher (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg" group-title="DISNEY+",The Punisher (2004)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WDGwLrZQGGmGgx51WpqRvO4qLOyK9ZbJz4-zVZZmcy73#.mkv
 #EXTINF:-1 xui-id="90978" tvg-name="Spider-Man: Homecoming (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="DISNEY+",Spider-Man: Homecoming (2017)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBU8m9VOen2bmR1qq2idsmaFTsZhcP79Ga7Fb3WsENKq#.mkv
 #EXTINF:-1 xui-id="90970" tvg-name="Iron Man 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg" group-title="DISNEY+",Iron Man 2 (2010)
@@ -15234,10 +14896,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROqM9ID3qo1K5HkljNZJcJcVnlaE
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROqM9ID3qo1K5HkljNZJcJfqYeyU9HFN10UBbqraT2JH#.mkv
 #EXTINF:-1 xui-id="202204" tvg-name="Shameless S06E01" tvg-logo="https://image.tmdb.org/t/p/w1280/1aPVtgckjoC1NO83bCiDSYnh7iO.jpg" group-title="NETFLIX",Shameless S06E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROqM9ID3qo1K5HkljNZJcJcrJ4RmM-iJFf_xxDDiqsaQ#.mkv
-#EXTINF:-1 xui-id="202197" tvg-name="Chainsaw Man S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/78p3CwjbIbJv2MucbLWnvBtF34d.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMQxlNb3GmqVrGf3SN9pdT-3iKrHjlQn8iVf8FGTA4SI#.mkv
-#EXTINF:-1 xui-id="202196" tvg-name="Chainsaw Man S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3yToIKKsEM45uKTPlJVwqLZYMg8.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMQxlNb3GmqVrGf3SN9pdT-akeYVucCCT5OF8WSV5UKd#.mkv
 #EXTINF:-1 xui-id="202195" tvg-name="Amor eterno S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/nVydSxN4qbGcwxX3bdMAMVA4KlI.jpg" group-title="DORAMAS",Amor eterno S02E05
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMQxlNb3GmqVrGf3SN9pdT9KPVHugRoDxrsipNPzt-LT#.mkv
 #EXTINF:-1 xui-id="202194" tvg-name="Amor eterno S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/xyWxiVpRmayFPRrEiMvQRQjJXfD.jpg" group-title="DORAMAS",Amor eterno S01E11
@@ -17132,16 +16790,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pa3WfCw
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNMd1ljuK_O3QZx6qVAK1pYBoS9tdoZ1DW7xCr31b2l0#.mkv
 #EXTINF:-1 xui-id="200087" tvg-name="Do It Yourself!! S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/cFdP2fRZYRKb1WIGyef2za9Dk3z.jpg" group-title="CRUNCHYROLL",Do It Yourself!! S01E09
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9pugQnCuxcBw2KGrPZscz7t#.mkv
-#EXTINF:-1 xui-id="200083" tvg-name="Chainsaw Man S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/fvAOxW42H60ssVZlZND7WwFfqGU.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9pY_wQcneoYClW7v8sX8ABj#.mkv
-#EXTINF:-1 xui-id="200081" tvg-name="Chainsaw Man S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/x20TB0bPovb6mcOoSWO3SNL7zhj.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9qSMpW7_vjiDYSOGcTbcY9c#.mkv
-#EXTINF:-1 xui-id="200080" tvg-name="Chainsaw Man S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/vq6IPO2Nu3NqnKpWAgK4IxhJI9B.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9pO5iy2Wuhg5srDIGbQT9Kd#.mkv
-#EXTINF:-1 xui-id="200078" tvg-name="Chainsaw Man S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/1gtFS9ch884GtW543RK4Ma0xAwW.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9q88egqic9IVFnEfzMYBtFo#.mkv
-#EXTINF:-1 xui-id="200075" tvg-name="Chainsaw Man S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/wELcAvuugIKpw9J7rrBr6erpRU.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9qaPAcGJgScV9s3_72OBIT5#.mkv
 #EXTINF:-1 xui-id="200055" tvg-name="Bastard!! S01E21" tvg-logo="https://image.tmdb.org/t/p/w1280/aQDEUWQS6mARmiwZhkShEY1dyBm.jpg" group-title="CRUNCHYROLL",Bastard!! S01E21
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHXpqUc8Besslj5k2RfGl9rCUAlyS3srZU3hf0bTSgG-#.mkv
 #EXTINF:-1 xui-id="200054" tvg-name="Bastard!! S01E15" tvg-logo="https://image.tmdb.org/t/p/w1280/4LHFP57XNgXal8Vo33UsKEy6KBI.jpg" group-title="CRUNCHYROLL",Bastard!! S01E15
@@ -22754,12 +22402,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7Hm1KM2
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7G9nhPofdtXvGphfJd9jB7u#.mkv
 #EXTINF:-1 xui-id="192611" tvg-name="Classroom of the Elite S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/dfJ0Nxw3BXXMYSMZYpthmzmhJL1.jpg" group-title="CRUNCHYROLL",Classroom of the Elite S01E10
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7G2TusQIe1hYImxegGqKYmE#.mkv
-#EXTINF:-1 xui-id="192610" tvg-name="Chainsaw Man S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/kk4Cvp4rZynFjvphJDfljdJKDX9.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7HxE5a2KI6RCdIurAYMdhG1#.mkv
-#EXTINF:-1 xui-id="192606" tvg-name="Chainsaw Man S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/dDwTq0HNQGMCpEdVQQyksvJvUcP.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7FX5YywgUmQ9f_9qmRK62dK#.mkv
-#EXTINF:-1 xui-id="192604" tvg-name="Chainsaw Man S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/wIm4VMhMB6iwqWcYqaQfQPC84EL.jpg" group-title="CRUNCHYROLL",Chainsaw Man S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP5SlCjUMcIAEfnKBeujj7Ed5bHuxFomF_I3Em2L1Eqb#.mkv
 #EXTINF:-1 xui-id="191982" tvg-name="Black Lagoon S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg" group-title="CRUNCHYROLL",Black Lagoon S03E02
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRNKi7eq2jLJEnyZaAERZTHoF2NoNiZkcextJju2nuwTg#.mkv
 #EXTINF:-1 xui-id="191981" tvg-name="Black Lagoon S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg" group-title="CRUNCHYROLL",Black Lagoon S03E01
@@ -24548,118 +24190,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vD1qlB
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4s4ZwMX2sGDBwZFdIE5NN_c#.mkv
 #EXTINF:-1 xui-id="133745" tvg-name="Defender a Jacob S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVTU6s_bCVz6pPmLl71Oiciy7o8HQ8tifzuGlLPtH5mB6PP9ac59ys90Qmq7OHk9MM.jpg" group-title="APPLETV+",Defender a Jacob S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4ts3hsjZepJNd2oxduYgkou#.mkv
-#EXTINF:-1 xui-id="133818" tvg-name="Central Park S01E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWz0wRJde--p9uPeyXOKmjMAZNC33vqTCz2DmJe5jz4EeGk_wZyiEa1VZ0Pu0FT2A0.jpg" group-title="APPLETV+",Central Park S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff8bbJ0piDQ8I8ywPiO8JCna#.mkv
-#EXTINF:-1 xui-id="133817" tvg-name="Central Park S01E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWUdcD6b4XzmsuwpRke1Oi6hKujiZsRWQ_p8FBbYuh8Ti5cKo7o3OOg0US8SOItpXs.jpg" group-title="APPLETV+",Central Park S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff_pumXxvzRO-w8TC077xtkw#.mkv
-#EXTINF:-1 xui-id="133816" tvg-name="Central Park S01E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVJwvx1vo5X_2oOHSXs38vk7T5jBpKfeDp-S_FC7zUYMdj3mBnPq5_I4R6myHfXQ4M.jpg" group-title="APPLETV+",Central Park S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff9RAajGWw6KyQSpJ3lbFojt#.mkv
-#EXTINF:-1 xui-id="133815" tvg-name="Central Park S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWmpSkrTwRJZSGtLNCKk7sHDGpWZO-c4Bg61FtNkHihejIKG3IFuiGN50HieZ_wQyc.jpg" group-title="APPLETV+",Central Park S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff_RktZQ8_bVJtXpqcAl6M5Z#.mkv
-#EXTINF:-1 xui-id="133814" tvg-name="Central Park S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUFZibMiPdy0oL8LtSVQDLOxbBCKvmth8Hwm_-Glz1riG3polqO85xPDRYSopsuqPQ.jpg" group-title="APPLETV+",Central Park S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff_2iNxQ2kowQoef9PUi3gat#.mkv
-#EXTINF:-1 xui-id="133813" tvg-name="Central Park S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU78noH0PBtTfxi0BxPjrZmpcKcjvBKE-uc68Ki3pe3Bsn_cYDIffGs00GuLhlAIYE.jpg" group-title="APPLETV+",Central Park S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff_2grQ6bQawXz9bXZR7OAiH#.mkv
-#EXTINF:-1 xui-id="133812" tvg-name="Central Park S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUehF1fm6OTAhsndDhVNXzL5lkvKA807Gp0wW6Rkj_NFvQfKzqWKaggBJPrsdrpj4g.jpg" group-title="APPLETV+",Central Park S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff-ku5LbWvqHk_rcTzIyL7IP#.mkv
-#EXTINF:-1 xui-id="133811" tvg-name="Central Park S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVXqEArRZpl_iDUGGyu_Npa4GGZKFdxuLYSaINk9_K4e9ehYGmZXwuW9l5oe_LJIYU.jpg" group-title="APPLETV+",Central Park S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff_h6hdvUbdZbvKKy94AkYjB#.mkv
-#EXTINF:-1 xui-id="133810" tvg-name="Central Park S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUiCHVPiRXlJ9o5ZnuMqjmG9C6ViLn5wPbSdQNwBCG2dEgRW9ne4Qn2rf05yczl1bY.jpg" group-title="APPLETV+",Central Park S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff8m8wn7BNrGyCJUTL5WzokO#.mkv
-#EXTINF:-1 xui-id="133809" tvg-name="Central Park S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVN2_BpDFKqOTTJOdyK5tMIVArUitlXOKzkuSnty8Hz9WTRL62QkRK-MDFImjBOONE.jpg" group-title="APPLETV+",Central Park S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRATiqvxDRUXAFXsjovM3Ff8TAHHffMmPaSbpYswSmRoq#.mkv
-#EXTINF:-1 xui-id="133744" tvg-name="Interruptores S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXKD4cz_rl6pMkuCC5WzDtm9Zu_mvyFbQPwB7NvbIyXgTW9VxMdGTAbpab99ES2XwE.jpg" group-title="APPLETV+",Interruptores S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4sacrR4Frp1pWAjUIt5fEar#.mkv
-#EXTINF:-1 xui-id="133743" tvg-name="Interruptores S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU7vo5DmJkRCBzbqf6yr83mgur0HQePBkMu_rmRm5W641Uu5yvRP28imEFY2ZVK4Zk.jpg" group-title="APPLETV+",Interruptores S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4ttEjH1vHUTLxXJ13tSRX50#.mkv
-#EXTINF:-1 xui-id="133742" tvg-name="Interruptores S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUCXQMCFSaFML5nY6G044OpMOxFJ8XyZxPs7thGGLGcS349L5npHtK8wNTZ-oPVAsg.jpg" group-title="APPLETV+",Interruptores S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vArt99_5bft6Vms4SqSsMU#.mkv
-#EXTINF:-1 xui-id="133741" tvg-name="Interruptores S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWRwj1KKQQYokizRgdG_gATsSKWMbgb1aaEKXwzKwJ5WAzz_gmYJMecHMY1cmISlAM.jpg" group-title="APPLETV+",Interruptores S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tfMFvGMqhgKdZqSyAkJy_j#.mkv
-#EXTINF:-1 xui-id="133740" tvg-name="Interruptores S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWwYrYLCkW6pv77-00pTqRWy1VpMxPl4DtOC4MoGaThg4vyU9J_67SW3WMZKAVuGGc.jpg" group-title="APPLETV+",Interruptores S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4va2bOO1uZ4lB1qGNF2BYLg#.mkv
-#EXTINF:-1 xui-id="133739" tvg-name="Interruptores S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWwK5z-t3Nyp5hAJIjKKGQ0ewWzh8Le8SHrEO2K0J6HmQ.jpg" group-title="APPLETV+",Interruptores S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4shVAy0uNcwBSEfVMps_2oH#.mkv
-#EXTINF:-1 xui-id="133738" tvg-name="Interruptores S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWjYr9UYkrLQPQLrS6iqVpjbABm5CdWgXRUz3VukLkDXWCAEtvfaxViu-FKtlrr6pw.jpg" group-title="APPLETV+",Interruptores S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tXAL3LejnOgiK-QceK76JU#.mkv
-#EXTINF:-1 xui-id="133737" tvg-name="Central Park S03E13" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVj6OFPYIaCR7F5-ZwhVk-sYFzcR3KidsUhoSbR7CYPLge3-GRBgOvYZcnx1wZvkBk.jpg" group-title="APPLETV+",Central Park S03E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4ttUAcOjpQB1NAhOinSS1GJ#.mkv
-#EXTINF:-1 xui-id="133736" tvg-name="Central Park S03E12" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVQTpPjpyYPy5v4z6qYqC_nY2Ij0dNTl8O9MNdNtfB-qIB2rCq_x59RAkah-YcLI6c.jpg" group-title="APPLETV+",Central Park S03E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4u5SMnnRuXbIOo--CeEtHUG#.mkv
-#EXTINF:-1 xui-id="133735" tvg-name="Central Park S03E11" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX_gmkDGFtnDdYcwO2nCe3UCMcMuxrOxtAyDBzX-LFwqtjIH9XdjuA9vLixHZCCq1M.jpg" group-title="APPLETV+",Central Park S03E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4v6DpayEpQre1xPQtzRA_Vw#.mkv
-#EXTINF:-1 xui-id="133734" tvg-name="Central Park S03E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWTq4MyL59qobuIy4NRb2QwtU9l39qDki6Acn_NLeEi_GZcL-CMfV0bzgxrZEIHxik.jpg" group-title="APPLETV+",Central Park S03E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4sm3807jYg9PIgYgaLnfooR#.mkv
-#EXTINF:-1 xui-id="133733" tvg-name="Central Park S03E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWWs8U_eBrpIIQf4vpx9Vu4XYS2HCbOOuKIS48jXAPmWXkyOwm4GtTSIJoL8Ng-yg0.jpg" group-title="APPLETV+",Central Park S03E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4t2QcyitkekNge0uWDoG0x_#.mkv
-#EXTINF:-1 xui-id="133732" tvg-name="Central Park S03E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXZw4xuqGwi1w3XXbINvVGnXzqxtpsmHdzw-aFR8EIAiSdvTqO-wtKXqj74GsPhgdM.jpg" group-title="APPLETV+",Central Park S03E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4sp-Y1GpnsLYMOaooFPa5VV#.mkv
-#EXTINF:-1 xui-id="133731" tvg-name="Central Park S03E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUWOohMmVZ6wszgvjgM1l7XMU6h1PW6kU2R3AeRBRH7JmyUvze4xxmcO-AbkcO4zsw.jpg" group-title="APPLETV+",Central Park S03E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4t4PWp98GYx23TkMSpDgwwP#.mkv
-#EXTINF:-1 xui-id="133730" tvg-name="Central Park S03E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWEYtUR3kRnc-c24y61Z2xB-BwNQrOVqiaXtWmMX-cdDa5G1KfglFSn0mz5UgZ6Kes.jpg" group-title="APPLETV+",Central Park S03E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vruHW_06NdoA9jxMO5w8OF#.mkv
-#EXTINF:-1 xui-id="133729" tvg-name="Central Park S03E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX90EKPdmTDhh7eXZA56L6vwIwY9hxNf1W7f176_u-jsBXqZAS5MqJjpRqYRMfDQWE.jpg" group-title="APPLETV+",Central Park S03E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4uSdDvGpvdw_lnfOaSEb1xf#.mkv
-#EXTINF:-1 xui-id="133728" tvg-name="Central Park S03E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX29Gko8OPunpN1dmPsU6V3K4laAcGfsvxvbcugiSUGyWJiqSsJcJ8_PiRV1iYP00c.jpg" group-title="APPLETV+",Central Park S03E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tRnRiIuWnYknI1Zbxh4F1-#.mkv
-#EXTINF:-1 xui-id="133727" tvg-name="Central Park S03E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUzdtJ9ROnrz6lli3OMqFS1FjYyfYvAKXqcYMHGnXYBptok60o81GrE31Mxj-pK5aA.jpg" group-title="APPLETV+",Central Park S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4ur4EDXXyrWbevUwLf91qCW#.mkv
-#EXTINF:-1 xui-id="133726" tvg-name="Central Park S03E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWs7dvNeNk5lB5QrsoxrEC2Yhhklj8HRhG-_XrPnkP2oL1nGpExzjl8log6uLQxxEA.jpg" group-title="APPLETV+",Central Park S03E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4s99OSOkU4XI0xnxcgWIFvM#.mkv
-#EXTINF:-1 xui-id="133725" tvg-name="Central Park S03E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV30W26Vb0ndrl1G04uPC6DHVwPYKUELa8PBqDG3EDPh-H2Btk208ca7EoapY1i0TE.jpg" group-title="APPLETV+",Central Park S03E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vxtDKj50Yl3MoeAS2HApYp#.mkv
-#EXTINF:-1 xui-id="133724" tvg-name="Central Park S02E16" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVM5bnWyc7GPYXBAEXP-abeGGoQbP6PoqprrCM7k0v0mNap0pzHBLl52ogpTL34ano.jpg" group-title="APPLETV+",Central Park S02E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4utx1h5RyEHo71zUo8QPs4h#.mkv
-#EXTINF:-1 xui-id="133723" tvg-name="Central Park S02E15" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVzv8z5mYe0ZekmOQqMklpYcOrRXq2Ekic1XmzUHRxpHhVaLloISDQFgBwiHq8pWVQ.jpg" group-title="APPLETV+",Central Park S02E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4utsyLpzPJR93PPwlF1bnzU#.mkv
-#EXTINF:-1 xui-id="133722" tvg-name="Central Park S02E14" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXnrhH-rn88ur5S57GD5VBPJU_naXTQE9fvxBmHuD8q7qt6xT0IiYUTVugQiczq8m8.jpg" group-title="APPLETV+",Central Park S02E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vSEpR12oFA7Zevj8zVDTef#.mkv
-#EXTINF:-1 xui-id="133721" tvg-name="Central Park S02E13" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW8Olvcyig1gv5wNaLmadnvD8XCtIZRT1Wq7bLMUAjkcn_KVdEnGVn7WJzduyYdZyE.jpg" group-title="APPLETV+",Central Park S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tgV_J6AMm_CcB-4RQvadFB#.mkv
-#EXTINF:-1 xui-id="133720" tvg-name="Central Park S02E12" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWskaRMFfup7T8SgQIeWM4Y2R-UxX_46i-UeXMTGuEZKMgwPKN8Ve09KRvD-CHOqcI.jpg" group-title="APPLETV+",Central Park S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tyAM6TcNYy00Z-H4tqt1fc#.mkv
-#EXTINF:-1 xui-id="133719" tvg-name="Central Park S02E11" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU6h7cl__W7vpNIJZsGXTF1ULmWWg7Tj2uY8HUcLjYaffeicsnwWDJ_aJbiw22Cxmw.jpg" group-title="APPLETV+",Central Park S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4t2ChDMOAj6UA8vxC779GZz#.mkv
-#EXTINF:-1 xui-id="133718" tvg-name="Central Park S02E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUWgrC_gqdBLQ5A9FMBM0XTHNjmLv1nzCnR-KrxObLuRCd5y0satUH7hkdB_Pa7AmY.jpg" group-title="APPLETV+",Central Park S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tm5AXuoLsLkji7lVGh6Vdr#.mkv
-#EXTINF:-1 xui-id="133717" tvg-name="Central Park S02E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXXrKMhspbrwk_WWVQ7eXl97vx1ILP_sAokrWxBhpfGIZpccSgGwL9Ddw14aqRu1hQ.jpg" group-title="APPLETV+",Central Park S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vteWOMIC3Ok6VI4-lrdhIR#.mkv
-#EXTINF:-1 xui-id="133716" tvg-name="Central Park S02E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXumSaxIch5rzjHz6XWvIB2GftGyKvECAzch36MYDPlg38EOSQxL0bMkpTfQiH1NEE.jpg" group-title="APPLETV+",Central Park S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4uwlu1Eb7RvFGLlhz8J4lTY#.mkv
-#EXTINF:-1 xui-id="133715" tvg-name="Central Park S02E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVpUqKID0Tr1PNxX6zhIp0Bhoog1xOTVNvr1nxZ-QXX-HKALIlGLIWxajhBfm9nUBo.jpg" group-title="APPLETV+",Central Park S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4sMYYY2014002udjH1ZgfxJ#.mkv
-#EXTINF:-1 xui-id="133714" tvg-name="Central Park S02E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVnYBfla-CWDNoiodePK04Ksn2sddX00n67LirZhx_ZG5JnqfHgbxkr52Kf1K8UqK0.jpg" group-title="APPLETV+",Central Park S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vVrQaeI_u7FXzwG9LWc3KB#.mkv
-#EXTINF:-1 xui-id="133713" tvg-name="Central Park S02E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV8pFN8dUlCF_c8ephH98q_4tdVVkQhffOWsbt-nVu6-iyxJ2J-NcrDIKtWlWU2hq4.jpg" group-title="APPLETV+",Central Park S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4u1ne-4AxZoDQp8xKiNDCxN#.mkv
-#EXTINF:-1 xui-id="133712" tvg-name="Central Park S02E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV94VejHtNeKkvPJFJ5LAZiGQLghFIKQeJFUdwRkBkKtG6Kks7qcAAZaeemkfKC23Y.jpg" group-title="APPLETV+",Central Park S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4uJ6rnm0O85SytYmRXZo4Wr#.mkv
-#EXTINF:-1 xui-id="133711" tvg-name="Central Park S02E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXH_yE5uAiJs0kSN9Nn7oq83VwBaNSifVJOE5NB8u2UhRmmmR6Kj-6kuIEU_WoFLKY.jpg" group-title="APPLETV+",Central Park S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4uBaHTWydjRU7D3DQkPj1_o#.mkv
-#EXTINF:-1 xui-id="133710" tvg-name="Central Park S02E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXHaqgp6We66A-iP_lvcy8bbqtF6smqqE0fr2SRyXaXXpX68LctcmNRsgHjvYJnCQU.jpg" group-title="APPLETV+",Central Park S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vWh2wNXhXghgVTzjvQ7o3p#.mkv
-#EXTINF:-1 xui-id="133709" tvg-name="Central Park S02E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVLyG8P1QhkZg5Iew-p-U_-tFVS6BE24OBTWkVg4-xOK5li9MnwrRopm4fb2qfHnPw.jpg" group-title="APPLETV+",Central Park S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4upGEnq7aq2xMU9JoAbDDOs#.mkv
-#EXTINF:-1 xui-id="133708" tvg-name="Central Park S01E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWz0wRJde--p9uPeyXOKmjMAZNC33vqTCz2DmJe5jz4EeGk_wZyiEa1VZ0Pu0FT2A0.jpg" group-title="APPLETV+",Central Park S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4v5xkvWxO34p5kAx_lGbAV0#.mkv
-#EXTINF:-1 xui-id="133707" tvg-name="Central Park S01E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWUdcD6b4XzmsuwpRke1Oi6hKujiZsRWQ_p8FBbYuh8Ti5cKo7o3OOg0US8SOItpXs.jpg" group-title="APPLETV+",Central Park S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4uJOJ5kDWWmSuiTpkG-zjhJ#.mkv
-#EXTINF:-1 xui-id="133706" tvg-name="Central Park S01E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVJwvx1vo5X_2oOHSXs38vk7T5jBpKfeDp-S_FC7zUYMdj3mBnPq5_I4R6myHfXQ4M.jpg" group-title="APPLETV+",Central Park S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4tvHfgffUgQ8TjncnwMGwkN#.mkv
-#EXTINF:-1 xui-id="133705" tvg-name="Central Park S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWmpSkrTwRJZSGtLNCKk7sHDGpWZO-c4Bg61FtNkHihejIKG3IFuiGN50HieZ_wQyc.jpg" group-title="APPLETV+",Central Park S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4s4S1GlIqRwmhbLk2gR0zCL#.mkv
-#EXTINF:-1 xui-id="133704" tvg-name="Central Park S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUFZibMiPdy0oL8LtSVQDLOxbBCKvmth8Hwm_-Glz1riG3polqO85xPDRYSopsuqPQ.jpg" group-title="APPLETV+",Central Park S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vStfcbs6g7aw5fR62iXQpi#.mkv
-#EXTINF:-1 xui-id="133703" tvg-name="Central Park S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU78noH0PBtTfxi0BxPjrZmpcKcjvBKE-uc68Ki3pe3Bsn_cYDIffGs00GuLhlAIYE.jpg" group-title="APPLETV+",Central Park S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4s0bd-Y5YyRScqUFhZs0vDu#.mkv
-#EXTINF:-1 xui-id="133702" tvg-name="Central Park S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUehF1fm6OTAhsndDhVNXzL5lkvKA807Gp0wW6Rkj_NFvQfKzqWKaggBJPrsdrpj4g.jpg" group-title="APPLETV+",Central Park S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4vruhDjMCVhUa019mwpbjWr#.mkv
-#EXTINF:-1 xui-id="133701" tvg-name="Central Park S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVXqEArRZpl_iDUGGyu_Npa4GGZKFdxuLYSaINk9_K4e9ehYGmZXwuW9l5oe_LJIYU.jpg" group-title="APPLETV+",Central Park S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4sMxirbMueiWumuTLyQKiXe#.mkv
-#EXTINF:-1 xui-id="133700" tvg-name="Central Park S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUiCHVPiRXlJ9o5ZnuMqjmG9C6ViLn5wPbSdQNwBCG2dEgRW9ne4Qn2rf05yczl1bY.jpg" group-title="APPLETV+",Central Park S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBQ2zgLdqG6VMo5rYTefj4umhTCvwHMAmgeH1TM7FpUp#.mkv
-#EXTINF:-1 xui-id="133699" tvg-name="Central Park S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVN2_BpDFKqOTTJOdyK5tMIVArUitlXOKzkuSnty8Hz9WTRL62QkRK-MDFImjBOONE.jpg" group-title="APPLETV+",Central Park S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04uEihsmhO4Jj9LpaTfGZEIN#.mkv
 #EXTINF:-1 xui-id="133698" tvg-name="Encerrado con el diablo S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVsjFwDQxY_jcJTXsDkIwxjUHju5rn9h4a1mf4SyAa0pkbRMtCMMBkDbxbQbmfP2kk.jpg" group-title="APPLETV+",Encerrado con el diablo S01E06
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tasKe3LoyFEgOG-YBhWN74#.mkv
 #EXTINF:-1 xui-id="133697" tvg-name="Encerrado con el diablo S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXvdbBjNLMrtlMcDgamL8TGs_RkFEsAemlbJtecm4Xjw3Tkxc5nmGjs7-SefL1KRaI.jpg" group-title="APPLETV+",Encerrado con el diablo S01E05
@@ -24672,55 +24202,3 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04tUn6IM
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04sYpXL1u-d_NOFxjzIxlBQW#.mkv
 #EXTINF:-1 xui-id="133693" tvg-name="Encerrado con el diablo S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULaXQQQmaeZZOLBJSFXk_KL8A3R4errYS1Hp3LN1cBQAV0-jwbV_leI3iFzNUYeLA.jpg" group-title="APPLETV+",Encerrado con el diablo S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRApy__cVAa_WNUvYHVHY04ub6WIAAks2CX-HkA94Qvwz#.mkv
-#EXTINF:-1 xui-id="130436" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVi4cFFln5nB_jwsWFqU-QSLPX-2zmhLvXxCH_6m8uWZZP4dCzo_sawzp5YtUxP9iE.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5Tbw6p11XrkaKPi85Vy5YqD#.mkv
-#EXTINF:-1 xui-id="130435" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVflZL40JExUn8y3wEs_W4iuahO1yPFaRIVxdJeNBQeqIqYoCPAnuKOAKLVUvDRuy0.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5TomLuFMtDYB5zbw-DAvMae#.mkv
-#EXTINF:-1 xui-id="130434" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWCTm1-zYhrbXXdQYIcPFfVsDCAZRLOnWIgIRHbMGCU0ATP7cohRhd120mp4JHVFu8.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5Rkk5BgQcT_gHXdPH9tPGZS#.mkv
-#EXTINF:-1 xui-id="130433" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWj2eTfpKvFVmfUSHY_UD2u2rqszFFyfJBj61sRsATvYK8O_S_fiLzk4bFPvLKztBk.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5ScqNLq3rgB09FLg-8wnqK4#.mkv
-#EXTINF:-1 xui-id="130432" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV2gtwaIs_O0NKOGgM0ovnyHa_yMFLvMe85UeMFi3iqnCgjguaHjuIisOr7f5tOJYE.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5RCc2GRoqQfTn4yRHkbNdTq#.mkv
-#EXTINF:-1 xui-id="130431" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWShe8bICH0J0xuW5EqNS1_jdBj96-KNlg0xM341F3wvhAQIjlgLlPoT_-hgxlAfcQ.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5TWrEz0MKZ3OgzHzgGCJ0hp#.mkv
-#EXTINF:-1 xui-id="130430" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU8K0zI5v9lv3Zspg7FUiSvCYCfSFHMTAvz_mYMNW5462MHrQ4ayIEIsRak8tVQAB4.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5RJ29UmCIxSRF0yp7CgmAtx#.mkv
-#EXTINF:-1 xui-id="130429" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUqwmJ9cqiQ1v0g1_wpYz9h3uN7Ml3mw_Ai0_7BUe-rbQ2i-eHZ0ky6JoRsCkScP64.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5QG2KqTZV8d93PjUXKn-OO-#.mkv
-#EXTINF:-1 xui-id="130428" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXYbXQ_GReQgIV8MwAjnR7LY3PDLJ9PvhlOPp_zB3jUVPIiNm3r8fmHDD8ijefGgkM.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5ROexB3UHni438ogi3kZRUX#.mkv
-#EXTINF:-1 xui-id="130427" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S02E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW7MGW4Y1TkuMMjEcQOUEiydUcBKr0j_FqbY-8qndoqXnZn6N-4KrGq9Xi7Y2bWVss.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5TwTAzqD8hyQq5RNGzoj9Qb#.mkv
-#EXTINF:-1 xui-id="130426" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E10" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVLoFJ8vlHVdvpzOI4LI9g2J4NY3EzjJfFaVRHfcFuGPfvFp2mpl0qb8fpwfnCr0cs.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5SjZiGnroMRiCbAckB7uzdb#.mkv
-#EXTINF:-1 xui-id="130425" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E09" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXum0bIo-zJiW0irIQqLfpRgfQ0qnvQX61eQPevCKG7EaSeOvqZPSWECOs9xAzWt0g.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5RpTLdL0v0v__ea7doH_AgV#.mkv
-#EXTINF:-1 xui-id="130424" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E08" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW-tbPLkg5o6G22VmcHk7MhbfdTt4qd22IqjZ7gu5ERDizC4IS7WsqcFoxUS6WqtG8.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5QNmls3sNrJW-4IXada9SvW#.mkv
-#EXTINF:-1 xui-id="130423" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E07" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXHHL4_BVfeIqGOyFe0jKpYBbI_RFgyB315pW39-ZXlTy7mwzbZelXY4i1FKSreO-M.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5TwXg3fuy9c8KLmVFNppaa4#.mkv
-#EXTINF:-1 xui-id="130422" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVC7J5XMPRizkOHTDExFfSS2SD3NUW8I_W_I-XnHo8eVc0elT_MJAC2YUN57f87tNY.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5RxBfFcEgtucsh1UAtxr-RM#.mkv
-#EXTINF:-1 xui-id="130421" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXe-fpxo88uI10ikTuLK_YluNmrYpU-scGlV9Dnn_kRhjcbEe6KbdmFmCprXo7StH4.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5S0cWFUXiOoOkc7EmCUe3jB#.mkv
-#EXTINF:-1 xui-id="130420" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVXlTPXifeXkD9ZWBSUgngMiV78JH2w1KxcE9Eo-nuphg.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5QDC61Vda8eAR8XwFIQVGg4#.mkv
-#EXTINF:-1 xui-id="130419" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWLgRSiBPtnyW0v-THJpAKw5afkGtD1lbF8Rj1JhyNHhcmnk6dH1q5Z639t749tlf8.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5SS3rBK1AMcPi0dPxW-AZ91#.mkv
-#EXTINF:-1 xui-id="130418" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWiEckPYONe4KRvLDJjc4jrnkFIbc3s7gFnpOicDkkTsbQ-xJvqI3ZYSLwJvx35eLg.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5T2obAI77IDCTaUDpvpMUQY#.mkv
-#EXTINF:-1 xui-id="130417" tvg-name="Solo asesinatos en el edificio: Una pregunta clave S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUJf-o4ljL061hkP8VDUdDe2l_nD4aWKMnI2FF-omTIY5NQJcFW4pNZs2q-VqDOz80.jpg" group-title="DISNEY+",Solo asesinatos en el edificio: Una pregunta clave S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRHe2dJpixwPZKvzTKemTX5Sd4TEZ-MQI-eSvrGMJi7cK#.mkv
-#EXTINF:-1 xui-id="130206" tvg-name="Mike S01E06" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW3Farm1v3HK6wyiBPN2yVodBODD2DgXeukeo9PlYG9BAuDdVMNPl2fPFY4sFrKw8o.jpg" group-title="DISNEY+",Mike S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9kdeHdeOwG7E5IUwqNak3b#.mkv
-#EXTINF:-1 xui-id="130205" tvg-name="Mike S01E05" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW7MUpRJm15hl-lSXNZrFFWTDGFS8ntnu2ERDnFLRr9jPZwsuuCfSN7VeAg82KqTys.jpg" group-title="DISNEY+",Mike S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop_jl2LCNNyGKM4TUwWP_FJu#.mkv
-#EXTINF:-1 xui-id="130204" tvg-name="Mike S01E04" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULIqMPGtOGIhK_qtIPlCEpZsR-sxp-65HzZh9WbgjBXTlxypOmASqwyUUXX9BBUWo.jpg" group-title="DISNEY+",Mike S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-wXIfcuwVOAgl4cF5PH-I4#.mkv
-#EXTINF:-1 xui-id="130203" tvg-name="Mike S01E03" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXeHQFpPDs57tPql69POfWqRQvhiNCv6ZmV-oByhWSsau66ahY0DKNiiU9Ad1DPamY.jpg" group-title="DISNEY+",Mike S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop8Uf-9Xyu8gVfpVLgy7o33I#.mkv
-#EXTINF:-1 xui-id="130202" tvg-name="Mike S01E02" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVWUy-kfGgUUyTYcCYJyIvoiNh09rBeMg3FAt-vASoi1-lawH5NB8PzNCc4kUcdZIA.jpg" group-title="DISNEY+",Mike S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop9hU2dEn5PjJGmcYTJE4YL1#.mkv
-#EXTINF:-1 xui-id="130201" tvg-name="Mike S01E01" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWrKTXS56mcYDm2YiRvz1f7QQlcAZnaWLOykeM9TOnn0Gu4pWkKVcDpe0cNRgX6AR0.jpg" group-title="DISNEY+",Mike S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMYvLXn2nKps4m3mcbemop-9zH7KLlRHsy9rIZJGaf88#.mkv
