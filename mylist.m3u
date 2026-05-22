@@ -1,11 +1,23 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo  @ Azteca - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| AZ Mundo 
-http://matrivagoweb.xyz:8080/115375/123456/315672
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| Azteca 7 
-http://matrivagoweb.xyz:8080/115375/123456/315673
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno - MEXICO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/089/233/small_2x/mexico-3d-rounded-flag-with-transparent-background-png.png" group-title="CANALES DE OTROS PAISES",MEXICO| Azteca Uno 
-http://matrivagoweb.xyz:8080/115375/123456/315674
+#EXTINF:-1 tvg-id="AEANDHC" tvg-name="A&E OP1" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP1
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46085.ts
+#EXTINF:-1 tvg-id="AandE HD" tvg-name="A&E OP2 | AR" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP2 | AR
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46086.ts
+#EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E OP3" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP3
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46087.ts
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",A3SERIES
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46097.ts
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC | AR FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC | AR FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46089.ts
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46090.ts
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD MX (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46092.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD (DTV)" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",ATRESERIES HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46098.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46093.ts
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 VO" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 VO
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69008
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2
@@ -98,6 +110,8 @@ http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/2381.ts
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ-PUh7630VuABXV8m
 #EXTINF:-1 xui-id="119766" tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqRDk_F2A8X8XV9lMuWbrhCBnZS_D3DJGjVgUcjVk3hv
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="✮CINE PREMIUM✮",CINEMA
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46102.ts
 #EXTINF:-1 tvg-id="CiudadMagazine.ar",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
@@ -110,6 +124,18 @@ http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/426751.ts
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/417198.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ACB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6yQx-SeRO77SL9O0aeLuPJlERxrr_LGhv7RHY63-VKmoQ1akSjZwDXyV2pT-G3NruRk&usqp=CAU" group-title="DEPORTES ESPAÑA",DAZN ACB
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/717975.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS HD" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="✮CINE PREMIUM✮",DE PELICULA PLUS HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46118.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="✮CINE PREMIUM✮",DE PELICULA PLUS
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46119.ts
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA HD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="✮CINE PREMIUM✮",DE PELICULA HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46120.ts
+#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="✮CINE PREMIUM✮",DE PELICULA CLASICO
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46121.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE FHD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="✮CINE PREMIUM✮",DHE FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46122.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://i.ibb.co/m9TtGfd/dhe2.png" group-title="✮CINE PREMIUM✮",DHE
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46123.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DZN L@L!G@ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="FUTBOL ESPAÑA",DZN L@L!G@ FHD
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/584995.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DZN L.L!G 2 HD" tvg-logo="https://i.postimg.cc/5ycjJrxC/LA-liga.png" group-title="FUTBOL ESPAÑA",DZN L.L!G 2 HD
@@ -132,6 +158,8 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohGMsjjojpoUPOTXiN88gKB5hBr
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrmxI9-DIqdIXYhUqHcM-gKM9o9t2HBIfloc0majN0D5
 #EXTINF:-1 xui-id="119618" tvg-id="" tvg-name="INF | DISCOVERY KIDS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QzGcETs4KZDJZ--U8pBv9uFyT0MUzUBdge1NFCPY6u4.png" group-title="INFANTILES LATINO",INF | DISCOVERY KIDS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBozkV4ZIuOYx5LZvRZTt5ZjHxmtoXvuyVxAsGDvDnM1_
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia FHD" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="✈CULTURA✈",Discovery Familia FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/415642.ts
 #EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBshkggHemM-EidQqZ3PDbrJuT62NhCY4cvttK8bWeceO
 #EXTINF:-1 tvg-id="ECUTV" tvg-name="Ecuador TV FHD" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR",Ecuador TV FHD
@@ -148,6 +176,10 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpCDexEn83AwZyeUtVBckOICrL-FpG6KsOEe6kSjxa73
 #EXTINF:-1 xui-id="119787" tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087R4ZboSFzwJZu02FxMIK3282NhHsK8J_wWTlRm77zHUc.png" group-title="⚽ DEPORTES ECUADOR",EC | EL CANAL DEL FUTBOL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmcKK_rCCEKyZKacgQEG4uogEmxiE8XD_8X60nxhNHza
+#EXTINF:-1 tvg-id="" tvg-name="FCL• ESPN (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="CHILE",FCL• ESPN (HD) »1«
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/417183.ts
+#EXTINF:-1 tvg-id="" tvg-name="FCL• ESPN (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="CHILE",FCL• ESPN (HD) »2«
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/417182.ts
 #EXTINF:-1 xui-id="120908" tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",AR | ESPN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt-dAdjI0RxMQkO8TKo81l5ZWjQ49HQ7Ii-lBLyTJ1nF
 #EXTINF:-1 xui-id="120913" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN HD
@@ -168,6 +200,10 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8202
 #EXTINF:-1 xui-id="119405" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cWYJK3N0qkhwYj2Dc1OQ5tebYEWy3LAhqJyQiWXqWPp.png" group-title="⚽ DEPORTES MEXICO",MX | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjWc5YEY4-uiEKPQRv6gGkcbBeBlS1QYZLmJtQql7MYD
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="✮CINE PREMIUM✮",EUROPA EUROPA
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46125.ts
+#EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA HD (DTV)" tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="✮CINE PREMIUM✮",EUROPA EUROPA HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46127.ts
 #EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50174.png" group-title="TR| SPOR",EUROSPORT 1 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2043
 #EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50170.png" group-title="TR| SPOR",EUROSPORT 2 HD
@@ -194,10 +230,40 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtd9jOZhCGbQGD86GRV_zX9GaawM
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBr6U37woOCIplP4i94lXwZK3IX-RCj4GA2VxgH3HMO2w
 #EXTINF:-1 xui-id="118340" tvg-id="" tvg-name="MX | FOX SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087URvC6d5Y6KrXejqoUNDGLZZUhyJsMfqEYkG421yLSck.png" group-title="⚽ DEPORTES",MX | FOX SPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvbyZvqbahr-PJuJyAX5rnOCKvYDrdUxqllAuY2g18sM
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="✮CINE PREMIUM✮",FX HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46130.ts
+#EXTINF:-1 tvg-id="FX HD.co" tvg-name="FX | AR HD" tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="✮CINE PREMIUM✮",FX | AR HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46132.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD MX (DTV)" tvg-logo="https://i.ibb.co/grpxgB4/FX3.png" group-title="✮CINE PREMIUM✮",FX HD MX (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46133.ts
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="✮CINE PREMIUM✮",GOLDEN PLUS | AR
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46138.ts
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="✮CINE PREMIUM✮",GOLDEN EDGE | AR
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46139.ts
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="✮CINE PREMIUM✮",GOLDEN PREMIER
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46140.ts
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="✮CINE PREMIUM✮",GOLDEN PREMIER HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46141.ts
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="✮CINE PREMIUM✮",GOLDEN | AR
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46142.ts
 #EXTINF:-1 xui-id="119663" tvg-id="" tvg-name="ENT | HBO FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SDUYZ6YCd5l6W8fSG6mS5dk_AoY8rjdtzeZ2TqnTCZ2.png" group-title="PAQUETE HBO",ENT | HBO FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmHL0r0oj4YgaOZP4xkGVLxtifsHOXumxIOawcNcQJO5
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD | MX" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="✮CINE PREMIUM✮",HBO 2 HD | MX
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46148.ts
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="✮CINE PREMIUM✮",HBO 2 HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46150.ts
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="✮CINE PREMIUM✮",HBO 2 HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46151.ts
 #EXTINF:-1 xui-id="119669" tvg-id="" tvg-name="ENT | HBO FAMILY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087U_V--79qzc3A0aZH9iVURZ3z0euzLJH0J29H2LTgSD-.png" group-title="PAQUETE HBO",ENT | HBO FAMILY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBj9ySVbnYGjxSvc5ZIBhpT4CwSV5AuEPm7IuUjeQufR4
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO PLUS  HD (DTV)" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="✮CINE PREMIUM✮",HBO PLUS  HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46156.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS | MX" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="✮CINE PREMIUM✮",HBO PLUS | MX
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46157.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD (DTV)" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="✮CINE PREMIUM✮",HBO PLUS HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46158.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="✮CINE PREMIUM✮",HBO PLUS HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46159.ts
 #EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title="PAQUETE HBO",ENT | HB0 SIGNATURE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqeUUjUCFOcC1iqXYzNrXIdxtH2ISZhXXauHDGQxwehL
 #EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV
@@ -238,6 +304,10 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189152
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpFG_DzSI6aMpau6yUB7jJXzJqLzjtVYx3tC3ZHK8oUM
 #EXTINF:-1 xui-id="221103" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES 2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvJakK1mBDZ7MS4X0wqQ9Ge1kgq2Cz1cUHorBJlO7o5b
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46168.ts
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/R45HbrJ/MULPREM1.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46169.ts
 #EXTINF:-1 xui-id="119638" tvg-id="" tvg-name="USL | NBCUNIVERSO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dqZNY7c-IaVz_r3rTsZFLfH3duLDlkek5KJCjeRy8Ku.png" group-title="USA LATINO",USL | NBCUNIVERSO HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp7ara5kfAaHurUqtuzFoMUxxuCj52HUVcR8_r_O2S5u
 #EXTINF:-1 xui-id="119612" tvg-id="" tvg-name="INF | NICK HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fozJKl431piTg8H8tBf4rijIkyqUZYtSRe3c5ZWDv-k.png" group-title="INFANTILES LATINO",INF | NICK HD
@@ -246,6 +316,8 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohsBVAeUwyjKATtpg5A8aQunACn
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD",Oromar TV (720p)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46170.ts
 #EXTINF:-1 tvg-id="PlusTV.ec",Plus TV 
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="LatacungaTV.ec@SD",Latacunga TV (360p)
@@ -420,6 +492,10 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBspPUfHRTFWxOhU9JLGB_0_R4iwy
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
 #EXTINF:-1 xui-id="118335" tvg-id="" tvg-name="AR | TNT SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBou0GFADn70D27_jyhukWfVEvCZuEl7HXD_s_W7P8ni7
+#EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="TNT SPORTS PREMIUM »1«" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" group-title="CHILE",TNT SPORTS PREMIUM »1«
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/417206.ts
+#EXTINF:-1 tvg-id="2M Maroc" tvg-name="TNT SPORTS PREMIUM »2«" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" group-title="CHILE",TNT SPORTS PREMIUM »2«
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/417204.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIX | TUDN FHD" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="-- VIX --",VIX | TUDN FHD
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/443131.ts
 #EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
@@ -428,6 +504,8 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 xui-id="260548" tvg-id="" tvg-name="VE | TELEVEN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Us7bbJsx55rqaQjH5_0eZhsX8mTbUX6qzlMaTk6_Lnj.png" group-title="VENEZUELA",VE | TELEVEN HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoTYSWr4gVSD6mcBTLCu9SZJzjOoVX7Kl_IoHBtMo0hy
+#EXTINF:-1 tvg-id="" tvg-name="Tv Copan - Canal 9" tvg-logo="https://play-lh.googleusercontent.com/hMKXwIZ0TjR4YAvYJeJ1KDwsbizhvEgbIH3-8g2rqsb-XqxxgP6kfgzPP5szcCnSAxvb" group-title="HONDURAS",Tv Copan - Canal 9
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/411474.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
 #EXTINF:-1 xui-id="119697" tvg-id="" tvg-name="LA | UNIVERSAL CINEMA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dd084XUfJdaTUzje5IWDsbhnPQYH4UAuiKbWDwAJ7AEYbP8ARRyZa5hifBDlOh-xQ.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CINEMA HD
@@ -436,8 +514,8 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBtGjvnmhOnWEI3ht9YaYW6zdtIZB
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoT98aRGw11H-JigfvQs9gOiC0hvdCjSE4GFRu95eCnX
 #EXTINF:-1 xui-id="119701" tvg-id="" tvg-name="LA | UNIVERSAL COMEDIA HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Xj4U5Gobyoq-zi9Qamouvczi0D9WiQF4Hg15L4RXENNvN3Tc7gFAxVhCFIzgOzhSA.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL COMEDIA HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoUfwju-h6LMKc1kkoq4mCGfROFf5pQbsFDM3v3-jwby
-#EXTINF:-1 xui-id="119702" tvg-id="" tvg-name="LA | UNIVERSAL CRIME HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087eoini6HLrm1I3yPI7sFhh1G-uPO4IW75nG8iM1NtkE4ccO_XVvVGSkAIc8L1w4-vg.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL CRIME HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgbl-n22lwuICSRqWfbr-Hh-DEllyThIdsl8_xIsy6Tv
+#EXTINF:-1 xui-id="119702" tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="CINE PREMIUM",UNIVERSAL CRIME |MX
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/90079.ts
 #EXTINF:-1 xui-id="119705" tvg-id="" tvg-name="LA | UNIVERSAL PREMIERE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SvOftnu85shArbtLh3LAUZx-cRu1BVSATKu2xsKHusEZTUQDKzZ0QfZv6ctt_kfmw.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL PREMIERE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvv8hYnZOZqbSLjip2DVpk2RoV6MuxY9VFHKK8FYMTDL
 #EXTINF:-1 xui-id="120122" tvg-id="" tvg-name="UR | VTV+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VuBpxW6K6ptcqCE-4E-iZ7vbtWrgPKsERbaAOWdjwkz.png" group-title="⚽ DEPORTES URUGUAY",UR | VTV+ HD
@@ -6188,12 +6266,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJ_sW7jc-3-D2A3atg1npki8WlRT
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJ_sW7jc-3-D2A3atg1npkjMCZF6SpfrKpZae4esnYDO#.mkv
 #EXTINF:-1 xui-id="344563" tvg-name="Materia oscura S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0APm81KIsMI3QsPREipXtkVAcXpbEpU8PJAqeG_2H77k.jpg" group-title="APPLETV+",Materia oscura S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJ_sW7jc-3-D2A3atg1npkjiiNX73-d1fKUNl4Hs-k_k#.mkv
-#EXTINF:-1 xui-id="344562" tvg-name="Ronaldinho S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0b7cCXWXpKgTlAml6hj63W5gGSC8QTAoz1ReoX7ooo8M.jpg" group-title="NETFLIX",Ronaldinho S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJ_sW7jc-3-D2A3atg1npkgh-Y9tAqeLUugJ-fRskaZi#.mkv
-#EXTINF:-1 xui-id="344561" tvg-name="Ronaldinho S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ycqa_iTEiKWd1X8p4PBl3swMHUhrkHhrYAqc1E7y-38.jpg" group-title="NETFLIX",Ronaldinho S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJ_sW7jc-3-D2A3atg1npkggy1mEq81GUJh9tmR-Dyau#.mkv
-#EXTINF:-1 xui-id="344560" tvg-name="Ronaldinho S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nHaBjLCVTXKNwiv02brvIxWMs-Rhr3Zxz7sSkRD2ORY.jpg" group-title="NETFLIX",Ronaldinho S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJ_sW7jc-3-D2A3atg1npkiXYZJKhXUKWyN1VHFXJsAD#.mkv
 #EXTINF:-1 xui-id="344284" tvg-name="The Boys S05E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrtrgAxdda1TufDX0Ytt4PLy1GDeat6SwfauBMUyxQcxG5NCOJMeXF92WANyTkKyCtNK9ghNwYmchSLKimhjzbDY.jpg" group-title="AMAZON",The Boys S05E03
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRFHvOVhH_EPK0Jd3h9VMguOQth52du5W_Y5scQHuAEca#.mkv
 #EXTINF:-1 xui-id="342347" tvg-name="Outlander S08E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0rpBpHbbetWlNX8CXw3h1oz6sG316kvHun2Xh2LVjTMg.jpg" group-title="DISNEY+",Outlander S08E06
@@ -15136,154 +15208,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKFTFRNd1YKn1b78Fu2_B9ZJg4xZ
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKFTFRNd1YKn1b78Fu2_B9aZEQn-n_xNlqzWED2byuvI#.mkv
 #EXTINF:-1 xui-id="201955" tvg-name="Ozark S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/ijxDoFiR4Wyv2JxlKOT6Zc4YXtZ.jpg" group-title="NETFLIX",Ozark S01E06
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKFTFRNd1YKn1b78Fu2_B9aMfUh0lttHHSiy_-11lYow#.mkv
-#EXTINF:-1 xui-id="201954" tvg-name="Manifest S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/rvYpjbXnJ4fKy8zBH7EY0uHQGxM.jpg" group-title="NETFLIX",Manifest S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKFTFRNd1YKn1b78Fu2_B9ZQPthRzR-EXw_TIfurl_Ix#.mkv
-#EXTINF:-1 xui-id="201922" tvg-name="Agente Elvis S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/cgL9ALDKGWWrZIbAiGw5yHwIX93.jpg" group-title="NETFLIX",Agente Elvis S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKFTFRNd1YKn1b78Fu2_B9aEgtJi3_q5z0-l65XKObok#.mkv
-#EXTINF:-1 xui-id="201921" tvg-name="28 Días Paranormales S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/7k2YeLHxS3Y8W239JX3yCxQuIle.jpg" group-title="NETFLIX",28 Días Paranormales S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKFTFRNd1YKn1b78Fu2_B9Z-GSdbEviBaEnvexHmwb8w#.mkv
-#EXTINF:-1 xui-id="201889" tvg-name="Do It Yourself!! S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/4SY74BOyCNmwLcDKpeuviOYeuMz.jpg" group-title="CRUNCHYROLL",Do It Yourself!! S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobjZq0kgzOHk-kZkdIgLQzw7#.mkv
-#EXTINF:-1 xui-id="201887" tvg-name="Do It Yourself!! S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/hnRG9ssoj3HBMWKkPZQ5xnb1kc3.jpg" group-title="CRUNCHYROLL",Do It Yourself!! S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobga0WnsiEcLZsKagH3wagzr#.mkv
-#EXTINF:-1 xui-id="201874" tvg-name="Un amor tan hermoso S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/mJJGzyOZ5myXCuEPbyHQ3PdpUA4.jpg" group-title="DORAMAS",Un amor tan hermoso S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobgT_e0TPg_8wxWCsloaYu0b#.mkv
-#EXTINF:-1 xui-id="201873" tvg-name="Un amor tan hermoso S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/w7LQ54wsHSuliXgnRSO4ob8VxcL.jpg" group-title="DORAMAS",Un amor tan hermoso S01E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobherZAlBLi2_UBEQFnT8v0x#.mkv
-#EXTINF:-1 xui-id="201872" tvg-name="Un amor tan hermoso S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/icF5qYEmrHo6RDd2pTn92UW3tJG.jpg" group-title="DORAMAS",Un amor tan hermoso S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobjWxvZZK1lVptCscAEteJZK#.mkv
-#EXTINF:-1 xui-id="201871" tvg-name="Un amor tan hermoso S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/jB6WPlk9iRUEPmMgHurpNS8tYMU.jpg" group-title="DORAMAS",Un amor tan hermoso S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobjOEk_XyQu_iMiuNWK6dKtP#.mkv
-#EXTINF:-1 xui-id="201870" tvg-name="Un amor tan hermoso S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/wjKEV7TzJ1B2Ij0xHr4xBqI47D6.jpg" group-title="DORAMAS",Un amor tan hermoso S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobgi3MwnFG0Ku-glLHGR0b9z#.mkv
-#EXTINF:-1 xui-id="201869" tvg-name="Un amor tan hermoso S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/d5l7dF7R0yjO9VGuiofCs07Qxc8.jpg" group-title="DORAMAS",Un amor tan hermoso S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobiqCjCx1dBaGTbxLGWhp1Wf#.mkv
-#EXTINF:-1 xui-id="201868" tvg-name="Un amor tan hermoso S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/nNrzbdAZt3x8BaEGctnOrYgk5xG.jpg" group-title="DORAMAS",Un amor tan hermoso S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobiQIX_Qt4Vo7_R2GPJLHxsu#.mkv
-#EXTINF:-1 xui-id="201867" tvg-name="Un amor tan hermoso S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/j6oPUuliyeFR518VTwbAozS8tI3.jpg" group-title="DORAMAS",Un amor tan hermoso S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobiRiDNbDpWjaBZiXICmbOq-#.mkv
-#EXTINF:-1 xui-id="201821" tvg-name="Es mío S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/gjtfVbt1ftLj7LF1bhvq26eZn7F.jpg" group-title="DORAMAS",Es mío S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobj9Drs7g9X8MEPEbHfqtOId#.mkv
-#EXTINF:-1 xui-id="201820" tvg-name="Es mío S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/xeDJtmzzxoD6emBKHjdmpDSHPlS.jpg" group-title="DORAMAS",Es mío S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobjScoAmbFDsvikNu_KjExrm#.mkv
-#EXTINF:-1 xui-id="201818" tvg-name="Es mío S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/h4yydifOIvORvkSaJf13kesgjrQ.jpg" group-title="DORAMAS",Es mío S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobgA4EORPSzEkuc3XJhgbWCe#.mkv
-#EXTINF:-1 xui-id="201817" tvg-name="Es mío S01E15" tvg-logo="https://image.tmdb.org/t/p/w1280/yFIpAibwHG1sbkjYlRgwPSMSLmR.jpg" group-title="DORAMAS",Es mío S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobiqX5mdZWQBy-FYOf2iCnUB#.mkv
-#EXTINF:-1 xui-id="201816" tvg-name="Es mío S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/mSONwG5CTkH7jgGKZRdvWR9GvaL.jpg" group-title="DORAMAS",Es mío S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobhwdsTOH-85oE-kO0K7X32e#.mkv
-#EXTINF:-1 xui-id="201814" tvg-name="Está bien no estar bien S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/T6CgYHeFa8tduThvnmvEt9JrVp.jpg" group-title="DORAMAS",Está bien no estar bien S01E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobi6LJnFDxjMctveYU_9EjbS#.mkv
-#EXTINF:-1 xui-id="201813" tvg-name="Está bien no estar bien S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/8n1usOJ3PCO3IvKmAqZGdYoSxYi.jpg" group-title="DORAMAS",Está bien no estar bien S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKQDft-yppJuYgAXYxRqobiBaC2psxTepBv0XKzEHthD#.mkv
-#EXTINF:-1 xui-id="201552" tvg-name="Las Hermanas S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkHyXVkWiL3bU62xXOxJp_u#.mkv
-#EXTINF:-1 xui-id="201551" tvg-name="Las Hermanas S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkFYYNq9okOxhXs4sYbOVjF#.mkv
-#EXTINF:-1 xui-id="201550" tvg-name="Las Hermanas S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHlIRh11CLHBcysUQ2HDjuLU#.mkv
-#EXTINF:-1 xui-id="201549" tvg-name="Las Hermanas S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHljs0R1v7trUk9uztuEOq-3#.mkv
-#EXTINF:-1 xui-id="201548" tvg-name="Las Hermanas S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmB27zuv-zsiJxbQzNfZCkk#.mkv
-#EXTINF:-1 xui-id="201547" tvg-name="Las Hermanas S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkjWzHLHQfQiZ0BbT3mADlt#.mkv
-#EXTINF:-1 xui-id="201546" tvg-name="Las Hermanas S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmSEvhVvWl3gxA3RYTrF3XZ#.mkv
-#EXTINF:-1 xui-id="201545" tvg-name="Las Hermanas S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkAIVnU6mbR-CP7e45_1zfV#.mkv
-#EXTINF:-1 xui-id="201544" tvg-name="Las Hermanas S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHldtuc0sJkvsWs4Gv7aorYT#.mkv
-#EXTINF:-1 xui-id="201543" tvg-name="Las Hermanas S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkcolcILLafYrbPcxZHwuvn#.mkv
-#EXTINF:-1 xui-id="201542" tvg-name="Las Hermanas S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnJ45pNkHkd1fqGcFc_y8wt#.mkv
-#EXTINF:-1 xui-id="201541" tvg-name="Las Hermanas S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/qF4dUKibYyrNIZtngg1l5jdlr34.jpg" group-title="DORAMAS",Las Hermanas S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHk4TlpVV2Fb4YFDIm2-oVGE#.mkv
-#EXTINF:-1 xui-id="201540" tvg-name="Está bien no estar bien S01E15" tvg-logo="https://image.tmdb.org/t/p/w1280/16ZpxNwsir3IDBdWpCEcqFxeCVt.jpg" group-title="DORAMAS",Está bien no estar bien S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmcx7JmhHoO2t3WwMYP6Yzt#.mkv
-#EXTINF:-1 xui-id="201539" tvg-name="Está bien no estar bien S01E16" tvg-logo="https://image.tmdb.org/t/p/w1280/3u9LkeG5XW2kJUl8NLxQmdji9xU.jpg" group-title="DORAMAS",Está bien no estar bien S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnqjIA5g5CriN8okr14cHSo#.mkv
-#EXTINF:-1 xui-id="201538" tvg-name="Está bien no estar bien S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/7q9Y0cOPeDdN7BKdeSBvferE1OT.jpg" group-title="DORAMAS",Está bien no estar bien S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkr1ZSpYj447XMTUzEg3jNj#.mkv
-#EXTINF:-1 xui-id="201537" tvg-name="Está bien no estar bien S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/fa91J0GwHnpugld2euhLls4Al35.jpg" group-title="DORAMAS",Está bien no estar bien S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmL1rnBkH7Lmi0ofJw19wzz#.mkv
-#EXTINF:-1 xui-id="201536" tvg-name="Está bien no estar bien S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/6vDDppDq9STqqDRxaO4JKgSQLem.jpg" group-title="DORAMAS",Está bien no estar bien S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHllWoiwrfzYif1wfiusbefz#.mkv
-#EXTINF:-1 xui-id="201535" tvg-name="Es mío S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/aIdCrIlrjIUSIcyJOR9AvDqgxPZ.jpg" group-title="DORAMAS",Es mío S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnag4e0xtaUm5ft43MHB32I#.mkv
-#EXTINF:-1 xui-id="201534" tvg-name="Es mío S01E16" tvg-logo="https://image.tmdb.org/t/p/w1280/3MuvfftVS01gGIEDMpKm6AuOMKS.jpg" group-title="DORAMAS",Es mío S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHm7Otg54P6vjcvO6ALLZVIy#.mkv
-#EXTINF:-1 xui-id="201533" tvg-name="Está bien no estar bien S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/dxRYsYEcr3TUvVlt0fsOJy1Z9Sx.jpg" group-title="DORAMAS",Está bien no estar bien S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHklnuUb5Y1m4DB26ss6zatC#.mkv
-#EXTINF:-1 xui-id="201532" tvg-name="Está bien no estar bien S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/nX05NUUv0kp2VmO1dCUKh9PH8WH.jpg" group-title="DORAMAS",Está bien no estar bien S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmDJMB0wfoDg8rfg7utOIml#.mkv
-#EXTINF:-1 xui-id="201531" tvg-name="El amor es como el chachachá S01E15" tvg-logo="https://image.tmdb.org/t/p/w1280/kQWy9mBcvubw0JWpD7BAAV4Cb6X.jpg" group-title="DORAMAS",El amor es como el chachachá S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHl5gjy6ufQ9D-1qaDmRWAyK#.mkv
-#EXTINF:-1 xui-id="201530" tvg-name="El amor es como el chachachá S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/bGcawlFdmRUFUQab0RdnI5aN0kB.jpg" group-title="DORAMAS",El amor es como el chachachá S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHn-vp_xLKBuFE-HSvmJyKRg#.mkv
-#EXTINF:-1 xui-id="201529" tvg-name="El amor es como el chachachá S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/1aWY6Wr59z4llVbuCcQqGhRcoj0.jpg" group-title="DORAMAS",El amor es como el chachachá S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmGtrzngQiUjq95LpTHn8SF#.mkv
-#EXTINF:-1 xui-id="201528" tvg-name="El amor es como el chachachá S01E16" tvg-logo="https://image.tmdb.org/t/p/w1280/we4XCoVs1exfnyUswkLQ0CMMOvj.jpg" group-title="DORAMAS",El amor es como el chachachá S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkdHM87XR4esadUSzxVjXRl#.mkv
-#EXTINF:-1 xui-id="201527" tvg-name="El amor es como el chachachá S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/iQTUvhMosMpCSrwDMoqz9nQxctl.jpg" group-title="DORAMAS",El amor es como el chachachá S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnC8FqZoE0Q2iAJa9tAWsCD#.mkv
-#EXTINF:-1 xui-id="201526" tvg-name="El amor es como el chachachá S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/9US6dRZjhsNqS2n8uu2uH9DuQFO.jpg" group-title="DORAMAS",El amor es como el chachachá S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHni19WAAUTtp64kdgVq-KP2#.mkv
-#EXTINF:-1 xui-id="201525" tvg-name="El amor es como el chachachá S01E14" tvg-logo="https://image.tmdb.org/t/p/w1280/uM4dtbsnteA40w3saOYQHZDg8bC.jpg" group-title="DORAMAS",El amor es como el chachachá S01E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkyzPBfFy4uQrdYLVzZAb2X#.mkv
-#EXTINF:-1 xui-id="201524" tvg-name="El amor es como el chachachá S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/btvuH9SsoTQbKddlv5JvkFmyHhO.jpg" group-title="DORAMAS",El amor es como el chachachá S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHm1diSQg9SgFPhMLi_rdxAE#.mkv
-#EXTINF:-1 xui-id="201523" tvg-name="El amor es como el chachachá S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/bfgYZbOKx2B9kv4CGK5PFRM7bDX.jpg" group-title="DORAMAS",El amor es como el chachachá S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkTK9O1HxON-un-ATorruf4#.mkv
-#EXTINF:-1 xui-id="201522" tvg-name="El amor es como el chachachá S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/h1hZlecrXuS8ZpoTyiRg59ozdca.jpg" group-title="DORAMAS",El amor es como el chachachá S01E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHk0Ckwj_LA-u8wSXlLcyOx9#.mkv
-#EXTINF:-1 xui-id="201521" tvg-name="Club de mamás S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/v39EJ9JNMIwLoiaSM8wbZlAYqKo.jpg" group-title="DORAMAS",Club de mamás S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHl1mmoKWF6ATGbX5Re3QzRY#.mkv
-#EXTINF:-1 xui-id="201520" tvg-name="Club de mamás S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/oMvQKCgTnX9xfUjtNoWsSRmqDkd.jpg" group-title="DORAMAS",Club de mamás S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkIOkye5gPlAhlHRqQ2AtVR#.mkv
-#EXTINF:-1 xui-id="201519" tvg-name="Club de mamás S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/6rcpWcFYGcemLY8gIzoVuUE2I6w.jpg" group-title="DORAMAS",Club de mamás S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHkxkJYOgEoPICw_hNCFX_pC#.mkv
-#EXTINF:-1 xui-id="201518" tvg-name="Club de mamás S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/oedCiMaGhkBuaKhR3FlRnz36Xc1.jpg" group-title="DORAMAS",Club de mamás S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmQU_UBt_vCo8Mo5wIJwpaF#.mkv
-#EXTINF:-1 xui-id="201517" tvg-name="Club de mamás S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/qRj9ZGovs7wdOVQpuvh9To6bIh.jpg" group-title="DORAMAS",Club de mamás S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnJW69n_UK-KwM5gcXO6_nl#.mkv
-#EXTINF:-1 xui-id="201516" tvg-name="Club de mamás S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/x7GufI9HbIB5i0RQurlsjLnR2ln.jpg" group-title="DORAMAS",Club de mamás S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHk3bkP6WqtVVfkRkSRvdSzN#.mkv
-#EXTINF:-1 xui-id="201515" tvg-name="Club de mamás S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/crk6Xu1JOXsXgnbosfzVSVp8FOS.jpg" group-title="DORAMAS",Club de mamás S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHmimd4uCPh9OF3L-jr819xd#.mkv
-#EXTINF:-1 xui-id="201514" tvg-name="Club de mamás S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/z94BoANxiObibjF1ISY9mHpPzzz.jpg" group-title="DORAMAS",Club de mamás S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnhigVnEy_bHseng6F1OT_U#.mkv
-#EXTINF:-1 xui-id="201500" tvg-name="El bebé jefazo: Vuelta a la cuna S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/s6ikuqIY7UzL5L5xzO1Ep1fdKgo.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRJra6l4owXukOQ1ex76HwHnj7K1b_suF9C46Pxki4P96#.mkv
-#EXTINF:-1 xui-id="201499" tvg-name="El bebé jefazo: Vuelta a la cuna S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/c3UxWILdZs6Ghp6oGPneCbVI4rM.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU0yO4Briz383JCOuCVm-1WG#.mkv
-#EXTINF:-1 xui-id="201498" tvg-name="El bebé jefazo: Vuelta a la cuna S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/kHauapIvXstfvXVay6CXFGFSLxu.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU2hfUnoGOSF4O7dKoV4h40B#.mkv
-#EXTINF:-1 xui-id="201497" tvg-name="El bebé jefazo: Vuelta a la cuna S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/7mGxsNjd02OXf6hCbPe5R1M53wf.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU2wo1gyTe8eYqJl2y3haxMa#.mkv
-#EXTINF:-1 xui-id="201496" tvg-name="El bebé jefazo: Vuelta a la cuna S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/qwDdQJtVfyWtEevK4LSUQJ9UcpH.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU0WGJHS9H2bdgy15vnjUjTr#.mkv
-#EXTINF:-1 xui-id="201495" tvg-name="El bebé jefazo: Vuelta a la cuna S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3gR5oatnOX6AOLPYt1GBhq9w52u.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU1q8_-qPVa0HT4I3GeVbWwV#.mkv
-#EXTINF:-1 xui-id="201494" tvg-name="El bebé jefazo: Vuelta a la cuna S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/kLpCnBM5ivn1FwDJ2i8hCHp1WpZ.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU2aEbBAxctbQ31urqyFQk00#.mkv
-#EXTINF:-1 xui-id="201493" tvg-name="El bebé jefazo: Vuelta a la cuna S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/qbCtxBXSQdcoYi1In5FmBYjPlWO.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU1OkSB2kCRKMgvGvrPvX7-F#.mkv
-#EXTINF:-1 xui-id="201492" tvg-name="El bebé jefazo: Vuelta a la cuna S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/pp9HFLZXmud5IgvGYHcfEjWIB5P.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU0M4rIkqF9D_yOFBzeOxN_Z#.mkv
-#EXTINF:-1 xui-id="201491" tvg-name="El bebé jefazo: Vuelta a la cuna S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/4Oyne8oGuktbcWEyNIufO6gSLWm.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU1BN1aRbxA3__9rb1kLJgDC#.mkv
-#EXTINF:-1 xui-id="201490" tvg-name="El bebé jefazo: Vuelta a la cuna S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/qwDdQJtVfyWtEevK4LSUQJ9UcpH.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU0nusqC7Miujc6w2edOSKmX#.mkv
-#EXTINF:-1 xui-id="201489" tvg-name="El bebé jefazo: Vuelta a la cuna S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/9C5BArzKfOs0QhErsOAyPKfvwH5.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU2BLx_Erk-IeWQvdhFkeRSm#.mkv
-#EXTINF:-1 xui-id="201488" tvg-name="El bebé jefazo: Vuelta a la cuna S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/lfmiiGtPrgiQk8UmNWqHKuoWN1O.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU01Xpi-uswGlWNU5VI-3xZQ#.mkv
-#EXTINF:-1 xui-id="201487" tvg-name="El bebé jefazo: Vuelta a la cuna S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/kfv5sZHkXognL77HQRChOiR9GRB.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU3j6_8n656X35kkgtMb83w3#.mkv
-#EXTINF:-1 xui-id="201486" tvg-name="El bebé jefazo: Vuelta a la cuna S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/9INKweG8xSvcnqy7Sr76Pix2wgo.jpg" group-title="NETFLIX",El bebé jefazo: Vuelta a la cuna S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU2TetJGenuZAKRAB4L78DIf#.mkv
 #EXTINF:-1 xui-id="201485" tvg-name="Shameless S11E04" tvg-logo="https://image.tmdb.org/t/p/w1280/G9Mox2AzfJqGtwkTcBlOUtg8cG.jpg" group-title="NETFLIX",Shameless S11E04
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRPFD1LLjx9qNuumVkcbPcU1iHZfmlslxpynfgry67O61#.mkv
 #EXTINF:-1 xui-id="201484" tvg-name="Ozark S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/kVThjaOzAEBW8q6coO1EscPSyW1.jpg" group-title="NETFLIX",Ozark S01E08
@@ -21532,52 +21456,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhXdCLdV
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhXjY3pMLIbUo0aHoTLBJ4ol#.mkv
 #EXTINF:-1 xui-id="194945" tvg-name="El cuento de la criada S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/lR7PsOVyExs9pzCVutq1hOjvk8m.jpg" group-title="HBO MAX",El cuento de la criada S01E04
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhUKPQjLJWhFiC8g9452z8ZA#.mkv
-#EXTINF:-1 xui-id="194944" tvg-name="Kim, El Doctor Romántico S01E17" tvg-logo="https://image.tmdb.org/t/p/w1280/xIwM5mAMkWlYrAxScTyhsWLQNOc.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWXeacnouQByd0evKoTktc1#.mkv
-#EXTINF:-1 xui-id="194943" tvg-name="Kim, El Doctor Romántico S01E21" tvg-logo="https://image.tmdb.org/t/p/w1280/xIwM5mAMkWlYrAxScTyhsWLQNOc.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhX9Jsl5ft-fj_OG5d6l2lES#.mkv
-#EXTINF:-1 xui-id="194942" tvg-name="Kim, El Doctor Romántico S01E19" tvg-logo="https://image.tmdb.org/t/p/w1280/ahygPfMDswvyAwPPooTXjMXXq91.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhVtepXpF9OJiUEZLHP1x-aO#.mkv
-#EXTINF:-1 xui-id="194941" tvg-name="Kim, El Doctor Romántico S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/v4rPBtzptocvanmKmH0ukhWNMq4.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhU6ZWfO171mZ74vB0rg8sVi#.mkv
-#EXTINF:-1 xui-id="194940" tvg-name="Kim, El Doctor Romántico S01E16" tvg-logo="https://image.tmdb.org/t/p/w1280/sNwwpnfsJUl33iISucM7ekvU07l.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhW0gqD4_ljtumhGlmFedTax#.mkv
-#EXTINF:-1 xui-id="194939" tvg-name="Kim, El Doctor Romántico S01E14" tvg-logo="https://image.tmdb.org/t/p/w1280/zJ9kupEf9A6TUmMpesexlNxwky3.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWomyLV8e7CaPqVFgO2MzFx#.mkv
-#EXTINF:-1 xui-id="194938" tvg-name="Kim, El Doctor Romántico S01E15" tvg-logo="https://image.tmdb.org/t/p/w1280/yJiN1Wyz374CE2M0Z5K3ncWnRhV.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhVUy8BYh7BbmjbOr28iBkPX#.mkv
-#EXTINF:-1 xui-id="194937" tvg-name="Kim, El Doctor Romántico S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/c36QlyfgPtXsldxSMuZ4oD6tBET.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWKDg-JUCzl5bAe-COUs6AD#.mkv
-#EXTINF:-1 xui-id="194936" tvg-name="Kim, El Doctor Romántico S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/6YZj70NCEjN0UlvEYY1u5T3Ttja.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhUGfsLQdxBlRekqFaFcgM2Y#.mkv
-#EXTINF:-1 xui-id="194935" tvg-name="Kim, El Doctor Romántico S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/f2PY4VvdOg06ewFYKMds8OQO5dK.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhUVt0B4jlQqWs5QOt2pn9En#.mkv
-#EXTINF:-1 xui-id="194934" tvg-name="Kim, El Doctor Romántico S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/8gGj5MkL8GlAmguLyKYF3l1RMaZ.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWk4H7P1U8xQiPJRJac10A7#.mkv
-#EXTINF:-1 xui-id="194933" tvg-name="Doom Patrol S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/dp2RlOqVqh65RUyHVnILU71hzt.jpg" group-title="HBO MAX",Doom Patrol S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWJcGdq61W5MnTGdW472qO4#.mkv
-#EXTINF:-1 xui-id="194932" tvg-name="Doom Patrol S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/hqJEcZ9xQXViOzmExHx7E4780pE.jpg" group-title="HBO MAX",Doom Patrol S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhXHSIeyrvrS6yUkuqeBCx8c#.mkv
-#EXTINF:-1 xui-id="194931" tvg-name="Doom Patrol S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/ygTalj2HRZ5qCs6llMi8SeMJqzc.jpg" group-title="HBO MAX",Doom Patrol S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWI9xIfXuYx3tqWIBgu_sV7#.mkv
-#EXTINF:-1 xui-id="194930" tvg-name="Doom Patrol S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/pvVMyFMiH0wFf2LSMYFFRpQB2Yr.jpg" group-title="HBO MAX",Doom Patrol S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWtNDNlQvitD_D_57kXmY_k#.mkv
-#EXTINF:-1 xui-id="194929" tvg-name="Kim, El Doctor Romántico S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/ctJURN5kIh4xmMh05SDOeDtNCIx.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhUW8kcWeTuuWxGWBe5gZHhw#.mkv
-#EXTINF:-1 xui-id="194928" tvg-name="Kim, El Doctor Romántico S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/nJwfwIHlggdWFZxmc4FhhJbKYpg.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhVcZTO70vGXQPT5gjx_r9b8#.mkv
-#EXTINF:-1 xui-id="194927" tvg-name="Kim, El Doctor Romántico S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/lxeifZ7OZQLzkdFnWqGj7vNHnB6.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhXVkLSx5evpDtb5dU9ke-mG#.mkv
-#EXTINF:-1 xui-id="194926" tvg-name="Kim, El Doctor Romántico S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/1n5dOiQIRzHeiLdcep2TTfK19YQ.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhXU0xU4Um5OtDeEuh4XxGEe#.mkv
-#EXTINF:-1 xui-id="194925" tvg-name="Kim, El Doctor Romántico S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/foJF8wK5OFRdwIZUkdd29YSzkuv.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhVOvVF3kRIIH4jPrpe7-n07#.mkv
-#EXTINF:-1 xui-id="194924" tvg-name="Kim, El Doctor Romántico S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/3K1eixXj9fn7QWStZ3DwOIVlWI6.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhU7_ESY-s1tlu3SmRFd56sl#.mkv
-#EXTINF:-1 xui-id="194923" tvg-name="Kim, El Doctor Romántico S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/2bVHGFzX4xXcnehSQ9DZOZ59gpI.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhWT399ogBJWOwvqB-xL5kWQ#.mkv
-#EXTINF:-1 xui-id="194922" tvg-name="Kim, El Doctor Romántico S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/h0DcGOxiOHbMnm6xrxXahDvBZ9E.jpg" group-title="HBO MAX",Kim, El Doctor Romántico S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhXOIJVCWrHPxPKCqvP2G4og#.mkv
 #EXTINF:-1 xui-id="194817" tvg-name="Star Wars: Andor S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/7F5jhvS1XC7GgKRS9gWYMclh92H.jpg" group-title="DISNEY+",Star Wars: Andor S01E09
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABROPJwFiuEh0dyPl8aIVFeDhquLBcNbAVJZjolUdWHSTb#.mkv
 #EXTINF:-1 xui-id="194816" tvg-name="Star Wars: Andor S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/g1gRM3FIZFYttiXFyE476JzxYNU.jpg" group-title="DISNEY+",Star Wars: Andor S01E12
@@ -21602,40 +21480,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN3bA_jeRMVOcNVFUL-6J_RtalG5
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN3bA_jeRMVOcNVFUL-6J_SBEtv3Q88AfUFm24tcvzmy#.mkv
 #EXTINF:-1 xui-id="194713" tvg-name="Marvel's 616 S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/tXsP6MdfqMmAsaoNc3Isg82xigv.jpg" group-title="DISNEY+",Marvel's 616 S01E04
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRN3bA_jeRMVOcNVFUL-6J_QJQrJDj0rZWPDNCmkrcvzU#.mkv
-#EXTINF:-1 xui-id="194343" tvg-name="SPY×FAMILY S01E19" tvg-logo="https://image.tmdb.org/t/p/w1280/ecXSomcwWxWC9DQWUt09dnECV7u.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs849COylJHTuUqwsUraFeGMkn#.mkv
-#EXTINF:-1 xui-id="194337" tvg-name="SPY×FAMILY S01E22" tvg-logo="https://image.tmdb.org/t/p/w1280/60qfep8Wg7ir8Uo2eneTlXXOjXU.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E22
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84_OeqzWMxhEj-5ocQ4fETcm#.mkv
-#EXTINF:-1 xui-id="194332" tvg-name="SPY×FAMILY S01E23" tvg-logo="https://image.tmdb.org/t/p/w1280/shW5hWBz1sgrefmRBZfwqWhgbYH.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E23
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs8481M6zueMB20t_RcDCS9hQT#.mkv
-#EXTINF:-1 xui-id="194331" tvg-name="SPY×FAMILY S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/6P3Gi8Vd4hKivG6eObP9xkkmp3U.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs8492xIiHztiAiem5gsjzQkaT#.mkv
-#EXTINF:-1 xui-id="194329" tvg-name="SPY×FAMILY S01E17" tvg-logo="https://image.tmdb.org/t/p/w1280/livubK1sXeMspQvQuP6Gpaw5KFe.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84_duKXl1L6_2iFdF8k-y3Pv#.mkv
-#EXTINF:-1 xui-id="194328" tvg-name="SPY×FAMILY S01E14" tvg-logo="https://image.tmdb.org/t/p/w1280/a1x4IUgQH69P9PJ0eHgFTRHVJ9F.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84_kOaw7SxUJWVI1rL4r64k6#.mkv
-#EXTINF:-1 xui-id="194327" tvg-name="SPY×FAMILY S01E16" tvg-logo="https://image.tmdb.org/t/p/w1280/qjqZW0jMC4TTvvV8Ix1hs7AjYZf.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs848ZdZsbm_OI08TGWsUV6Wim#.mkv
-#EXTINF:-1 xui-id="194326" tvg-name="SPY×FAMILY S01E24" tvg-logo="https://image.tmdb.org/t/p/w1280/bGW5Bn1sIRttSxAHNc3ac180CCU.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E24
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs8498kqdPnblCTzpyBwZn_5IJ#.mkv
-#EXTINF:-1 xui-id="194325" tvg-name="SPY×FAMILY S01E21" tvg-logo="https://image.tmdb.org/t/p/w1280/3UFgoPLwqrzrHKEDI7gYyfu2boj.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E21
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84_9fjYkYFfomlWpupV6ryP2#.mkv
-#EXTINF:-1 xui-id="194320" tvg-name="SPY×FAMILY S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/doSXhn8nksQiEMadwjPboPpqMih.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84_OaePRxpUOxiydlVDIIxrp#.mkv
-#EXTINF:-1 xui-id="194317" tvg-name="SPY×FAMILY S01E15" tvg-logo="https://image.tmdb.org/t/p/w1280/7EO66F2z4kJ8RwxA0fTSw7iC8Ct.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs849OJhpqxingkCtykqx_H83S#.mkv
-#EXTINF:-1 xui-id="194316" tvg-name="SPY×FAMILY S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/3EwkiSokUJRkAwB3b3bFG3J8IoA.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs848mn0gUp6TW5opZ9CGj6erw#.mkv
-#EXTINF:-1 xui-id="194315" tvg-name="SPY×FAMILY S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/aVjoPi2alpgUxufxijnIyjz6rUu.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs848-69Et1zkf_3CFnY01QrJI#.mkv
-#EXTINF:-1 xui-id="194314" tvg-name="SPY×FAMILY S01E18" tvg-logo="https://image.tmdb.org/t/p/w1280/t3YFlND2D7dWGYmhExvB7GWzEv9.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84-a4uWMMD2hTAMzrG0Pae33#.mkv
-#EXTINF:-1 xui-id="194312" tvg-name="SPY×FAMILY S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fnU8bxU1WFGD8PBmpK5g9pVqvnO.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs848V4rZcnU0-OBNKp7-DxdqW#.mkv
-#EXTINF:-1 xui-id="194309" tvg-name="SPY×FAMILY S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/Bz7DUuidlzte62jEGxj77Tbo9F.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs848q1bYXYbyQwVkMOujY21XS#.mkv
-#EXTINF:-1 xui-id="194308" tvg-name="SPY×FAMILY S01E20" tvg-logo="https://image.tmdb.org/t/p/w1280/vJfXc0ZMs3oFX0Fv2CzRq9wa3vP.jpg" group-title="CRUNCHYROLL",SPY×FAMILY S01E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRL7lv1gcjlCxB5un6tKs84_F7o7aMTEChqt6V8DxB6Ee#.mkv
 #EXTINF:-1 xui-id="194262" tvg-name="Sword Gai: The Animation S02E12" tvg-logo="https://image.tmdb.org/t/p/w1280/5tDEuoZd0h0uRuip1nhtJumHi9O.jpg" group-title="CRUNCHYROLL",Sword Gai: The Animation S02E12
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRP1ixlMKoCUtVKAMfgg6gSga5udXhU-vj8ngPjNnKt_M#.mkv
 #EXTINF:-1 xui-id="194261" tvg-name="Sword Gai: The Animation S02E11" tvg-logo="https://image.tmdb.org/t/p/w1280/vQlX4Y804iGzw0CrJ8KQeAJjCXd.jpg" group-title="CRUNCHYROLL",Sword Gai: The Animation S02E11
