@@ -1,15 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="AEANDHC" tvg-name="A&E OP1" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP1
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46085.ts
-#EXTINF:-1 tvg-id="AandE HD" tvg-name="A&E OP2 | AR" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP2 | AR
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46086.ts
-#EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E OP3" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP3
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46087.ts
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",A3SERIES
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46097.ts
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC | AR FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC | AR FHD
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46089.ts
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD (DTV)
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46090.ts
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD MX (DTV)
@@ -308,18 +300,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvJakK1mBDZ7MS4X0wqQ9Ge1kgq2
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46168.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/R45HbrJ/MULPREM1.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46169.ts
-#EXTINF:-1 xui-id="119638" tvg-id="" tvg-name="USL | NBCUNIVERSO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dqZNY7c-IaVz_r3rTsZFLfH3duLDlkek5KJCjeRy8Ku.png" group-title="USA LATINO",USL | NBCUNIVERSO HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp7ara5kfAaHurUqtuzFoMUxxuCj52HUVcR8_r_O2S5u
-#EXTINF:-1 xui-id="119612" tvg-id="" tvg-name="INF | NICK HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fozJKl431piTg8H8tBf4rijIkyqUZYtSRe3c5ZWDv-k.png" group-title="INFANTILES LATINO",INF | NICK HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohsBVAeUwyjKATtpg5A8aQunACnZ_-N4hBesQXP1ejn
-#EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
-https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
-#EXTINF:-1 tvg-id="OromarTV.ec@SD",Oromar TV (720p)
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL FHD
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46170.ts
-#EXTINF:-1 tvg-id="PlusTV.ec",Plus TV 
-https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="LatacungaTV.ec@SD",Latacunga TV (360p)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 xui-id="221240" tvg-id="" tvg-name="ES | LA LIGA HYPERMOTION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cdoXBK-ND-dVBrIYITJPNqoJTWCQg1EfeT84ngxeUN2Pi9TWzyp86Do05WF6nJPYQ.png" group-title="⚽ DEPORTES ESPAÑA",ES | LA LIGA HYPERMOTION FHD
@@ -332,36 +312,16 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQ
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
 #EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 9" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 9
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
-#EXTINF:-1 xui-id="119768" tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI3Mi_NVMgwM5dO0MLXY8qImc5UY9s3gPh4HLMIUnVP
-#EXTINF:-1 xui-id="119769" tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmbgJ2P08VX4ipX7jGEaNhutzzBR-M7dnDpVicIpqEtQ
-#EXTINF:-1 xui-id="119771" tvg-id="" tvg-name="CO | RCN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqFtB8_418sHslATPDxjzjRnIgR8DtAyS4YM2hGM75r8
-#EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1662
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR| SPORTS",FR| RMC SPORT 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1661
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 1 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium1.png" group-title="DE| SPORTS",DE| RTL+ SPORT 1 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68841
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 2 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium2.png" group-title="DE| SPORTS",DE| RTL+ SPORT 2 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68840
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 3 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium3.png" group-title="DE| SPORTS",DE| RTL+ SPORT 3 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68839
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 4 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium4.png" group-title="DE| SPORTS",DE| RTL+ SPORT 4 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68838
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 5 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium5.png" group-title="DE| SPORTS",DE| RTL+ SPORT 5 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68837
-#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 6 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium6.png" group-title="DE| SPORTS",DE| RTL+ SPORT 6 HD [Live During Events Only]
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68836
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="ECUADOR",ECUADOR | RTU
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/418934.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL | AR" tvg-logo="https://i.postimg.cc/PfpLkgKr/250-(1).png" group-title="☕NOTICIAS☕",TVE INTERNACIONAL | AR
-http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/440628.ts
+#EXTINF:-1 xui-id="119638" tvg-id="" tvg-name="USL | NBCUNIVERSO HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dqZNY7c-IaVz_r3rTsZFLfH3duLDlkek5KJCjeRy8Ku.png" group-title="USA LATINO",USL | NBCUNIVERSO HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp7ara5kfAaHurUqtuzFoMUxxuCj52HUVcR8_r_O2S5u
+#EXTINF:-1 xui-id="119612" tvg-id="" tvg-name="INF | NICK HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087fozJKl431piTg8H8tBf4rijIkyqUZYtSRe3c5ZWDv-k.png" group-title="INFANTILES LATINO",INF | NICK HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBohsBVAeUwyjKATtpg5A8aQunACnZ_-N4hBesQXP1ejn
+#EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 tvg-id="OromarTV.ec@SD",Oromar TV (720p)
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46170.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportspremierleaguehd.png" group-title="DE| SPORTS",DE| SKY SPORT PREMIER LEAGUE HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69101
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT TOP EVENT HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportsmaineventhd.png" group-title="DE| SPORTS",DE| SKY SPORT TOP EVENT HD
@@ -412,56 +372,64 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/46616
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10028
 #EXTINF:-1 xui-id="120185" tvg-id="" tvg-name="ENT | STAR CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZuzR0odASxB-n9dlzLFOeORKWbJ3n1fD1HDY9lEyDX1.png" group-title="ENTRETENIMIENTO LATINO",ENT | STAR CHANNEL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpxFPegF10cu1LKWINUEZxF1aj15nyPc847XSo76hcBe
+#EXTINF:-1 xui-id="119711" tvg-id="" tvg-name="LA | STUDIO UNIVERSAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VMZPAtTANWCYhgjxAlZvpNoMHZsSGbeAUZuhkiBLIAp.png" group-title="PAQUETE UNIVERSAL+",LA | STUDIO UNIVERSAL HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrku_-xrnnbOxwlxEpUnoHKgnHOGN5JsFjmrHl6-PTEQ
 #EXTINF:-1 xui-id="120187" tvg-id="" tvg-name="ENT | SONY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="ENTRETENIMIENTO LATINO",ENT | SONY HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEOL2IdOzLqqBL30fvd10BWcnN2oBYj1ReHAIC6phXk
 #EXTINF:-1 xui-id="119684" tvg-id="" tvg-name="LA | SONY CHANNEL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpDVUZtYjPnXEOj3Sw10utBgn1qeapNzzfVCTC5IDGq7
-#EXTINF:-1 xui-id="119711" tvg-id="" tvg-name="LA | STUDIO UNIVERSAL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VMZPAtTANWCYhgjxAlZvpNoMHZsSGbeAUZuhkiBLIAp.png" group-title="PAQUETE UNIVERSAL+",LA | STUDIO UNIVERSAL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrku_-xrnnbOxwlxEpUnoHKgnHOGN5JsFjmrHl6-PTEQ
-#EXTINF:-1 xui-id="120176" tvg-id="" tvg-name="ENT | SYFY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e06MKoUT5DQ2tFDxZYD76ytTprgNOvwlQgUgCOdEgoy.png" group-title="ENTRETENIMIENTO LATINO",ENT | SYFY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqd0hexVo1-PGxA12O16FatiK1DgXztkoDiaiYDLEITf
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="✮CINE PREMIUM✮",SONY MOVIES HD | AR
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46175.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD | MX" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",SPACE HD | MX
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46178.ts
+#EXTINF:-1 tvg-id="Space.co" tvg-name="Space ᴴᴰ | MX" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="✮CINE PREMIUM✮",Space ᴴᴰ | MX
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46179.ts
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="Space FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",Space FHD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46180.ts
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.co" tvg-name="STAR CHANNEL HD (DTV)" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46186.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD | ARG" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD | ARG
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46188.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD MX (DTV)" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD MX (DTV)
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46189.ts
+#EXTINF:-1 tvg-id="StarClassics.us" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/ZmBxYZz/STARCL.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/46195.ts
+#EXTINF:-1 xui-id="119768" tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBjI3Mi_NVMgwM5dO0MLXY8qImc5UY9s3gPh4HLMIUnVP
+#EXTINF:-1 xui-id="119769" tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN SD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmbgJ2P08VX4ipX7jGEaNhutzzBR-M7dnDpVicIpqEtQ
+#EXTINF:-1 xui-id="119771" tvg-id="" tvg-name="CO | RCN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN FHD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqFtB8_418sHslATPDxjzjRnIgR8DtAyS4YM2hGM75r8
+#EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO | RCN NOVELAS HD
+http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1662
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR| SPORTS",FR| RMC SPORT 3 HD
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1661
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 1 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium1.png" group-title="DE| SPORTS",DE| RTL+ SPORT 1 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68841
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 2 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium2.png" group-title="DE| SPORTS",DE| RTL+ SPORT 2 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68840
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 3 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium3.png" group-title="DE| SPORTS",DE| RTL+ SPORT 3 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68839
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 4 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium4.png" group-title="DE| SPORTS",DE| RTL+ SPORT 4 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68838
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 5 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium5.png" group-title="DE| SPORTS",DE| RTL+ SPORT 5 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68837
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL+ SPORT 6 HD [Live During Events Only]" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtlPremium6.png" group-title="DE| SPORTS",DE| RTL+ SPORT 6 HD [Live During Events Only]
+http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/68836
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="ECUADOR",ECUADOR | RTU
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/418934.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL | AR" tvg-logo="https://i.postimg.cc/PfpLkgKr/250-(1).png" group-title="☕NOTICIAS☕",TVE INTERNACIONAL | AR
+http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/440628.ts
 #EXTINF:-1 tvg-id="" tvg-name="OPA!" tvg-logo="https://www.acontecer.co.cr/wp-content/uploads/2023/04/imagen-nacionales-38.png" group-title="COSTA RICA",OPA!
 http://avefenixtv.com:80/hsgggew4g/sdf42sf22f4/440447.ts
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/165960
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/165959
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164638
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164637
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164636
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164635
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164634
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164633
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164617
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164616
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164615
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164614
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164613
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/164612
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 HD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/174092
-#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 UHD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/66692
 #EXTINF:-1 xui-id="119796" tvg-id="" tvg-name="EC | TC TELEVISION SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ez_jucpD0R3wnKhASPLro60Xs2RgLEUy4rtius8l4pL.png" group-title="ECUADOR",EC | TC TELEVISION SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBmKe8mI-08v4D8-36_AtJp-Vk4y8ZrDHy-GtOerJ5K7i
 #EXTINF:-1 xui-id="119797" tvg-id="" tvg-name="EC | TELEAMAZONAS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087WHxDAYLr1h3Y2VxRIcPayDtY13dyRuGsObS0fec0cVi.png" group-title="ECUADOR",EC | TELEAMAZONAS FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBoZ5moSLQy9CDjdL9_K6yww8pg2WwykbcpnOSs6QNELk
-#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas Quito
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="TVColorCanal36.ec@SD",TV Color Canal 36 (720p)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 xui-id="142345" tvg-id="" tvg-name="CR | TD+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+ HD
@@ -720,70 +688,30 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCvhIaNcw-xxeP7SZQoBOQ6_BfCD
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEMlFFUSY1M1w_gQmlJEHSEBueN609v4AKRjHIusJ5jS#.mkv
 #EXTINF:-1 xui-id="315465" tvg-name="Black Phone 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GiuhFZ07uvzAQLLa7ApP-7u2eOm7capl3T-p_HztFS0.jpg" group-title="APPLETV+",Black Phone 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Oph3xLTANJMZ4Ic5OmYl1zvp#.mkv
-#EXTINF:-1 xui-id="317873" tvg-name="Roofman (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BjThW-u0pOLvjS1gwkaRK4yf6YUJLpb6rsHHUGYsJ7s.jpg" group-title="AMAZON",Roofman (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lmhpKMDDRjRU7tZYn84H11Y#.mkv
-#EXTINF:-1 xui-id="317872" tvg-name="200% Wolf (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wreZxywxfUdqYPgsm9Sst-snIZRdYsIymlmIw_HCBAQ.jpg" group-title="APPLETV+",200% Wolf (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9lngx4rk4UOhILoS0VlQ6S4O#.mkv
-#EXTINF:-1 xui-id="317870" tvg-name="¡Hola, Frida! (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cMgTayH2g3K-6b4n9PmzvXdZ7umyfnpXSBPPNd-Sofw.jpg" group-title="APPLETV+",¡Hola, Frida! (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFT2K4rSytZ8OsNF3VeB9llofN3wH9loDnEMmsC2Qk-_#.mkv
-#EXTINF:-1 xui-id="315473" tvg-name="El fiscal (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BapyfMeTR-dkIBfEAXC5IKfdXZ070awJwmwqavQd6Js.jpg" group-title="AMAZON",El fiscal (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmXNOqrJ_fZzQ0-Mb10FkL5V#.mkv
-#EXTINF:-1 xui-id="315472" tvg-name="Drácula (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sFpqZyCcvPfbNnSvHFPIXfiEEVDaHWIWvdyfQx_xb3Q.jpg" group-title="APPLETV+",Drácula (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmWrWdjTWmBqgcbUlIbccCVm#.mkv
-#EXTINF:-1 xui-id="315471" tvg-name="TRON: Ares (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0m7WbXANX7EPv5C_i99sFluokDxgmZ2vA9hNzvpvJDzU.jpg" group-title="AMAZON",TRON: Ares (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmUJCfSJv3qeow6XyiRHNM4e#.mkv
-#EXTINF:-1 xui-id="315462" tvg-name="La larga marcha (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0W4jlD-t_WWXYJCY8ZO_TkGdUDqdae9A2cvoWoYCn_fE.jpg" group-title="APPLETV+",La larga marcha (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0OpjCyi9gk8SJzPVu8BIYTURi#.mkv
-#EXTINF:-1 xui-id="315461" tvg-name="La Maquina The Smashing Machine (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sq_m33DMS8wAie2PimB21g982nmmN6cr_PiOJkjbhio.jpg" group-title="AMAZON",La Maquina The Smashing Machine (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBBIsx_yaElDaKBKa3x0Ophd1CsZHtNodMAG6iRSJQNh#.mkv
-#EXTINF:-1 xui-id="315180" tvg-name="Una noche en Zoopolis (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-00f7HkA8JBFpitqnSZTT3dv4ALRbnD3nUZ9zbGt46liY.jpg" group-title="AMAZON",Una noche en Zoopolis (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WC3sH2N5ewERSfco141YTi2dN718fXjL2aw2_BADmb8t#.mkv
-#EXTINF:-1 xui-id="313396" tvg-name="Tee Yai: Nacido para el crimen (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0hyVK47iuWaeoGl4DxJvi57iNtZpy7uk7Kq4jcyTHfNk.jpg" group-title="NETFLIX",Tee Yai: Nacido para el crimen (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHvCrsEyKGixl4S_iXYLR9ikcGvzGvUn3yg7Fdzp8Wxi#.mkv
-#EXTINF:-1 xui-id="313395" tvg-name="En sueños (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07_XWvcIhqvzx_aq5f_1Q4hN9ZFUA0JQkSESSVB832x0.jpg" group-title="NETFLIX",En sueños (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHvCrsEyKGixl4S_iXYLR9g3o6ePFHHDDu_XzItik0m7#.mkv
-#EXTINF:-1 xui-id="313394" tvg-name="Cuando el cielo se equivoca (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0v00gA1-sVOJOWZhnk2EyocNXGGc8R-YFf0jHgZUbVjg.jpg" group-title="AMAZON",Cuando el cielo se equivoca (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHvCrsEyKGixl4S_iXYLR9iq8_5bzNiHxnz9Ih4Vqc6Y#.mkv
-#EXTINF:-1 xui-id="312518" tvg-name="Una batalla tras otra (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IGIsdBnwyDrSsFLqWyEv8ZqMbVZ0Fq3x5iQD4iyysCE.jpg" group-title="HBO MAX",Una batalla tras otra (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMGQ7FLKws_ySaTst5MaNvUm#.mkv
-#EXTINF:-1 xui-id="312517" tvg-name="El descubridor de leyendas (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0OdwOo-BPWgDbvyLGlxfFxSULukybNuFHF1qaHX_Gp5A.jpg" group-title="AMAZON",El descubridor de leyendas (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMHfASmOKL2lTHRXeRzn0nFD#.mkv
-#EXTINF:-1 xui-id="312516" tvg-name="Soy Eddie (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZDLkqYBTYZTVqy4RlJpw9I9wIfuXZLHMaZ6rHCjQ2yc.jpg" group-title="NETFLIX",Soy Eddie (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMHXJW8z0g_u14nuuav3QidI#.mkv
-#EXTINF:-1 xui-id="312513" tvg-name="Juegos de niños (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0U095aTMQcPP1O4wLxmPoQjDR-lx6e6KXECtamDco41s.jpg" group-title="AMAZON",Juegos de niños (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCZ_wj6s69YVFSd0PxqqyMFfFSjgjnLwO-qt8ZVW5NZx#.mkv
-#EXTINF:-1 xui-id="309249" tvg-name="Los Rose (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Nk0CnJkdyzWeUOf1O9uBU2WRhq3n8Ap1hQxxgVXWf1s.jpg" group-title="DISNEY+",Los Rose (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFJCuj-rqW-XfZKApZyT8Cv2VBOe-o6tWVFOcYxttLzI#.mkv
-#EXTINF:-1 xui-id="309216" tvg-name="Conjuro siniestro (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0VeBAu9rW_22H3ggMxAvDzDLk2XfOjSgAhLfoiIc0SZw.jpg" group-title="APPLETV+",Conjuro siniestro (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPvKr2ix3JibffHPa9McQ2PCx0akQPQD5Qarjck3kZ86#.mkv
-#EXTINF:-1 xui-id="304783" tvg-name="Un viernes de locos (2003)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Wul4D_4ZH6PHRGtbxp5Z3ryPGjmo80ooHfVywNe8Ceo.jpg" group-title="DISNEY+",Un viernes de locos (2003)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHZ_WnXtfuOZBrsi-OrGs9MjIuWHyz-dINsmTM0zg1fS#.mkv
-#EXTINF:-1 xui-id="304781" tvg-name="La casa de muñecas de Gabby: La película (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0srmzTu3nmocZ_F94Ewgmzp1Ya0sgqzF40skY9dgtaU8.jpg" group-title="APPLETV+",La casa de muñecas de Gabby: La película (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHZ_WnXtfuOZBrsi-OrGs9M8LuDsMXVSgMDqIss9Bsyh#.mkv
-#EXTINF:-1 xui-id="304780" tvg-name="Steve (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0PTKFVJaDd7qOQ9iE_Z9nLIWQfYhc0IJ7yQxiWHofdho.jpg" group-title="NETFLIX",Steve (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHZ_WnXtfuOZBrsi-OrGs9MzzQvhGFIovRFiYI_CaeyY#.mkv
 #EXTINF:-1 xui-id="303933" tvg-name="Las guerreras k-pop (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07eWL03-MMe5888KHCFixMTeQ_i-MVLpHJjqV6Boxbac.jpg" group-title="NETFLIX",Las guerreras k-pop (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GVqkBFj8wffAOevssfHNOfn#.mkv
-#EXTINF:-1 xui-id="303932" tvg-name="Expediente Warren: El último rito (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XA7Xiiw4XgqbqD8gdkXnvATFSuIErRvPZfnvbuWziRo.jpg" group-title="APPLETV+",Expediente Warren: El último rito (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GXU3GL8fTR33WtRo_fTMZd0#.mkv
-#EXTINF:-1 xui-id="303929" tvg-name="Rockstar: DUKI desde el fin del mundo (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01VAbyaCasTxYFZeMhQGKR0V4FQ4EWpTjUq_NnFX6BJ4.jpg" group-title="NETFLIX",Rockstar: DUKI desde el fin del mundo (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WHyNlegD1jYWmlw8tMXY_daooILz5-iZ_X9BtQWPpmDg#.mkv
-#EXTINF:-1 xui-id="303289" tvg-name="Weapons (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dCt5sU2sNebfdACYJctLJyrAPB6H7Q2ZlEjYqDmtYSs.jpg" group-title="HBO MAX",Weapons (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPBSNcltfDKntcdjBWkdVEis1ra7IoOQkh077pKSvaRc#.mkv
-#EXTINF:-1 xui-id="226200" tvg-name="Los tipos malos: ¿Truco o atraco? (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o7SVKGeAUcZxr1iH7veW04fbrU3tPXXu45GgUQCWj5k.jpg" group-title="PELICULAS 2024",Los tipos malos: ¿Truco o atraco? (2024)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU-rNz1U66Om4sE1B4IGk-s-#.mkv
-#EXTINF:-1 xui-id="302879" tvg-name="Together (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0O9_qu5udPx-398e4rayy4-rgsTiRrNy2xCjCF3t9J2Y.jpg" group-title="AMAZON",Together (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEH1QWfkDWOmd2GzEiE0_4RiROaWdeFqZ2nihsd8GpXF#.mkv
 #EXTINF:-1 xui-id="302878" tvg-name="Batman Azteca: Choque de imperios (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uZ_okm7Zq8smGtNpfK-twG5JJK8dgFy701KoVEAYuo8.jpg" group-title="APPLETV+",Batman Azteca: Choque de imperios (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEH1QWfkDWOmd2GzEiE0_4TQK9hw8afGP8fH-gN2Dkw6#.mkv
-#EXTINF:-1 xui-id="302877" tvg-name="Y ella dijo quizás (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05NwaZu6eNlxDPG857C6Z66x5SgI9S-qo12g70z3qYMs.jpg" group-title="NETFLIX",Y ella dijo quizás (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEH1QWfkDWOmd2GzEiE0_4SVXkENUMukLrkthN63YFQL#.mkv
-#EXTINF:-1 xui-id="302871" tvg-name="Match: La reina de las apps de citas (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DnBhkwKEKvwyfNgFQ0jnzJvxZT_BYEopJ795IxOd1YM.jpg" group-title="DISNEY+",Match: La reina de las apps de citas (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEH1QWfkDWOmd2GzEiE0_4QyJPHS8a-SK0eWwVvOx8af#.mkv
-#EXTINF:-1 xui-id="302870" tvg-name="Contigo, todo (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05LtKiw0ZuUiyIZBJu_oljSuh7F2MHcG-mRS5m-X3zlw.jpg" group-title="APPLETV+",Contigo, todo (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WEH1QWfkDWOmd2GzEiE0_4RgatgINxQvtUFLvpq8bcs3#.mkv
-#EXTINF:-1 xui-id="302869" tvg-name="Mantis (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0G5wDGWmJGiQR9ZCRgVhS3TMevTw6cF_vNQelg3KKrYM.jpg" group-title="NETFLIX",Mantis (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCMg1sLTtwuZkMFKHZ7PMm3YoX_JFqfjCn3cQexo-NgO#.mkv
+#EXTINF:-1 xui-id="303289" tvg-name="Weapons (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dCt5sU2sNebfdACYJctLJyrAPB6H7Q2ZlEjYqDmtYSs.jpg" group-title="HBO MAX",Weapons (2025)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WPBSNcltfDKntcdjBWkdVEis1ra7IoOQkh077pKSvaRc#.mkv
+#EXTINF:-1 tvg-name="Tron (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ8eBV407GHn6q0nIvSsnt0C6vV.jpg" group-title="CINE CIENCIA FICCION",Tron (1982)
+http://avefenixtv.com:80/movie/hsgggew4g/sdf42sf22f4/508965.mkv
+#EXTINF:-1 tvg-name="TRON: Legacy - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scGdKNZYwAxqibLSe89PTev6pet.jpg" group-title="CINE AVENTURAS",TRON: Legacy - 2010
+http://avefenixtv.com:80/movie/hsgggew4g/sdf42sf22f4/432839.mkv
+#EXTINF:-1 xui-id="315471" tvg-name="TRON: Ares (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0m7WbXANX7EPv5C_i99sFluokDxgmZ2vA9hNzvpvJDzU.jpg" group-title="AMAZON",TRON: Ares (2025)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WO27t8EDv7Bvhr8xv0rYRmUJCfSJv3qeow6XyiRHNM4e#.mkv
+#EXTINF:-1 xui-id="303932" tvg-name="Expediente Warren: El último rito (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XA7Xiiw4XgqbqD8gdkXnvATFSuIErRvPZfnvbuWziRo.jpg" group-title="APPLETV+",Expediente Warren: El último rito (2025)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WGx5jc3xZNDFraoQWLKJ3GXU3GL8fTR33WtRo_fTMZd0#.mkv
+#EXTINF:-1 xui-id="111135" tvg-name="Los tipos malos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFdwJh3fbhp5aiRbQelVz1mbbwP.jpg" group-title="PELICULAS 2022",Los tipos malos (2022)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMayAc9U-ejoYqLDnQhMFWN_TguA-6DbKa9e8jUgbZQs#.mkv
+#EXTINF:-1 tvg-name="Los tipos malos: Una Navidad muy mala (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRFEchHTrreuJdAZUgmwOz22RbC.jpg" group-title="CINE 2023",Los tipos malos: Una Navidad muy mala (2023)
+http://avefenixtv.com:80/movie/hsgggew4g/sdf42sf22f4/490242.mkv
+#EXTINF:-1 tvg-name="Los tipos malos 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg" group-title="CINE 2025",Los tipos malos 2
+http://avefenixtv.com:80/movie/hsgggew4g/sdf42sf22f4/702963.mkv
+#EXTINF:-1 xui-id="226200" tvg-name="Los tipos malos: ¿Truco o atraco? (2024)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o7SVKGeAUcZxr1iH7veW04fbrU3tPXXu45GgUQCWj5k.jpg" group-title="PELICULAS 2024",Los tipos malos: ¿Truco o atraco? (2024)
+http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WA5dGzv-zFSy09whqEliAU-rNz1U66Om4sE1B4IGk-s-#.mkv
+#EXTINF:-1 tvg-name="Jurassic World Dominio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" group-title="CINE 2022",Jurassic World Dominio (2022)
+http://avefenixtv.com:80/movie/hsgggew4g/sdf42sf22f4/497159.mkv
 #EXTINF:-1 xui-id="297540" tvg-name="Jurassic World: El renacer (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_QliboaAAC06e3YZdU7Eewwva6LCkC7GgyYcsObMpUo.jpg" group-title="HBO MAX",Jurassic World: El renacer (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WC6DVXvUXLjySoLYXLD1MP5_TsWlZhN316UBu1XlQXGs#.mkv
 #EXTINF:-1 xui-id="296848" tvg-name="Y donde esta el Policia (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KKP7tPAkApbi9_qGFz3Abq_IQped3d3hXU_riiPjHiI.jpg" group-title="APPLETV+",Y donde esta el Policia (2025)
@@ -948,26 +876,8 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WIwX7NzPuXx0curJn171j9l01FgL
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFQWPiRi7kJ75_4jI41nft2CiqV5uhPaUg4Rk-VnA0_b#.mkv
 #EXTINF:-1 xui-id="284311" tvg-name="Jefes de Estado (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0B6A1jya-xETYWJJT27cv6iguApy5B5cR75jn34Lt33Q.jpg" group-title="AMAZON",Jefes de Estado (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFQWPiRi7kJ75_4jI41nft3kEwTpxZheSpmmJ3NHbWcs#.mkv
-#EXTINF:-1 xui-id="282367" tvg-name="Jurassic Park (Parque Jurásico) (1993)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wggdcgYMO6EjXdNZDs9a65JhKnS65QH-DNBVaOKgTaY.jpg" group-title="HBO MAX",Jurassic Park (Parque Jurásico) (1993)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ3T41ddBorp1qnxUQDjLLgI#.mkv
-#EXTINF:-1 xui-id="282366" tvg-name="El mundo perdido: Jurassic Park (1997)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BPCxQDh_AB6sfqhUzl6XeO_-kzGQD9Op-8NFM6jwmHA.jpg" group-title="HBO MAX",El mundo perdido: Jurassic Park (1997)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ3zlXERjXaG4c31-ch9SJxO#.mkv
-#EXTINF:-1 xui-id="282365" tvg-name="Jurassic Park III (Parque Jurásico III) (2001)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dDix1G_Z-pyyVRZMkl6suyd0xeH81ERDm00Wxr7FBjQ.jpg" group-title="HBO MAX",Jurassic Park III (Parque Jurásico III) (2001)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ2xV6U19CYiL0ZgnOTBKHpJ#.mkv
-#EXTINF:-1 xui-id="282364" tvg-name="Jurassic World (2015)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL693VBUcFipSDt3IqbeOzQLvzdHUbb43W7lXycduAhWw.jpg" group-title="HBO MAX",Jurassic World (2015)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ1al4GsS5tdOExcxDI4N392#.mkv
-#EXTINF:-1 xui-id="282363" tvg-name="Jurassic World: El reino caído (2018)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0jJWO6ZhDNgJ4D692lxRCOMn7vZeRQGNLAi3eTcd1uQI.jpg" group-title="AMAZON",Jurassic World: El reino caído (2018)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ3wNwCIkr-CqbO69M9keefA#.mkv
-#EXTINF:-1 xui-id="282362" tvg-name="Jurassic World: Dominion (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLk27E35C8l4676X36rMGFlm8Mx6RJnUPdzNK_8e4tvbc.jpg" group-title="PELICULAS 2022",Jurassic World: Dominion (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ3mFglZsU2pJCS59iYiwSRt#.mkv
-#EXTINF:-1 xui-id="282361" tvg-name="Thunderbolts* (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0pSecAxYA2NWcdl-oIewiKWLAlmWY0QLKwvlAdhRQUSU.jpg" group-title="DISNEY+",Thunderbolts* (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ36AyPQYyYdCK4IKQyTtVPq#.mkv
-#EXTINF:-1 xui-id="282360" tvg-name="Destino final: Lazos de sangre (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0y4D5Jfb66bvKJ5N_h6gYEEFsxopxvZtkG1xCC7SiGqw.jpg" group-title="APPLETV+",Destino final: Lazos de sangre (2025)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WODwj98EcQLGKZS5RXFnqQ1yD7Em56XjgO2l1L9cS2I3#.mkv
 #EXTINF:-1 xui-id="281358" tvg-name="Semidulce 2 (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AYP7AW1qcWOF9xewKMPX7aUN8FT4eJjP1aOV0q3zG3E.jpg" group-title="NETFLIX",Semidulce 2 (2025)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFEFqvpydZz4G8y0cWGZ9b7_0-N3zf7jWjsxKU7xD6vb#.mkv
-#EXTINF:-1 xui-id="281355" tvg-name="El mundo perdido: Jurassic Park (1997)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0BPCxQDh_AB6sfqhUzl6XeO_-kzGQD9Op-8NFM6jwmHA.jpg" group-title="DISNEY+",El mundo perdido: Jurassic Park (1997)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFEFqvpydZz4G8y0cWGZ9b7by8e31WrIfaXrhAp89cHo#.mkv
 #EXTINF:-1 xui-id="281258" tvg-name="Top Gun: Ídolos del aire (1986)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-06A-WINcyhh8MJaHrer6aRxypb0WkG9N2p_6yMTxBSug.jpg" group-title="DISNEY+",Top Gun: Ídolos del aire (1986)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WI6hWhWZZtI3BE2x7BrHKAfNXWH-yF6xlLxSLY3esHsH#.mkv
 #EXTINF:-1 xui-id="277381" tvg-name="Mientras Cupido no está (2025)" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AuLzvh-y4u5BLlXkcp8SoZs8Gu0MUYSZBHkoCd_7bD0.jpg" group-title="DISNEY+",Mientras Cupido no está (2025)
@@ -3450,24 +3360,7 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAiP_VGNnTePNHzYHX7G-3-2Px9A
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAiP_VGNnTePNHzYHX7G-3-u5A3OvtvPv2dfm4IezhiO#.mkv
 #EXTINF:-1 xui-id="189090" tvg-name="La escuela católica (2021)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2x3lCGJVRd1DFqvPWKncIIRftSr-xGH1OYibRish8Jw.jpg" group-title="PELICULAS 2022",La escuela católica (2021)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WAiP_VGNnTePNHzYHX7G-38h5CEi9HBCI7MGEgV6HCYx#.mkv
-#EXTINF:-1 xui-id="189089" tvg-name="La jefa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxWHaPYXauseKGNhYiWuAHtwoIt.jpg" group-title="PELICULAS 2022",La jefa (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgUoL0jzUJ8wqllwsGulbKTf#.mkv
-#EXTINF:-1 xui-id="189088" tvg-name="Jurassic World: Dominion (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUARrsnpovTCr8zEJTV3wA9y9GrmQSmP9kqrykUeSXMs.jpg" group-title="PELICULAS 2022",Jurassic World: Dominion (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgX1R6OtktvRN-3ckZ_NsLKX#.mkv
-#EXTINF:-1 xui-id="189087" tvg-name="Die Spätzünder (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhv6CkPxyJoslF96NxPqLGRP76X.jpg" group-title="PELICULAS 2022",Die Spätzünder (2010)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgWowdKSoR9_tX1Ps4ftDOaV#.mkv
-#EXTINF:-1 xui-id="189086" tvg-name="La chica de la foto (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCQfb4kAJH522XWLXvFZE4kPNkQl7jvCjhy_siUhVkS8.jpg" group-title="PELICULAS 2022",La chica de la foto (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgXDqzvstRZXaFXFoLPEnjSW#.mkv
-#EXTINF:-1 xui-id="189085" tvg-name="La última cacería (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-zZdSvvIbXM-SDOesaSufO37d_eqwX8V5DLOr-rp9dg.jpg" group-title="PELICULAS 2022",La última cacería (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgVow2G5-3di6VMpzdjxOSqL#.mkv
-#EXTINF:-1 xui-id="189084" tvg-name="Granizo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="PELICULAS 2022",Granizo (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgUK70BDRq4_gXtsQHufnwgD#.mkv
-#EXTINF:-1 xui-id="189083" tvg-name="Hola, adiós y todo lo que pasó (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNDYy0j7KpmtXcLiInOvu5i5Co08Vcj5oj18WTzF-9MQ.jpg" group-title="PELICULAS 2022",Hola, adiós y todo lo que pasó (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgXnrbZa-xFnkCqH5RafwAWX#.mkv
-#EXTINF:-1 xui-id="189082" tvg-name="Jackass Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCfviMjtmvMJUGBWK1xjUsQhn7S.jpg" group-title="PELICULAS 2022",Jackass Forever (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgV7k25wpnsNH3BMHpFUB_2c#.mkv
-#EXTINF:-1 xui-id="189080" tvg-name="Gladiadores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwyBbGEku7KzjM7DzL3AX0ZOrJl.jpg" group-title="PELICULAS 2022",Gladiadores
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WBj8_MxXbn0vZkaaTUPfjgUI8jdh8nB8JXv-rDBx74SG#.mkv
+
 #EXTINF:-1 xui-id="189079" tvg-name="Hawa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg" group-title="PELICULAS 2022",Hawa (2022)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WK6Vslwu8jRrQ8Xy_BJpCzOIXb_5sPzDImfGIS4I2xhO#.mkv
 #EXTINF:-1 xui-id="189078" tvg-name="En la mente de un gato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTwpKr2Gbv7HiSWLat4o8HmC8Fd.jpg" group-title="PELICULAS 2022",En la mente de un gato (2022)
@@ -4144,8 +4037,6 @@ http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WABkBUEmjTVyFimG4XlNXiTTp2Wz
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WCjhTZjmjMwatNwo0dzqSVdf01IPpvbLdW_7_iMuPWBd#.mkv
 #EXTINF:-1 xui-id="111143" tvg-name="10 días de un buen hombre (2023)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5iFWZdrPn4MVaKYHSIwIVJY6BZduvfsemVYA7C3r2hA.jpg" group-title="PELICULAS 2024",10 días de un buen hombre (2023)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WFsumz4bCRPQeCxkpwI5GFQtEHhiJIzvfaaGdvUGUq8V#.mkv
-#EXTINF:-1 xui-id="111135" tvg-name="Los tipos malos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFdwJh3fbhp5aiRbQelVz1mbbwP.jpg" group-title="PELICULAS 2022",Los tipos malos (2022)
-http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WMayAc9U-ejoYqLDnQhMFWN_TguA-6DbKa9e8jUgbZQs#.mkv
 #EXTINF:-1 xui-id="110891" tvg-name="Fantasía (1940)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-Z_7m8pzyb9eWe8ean8IRzld6C5wy_-ukSqP7xY_Agw.jpg" group-title="DISNEY+",Fantasía (1940)
 http://1000digital.pw:8080/play/9hlt04HAy8FWgSfPbjy1WF6DmwKcEpag2aMMYbWmDLrWnAR2ZZD0wLpt6BXGnhaO#.mkv
 #EXTINF:-1 xui-id="109855" tvg-name="La villa del amor (2022)" tvg-logo="http://supertele.xyz:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhlYuRueWIsjfpyuE0ihOPMBy0G1e3aarcCA94v8eH7g.jpg" group-title="PELICULAS 2022",La villa del amor (2022)
@@ -6684,230 +6575,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALGcoym
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALx8xGvgZq3_w4EheKfBS3T#.mkv
 #EXTINF:-1 xui-id="340251" tvg-name="Slow Horses S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0rZ2x1y9Z2Jwytk8NDt_B40ePgs_lantRAbicgFIUAVc.jpg" group-title="APPLETV+",Slow Horses S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJGFss7lgNFc-faQ-Xg4S6p#.mkv
-#EXTINF:-1 xui-id="340250" tvg-name="The Good Doctor S07E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0gczdVrqiMu7gEnDwZbMUUaLdZNWagk0SaZaB7X6pDlk.jpg" group-title="AMAZON",The Good Doctor S07E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJJu7jXzPHFQT6fNucuabz1#.mkv
-#EXTINF:-1 xui-id="340249" tvg-name="The Good Doctor S07E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0SbSkocsWGJ6aALEWNfRYajGbg9Oicw3JeNvX7cCIYbE.jpg" group-title="AMAZON",The Good Doctor S07E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALV49XrVUXLC5Ig0s73F-td#.mkv
-#EXTINF:-1 xui-id="340248" tvg-name="The Good Doctor S07E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0o6lKi-szkMCs6v1inXSSHYeLcwZB9556HmanIa0yfqc.jpg" group-title="AMAZON",The Good Doctor S07E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJ44dhfCLdnxqyoVROrdoni#.mkv
-#EXTINF:-1 xui-id="340247" tvg-name="The Good Doctor S07E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0iZZuWmZV7VhgRlBoHViGvNe7PKeEiRBoSWmjxWT3T-U.jpg" group-title="AMAZON",The Good Doctor S07E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJmVZruCX2blahaOsGM37up#.mkv
-#EXTINF:-1 xui-id="340246" tvg-name="The Good Doctor S07E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zXvcPZSEX2DdzeoIStH_Lo1quzILfkIeuAQLUPs3QZk.jpg" group-title="AMAZON",The Good Doctor S07E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKcFfrk-KYpXUgGHZ1elODA#.mkv
-#EXTINF:-1 xui-id="340245" tvg-name="The Good Doctor S07E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-06sfVbF3ZEUi6NvdVxem8C-Q7sihiLLgs8svnHuIfEGQ.jpg" group-title="AMAZON",The Good Doctor S07E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALJ48gXOVV8VjvXl0mAQBrV#.mkv
-#EXTINF:-1 xui-id="340244" tvg-name="The Good Doctor S07E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0PNeRHpfopVfCeNojaJpaJW8VNaEYoG5-jnLXnzl5Zs4.jpg" group-title="AMAZON",The Good Doctor S07E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALrv1BmeDmU_9j0btxEFVhH#.mkv
-#EXTINF:-1 xui-id="340243" tvg-name="The Good Doctor S07E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07vyd31UY90bJcjFPX4BB9FLugD8bXrRqA8hbHAda6fs.jpg" group-title="AMAZON",The Good Doctor S07E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAL5MAGAERyok64ItwmGFPI-#.mkv
-#EXTINF:-1 xui-id="340242" tvg-name="The Good Doctor S07E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AR9jTJq8wlOiSRUw9nb5oxG3Us1N7W4AKutL6GmiSvA.jpg" group-title="AMAZON",The Good Doctor S07E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJJXywfKm_9bcMM6mr2NhEO#.mkv
-#EXTINF:-1 xui-id="340241" tvg-name="The Good Doctor S07E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-019WJSr2JAn15BNzDnrbLLzhLa-v66mfRf7zSK22F4xQ.jpg" group-title="AMAZON",The Good Doctor S07E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAK-K7F1cADjbWEoFkpfH03s#.mkv
-#EXTINF:-1 xui-id="340240" tvg-name="The Good Doctor S06E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0i3ItZC1cFavL5M9Ugcy-Sdq4pYB_aYSgTidZi0VQaHQ.jpg" group-title="AMAZON",The Good Doctor S06E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKhE-Vsl0GHzn8Pva_ukNb0#.mkv
-#EXTINF:-1 xui-id="340239" tvg-name="The Good Doctor S06E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nINSiXdbHum3q3P6h3uweXmy4bgvjo4N0tIbMZqWz3s.jpg" group-title="AMAZON",The Good Doctor S06E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALyCWUw8yehLsPBIKHPa38F#.mkv
-#EXTINF:-1 xui-id="340238" tvg-name="The Good Doctor S06E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-047Rb_wkuxVSa5uX0qZGTaNm6GZ0BUL7z5sIWJ3H0Wiw.jpg" group-title="AMAZON",The Good Doctor S06E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAL8231KGDYdh6lIEps4nBb0#.mkv
-#EXTINF:-1 xui-id="340237" tvg-name="The Good Doctor S06E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IS11jcon-0_leZC4BxMQApEJ3DNK0G4HdLE-H5YN4ro.jpg" group-title="AMAZON",The Good Doctor S06E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALUrby8Jnj7gdZeylEmMVzU#.mkv
-#EXTINF:-1 xui-id="340236" tvg-name="The Good Doctor S06E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IS11jcon-0_leZC4BxMQApEJ3DNK0G4HdLE-H5YN4ro.jpg" group-title="AMAZON",The Good Doctor S06E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKq_AbYjJoR5v9GaiwYkmq9#.mkv
-#EXTINF:-1 xui-id="340235" tvg-name="The Good Doctor S06E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0X0C9am0mGVB6fCyk_L4x5J5LSQRNpy-ymcS2oqKQovU.jpg" group-title="AMAZON",The Good Doctor S06E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAIpYLAvURedkNU9Wxdvywjb#.mkv
-#EXTINF:-1 xui-id="340234" tvg-name="The Good Doctor S06E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0EsIVBVRFSOHUrgToeBpkOKYm0cgelDQcVDVuODqB2zc.jpg" group-title="AMAZON",The Good Doctor S06E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAIC5EKXfhjyOOquH7g4hY6W#.mkv
-#EXTINF:-1 xui-id="340233" tvg-name="The Good Doctor S06E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0pQVL-H9zqWKZ_cr58T-7-zo9m8R4he8gGp8niPoxZhM.jpg" group-title="AMAZON",The Good Doctor S06E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALdiRifX4M1HXIIntttmv-4#.mkv
-#EXTINF:-1 xui-id="340232" tvg-name="The Good Doctor S05E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-036uO9hp-vr68b6xXWwQtG1pwVP6thtXCcdYZ-hVmu6U.jpg" group-title="AMAZON",The Good Doctor S05E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAIrkUF6ZuNH-FBqp2LdajAN#.mkv
-#EXTINF:-1 xui-id="340231" tvg-name="The Good Doctor S05E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0y4xTmyuDmLPl4CjMBmbVsB8cxbxPh0X6wEknMjq4WIs.jpg" group-title="AMAZON",The Good Doctor S05E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJxiCW7SugQVXsrOfiOG9Kb#.mkv
-#EXTINF:-1 xui-id="340230" tvg-name="The Good Doctor S05E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0_lMmyRyLlQIJQHI0mJw68GSY2yI_azGhc1DS6m9jkdQ.jpg" group-title="AMAZON",The Good Doctor S05E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKpWMmp9UhUXAr64b2GRjS-#.mkv
-#EXTINF:-1 xui-id="340229" tvg-name="The Good Doctor S05E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0JPOuh1InhMkta8E4p8CV6Wk1yVB5dhZJrLcldz2xHk8.jpg" group-title="AMAZON",The Good Doctor S05E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAI3XFMCoZSI7j04tHmBOigd#.mkv
-#EXTINF:-1 xui-id="340228" tvg-name="The Good Doctor S05E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0c6zx-jo20krbS6hDMHBTnFSY4ddzDo4yw9dnUSm84MI.jpg" group-title="AMAZON",The Good Doctor S05E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALjOCq_RIeMMVRPw3Z3cUCs#.mkv
-#EXTINF:-1 xui-id="340227" tvg-name="The Good Doctor S05E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0H-bozNjz-R3gmSYIhy1K4kUiy-7Wgf5-i301KhcYIGU.jpg" group-title="AMAZON",The Good Doctor S05E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAL6zvlyC7BoNB_-mfoliwFg#.mkv
-#EXTINF:-1 xui-id="340226" tvg-name="The Good Doctor S05E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-01czyRiTwL0h7Yoe30X9QHB6a2CLDFnp63Mo0qAuP0eA.jpg" group-title="AMAZON",The Good Doctor S05E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKUxeNSy_4bT-odoyO-yaXE#.mkv
-#EXTINF:-1 xui-id="340225" tvg-name="The Good Doctor S05E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0AaCDD5HFsRC58I98hlD3mjU_5IrNZZAIzkVz1rzNpgc.jpg" group-title="AMAZON",The Good Doctor S05E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKsJyO0m1qp7mVmgRDbpPji#.mkv
-#EXTINF:-1 xui-id="340224" tvg-name="The Good Doctor S05E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qmg0MsaSZjbFzUcHsJfuf-7DZK9xhqcQ465Wvyzwk84.jpg" group-title="AMAZON",The Good Doctor S05E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALclF1OpR4RymNsjPm0ykg_#.mkv
-#EXTINF:-1 xui-id="340223" tvg-name="The Good Doctor S05E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sKKYrtySK9YLsW5ATzeZ8wP9nfijCX2oI2S4tZ97qnk.jpg" group-title="AMAZON",The Good Doctor S05E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJGUlPPW_0Px-UzYwK_THrF#.mkv
-#EXTINF:-1 xui-id="340222" tvg-name="The Good Doctor S05E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bTfh7WIUyDwMVx5XMg_taknkXGhKIuRi-qkreUhEMhQ.jpg" group-title="AMAZON",The Good Doctor S05E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKP0eZLyEUibjw6wLPZnvLf#.mkv
-#EXTINF:-1 xui-id="340221" tvg-name="The Good Doctor S05E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0mHQ1XD4aB013K_GyugCFZEtA-dkqUzQvgcpadfZkSSQ.jpg" group-title="AMAZON",The Good Doctor S05E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAIBZxuJZgczQ8yQDDddAQSW#.mkv
-#EXTINF:-1 xui-id="340220" tvg-name="The Good Doctor S05E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0P80xaDtI8cZ4-SfASkNLYGkSv6SuJOCQPvNgZOsKo5I.jpg" group-title="AMAZON",The Good Doctor S05E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALVuaZTV5_2xzYM-5Zu9QHP#.mkv
-#EXTINF:-1 xui-id="340219" tvg-name="The Good Doctor S05E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0HvHoyNvE3EmrnzmosNis3QCTA0G7_SQpFFOl05vQkkI.jpg" group-title="AMAZON",The Good Doctor S05E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAK006QGjYPsC23duqfY8nof#.mkv
-#EXTINF:-1 xui-id="340218" tvg-name="The Good Doctor S05E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0s_PCsZ7_ejR4cQISAYNwbKea2gCfUkT2PjB3Birch2E.jpg" group-title="AMAZON",The Good Doctor S05E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJidA-PqUY__cwGdNcnhKjY#.mkv
-#EXTINF:-1 xui-id="340217" tvg-name="The Good Doctor S05E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TD4SsKhqik1l45LWd7FrHyI5xZwCGpv27TREt9TdnoQ.jpg" group-title="AMAZON",The Good Doctor S05E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAL7NJ-vfq5hq26jpszW7hi7#.mkv
-#EXTINF:-1 xui-id="340216" tvg-name="The Good Doctor S05E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TrZI_BbPEYUY3Uf-PsgMR-tlGmUSgnNT36j9a27f2Ls.jpg" group-title="AMAZON",The Good Doctor S05E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJiv0Mq-u9EjRzK9meGUVvZ#.mkv
-#EXTINF:-1 xui-id="340215" tvg-name="The Good Doctor S05E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0cfOwolz4mrRveLV5b44qJFR6XyhvI4OVy0-QZWSfxOc.jpg" group-title="AMAZON",The Good Doctor S05E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKb4GOeLSXBp2t9881kRLr4#.mkv
-#EXTINF:-1 xui-id="340214" tvg-name="The Good Doctor S04E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0HAYiTJOM1zLoLhKa01LJ1laUWEouKPFYGyHh6b9ifVI.jpg" group-title="AMAZON",The Good Doctor S04E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJD9czw3Y2g53eAyJ89EI9y#.mkv
-#EXTINF:-1 xui-id="340213" tvg-name="The Good Doctor S04E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0yKjoRQ_EYEbTqk-yIUPK8fTVl6iIJ5Exte1uDS0EvKI.jpg" group-title="AMAZON",The Good Doctor S04E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKyoJ9jn89DJwsvqqjz3JCy#.mkv
-#EXTINF:-1 xui-id="340212" tvg-name="The Good Doctor S04E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0jnqSOxVIbF_2HKZmRZbRjTfCtzjQ0MVpVXRe0OnKDA0.jpg" group-title="AMAZON",The Good Doctor S04E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAK8jWWlVUB8GwsgKrlGpJs5#.mkv
-#EXTINF:-1 xui-id="340211" tvg-name="The Good Doctor S04E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0273DSH659Ugzt62QG7y_7GmTPJ4PZupUYHR68l3udbU.jpg" group-title="AMAZON",The Good Doctor S04E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKOoytU-5RuYgSKfBoXEwtw#.mkv
-#EXTINF:-1 xui-id="340210" tvg-name="The Good Doctor S04E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-035MvrL9U2awOUz469MqCMzq0GLdcE11djtrBUQB3hGc.jpg" group-title="AMAZON",The Good Doctor S04E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALGywYPG_qRLUeLbOXglbxw#.mkv
-#EXTINF:-1 xui-id="340209" tvg-name="The Good Doctor S04E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0nHGMxMgxgX0Hp1fZuAT1x6BJbWwuiWJE50cFC9b0mdU.jpg" group-title="AMAZON",The Good Doctor S04E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJHab8lVxrZxqlPZHQCot92#.mkv
-#EXTINF:-1 xui-id="340208" tvg-name="The Good Doctor S04E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0-LQhmqBdF3jjDw-ivXLJmJWQ00amyGcCtcHwy73fcEk.jpg" group-title="AMAZON",The Good Doctor S04E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKgDaY92kQ1qPSSg0H8mArN#.mkv
-#EXTINF:-1 xui-id="340207" tvg-name="The Good Doctor S04E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0fdcjl9VKYbhJXVhO4-iN7qfmFKtbED-Ps57GelsOvvQ.jpg" group-title="AMAZON",The Good Doctor S04E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAL5jcphefh6e4OSBNIl7z2_#.mkv
-#EXTINF:-1 xui-id="340206" tvg-name="The Good Doctor S04E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0XCAbMvjLSxHySG7ctwvwMgQvDZqN6jlkLMtc_h0t1VU.jpg" group-title="AMAZON",The Good Doctor S04E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAIa7_fBAJnPbX_9GmISoui6#.mkv
-#EXTINF:-1 xui-id="340205" tvg-name="The Good Doctor S04E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bTaR1iOyiToPdTSGTC3cyeAjgemmAtHfMAPEs7bPomM.jpg" group-title="AMAZON",The Good Doctor S04E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKsulCaf9O2wSp8DWuRANCk#.mkv
-#EXTINF:-1 xui-id="340204" tvg-name="The Good Doctor S04E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sz6JWZt_WHT2HWf4Y6TMfwXSUz7MCr6jU5GbzexvcYk.jpg" group-title="AMAZON",The Good Doctor S04E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALxzreUI7EamyU3bF6IPgi7#.mkv
-#EXTINF:-1 xui-id="340203" tvg-name="The Good Doctor S04E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0CsRRIhO1s4sUGxwPdyMrJDsZFxxBRwUjcYbku7ykJ2o.jpg" group-title="AMAZON",The Good Doctor S04E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYALqbn_vKsqzCgeWWV-xJV-D#.mkv
-#EXTINF:-1 xui-id="340202" tvg-name="The Good Doctor S04E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0sQ9pJO2YCZBytB2ogagFamyEVpFljVpLTz557Fo6jkE.jpg" group-title="AMAZON",The Good Doctor S04E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAKr4NII2YkANhMPMBFDVNSE#.mkv
-#EXTINF:-1 xui-id="340201" tvg-name="The Good Doctor S04E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0q9FSHuImRQA3Ahp2IOZTbmq-aKsSd7v0GBN4A6RWgIU.jpg" group-title="AMAZON",The Good Doctor S04E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAIhzmMNG4UZstUwjFVyHnIu#.mkv
-#EXTINF:-1 xui-id="340200" tvg-name="The Good Doctor S04E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0exQQXTkB4o1SPaRIs4l5t4LxNmtqvU8HcYp67p-rHMM.jpg" group-title="AMAZON",The Good Doctor S04E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDKfKpbQk26R6guLLfwyYAJoOuc74eDSmW6Ul9zXNlK7#.mkv
-#EXTINF:-1 xui-id="340199" tvg-name="The Good Doctor S04E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0YCRxxLTWjRAUSXPfiaQc-cWlX6sMADuuiqtPRGvCYGY.jpg" group-title="AMAZON",The Good Doctor S04E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwGfYUXYsyX9QEQXrvZWF0-#.mkv
-#EXTINF:-1 xui-id="340198" tvg-name="The Good Doctor S04E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0EA9djc7u5MU9Ig-WCahTfUwpg15_-FtgBvBe0YCCvKY.jpg" group-title="AMAZON",The Good Doctor S04E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyELOyuwdx9q-RZ-uXFOFte#.mkv
-#EXTINF:-1 xui-id="340197" tvg-name="The Good Doctor S04E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0DRTA4VbPKafv4l2fD0_b7miOBuFKatHukI2qQ3QIaJ4.jpg" group-title="AMAZON",The Good Doctor S04E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjw8mkda_5mNOxKAPd6b1bTU#.mkv
-#EXTINF:-1 xui-id="340196" tvg-name="The Good Doctor S04E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0QQb7Dilb1QMBlz8TJM81RQL9VTW7VMpFOcpoMKQ2eVg.jpg" group-title="AMAZON",The Good Doctor S04E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzSBj7DpbP4Ee1xeoOqMVPJ#.mkv
-#EXTINF:-1 xui-id="340195" tvg-name="The Good Doctor S04E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tk3j1T-V1z1ljVluKp6QZiBmddW8MVWBPgMFg9zci1g.jpg" group-title="AMAZON",The Good Doctor S04E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwYNFD0zfCP3ztd4bcE_pvg#.mkv
-#EXTINF:-1 xui-id="340194" tvg-name="The Good Doctor S03E20" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0t5s6C1FTEbuTNYG2bZQHOok4nlZbHCY9AAiUdKrtN9U.jpg" group-title="AMAZON",The Good Doctor S03E20
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwD5LrVGNG-HVgAHCs1ewZa#.mkv
-#EXTINF:-1 xui-id="340193" tvg-name="The Good Doctor S03E19" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Ql7JDG9jdIIFC6HuOJd5IWWWU2UNSuJX-N4sMeCo1PI.jpg" group-title="AMAZON",The Good Doctor S03E19
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzhKDr08TdDjMRYJGw6Zo-Y#.mkv
-#EXTINF:-1 xui-id="340192" tvg-name="The Good Doctor S03E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0g5NIVQ1XfgwWKFuDddq-QIHINRWpYLaBuVdQ0QqY6is.jpg" group-title="AMAZON",The Good Doctor S03E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyL3_ZVMmP2LnStvjHuNMeC#.mkv
-#EXTINF:-1 xui-id="340191" tvg-name="The Good Doctor S03E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0B1KJIz4cxsNb0L2TAnU6oGWF_tGFl4WjqlES0vfLTVc.jpg" group-title="AMAZON",The Good Doctor S03E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxyRv8Y59DDIVT4HxvBaUj3#.mkv
-#EXTINF:-1 xui-id="340190" tvg-name="The Good Doctor S03E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-03hFdIFylQkK_V9-JwQo6j66zHyDLF6vm_JXf_cr_Js8.jpg" group-title="AMAZON",The Good Doctor S03E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwdM262bPlHdO1_gDrAWoa-#.mkv
-#EXTINF:-1 xui-id="340189" tvg-name="The Good Doctor S03E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0qVSonKFyO0Kti97rHIUVxYmzYDVnO7Wu7jEqcL_tmkA.jpg" group-title="AMAZON",The Good Doctor S03E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxbX45OJjH4Nn3QrqcrTQkD#.mkv
-#EXTINF:-1 xui-id="340188" tvg-name="The Good Doctor S03E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0n3TUh4-UvvXe-GQYmQE6nkOrjkIaNKqUOfEywinUlKg.jpg" group-title="AMAZON",The Good Doctor S03E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjziY92ubK9qZaUk7e6te-qn#.mkv
-#EXTINF:-1 xui-id="340187" tvg-name="The Good Doctor S03E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0LexDYiMWORvTSgEtXcfZGTmKk1yXO7spfsIOkTtiTcc.jpg" group-title="AMAZON",The Good Doctor S03E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxvOZGcFN8NQkEfUWfKNfpg#.mkv
-#EXTINF:-1 xui-id="340186" tvg-name="The Good Doctor S03E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0zoniOYGeA2VLwh2-xPsqG2qR6go3SaV_TQ279PfJ71Q.jpg" group-title="AMAZON",The Good Doctor S03E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyMzEwGoop80I-W5-gGJQo2#.mkv
-#EXTINF:-1 xui-id="340185" tvg-name="The Good Doctor S03E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0N2LcTVMsKnkmZ35NGrk35XxUPKq3f-zxL2Y20rFdCEI.jpg" group-title="AMAZON",The Good Doctor S03E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjznMsfyzBLecQPeyk5-r0b6#.mkv
-#EXTINF:-1 xui-id="340184" tvg-name="The Good Doctor S03E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0JE-R06UZrcZLB-qT84DiE--qOrMOt115jMvc451_tlU.jpg" group-title="AMAZON",The Good Doctor S03E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxDfXMI0hsmJiq0uuGiYcNr#.mkv
-#EXTINF:-1 xui-id="340183" tvg-name="The Good Doctor S03E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0C0uCMho0Y3GkrFptXScoxn44LPz0_0pUxsFq5oFBEZo.jpg" group-title="AMAZON",The Good Doctor S03E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyWrCIvo439kT9OR1rD7yBr#.mkv
-#EXTINF:-1 xui-id="340182" tvg-name="The Good Doctor S03E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0z2GiKBVNW1CAp-VQBfhbHCusmkojBVzaIqkW8u8q8DE.jpg" group-title="AMAZON",The Good Doctor S03E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyWty6VpYJ3mxWtOYWrlrNk#.mkv
-#EXTINF:-1 xui-id="340181" tvg-name="The Good Doctor S03E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0YQBLyV5xYztjH-QYqwXHmvItnp2CaIkQZ-wo_vk2IgE.jpg" group-title="AMAZON",The Good Doctor S03E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxhp9ZiASeVrbqPRCIm90Uo#.mkv
-#EXTINF:-1 xui-id="340180" tvg-name="The Good Doctor S03E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0afj4pF7P5T99o87GyA0Z6y3nw-i_4EHooFtw9MGP8Xo.jpg" group-title="AMAZON",The Good Doctor S03E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyD9frqkgkJksXoexX4lmuu#.mkv
-#EXTINF:-1 xui-id="340179" tvg-name="The Good Doctor S03E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0e4Dl7t-vRQ2kMxQxwqBVXJDX8_KisbbFWjkx26hXdpA.jpg" group-title="AMAZON",The Good Doctor S03E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxV0MOxrQwhezJGUr02xZEk#.mkv
-#EXTINF:-1 xui-id="340178" tvg-name="The Good Doctor S03E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-04ehPUF6VToSWocTTB1RbTOa9jUsW4OQQhQv0kCbFMxc.jpg" group-title="AMAZON",The Good Doctor S03E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwUHVHDUzjnOyiMcA9Xu-6J#.mkv
-#EXTINF:-1 xui-id="340177" tvg-name="The Good Doctor S03E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0YXcdHiS8mp-7mw2MgXhsyvbk7Q7RskzQ8fps0w0bYz8.jpg" group-title="AMAZON",The Good Doctor S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjy0QpjiOtguCm6WGJHTOU3W#.mkv
-#EXTINF:-1 xui-id="340176" tvg-name="The Good Doctor S03E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0i685I-I71xDgWSBNvXXs5JTJzcVbaOJAglza-O51r_w.jpg" group-title="AMAZON",The Good Doctor S03E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwO-6xcoibHB0DKmHJGg0k_#.mkv
-#EXTINF:-1 xui-id="340175" tvg-name="The Good Doctor S03E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0c0w9PGkcYmpQaOOLaALz1YaXBP6S4inJQVzkgVeTT30.jpg" group-title="AMAZON",The Good Doctor S03E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzK9Y_hGr_G2v51f4-ZU3JE#.mkv
-#EXTINF:-1 xui-id="340174" tvg-name="The Good Doctor S02E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dI56c3m-43yaVPAUmf0Zv5VFKh5vHZQa3crzr_iPjbU.jpg" group-title="AMAZON",The Good Doctor S02E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxsD8t2WtJ1j_hB5Vyzrcbm#.mkv
-#EXTINF:-1 xui-id="340173" tvg-name="The Good Doctor S02E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ia2hqCgUIWQFX6sObrODcrwYCnDmCx5i2AupmW8JQO4.jpg" group-title="AMAZON",The Good Doctor S02E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwNIxyM2h6zGO2bIQ0YqILH#.mkv
-#EXTINF:-1 xui-id="340172" tvg-name="The Good Doctor S02E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0beTAQOtwEL-pqte9NvgGDFvDW716aY6Fi83uPBKXgEs.jpg" group-title="AMAZON",The Good Doctor S02E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxqi_GdOlBNkDCfBdz2VKx3#.mkv
-#EXTINF:-1 xui-id="340171" tvg-name="The Good Doctor S02E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0GBbYX7a8fIPGnaEAj5gCfm1uZpx1-I_mUH8kedN50vQ.jpg" group-title="AMAZON",The Good Doctor S02E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjw-ezZRgtdsF09pEwxzv0f9#.mkv
-#EXTINF:-1 xui-id="340170" tvg-name="The Good Doctor S02E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bScpHH0-0FopiXDVIjJdAUmZu9whf2pprNhlGwPXyu4.jpg" group-title="AMAZON",The Good Doctor S02E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyqri8zOUZtr0Kj4k5HkJox#.mkv
-#EXTINF:-1 xui-id="340169" tvg-name="The Good Doctor S02E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0Qy6zQ2T6Clp9TTZrZvpnK8l07sMKxAOG98E4xjI7DTw.jpg" group-title="AMAZON",The Good Doctor S02E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwRYNHaxmi-7MYpu-nrRGA0#.mkv
-#EXTINF:-1 xui-id="340168" tvg-name="The Good Doctor S02E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0IJGA3YtcATWbN1mc-PAWevmh6DM0hd1fA9UyT_Surk4.jpg" group-title="AMAZON",The Good Doctor S02E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjywH-VTy8MgR6tn5XEkI9PI#.mkv
-#EXTINF:-1 xui-id="340167" tvg-name="The Good Doctor S02E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uuYLUWjRJ2XKFNYlcgDfWQVsDLRAIZqGHH7ws3V28KM.jpg" group-title="AMAZON",The Good Doctor S02E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwqMA2HB5JVxtDJQFZfefug#.mkv
-#EXTINF:-1 xui-id="340166" tvg-name="The Good Doctor S02E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0lHVRg6KggfJ8QOVsoIMhVEc8a4Jon1p8bvLjaXcSwZs.jpg" group-title="AMAZON",The Good Doctor S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxKHuj5M3-PqzXDZzJmQvTD#.mkv
-#EXTINF:-1 xui-id="340165" tvg-name="The Good Doctor S02E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0uou-02Q2EviMaJypf-uPkhrOi5foO1A_z67az7YmbIo.jpg" group-title="AMAZON",The Good Doctor S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwuuJromSqaQcTpCoAHL2si#.mkv
-#EXTINF:-1 xui-id="340164" tvg-name="The Good Doctor S02E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ZrLcLqYoCQ10PwqtgkofGsTucwgb9QRIuPOB8srDeFg.jpg" group-title="AMAZON",The Good Doctor S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyMZrTJgYjb5njL1NOJ58w6#.mkv
-#EXTINF:-1 xui-id="340163" tvg-name="The Good Doctor S02E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-05eijnqJUzceXWR-TpBHEkyOYD_0KPKgG9mtZFsM7FKQ.jpg" group-title="AMAZON",The Good Doctor S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjz0EsZZmIIlMDf1veOUAwOc#.mkv
-#EXTINF:-1 xui-id="340162" tvg-name="The Good Doctor S02E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0RuE9NYpkQmxDFWulSPKHfowH-eqS6vir1ttcwFNCTcE.jpg" group-title="AMAZON",The Good Doctor S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyHVZYgM1ugckUfqIdV4cWY#.mkv
-#EXTINF:-1 xui-id="340161" tvg-name="The Good Doctor S02E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0FrtMMBjaP7iYw4iHkSe-5vOkiqfAdHmxB3LQS_raIxE.jpg" group-title="AMAZON",The Good Doctor S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxGIL67WDc2PgyActtUqw80#.mkv
-#EXTINF:-1 xui-id="340160" tvg-name="The Good Doctor S02E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0tLBSsYr6bAT-kxER5VrKDsO9S_4V0p0nBGXXo38j3g8.jpg" group-title="AMAZON",The Good Doctor S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxw1cEL3AALaXD7fADKgSO5#.mkv
-#EXTINF:-1 xui-id="340159" tvg-name="The Good Doctor S02E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0bYNLZjti_3HcKgiE4NOcgszVynYj20Y11PtQtJayKKM.jpg" group-title="AMAZON",The Good Doctor S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwkl438xwhCNcM5XcWdeKi8#.mkv
-#EXTINF:-1 xui-id="340158" tvg-name="The Good Doctor S02E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0vCVTukAL0QRVywYpCay-UrVqZzkMM2DjDBQ9UPQs5V8.jpg" group-title="AMAZON",The Good Doctor S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjypPny7qQWS45ySdQ6TWOnq#.mkv
-#EXTINF:-1 xui-id="340157" tvg-name="The Good Doctor S02E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0dxi0p6SdbGTU5VmZXkzeLFnYQoNiT473XYv4Wn1HVJg.jpg" group-title="AMAZON",The Good Doctor S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyM6QeiVI8f7_ROs0a4-DlZ#.mkv
-#EXTINF:-1 xui-id="340156" tvg-name="The Good Doctor S01E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0JDz9nfWVGBalpENE8mYmjzmCxZ9arpnNdTEfR64leZs.jpg" group-title="AMAZON",The Good Doctor S01E18
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwrI-F0lU1u86IWCMxwRd3B#.mkv
-#EXTINF:-1 xui-id="340155" tvg-name="The Good Doctor S01E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-04YGvWJg0QIYf7g0wwoGrpG4Pyowc8NJDcbuzdrkVoUM.jpg" group-title="AMAZON",The Good Doctor S01E17
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyY19zuB6b4I0Yxw9Nr8GqT#.mkv
-#EXTINF:-1 xui-id="340154" tvg-name="The Good Doctor S01E16" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0T_SGVAccmlgXBnFo3TQwh_O9huVWHcuoAgVUQ2LrCAE.jpg" group-title="AMAZON",The Good Doctor S01E16
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwj5R8ZKYKlzuBBwvZkrK_l#.mkv
-#EXTINF:-1 xui-id="340153" tvg-name="The Good Doctor S01E15" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0qBPQHL7num5jsJQUOq2VxZkyfv6ouF5iiMXo7ULso0k.jpg" group-title="AMAZON",The Good Doctor S01E15
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzB_MYIxM0NPHekt3MYXxq0#.mkv
-#EXTINF:-1 xui-id="340152" tvg-name="The Good Doctor S01E14" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0afavhT8boy9sfxPJScwT8kCKrfPr_c7gL6sWhCPVhbs.jpg" group-title="AMAZON",The Good Doctor S01E14
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyDahHG9VUxEoaJQrhI0trd#.mkv
-#EXTINF:-1 xui-id="340151" tvg-name="The Good Doctor S01E13" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0EID72ZpEbwuiri1HHYQvEhObwNkIa_5bbpzl4WjiVe4.jpg" group-title="AMAZON",The Good Doctor S01E13
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjw1fZL9KHiS9jZLmkIDU8d_#.mkv
-#EXTINF:-1 xui-id="340150" tvg-name="The Good Doctor S01E12" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-06biKz6dXoRRw5dfbd7mEz3MpRjT1KVL5TvuA-sLKxTA.jpg" group-title="AMAZON",The Good Doctor S01E12
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjz4mxQu3u1tNy3Fhi5fR6J-#.mkv
-#EXTINF:-1 xui-id="340149" tvg-name="The Good Doctor S01E11" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0wx4VAIEcJO3kvZDmtPIwDJbfb90rAsCmB6WLQfr5WQY.jpg" group-title="AMAZON",The Good Doctor S01E11
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwgF2pwAWwXxqkdQ9wWGFBR#.mkv
-#EXTINF:-1 xui-id="340148" tvg-name="The Good Doctor S01E10" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-07Xvmmj7XFRMQlMZ4lA4VdtFdXPl_iq0H4jQKNrgcvqY.jpg" group-title="AMAZON",The Good Doctor S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwQf44f2Gn8eAW5H6BhJXkq#.mkv
-#EXTINF:-1 xui-id="340147" tvg-name="The Good Doctor S01E09" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0gWf4qKQVa8PB5VgstSebamBRQhGQtYZQTQkq40o4sNA.jpg" group-title="AMAZON",The Good Doctor S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzTjPSCvuZMm6B8c_zGIJW_#.mkv
-#EXTINF:-1 xui-id="340146" tvg-name="The Good Doctor S01E08" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0ecM8slE0U52AjTgNWigJ8MUQSchogbEMEIUUKQfmp60.jpg" group-title="AMAZON",The Good Doctor S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjwtk1ncEOLrSVpoxV11T6cL#.mkv
-#EXTINF:-1 xui-id="340145" tvg-name="The Good Doctor S01E07" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0A8Bulm0L_PWjwuRpkZfLYn4I97bx9zdD7MmjdkO1luY.jpg" group-title="AMAZON",The Good Doctor S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjxHLPiuV2mJFY_Yh4CzBApZ#.mkv
-#EXTINF:-1 xui-id="340144" tvg-name="The Good Doctor S01E06" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0CfvV686s51fS3SviTU-7PqWYkOv9yN31Qp9m_CHKpW8.jpg" group-title="AMAZON",The Good Doctor S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyoSZpTDdoEIemPYqpVmvpl#.mkv
-#EXTINF:-1 xui-id="340143" tvg-name="The Good Doctor S01E05" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0z16Y2M8tWFVvS3bjLKwNEY4TxvKuUjGrlhDtaC6HaBo.jpg" group-title="AMAZON",The Good Doctor S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzKKj09vVgAfoRMNEgBrjvW#.mkv
-#EXTINF:-1 xui-id="340142" tvg-name="The Good Doctor S01E04" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0s0T-qIBZenOiy27CijcmhYIarqmqRi3IbIFXxONyCuI.jpg" group-title="AMAZON",The Good Doctor S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzjq1odRfXmaH7gKYyFgtrz#.mkv
-#EXTINF:-1 xui-id="340141" tvg-name="The Good Doctor S01E03" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0k67rr2tRnisd8bcHLt6OlNei5JQpUDrEGpic05-Wkcg.jpg" group-title="AMAZON",The Good Doctor S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyKqR6wo5moRr5ViKrfISO5#.mkv
-#EXTINF:-1 xui-id="340140" tvg-name="The Good Doctor S01E02" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0KsbcKzFHFZFFfFsv9AjCgmiLUTOgr7z1u_8wpvSdqp8.jpg" group-title="AMAZON",The Good Doctor S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjx8At6TuTAeRDzocxM9XgwF#.mkv
-#EXTINF:-1 xui-id="340139" tvg-name="The Good Doctor S01E01" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TiF_AQTtZaNXKfUO1QhPdl7BqXADyUbgIlVVqKoMnVE.jpg" group-title="AMAZON",The Good Doctor S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjzbfT8uQi7L8rAPB9Pdk6Qh#.mkv
 #EXTINF:-1 xui-id="340138" tvg-name="Fired on Mars S01E18" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TiF_AQTtZaNXKfUO1QhPdl7BqXADyUbgIlVVqKoMnVE.jpg" group-title="HBO MAX",Fired on Mars S01E18
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRDJhdQI5RigXzkhAT5lUdjyBrE8es0RDGfeH7TwiXJ-F#.mkv
 #EXTINF:-1 xui-id="340137" tvg-name="Fired on Mars S01E17" tvg-logo="http://supertele.xyz:8080/images/1KRu3-l77lkGMG8YGqVnrjGZMEtVHR4cXkBcvZV0RdIzzH91Q5NYTPDc_I6cPP-0TiF_AQTtZaNXKfUO1QhPdl7BqXADyUbgIlVVqKoMnVE.jpg" group-title="HBO MAX",Fired on Mars S01E17
@@ -21354,10 +21021,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRICTh1OGqNc_64ZqKQDMbA_EUOpn
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRICTh1OGqNc_64ZqKQDMbA8DGD0cXqGnpVHho8TYY0lp#.mkv
 #EXTINF:-1 xui-id="195031" tvg-name="La Brea S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/eNdigcuNrwnyjw5JO6Y3zyQNInu.jpg" group-title="HBO MAX",La Brea S01E04
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRICTh1OGqNc_64ZqKQDMbA9dlaXtgptV7a0PSRzq-PwJ#.mkv
-#EXTINF:-1 xui-id="195030" tvg-name="Juego de tronos S06E10" tvg-logo="https://image.tmdb.org/t/p/w1280/8qgIcKTOKeAHlJMjGyPHl3IHjcU.jpg" group-title="HBO MAX",Juego de tronos S06E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRICTh1OGqNc_64ZqKQDMbA_RG0Bgk0_DduX_yPiXYoFk#.mkv
-#EXTINF:-1 xui-id="195029" tvg-name="Juego de tronos S06E09" tvg-logo="https://image.tmdb.org/t/p/w1280/j2znyjFSe1ol26DeQWMB1yE5EDQ.jpg" group-title="HBO MAX",Juego de tronos S06E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRICTh1OGqNc_64ZqKQDMbA-TjUvZr6IF1XgnofidJTlO#.mkv
 #EXTINF:-1 xui-id="194993" tvg-name="El cuento de la criada S04E08" tvg-logo="https://image.tmdb.org/t/p/w1280/xMcQ2IudtMY223DRqZqZYtJc8pt.jpg" group-title="HBO MAX",El cuento de la criada S04E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRO8yoD0OPaQ10Riei9R7XhW0lWUx8u44a4rqBrF9bImP#.mkv
 #EXTINF:-1 xui-id="194992" tvg-name="El cuento de la criada S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/kr4tfNGNHRlyep0mp9Kf2ERRFRG.jpg" group-title="HBO MAX",El cuento de la criada S05E01
@@ -23506,148 +23169,6 @@ http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBepha4e2btcdCwkgLQMjBDbQT0D
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBepha4e2btcdCwkgLQMjBAkClFqwlxWk6iJnNg0ptOy#.mkv
 #EXTINF:-1 xui-id="170677" tvg-name="The Continental: Del universo de John Wick S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/fuXsh7wnAyyysr6qfORx1BXZPgb.jpg" group-title="HBO MAX",The Continental: Del universo de John Wick S01E01
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRBepha4e2btcdCwkgLQMjBBGAlLlW3BS1QG5Aw1qVIU_#.mkv
-#EXTINF:-1 xui-id="170597" tvg-name="Juego de tronos S08E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg" group-title="HBO MAX",Juego de tronos S08E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvMZqoyKL0E9D7aeU5Ljsrl#.mkv
-#EXTINF:-1 xui-id="170596" tvg-name="Juego de tronos S08E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg" group-title="HBO MAX",Juego de tronos S08E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvXbAgNtShYvnPr4vdok1S_#.mkv
-#EXTINF:-1 xui-id="170595" tvg-name="Juego de tronos S08E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg" group-title="HBO MAX",Juego de tronos S08E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctMc6av5v5HGB3gikXcPogB#.mkv
-#EXTINF:-1 xui-id="170594" tvg-name="Juego de tronos S08E03" tvg-logo="https://image.tmdb.org/t/p/w1280/mFtHbZenI5rRPqC5OFafoVmjEjq.jpg" group-title="HBO MAX",Juego de tronos S08E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv_vUK_bhcechIV-RMQoeoE#.mkv
-#EXTINF:-1 xui-id="170593" tvg-name="Juego de tronos S08E02" tvg-logo="https://image.tmdb.org/t/p/w1280/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg" group-title="HBO MAX",Juego de tronos S08E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvH2CFOVIVshQw0cbDDPO7-#.mkv
-#EXTINF:-1 xui-id="170592" tvg-name="Juego de tronos S08E01" tvg-logo="https://image.tmdb.org/t/p/w1280/o65qwX1aHJclJ36VDhD3VYzz5em.jpg" group-title="HBO MAX",Juego de tronos S08E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctsfqW3MM2J6OHahw89tV9b#.mkv
-#EXTINF:-1 xui-id="170591" tvg-name="Juego de tronos S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4N4xxFrfjUyk7wE5hgcoAy0tDc.jpg" group-title="HBO MAX",Juego de tronos S07E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuIKhE41dyTKyNEsKN9DoVB#.mkv
-#EXTINF:-1 xui-id="170590" tvg-name="Juego de tronos S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDMCK1E4iqH8ZJeZnv3ftpei0nm.jpg" group-title="HBO MAX",Juego de tronos S07E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsT1G0rqTICiFaF0ZQYFAYo#.mkv
-#EXTINF:-1 xui-id="170589" tvg-name="Juego de tronos S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg" group-title="HBO MAX",Juego de tronos S07E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvnWydIcg79_Ciifn6Awx6c#.mkv
-#EXTINF:-1 xui-id="170588" tvg-name="Juego de tronos S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH9gSHcisHqoux734Q2SdLPLmsL.jpg" group-title="HBO MAX",Juego de tronos S07E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucvg_L_KKulhaypP9BVt2nlt#.mkv
-#EXTINF:-1 xui-id="170587" tvg-name="Juego de tronos S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg" group-title="HBO MAX",Juego de tronos S07E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvKjBr3Tpk_8ur_P7EQFuoy#.mkv
-#EXTINF:-1 xui-id="170586" tvg-name="Juego de tronos S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZLuB2YZeXTCEETnbPe5MNKCsio.jpg" group-title="HBO MAX",Juego de tronos S07E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucueO2aZmF22eQ74Q3GU7A5R#.mkv
-#EXTINF:-1 xui-id="170585" tvg-name="Juego de tronos S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg" group-title="HBO MAX",Juego de tronos S07E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsPdbXhWIXBhuQjP5oiSsQK#.mkv
-#EXTINF:-1 xui-id="170584" tvg-name="Juego de tronos S06E08" tvg-logo="https://image.tmdb.org/t/p/w1280/xl2l1a3kXGxWwZqGDgjowBk4x46.jpg" group-title="HBO MAX",Juego de tronos S06E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucs0t5-4HKf3zbFO-2xWLyeh#.mkv
-#EXTINF:-1 xui-id="170583" tvg-name="Juego de tronos S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymjvIqw8GClvQpurBYMeyaYXTck.jpg" group-title="HBO MAX",Juego de tronos S06E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsrNmCyILtDojUXuxoGbQCr#.mkv
-#EXTINF:-1 xui-id="170582" tvg-name="Juego de tronos S06E06" tvg-logo="https://image.tmdb.org/t/p/w1280/k01MUth8Xm2y79nvsQ3UF25SN9w.jpg" group-title="HBO MAX",Juego de tronos S06E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucs5P___IfEUp9txFdHvfiQa#.mkv
-#EXTINF:-1 xui-id="170581" tvg-name="Juego de tronos S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96u7HuryCkPEIN3JkZP336KTSq3.jpg" group-title="HBO MAX",Juego de tronos S06E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvaomD-feQ0-nJf4Obp75qI#.mkv
-#EXTINF:-1 xui-id="170580" tvg-name="Juego de tronos S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY2DbzgIjIatJJCVRgk1gKTJWez.jpg" group-title="HBO MAX",Juego de tronos S06E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsmVtTGJyjn6XZ6yC9i_zcp#.mkv
-#EXTINF:-1 xui-id="170579" tvg-name="Juego de tronos S06E03" tvg-logo="https://image.tmdb.org/t/p/w1280/dNp7HBQbwKlgX76fwqM6SWUo5tU.jpg" group-title="HBO MAX",Juego de tronos S06E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvfBfw7fa9rhlVDzyXTviuF#.mkv
-#EXTINF:-1 xui-id="170578" tvg-name="Juego de tronos S06E02" tvg-logo="https://image.tmdb.org/t/p/w1280/9JlZ6sOXf4nodwWYvoM5zCJIGm9.jpg" group-title="HBO MAX",Juego de tronos S06E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucukGW1JKYvfeViPg0_j-1lq#.mkv
-#EXTINF:-1 xui-id="170577" tvg-name="Juego de tronos S06E01" tvg-logo="https://image.tmdb.org/t/p/w1280/qEu20NFIbwxtyABtFvsyyPaCNDM.jpg" group-title="HBO MAX",Juego de tronos S06E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctLeynC11yS82vlMUIBkfGt#.mkv
-#EXTINF:-1 xui-id="170576" tvg-name="Juego de tronos S05E10" tvg-logo="https://image.tmdb.org/t/p/w1280/b5dIepsIO3robQSe18fWmsQe37R.jpg" group-title="HBO MAX",Juego de tronos S05E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuqainWjEcnfSM1rbwkoVzp#.mkv
-#EXTINF:-1 xui-id="170575" tvg-name="Juego de tronos S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymI7V3wsZRcRqLWgjJ59CTTGvh5.jpg" group-title="HBO MAX",Juego de tronos S05E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuarGxSyb5f4sc5CxedpFia#.mkv
-#EXTINF:-1 xui-id="170574" tvg-name="Juego de tronos S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/58PgfiE8eIOdQ1iDvFnJG471RFB.jpg" group-title="HBO MAX",Juego de tronos S05E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuTMlWXZsiNYKB-z83Pj2KB#.mkv
-#EXTINF:-1 xui-id="170573" tvg-name="Juego de tronos S05E07" tvg-logo="https://image.tmdb.org/t/p/w1280/n4BFZfiqOX1l5l6uYtpDS4m19WX.jpg" group-title="HBO MAX",Juego de tronos S05E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv5O2MXKEKDNGeeeihgrGZT#.mkv
-#EXTINF:-1 xui-id="170572" tvg-name="Juego de tronos S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siGoOvAqTTyojNHpfR8wilIoBjf.jpg" group-title="HBO MAX",Juego de tronos S05E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv6Q8Ulu7H4FVOSEqawFqPz#.mkv
-#EXTINF:-1 xui-id="170571" tvg-name="Juego de tronos S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25HHLKWpNKiy6e7zBhaoysK9hzv.jpg" group-title="HBO MAX",Juego de tronos S05E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsNeY8LGJ_8oAYLKJ2n6tHp#.mkv
-#EXTINF:-1 xui-id="170570" tvg-name="Juego de tronos S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJK24ELjz04a05saADPXkYafa21.jpg" group-title="HBO MAX",Juego de tronos S05E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuSwPx-F7Z4ZbC0icLXQ6vg#.mkv
-#EXTINF:-1 xui-id="170569" tvg-name="Juego de tronos S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5b6eUi2w12ao24ug8cL5QqJFKig.jpg" group-title="HBO MAX",Juego de tronos S05E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv8BheDs-_6IolC_GP8SDBj#.mkv
-#EXTINF:-1 xui-id="170568" tvg-name="Juego de tronos S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCJpE0pfjn78uhr2TjvIrhyTcR8.jpg" group-title="HBO MAX",Juego de tronos S05E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsL8lh52_NlWLd0ck_JJumI#.mkv
-#EXTINF:-1 xui-id="170567" tvg-name="Juego de tronos S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shIFxmFySt9CtGXMTXWBipsNOIs.jpg" group-title="HBO MAX",Juego de tronos S05E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvDVR2OFyWZmHpXs2dcMrbt#.mkv
-#EXTINF:-1 xui-id="170566" tvg-name="Juego de tronos S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEvyoz6NrUGH3nyphu43hAzT1VE.jpg" group-title="HBO MAX",Juego de tronos S04E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucttCWoNCweJs_1krbJHRvn3#.mkv
-#EXTINF:-1 xui-id="170565" tvg-name="Juego de tronos S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDtXFnIKg9KqZkj1zVYYJFXPqwk.jpg" group-title="HBO MAX",Juego de tronos S04E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvYU7LIuo95FnpEUBGW0Exu#.mkv
-#EXTINF:-1 xui-id="170564" tvg-name="Juego de tronos S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOcGpQmBvwuScHJjwQYlCreVl4x.jpg" group-title="HBO MAX",Juego de tronos S04E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucvrvup-_sxFavfnroiT0COD#.mkv
-#EXTINF:-1 xui-id="170563" tvg-name="Juego de tronos S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1LNM3vEGX2SWmoDZZC6yxXZXu8.jpg" group-title="HBO MAX",Juego de tronos S04E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucswg1Xl9NjL8bjwd8Zh9R13#.mkv
-#EXTINF:-1 xui-id="170562" tvg-name="Juego de tronos S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKt9b7HNYhwM91C7S53zPsAWfT3.jpg" group-title="HBO MAX",Juego de tronos S04E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucta4xEHFf9d1NTc3XTULTF1#.mkv
-#EXTINF:-1 xui-id="170561" tvg-name="Juego de tronos S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0Z9votO2jqQLI0Y66TqfTjlyq.jpg" group-title="HBO MAX",Juego de tronos S04E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucszEGxG3ppSPZgzIwXPp9qu#.mkv
-#EXTINF:-1 xui-id="170560" tvg-name="Juego de tronos S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6BnHrgr2wTc0m2gYPeylls8z.jpg" group-title="HBO MAX",Juego de tronos S04E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucu6GxQP1OpFWFYpM2KyTO-e#.mkv
-#EXTINF:-1 xui-id="170559" tvg-name="Juego de tronos S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgwGxEDIv1XyB5TcJcJM7EMLWiX.jpg" group-title="HBO MAX",Juego de tronos S04E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsiPP9saTncyGFcNv0uuZKF#.mkv
-#EXTINF:-1 xui-id="170558" tvg-name="Juego de tronos S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOeaRpAKbrATuVe8Z5MtVJfair9.jpg" group-title="HBO MAX",Juego de tronos S04E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvizCCcdJqiBqHoVc0E2agq#.mkv
-#EXTINF:-1 xui-id="170557" tvg-name="Juego de tronos S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA7XXz9qHjsXqXHDDyFKPm4SOTv.jpg" group-title="HBO MAX",Juego de tronos S04E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctTtvy8HNH-xP7EV7w6EQM-#.mkv
-#EXTINF:-1 xui-id="170556" tvg-name="Juego de tronos S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJbEFBLyogHR1GoxfDXNIoP4k1w.jpg" group-title="HBO MAX",Juego de tronos S03E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucswANfztJWNeiD1I4jU3Q0r#.mkv
-#EXTINF:-1 xui-id="170555" tvg-name="Juego de tronos S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Cvg7NkvDPckIwPKWcyS25YcoSh.jpg" group-title="HBO MAX",Juego de tronos S03E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctboD1rFdY6N-aDpAKAjPmr#.mkv
-#EXTINF:-1 xui-id="170554" tvg-name="Juego de tronos S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h0bTax0qB7cpY16uFecM5VeUal.jpg" group-title="HBO MAX",Juego de tronos S03E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vuct4MS-kYwzk4ILSn8ePg8dD#.mkv
-#EXTINF:-1 xui-id="170553" tvg-name="Juego de tronos S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RVD5pIIiv7ZH0qnazwVrsPEFpP.jpg" group-title="HBO MAX",Juego de tronos S03E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuwCQFh06GBtZMADf8SGPKo#.mkv
-#EXTINF:-1 xui-id="170552" tvg-name="Juego de tronos S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJQ5vnNrlM28fpInn6uGM0xUZRX.jpg" group-title="HBO MAX",Juego de tronos S03E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvZDr9v7eXYy8Hc5iEMQKQV#.mkv
-#EXTINF:-1 xui-id="170551" tvg-name="Juego de tronos S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41CekEZyGvNLTJIJy7BqFDTitcC.jpg" group-title="HBO MAX",Juego de tronos S03E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsLcr7RD_Wd-TkbhQpn1JRf#.mkv
-#EXTINF:-1 xui-id="170550" tvg-name="Juego de tronos S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veYx7AoKhxC8Pz8EThNpoOxeSGX.jpg" group-title="HBO MAX",Juego de tronos S03E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucsQ1jQzF4K3Xd6rbDFH8fxA#.mkv
-#EXTINF:-1 xui-id="170549" tvg-name="Juego de tronos S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i39Itkd76DOXxek0blIO6rI6zsa.jpg" group-title="HBO MAX",Juego de tronos S03E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuPeth-gI4AFFd8SfnLm1-_#.mkv
-#EXTINF:-1 xui-id="170548" tvg-name="Juego de tronos S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg" group-title="HBO MAX",Juego de tronos S03E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucvcctc-ct2YibVzDsP7x9fE#.mkv
-#EXTINF:-1 xui-id="170547" tvg-name="Juego de tronos S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZerJvXQXcM3tygHRkPTDbbK0hw.jpg" group-title="HBO MAX",Juego de tronos S03E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvE3B7Wx0yX-ZS1dEcWrP88#.mkv
-#EXTINF:-1 xui-id="170546" tvg-name="Juego de tronos S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u46jn12qEyaCOe1oqJBwPvL5d7R.jpg" group-title="HBO MAX",Juego de tronos S02E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctSjr-RBgxZYg9um_8zJzoV#.mkv
-#EXTINF:-1 xui-id="170545" tvg-name="Juego de tronos S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rX44Vfd0iiZDIJWHYZg9j4yLSP9.jpg" group-title="HBO MAX",Juego de tronos S02E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuIKl8P_6Jnahakh5UsLNX6#.mkv
-#EXTINF:-1 xui-id="170544" tvg-name="Juego de tronos S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4W90HbZcVG54m8HoxaZmXc8rzjy.jpg" group-title="HBO MAX",Juego de tronos S02E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv4dAtDxrRm14QZTJqShbSI#.mkv
-#EXTINF:-1 xui-id="170543" tvg-name="Juego de tronos S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDklRxVetx1COP4zXLLnXMS2S0.jpg" group-title="HBO MAX",Juego de tronos S02E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuvaHwy4d_EmoTj7XSTanvk#.mkv
-#EXTINF:-1 xui-id="170542" tvg-name="Juego de tronos S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUgvLgKhI7XbjU4cAW9qffL6ImQ.jpg" group-title="HBO MAX",Juego de tronos S02E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vuctf2OOA6FWPpj8L6uKjaCuy#.mkv
-#EXTINF:-1 xui-id="170541" tvg-name="Juego de tronos S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7HHSQtEyf7cNBYR2G9DjQ78EgV.jpg" group-title="HBO MAX",Juego de tronos S02E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucvk-RQ9qOiqJKJUb6ULVIlc#.mkv
-#EXTINF:-1 xui-id="170540" tvg-name="Juego de tronos S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j2j97GFao2NX4uAtMbr0Qhx2K2.jpg" group-title="HBO MAX",Juego de tronos S02E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucuRHDOWsDmhcDTrepWlyxVk#.mkv
-#EXTINF:-1 xui-id="170539" tvg-name="Juego de tronos S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neKkHgfX7dgi4E47GKT7bYciq93.jpg" group-title="HBO MAX",Juego de tronos S02E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucsu1LzxZv5Yeu3mAlmhDC8S#.mkv
-#EXTINF:-1 xui-id="170537" tvg-name="Juego de tronos S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de0UTpqFcGaVVO13sHqbjQ19c6I.jpg" group-title="HBO MAX",Juego de tronos S02E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucun-eHA1DPOnyRPga2y5Fda#.mkv
-#EXTINF:-1 xui-id="170536" tvg-name="Juego de tronos S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGHtlTvHpSGZ8DIrxMyK3Ewkc1Y.jpg" group-title="HBO MAX",Juego de tronos S02E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv7VEWE_Yz31sV-6Pk7QBJj#.mkv
-#EXTINF:-1 xui-id="170535" tvg-name="Juego de tronos S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GhSiFhXOg81AevNQWrX6DOEL1U.jpg" group-title="HBO MAX",Juego de tronos S01E10
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucugfvyYY8ij657-1RmL8IPz#.mkv
-#EXTINF:-1 xui-id="170534" tvg-name="Juego de tronos S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAmBhmw1pQc6fucrdmnRM5FOpXD.jpg" group-title="HBO MAX",Juego de tronos S01E09
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvFfah1U5rkSs9yyIjABJO3#.mkv
-#EXTINF:-1 xui-id="170533" tvg-name="Juego de tronos S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZvT1IZPcC11eiCByOzqQvC3CCR.jpg" group-title="HBO MAX",Juego de tronos S01E08
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvUXWLe5P3fyAMm4Ymd5b3o#.mkv
-#EXTINF:-1 xui-id="170532" tvg-name="Juego de tronos S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ldSDhIINGNKZR62mHf2m64dD.jpg" group-title="HBO MAX",Juego de tronos S01E07
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucu5SV0rx4IwjrhAUqHED--O#.mkv
-#EXTINF:-1 xui-id="170531" tvg-name="Juego de tronos S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdhvrJxyYpINwYnGkBIf2krQKg.jpg" group-title="HBO MAX",Juego de tronos S01E06
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucte7AEZ4osYu8bEScPWZ358#.mkv
-#EXTINF:-1 xui-id="170530" tvg-name="Juego de tronos S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7e1qSWE6v8jfY9vGNrckX47DGN.jpg" group-title="HBO MAX",Juego de tronos S01E05
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucu4sfAFs5J4jF4-AJEqh81T#.mkv
-#EXTINF:-1 xui-id="170529" tvg-name="Juego de tronos S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg" group-title="HBO MAX",Juego de tronos S01E04
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucv4YQTL7_pnWQejmrM-7szB#.mkv
-#EXTINF:-1 xui-id="170528" tvg-name="Juego de tronos S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HjOlb4slc1xusMgOtoNpxuTgSI.jpg" group-title="HBO MAX",Juego de tronos S01E03
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VucvH1yh-OCYpU0lSuB3YiOl2#.mkv
-#EXTINF:-1 xui-id="170527" tvg-name="Juego de tronos S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0GJx3IR8YasbztTJi5uK0XqkEo.jpg" group-title="HBO MAX",Juego de tronos S01E02
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74VuctziRVmzvGxdmxmgLOsQ_Ev#.mkv
-#EXTINF:-1 xui-id="170526" tvg-name="Juego de tronos S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg" group-title="HBO MAX",Juego de tronos S01E01
-http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRKCK0Js1_uWugJ3WV74Vucu48tbSvzt_x5kg_bXBxW8A#.mkv
 #EXTINF:-1 xui-id="170155" tvg-name="Los Billis S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/rDNYfms1SzIU1Dmo7Xj3xtLKiZ.jpg" group-title="AMAZON",Los Billis S01E08
 http://1000digital.pw:8080/play/OhYP2J2zkPfbdVQ7rXABRMh1tGvSIQLRZYoNF-iFuDovUYSt4hopYBHrZMx7Dwrq#.mkv
 #EXTINF:-1 xui-id="170154" tvg-name="Los Billis S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hbM8wJ2cEFkVzLFOAFPLZJzu4F.jpg" group-title="AMAZON",Los Billis S01E07
