@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece (2023)" tvg-logo="http://redworld.pro:8880/images/61c74037041722a9e905becdf3eb0fbb.jpg" group-title="✅ 24/7 VIP",24/7 One Piece (2023)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/526497
 #EXTINF:-1 tvg-id="" tvg-name="*$PORTS + (CHI)" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="⭐️ CHILE DEPORTE",*$PORTS + (CHI)
@@ -96,14 +97,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1654
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32083
 #EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 5" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX5HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 5
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1652
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 6" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX6HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 6
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1651
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 7" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX7HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 7
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1650
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 8" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX8HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 8
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1649
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 10" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX10HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 10
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1647
 #EXTINF:-1 tvg-id="2618" tvg-name="beINSPORTS HABER HD" tvg-logo="http://45.129.183.111/spor_files/beinhaberfhd.png" group-title="TR| SPOR",beINSPORTS HABER HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37165
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
@@ -374,6 +367,8 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqlxBRu8KMqpGrzrP9oJMZg9Ealh-QpgaQ9aoN02S21x
 #EXTINF:-1 tvg-id="" tvg-name="MX: Lifetime" tvg-logo="http://www.tmsimg.com/assets/s89197_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Lifetime
 http://bgdc.live:25461/live/miss.sara/8749634/215184.m3u8
+#EXTINF:-1 tvg-id="lch7216" tvg-name="PE | *LIGA 1" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DEPORTE PERÚ",PE | *LIGA 1
+http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/428671
 #EXTINF:-1 xui-id="120115" tvg-id="" tvg-name="PE | LIGA 1 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087flSuD2155XzDHmRljpFggqS2Mn4SoAJJ-d_fGzD44JSvyqYgC5FmcRF3ZmSG5D7uKhAg8yEUJwzIl4Ebbj1fE0.jpg" group-title="⚽ DEPORTES PERU",PE | LIGA 1 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQYsghjrddw8U1kZu5
 #EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 6" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 6
@@ -1307,70 +1302,13 @@ http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/505769.mp4
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/505770.mp4
 #EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S08 E12" tvg-logo="http://redworld.pro:8880/images/9f46953e544c9f8a45e053c828f9e8c9.jpg" group-title="⭐️ Series Anime ",My Hero Academia S08 E12
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/525301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="http://redworld.pro:8880/images/b66b726824ecd2adee76a55764c0c25e.jpg" group-title="⭐️Marvel",Black Widow (2021)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/269307.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween II (1981)" tvg-logo="http://redworld.pro:8880/images/55b4f02eb12be10a5bb0436aa1be1d47.jpg" group-title="⭐️Cine retro",Halloween II (1981)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/301138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="http://redworld.pro:8880/images/d2ba263192e505d95dea00950c6ea58f.jpg" group-title="⭐️Películas 2022",Black Adam (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258328.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Descendientes (2022)" tvg-logo="http://redworld.pro:8880/images/486b3af5e3bd64df72c7f2bf431e4d7b.jpg" group-title="⭐️Películas 2022",Los Descendientes (2022)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258381.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E01" tvg-logo="http://redworld.pro:8880/images/c3861204e78185fe2b51fbb4c133d69c.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E01
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E02" tvg-logo="http://redworld.pro:8880/images/9e762cceb7da6286c4701115f366c59b.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E02
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E03" tvg-logo="http://redworld.pro:8880/images/493d188b552d5ed131dae117c6edd3ff.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E03
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E04" tvg-logo="http://redworld.pro:8880/images/6ef0f9500f297e7d0a856f6fcc38a71a.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E04
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E05" tvg-logo="http://redworld.pro:8880/images/e5995c7782569377af29f1dacd329036.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E05
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E06" tvg-logo="http://redworld.pro:8880/images/92a44dc81cccea7cf5ad4ea41d1e52ea.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E06
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E07" tvg-logo="http://redworld.pro:8880/images/510c71581aae8330cba1c3cbe262a372.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E07
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E08" tvg-logo="http://redworld.pro:8880/images/1f7a03bbc916505884d4de45d049bd3f.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E08
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E09" tvg-logo="http://redworld.pro:8880/images/faf801631a455d7155c887d940a95843.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E09
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E10" tvg-logo="http://redworld.pro:8880/images/b9aa963e0b03e5666c978d8b5663635a.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E10
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E11" tvg-logo="http://redworld.pro:8880/images/0fd1c54df07ef45293e060970ce24ecc.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E11
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E12" tvg-logo="http://redworld.pro:8880/images/a91f7b7ebb5026f76832e91b5b5c4eb8.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E12
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E13" tvg-logo="http://redworld.pro:8880/images/793d9a44fdd013029abc7f3cd2fbb997.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E13
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E14" tvg-logo="http://redworld.pro:8880/images/21f668245b6d8577652e4dabebc3350e.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E14
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E15" tvg-logo="http://redworld.pro:8880/images/460117e5f3f7eed46c2aaf87d83a904a.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E15
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E16" tvg-logo="http://redworld.pro:8880/images/a919954d16b830ca2cc1124806f7dd6c.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E16
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E17" tvg-logo="http://redworld.pro:8880/images/f9e4a625f88554d043ee2b618815fe4d.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E17
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E18" tvg-logo="http://redworld.pro:8880/images/3498eb620ab53233bd69a8ea4d59025d.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E18
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E19" tvg-logo="http://redworld.pro:8880/images/78455afbb424a44bdf1ad46e370e9d5d.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E19
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E20" tvg-logo="http://redworld.pro:8880/images/4ca045892c1b3d1d2f07a9e5f79be397.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E20
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E21" tvg-logo="http://redworld.pro:8880/images/f4c1fdb8e10f09417b0ba6ff49db63b9.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E21
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E22" tvg-logo="http://redworld.pro:8880/images/f745de3f1cd70888a7d3821152420d29.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E22
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E23" tvg-logo="http://redworld.pro:8880/images/b356061ca193e02968098886c6ecc85c.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E23
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone S01 E24" tvg-logo="http://redworld.pro:8880/images/5fab9b3cb6ef93fd866d7d2441164bc5.jpg" group-title="⭐️ Series Anime ",Dr. Stone S01 E24
-http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/506649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr. Stone Ryusui (2022)" tvg-logo="http://redworld.pro:8880/images/7e6752ff2c77be788f21a41ddb48e233.jpg" group-title="⭐️Películas 2022",Dr. Stone Ryusui (2022)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dracula: The Original Living Vampire (2022)" tvg-logo="http://redworld.pro:8880/images/c8ea20a7f1e5c2207a380df69abbc8d5.jpg" group-title="⭐️Películas 2022",Dracula: The Original Living Vampire (2022)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258398.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elvis (2022)" tvg-logo="http://redworld.pro:8880/images/40f0bfbab4cccdb8b7b7135b75a5b6ad.jpg" group-title="⭐️Películas 2022",Elvis (2022)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="http://redworld.pro:8880/images/bf41d73ba2772fe7da936c1e9b649382.jpg" group-title="⭐️Comedía",Enola Holmes (2020)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/263844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="http://redworld.pro:8880/images/33ae9b844a3041ff7ed0809949433b74.jpg" group-title="⭐️Películas 2022",Enola Holmes 2 (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258496.mkv
