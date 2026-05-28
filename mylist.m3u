@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece (2023)" tvg-logo="http://redworld.pro:8880/images/61c74037041722a9e905becdf3eb0fbb.jpg" group-title="✅ 24/7 VIP",24/7 One Piece (2023)
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/526497
 #EXTINF:-1 tvg-id="" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE  ",CL | 13 TELESERIES
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/300290
 #EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",CL | 13 CULTURA
@@ -182,7 +180,7 @@ http://bgdc.live:25461/live/miss.sara/8749634/215139.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/215141.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: E! Entertainment" tvg-logo="http://www.tmsimg.com/assets/s32195_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: E! Entertainment
 http://bgdc.live:25461/live/miss.sara/8749634/215142.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil] HD"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -346,7 +344,7 @@ http://bgdc.live:25461/live/miss.sara/8749634/215189.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/215190.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: MTV Live HD" tvg-logo="http://www.tmsimg.com/assets/s66419_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: MTV Live HD
 http://bgdc.live:25461/live/miss.sara/8749634/215191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="19. LATIN / SPANISH",MX | MULTIPREMIER
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MX | MULTIPREMIER" tvg-logo=src="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="19. LATIN / SPANISH",MX | MULTIPREMIER
 http://bgdc.live:25461/live/miss.sara/8749634/215178.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: National Geographic" tvg-logo="http://www.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: National Geographic
 http://bgdc.live:25461/live/miss.sara/8749634/215193.m3u8
@@ -374,7 +372,7 @@ http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/273733
 http://bgdc.live:25461/live/miss.sara/8749634/215199.m3u8
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
-#EXTINF:-1 tvg-id="OromarTV.ec@SD",Oromar TV (720p)
+#EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-name="Oromar TV HD ©" "https://i.ibb.co/QFYXSRx/oromarv.png",Oromar TV (720p)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportspremierleaguehd.png" group-title="DE| SPORTS",DE| SKY SPORT PREMIER LEAGUE HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69101
@@ -476,8 +474,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBspPUfHRTFWxOhU9JLGB_0_R4iwy
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1" tvg-logo="https://puddintap.click/ico/CA/TSN1.png" group-title="SPORTS",CA: TSN 1
 http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/815122
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2" tvg-logo="https://puddintap.click/ico/CA/TSN2.png" group-title="SPORTS",CA: TSN 2
-http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/815123
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3" tvg-logo="https://puddintap.click/ico/CA/TSN3.png" group-title="SPORTS",CA: TSN 3
 http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/815124
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4" tvg-logo="https://puddintap.click/ico/CA/TSN4.png" group-title="SPORTS",CA: TSN 4
@@ -542,9 +538,7 @@ http://bgdc.live:25461/live/miss.sara/8749634/191006.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/191007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/1200?cb=20200225220524&path-prefix=es" group-title="37. COLUMBIA",CO: Win Sports + HD
 http://bgdc.live:25461/live/miss.sara/8749634/191008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS + FHD" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="37. COLUMBIA",CO: WIN SPORTS + FHD
-http://bgdc.live:25461/live/miss.sara/8749634/191009.m3u8
-#EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
+#EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
 #EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D3GgVZ4iARAHk3TdV
