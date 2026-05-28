@@ -2,8 +2,10 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece (2023)" tvg-logo="http://redworld.pro:8880/images/61c74037041722a9e905becdf3eb0fbb.jpg" group-title="✅ 24/7 VIP",24/7 One Piece (2023)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/526497
-#EXTINF:-1 tvg-id="" tvg-name="*$PORTS + (CHI)" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="⭐️ CHILE DEPORTE",*$PORTS + (CHI)
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/120548
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE  ",CL | 13 TELESERIES
+http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/300290
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",CL | 13 CULTURA
+http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/300291
 #EXTINF:-1 tvg-id="" tvg-name="*$PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="⭐️ CHILE DEPORTE",*$PORTS 2 (CHI)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/120550
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *$PORTS +" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="⭐️ DEPORTE VIP",DEPORTES | *$PORTS +
@@ -12,8 +14,6 @@ http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/167732
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/167733
 #EXTINF:-1 tvg-id="" tvg-name="MX: A&E" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/812/CH_LOGO/160/160/0/0/374925840787004.png" group-title="19. LATIN / SPANISH",MX: A&E
 http://bgdc.live:25461/live/miss.sara/8749634/215094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: DHE" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/802/CH_LOGO/160/160/0/0/461143070781622.png" group-title="19. LATIN / SPANISH",MX: DHE
-http://bgdc.live:25461/live/miss.sara/8749634/215095.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: adn 40 HD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/967/CH_LOGO/160/160/0/0/535882890715384.png" group-title="19. LATIN / SPANISH",MX: adn 40 HD
 http://bgdc.live:25461/live/miss.sara/8749634/215096.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: Adult Swim" tvg-logo="http://www.tmsimg.com/assets/s26769_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: Adult Swim
@@ -50,8 +50,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69279
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/24857
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15160
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69145
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 4K
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69281
 #EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4
@@ -136,8 +134,6 @@ http://bgdc.live:25461/live/miss.sara/8749634/215120.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/215121.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="20. USA SPORTS -ESPN",CBS SPORTS
 http://bgdc.live:25461/live/miss.sara/8749634/8459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DEPORTE VIP",DEPORTES | CLARO SPORTS
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/407036
 #EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://redworld.pro:8880/images/06074edd7f572f827c08c4ef64c49049.png" group-title="⭐️ CHILE  ",CL | CHILEVISION HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/58287
 #EXTINF:-1 tvg-id="" tvg-name="MX: CINEMA PLATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Cplatino.png/revision/latest?cb=20220412195517" group-title="19. LATIN / SPANISH",MX: CINEMA PLATINO
@@ -226,6 +222,8 @@ http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/815001
 http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/815002
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="20. USA SPORTS -ESPN",ESPN2
 http://bgdc.live:25461/live/miss.sara/8749634/38227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | ESPN PREMIUM
+http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/327917
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" ,ExtremaTv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: Enlace TBN" tvg-logo="" group-title="19. LATIN / SPANISH",MX: Enlace TBN
@@ -370,6 +368,8 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBt3my_kv1SmPIXhszXcIkhEmk7EQ
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69150
 #EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1+ 9" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/canal-ligue-1.png" group-title="FR| SPORTS",FR| LIGUE 1+ 9
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139880
+#EXTINF:-1 tvg-id="" tvg-name="CL | UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="⭐️ CHILE  ",CL | UCV HD
+http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/273733
 #EXTINF:-1 tvg-id="" tvg-name="MX: Once TV HD" tvg-logo="http://www.tmsimg.com/assets/s15178_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Once TV HD
 http://bgdc.live:25461/live/miss.sara/8749634/215199.m3u8
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
@@ -402,8 +402,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/11290
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/11289
 #EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE| SKYSPORT BUNDESLIGA 8 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50135.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 8 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/11288
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKYSPORT BUNDESLIGA 10 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50130.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 10 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37051
 #EXTINF:-1 tvg-id="" tvg-name="sporSMART 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/spor_smart2.png" group-title="TR| SPOR",sporSMART 2 HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26601
 #EXTINF:-1 tvg-id="3884" tvg-name="SPORTS TV HD" tvg-logo="http://picnanbla.xyz/picons/220x132/s/sportstv.png" group-title="TR| SPOR",SPORTS TV HD
@@ -568,16 +566,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
 #EXTINF:-1 tvg-id="" tvg-name="Halloween II (1981)" tvg-logo="http://redworld.pro:8880/images/55b4f02eb12be10a5bb0436aa1be1d47.jpg" group-title="⭐️Cine retro",Halloween II (1981)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/301138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Descendientes (2022)" tvg-logo="http://redworld.pro:8880/images/486b3af5e3bd64df72c7f2bf431e4d7b.jpg" group-title="⭐️Películas 2022",Los Descendientes (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone Ryusui (2022)" tvg-logo="http://redworld.pro:8880/images/7e6752ff2c77be788f21a41ddb48e233.jpg" group-title="⭐️Películas 2022",Dr. Stone Ryusui (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dracula: The Original Living Vampire (2022)" tvg-logo="http://redworld.pro:8880/images/c8ea20a7f1e5c2207a380df69abbc8d5.jpg" group-title="⭐️Películas 2022",Dracula: The Original Living Vampire (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elvis (2022)" tvg-logo="http://redworld.pro:8880/images/40f0bfbab4cccdb8b7b7135b75a5b6ad.jpg" group-title="⭐️Películas 2022",Elvis (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominio (2022)" tvg-logo="http://redworld.pro:8880/images/4c0dc9d8790d08cda3816071dcbaa45a.jpg" group-title="⭐️Saga Jurassic Park",Jurassic World Dominio (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258584.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S12 E01" tvg-logo="http://redworld.pro:8880/images/93b7284be5d25d66aa01c751b1259b6c.jpg" group-title="⭐️ Series Anime ",Naruto Shippuden S12 E01
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/513026.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S12 E02" tvg-logo="http://redworld.pro:8880/images/16420ee965cfee6d5f892166edc8b530.jpg" group-title="⭐️ Series Anime ",Naruto Shippuden S12 E02
@@ -1094,5 +1082,3 @@ http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/513281.mp4
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/513282.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S20 E87" tvg-logo="http://redworld.pro:8880/images/dbe445ac87726e9bf8e62eae934bd657.jpg" group-title="⭐️ Series Anime ",Naruto Shippuden S20 E87
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/513283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="http://redworld.pro:8880/images/28681953c9b45e058d247d0c71b61702.jpg" group-title="⭐️Películas 2022",Lightyear (2022)
-http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/258649.mkv
