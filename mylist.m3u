@@ -328,6 +328,8 @@ http://bgdc.live:25461/live/miss.sara/8749634/215100.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/215101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: AXN" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/813/CH_LOGO/160/160/0/0/561493290772534.png" group-title="19. LATIN / SPANISH",MX: AXN
 http://bgdc.live:25461/live/miss.sara/8749634/215102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="CANALES DE SERIE",AXN HD MEX
+http://149.104.90.177/eventos14/rqtv_get.php?id=323939204c41543a2041584e&type=master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: AZ CINEMA" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/945/CH_LOGO/160/160/0/0/280142210795687.png" group-title="19. LATIN / SPANISH",MX: AZ CINEMA
 http://bgdc.live:25461/live/miss.sara/8749634/215103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA 7" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/968/CH_LOGO/160/160/0/0/322805130716464.png" group-title="19. LATIN / SPANISH",MX: AZTECA 7
@@ -388,8 +390,6 @@ http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1654
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32083
 #EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 5" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX5HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 5
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1652
-#EXTINF:-1 tvg-id="2618" tvg-name="beINSPORTS HABER HD" tvg-logo="http://45.129.183.111/spor_files/beinhaberfhd.png" group-title="TR| SPOR",beINSPORTS HABER HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37165
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/252151
 #EXTINF:-1 tvg-id="" tvg-name="MX: Canal 22 HD" tvg-logo="" group-title="19. LATIN / SPANISH",MX: Canal 22 HD
@@ -410,18 +410,12 @@ http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/410187
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/14881
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 10" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live10.png" group-title="FR| SPORTS",FR| CANAL+LIVE 10
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/16148
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 11" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live11.png" group-title="FR| SPORTS",FR| CANAL+LIVE 11
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32054
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 13" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live13.png" group-title="FR| SPORTS",FR| CANAL+LIVE 13
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/16160
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT" tvg-logo="https://lo1.in/fr/cnlpsp0.png" group-title="FR| SPORTS",FR| CANAL+ SPORT
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26421
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://lo1.in/fr/cspthd.png" group-title="FR| SPORTS",FR| CANAL+ SPORT HD
 http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1657
-#EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
+#EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ-PUh7630VuABXV8m
-#EXTINF:-1 xui-id="119766" tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL SD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqRDk_F2A8X8XV9lMuWbrhCBnZS_D3DJGjVgUcjVk3hv
 #EXTINF:-1 tvg-id="" tvg-name="MX: Cartoon Network" tvg-logo="http://www.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Cartoon Network
 http://bgdc.live:25461/live/miss.sara/8749634/215120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: Cartoonito" tvg-logo="http://www.tmsimg.com/assets/s31760_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Cartoonito
@@ -580,8 +574,6 @@ http://bgdc.live:25461/live/miss.sara/8749634/215170.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/215171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: HBO POP HD" tvg-logo="http://www.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: HBO POP HD
 http://bgdc.live:25461/live/miss.sara/8749634/215172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: HBO Signature" tvg-logo="http://www.tmsimg.com/assets/s10243_h3_aa.png" group-title="19. LATIN / SPANISH",MX: HBO Signature
-http://bgdc.live:25461/live/miss.sara/8749634/215173.m3u8
 #EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title="PAQUETE HBO",ENT | HB0 SIGNATURE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqeUUjUCFOcC1iqXYzNrXIdxtH2ISZhXXauHDGQxwehL
 #EXTINF:-1 tvg-id="" tvg-name="MX: HBO XTREME" tvg-logo="http://www.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: HBO XTREME
@@ -644,14 +636,6 @@ http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490477
 http://bgdc.live:25461/live/miss.sara/8749634/215185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: MTV" tvg-logo="http://www.tmsimg.com/assets/s12712_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: MTV
 http://bgdc.live:25461/live/miss.sara/8749634/215187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV 00s" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/544/CH_LOGO/160/160/0/0/7187722207120767.png" group-title="19. LATIN / SPANISH",MX: MTV 00s
-http://bgdc.live:25461/live/miss.sara/8749634/215188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV 80s" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/821/CH_LOGO/160/160/0/0/134231300765060.png" group-title="19. LATIN / SPANISH",MX: MTV 80s
-http://bgdc.live:25461/live/miss.sara/8749634/215189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV Hits" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/206/CH_LOGO/160/160/0/0/783970570767787.png" group-title="19. LATIN / SPANISH",MX: MTV Hits
-http://bgdc.live:25461/live/miss.sara/8749634/215190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV Live HD" tvg-logo="http://www.tmsimg.com/assets/s66419_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: MTV Live HD
-http://bgdc.live:25461/live/miss.sara/8749634/215191.m3u8
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MX | MULTIPREMIER" tvg-logo=src="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="19. LATIN / SPANISH",MX | MULTIPREMIER
 http://bgdc.live:25461/live/miss.sara/8749634/215178.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: National Geographic" tvg-logo="http://www.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: National Geographic
@@ -732,8 +716,6 @@ http://bgdc.live:25461/live/miss.sara/8749634/215201.m3u8
 http://bgdc.live:25461/live/miss.sara/8749634/215205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX: Space" tvg-logo="http://www.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Space
 http://bgdc.live:25461/live/miss.sara/8749634/215203.m3u8
-#EXTINF:-1 xui-id="119771" tvg-id="" tvg-name="CO | RCN FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087QpgbSWmH5e5fSoz0x3hXMYTAl9Ihy30A5oouf1D-ND-.png" group-title="COLOMBIA",CO | RCN
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqFtB8_418sHslATPDxjzjRnIgR8DtAyS4YM2hGM75r8
 #EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO: RCN Novelas
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
 #EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
@@ -824,8 +806,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvv8hYnZOZqbSLjip2DVpk2RoV6M
 http://bgdc.live:25461/live/miss.sara/8749634/215226.m3u8
 #EXTINF:-1 tvg-id="EL: UNIVISION MIAMI FL WLTV" tvg-name="USL: UNIVISION MIAMI (WLTV)" tvg-logo="" group-title="TELEMUNDO / UNIMAS",USL: UNIVISION MIAMI (WLTV)
 http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/780601
-#EXTINF:-1 tvg-id="" tvg-name="ARG | VER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUuk2eK30VLGHUUSRMHqdFVSmqoA9tcaZ4UZINGGp_Q&s" group-title="⭐️ Argentina",ARG | VER TV
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490465
 #EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | Volver" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | Volver
@@ -2234,251 +2214,3 @@ http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/522307.mkv
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/522308.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E07" tvg-logo="http://redworld.pro:8880/images/25d2b08062f8b69501dc3e5c69fc33cb.jpg" group-title="⭐️ Series Netflix ",Sabuesos S02 E07
 http://rlatinop.com:8880/series/chiqui123/g54R8qaxvnv6/522309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XUFWn9fvuA1oo3DdAfb3A4ZEIo.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E01
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3eB97S8bG6YMppV6rJDU3jCbZ5.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E02
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhlA5VjRYpdz9Lz240rBHkzdith.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E03
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXbmG475A38gxP7DUXDCdup6iSE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E04
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUEiF3dFXEH56LosjzJnCsQammN.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E05
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h3xA3zrcy2OVqPBY7tR3qgML2z.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E06
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80m3XUSqFfCMNw6GpWY2Q1KAesS.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E07
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjqRFwr2v91gq8qzfefil8egCPt.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E08
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Mf0l59K2OQ0I7q1oR06cIqo5zT.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E09
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMcPzhH0rScvMSejNluYtFYxISg.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E10
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUtF2A9EfkdthCrlxTnqd0sXRpO.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E11
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118910.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfOP5WZIkDNifAfXwQ7H84ZrqTv.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E12
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1RkiIw0eNhhH1wLzUyYYimlBVg.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E13
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118912.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy4NJR9kqEelJ5teHPlAINBNnpE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E14
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtuuZvOqAyHyIB7l0gxf2XfgYN.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E15
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJoRCwptCOpTZVkYysHDBFdO4OR.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E16
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtTNNuGbkeLJxQ0XJegQ7J3TNma.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E17
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDdapd9idn06AAQsLVvaSDSrWlm.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E18
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAue77ie9C2MGFpwCbMIvoPvbNQ.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E19
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118918.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztEK1MtwwbG7D0jb95A59qxaS3G.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E20
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viBmFStZIZMOXq71YDrBgqZEhDD.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E21
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Wcby9maE08RaH3mS7aAHw5hkM.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E22
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pJtFmAS3TJuWoCaUrY904pqNFE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E23
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E24
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E25
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E26
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E27
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/118926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4Hy6lntZDS6sGJGPCjhJ5bcCO.jpg" group-title="Amazon Prime Video",Invencible S03 E01
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v21YbRKZvEBp84bOb30bSPt6fIX.jpg" group-title="Amazon Prime Video",Invencible S03 E02
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzOMmcSbr3YzFe90mK5uFYhb220.jpg" group-title="Amazon Prime Video",Invencible S03 E03
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FWIBME33cC9qRoS6Y2qui0QaWC.jpg" group-title="Amazon Prime Video",Invencible S03 E04
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148288.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21Eov71SQJV3MESVBityTPVITLc.jpg" group-title="Amazon Prime Video",Invencible S03 E05
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NMW2Q21EOINDHcFeJvzm1i73xW.jpg" group-title="Amazon Prime Video",Invencible S03 E06
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydn7SFlgi8fUP6jQcjr1zJGtVMa.jpg" group-title="Amazon Prime Video",Invencible S03 E07
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HqCGRpP4BfbPoQ3rQ71ViuWwXk.jpg" group-title="Amazon Prime Video",Invencible S03 E08
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJXlwnJCp9BuAhW2y8SjbvCcRct.jpg" group-title="Amazon Prime Video",Invencible S04 E01
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZljaDBUuBrKQjm0sRKfKorNFmk.jpg" group-title="Amazon Prime Video",Invencible S04 E02
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148294.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feqa4Ct3uOpMvwWfJkvQet6w1yP.jpg" group-title="Amazon Prime Video",Invencible S04 E03
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAgbFn1AEBxgUksM1mHuaEBDmAS.jpg" group-title="Amazon Prime Video",Invencible S04 E04
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148296.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbCcDf2fVUlutvArKJtH1yiMZWC.jpg" group-title="Amazon Prime Video",Invencible S04 E05
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148297.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7Z18kQXUbVy7Q9M42qOqGhVuTs.jpg" group-title="Amazon Prime Video",Invencible S04 E06
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148298.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg" group-title="Amazon Prime Video",Invencible S04 E07
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/148299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM9oNwkHjmZc0jm3JxXm7HFhKtI.jpg" group-title="NETFLIX",ONE PIECE S02 E01
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qotAgzhUB4HKjuE8QLNehLPasUr.jpg" group-title="NETFLIX",ONE PIECE S02 E02
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qdpa1vzYrkZQR63aRIzF4Ibnbf.jpg" group-title="NETFLIX",ONE PIECE S02 E03
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swosbsnrsf6Qm7BXrrAGNiQKKOs.jpg" group-title="NETFLIX",ONE PIECE S02 E04
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWKUIBlOqnZdk0AIrS7y12ruO6H.jpg" group-title="NETFLIX",ONE PIECE S02 E05
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4v3WreE3jjaxXhYKxUqUTVoaV2.jpg" group-title="NETFLIX",ONE PIECE S02 E06
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rh76Fkk5xuyp03S8ECYSt5U9t6.jpg" group-title="NETFLIX",ONE PIECE S02 E07
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxXB5mkKH650mD3xFsWCIPYL32S.jpg" group-title="NETFLIX",ONE PIECE S02 E08
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/147590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6mOFlmTK6jKYKgk2YFaMvjlSx.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E01
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kveOWw2d13KkPsjMOiYJrgOTrQi.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E02
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxXa80ExiSAvcClJRWYyxRlVwCt.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E03
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13pP2kr6NZ4wSjybind8xQV3ecr.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E04
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUQgsTLEeUsnF8qRuUfdoBcnR8p.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E05
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/479OWCA1cywP8VVOxLmUoWfOeBi.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E06
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ORpzIvSQ6Rhbc8SXXj40uDpK2b.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E07
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc5Ge2jDVI6Ztk3OCqLWVRXExnF.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E08
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFTbLJivonUMs7p4QVF3vr4epw.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E09
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8X1atvFUs5wgkgVgvhp5RbLsTq.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E10
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137143.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqYJ1Nuap3Z73JvdebWhIJM38rz.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E11
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Vigilantes S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRBJuraXeqnuBAUpRWnxT1bTliw.jpg" group-title="ANIME",My Hero Academia: Vigilantes S01 E12
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/137145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viuda negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKntUTTLxUgizTe3jFcGLuHc84c.jpg" group-title="CIENCIA FICCION",Viuda negra (2021)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126809.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" group-title="PELICULAS DE  TERROR",La matanza de Texas (1974)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/121658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAm7IAqfK6VL2h1yh9QbpcctaT.jpg" group-title="ACCION Y AVENTURA",La guerra del planeta de los simios (2017)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/120961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El reino del planeta de los simios (2024) Full HD 5.1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8L3fUvftNeqPMCITdXJfiXbFBU.jpg" group-title="CIENCIA FICCION",El reino del planeta de los simios (2024) Full HD 5.1
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/101447.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="4 K",Wonder Woman 1984 (2020)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/103554.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wLqXiiiaTSK8Y0n7N85O0jaNJm.jpg" group-title="4 K",Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/133587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El escuadrón suicida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg" group-title="CIENCIA FICCION",El escuadrón suicida (2021)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg" group-title="PELICULAS CLASICAS",Terminator (1984)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/123426.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 2: El juicio final (1991)"  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfdPTjdP2JGRAajIoi25Gh2Elmz.jpg" group-title="ACCION Y AVENTURA",Terminator 2: El juicio final (1991)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/123427.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator 3: La rebelión de las máquinas (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg" group-title="PELICULAS CLASICAS",Terminator 3: La rebelión de las máquinas (2003)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/123428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator: Salvation (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgNYnAT16rn592QjjxJ1zRB5uoG.jpg" group-title="PELICULAS CLASICAS",Terminator: Salvation (2009)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/123429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator Génesis (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg" group-title="PELICULAS CLASICAS",Terminator Génesis (2015)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/123430.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Annabelle (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" group-title="PELICULAS DE  TERROR",Annabelle (2014)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Predator (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" group-title="CIENCIA FICCION",Alien vs. Predator (2004)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/141580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aliens vs. Predator 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg" group-title="CIENCIA FICCION",Aliens vs. Predator 2 (2007)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/141581.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Predators (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYH9FtLUtaIgiGKrVqo82TklFIY.jpg" group-title="CIENCIA FICCION",Predators (2010)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BU5OxTFSPGEUMF7qEbU0BBrgOM.jpg" group-title="DISNEY - Star+",The Acolyte S01 E01
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYIEFKrnYWhD2NOpwBRmUTDIXPd.jpg" group-title="DISNEY - Star+",The Acolyte S01 E02
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXNMktM90svjlXGeIG8Uq0qWZQz.jpg" group-title="DISNEY - Star+",The Acolyte S01 E03
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ombxA88DsT1iP2xPwBYCTQsE7zR.jpg" group-title="DISNEY - Star+",The Acolyte S01 E04
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" group-title="DISNEY - Star+",The Acolyte S01 E05
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UaIeS3LZJDupoMO44k03Tps3JC.jpg" group-title="DISNEY - Star+",The Acolyte S01 E06
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yPcCMHk26SQuiQYK1PMEKNMuxV0.jpg" group-title="DISNEY - Star+",The Acolyte S01 E07
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ofLhs7Ko9MYKQ9Gdlr9lRHC4wPz.jpg" group-title="DISNEY - Star+",The Acolyte S01 E08
-http://planettvweb.com:8091/series/SheilaRodriguez/Rodriguez302/102844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda (2006)" tvg-logo="https://mx.web.img2.acsta.net/pictures/18/06/04/05/01/1390581.jpg" group-title="COMEDIAS",El diablo viste a la moda (2006)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148943.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la Moda 2 (2026) V2 1080 HD Latino" tvg-logo="https://competitive.ultracine.com/wp-content/uploads/2025/06/El-diablo-viste-a-la-moda-2-819x1024.jpeg" group-title="NUEVAS",El diablo viste a la Moda 2 (2026) V2 1080 HD Latino
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/149786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg" group-title="CIENCIA FICCION",Mortal Kombat (2021)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) V2 HD Telesync Latino" tvg-logo="https://es.web.img2.acsta.net/img/81/81/8181d40dee422bdd4e246de840918247.jpg" group-title="NUEVAS",Mortal Kombat II (2026) V2 HD Telesync Latino
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/149686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La barbería (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg" group-title="COMEDIAS",La barbería (2002)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/149782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La barbería 2: Vuelta al negocio (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmJB61JNKQYuvEgNFtenTbzy0yE.jpg" group-title="COMEDIAS",La barbería 2: Vuelta al negocio (2004)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/149781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La barbería 3: Todo el mundo necesita un corte (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS02PgUL6vYn1yhJJuWbcLpYDj2.jpg" group-title="COMEDIAS",La barbería 3: Todo el mundo necesita un corte (2016)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/149783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Michael (2026) 1080 Telesync 5.1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg" group-title="NUEVAS",Michael (2026) 1080 Telesync 5.1
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Intercambiados (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg" group-title="NUEVAS",Intercambiados (2026)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148932.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche de Bodas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQoSPyAGHseY5NhMM28orLkxjq.jpg" group-title="ROMANCE",Noche de Bodas (2024)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/101106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche de bodas 2 (2026) Full HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg" group-title="NUEVAS",Noche de bodas 2 (2026) Full HD
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://mx.web.img3.acsta.net/img/07/a2/07a223b3acccdfaea161458b98e9fd23.jpg" group-title="NUEVAS",Proyecto Fin del Mundo (2026)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy la película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg" group-title="NUEVAS",Super Mario Galaxy la película (2026)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mad Max 3: Más allá de la cúpula del trueno (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg" group-title="ACCION Y AVENTURA",Mad Max 3: Más allá de la cúpula del trueno (1985)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/148032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta (2019)" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/07/12/17/24/5561658.jpg" group-title="NUEVAS",Boda Sangrienta (2019)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/147992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream 2 (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znWATQlDq5TmVm2miW4KHmMOr3V.jpg" group-title="PELICULAS DE  TERROR",Scream 2 (1997)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream 3 (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg" group-title="PELICULAS DE  TERROR",Scream 3 (2000)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream 4 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg" group-title="PELICULAS DE  TERROR",Scream 4 (2011)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" group-title="PELICULAS DE  TERROR",Scream VI (2023)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126581.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hoppers (2026) HDrip Latino" tvg-logo="https://mx.web.img3.acsta.net/img/d3/f8/d3f805b87d589b9660b582a10220c990.jpg" group-title="NUEVAS",Hoppers (2026) HDrip Latino
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/147991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="GOAT: Como cabras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg" group-title="NUEVAS",GOAT: Como cabras (2026)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/147660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No respires (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A5sAyP9iENTRL5X86FUeYmo0wZ.jpg" group-title="PELICULAS DE  TERROR",No respires (2016)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/147637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No respires 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0kJOePRfC59exAb7e3wrCTSMbK.jpg" group-title="PELICULAS DE  TERROR",No respires 2 (2021)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/147638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La llamada (2002)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/7e06c564bea82f72efe2cae4cd90423b50ac5a135895f5baab53175954ff049b.jpg" group-title="PELICULAS DE  TERROR",La llamada (2002)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/111122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Llamada 2 (2005)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/75/50/20065286.jpg" group-title="PELICULAS DE  TERROR",La Llamada 2 (2005)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/111123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El grito (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNBzIoK5f5YxroprnnoQvDbN37W.jpg" group-title="PELICULAS DE  TERROR",El grito (2004)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El grito 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg" group-title="PELICULAS DE  TERROR",El grito 2 (2006)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El grito 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg" group-title="PELICULAS DE  TERROR",El grito 3 (2009)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/126790.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g56u2k9CvMHP5IG257QVj9gj1b.jpg" group-title="PELICULAS INFANTILES",Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares (2024)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/99259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La sustancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg" group-title="CIENCIA FICCION",La sustancia (2024)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/142514.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El tren del infierno (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PFHKPqFmQP7WOcj0aoGYlu7WuB.jpg" group-title="PELICULAS CLASICAS",El tren del infierno (1985)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/91372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rapidos y Furiosos 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TX1T3c3CDBN0y8iDNvlQbtiA5Z.jpg" group-title="ACCION Y AVENTURA",Rapidos y Furiosos 9 (2021)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/145748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rapido y Furiosos X (2023) 1080" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="ACCION Y AVENTURA",Rapido y Furiosos X (2023) 1080
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/145759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apocalypse Now (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg" group-title="BELICO",Apocalypse Now (1979)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/145826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="War Horse (Caballo de batalla) (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdkphnrXmqOvh0mEwYN9xrWGI3w.jpg" group-title="BELICO",War Horse (Caballo de batalla) (2011)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/145827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Five Nights at Freddy's 2 (2025) HD Latino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="NUEVAS",Five Nights at Freddy's 2 (2025) HD Latino
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/144579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025) HD LATINO 5.1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDaWFIrBuOaFrTmBpAlMfmsa81N.jpg" group-title="NUEVAS",Zootopia 2 (2025) HD LATINO 5.1
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/144449.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaQdh164coVcrNiQm6jpehYG1dV.jpg" group-title="NUEVAS",JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie (2025)
-http://planettvweb.com:8091/movie/SheilaRodriguez/Rodriguez302/144638.mkv
