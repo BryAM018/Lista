@@ -1,18 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="*$PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="⭐️ CHILE DEPORTE",*$PORTS 2 (CHI)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/120550
-#EXTINF:-1 tvg-id="" tvg-name="MX: A&E" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/812/CH_LOGO/160/160/0/0/374925840787004.png" group-title="19. LATIN / SPANISH",MX: A&E
-http://bgdc.live:25461/live/miss.sara/8749634/215094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: adn 40 HD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/967/CH_LOGO/160/160/0/0/535882890715384.png" group-title="19. LATIN / SPANISH",MX: adn 40 HD
-http://bgdc.live:25461/live/miss.sara/8749634/215096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Adult Swim" tvg-logo="http://www.tmsimg.com/assets/s26769_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: Adult Swim
-http://bgdc.live:25461/live/miss.sara/8749634/215098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: AMC" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/561/CH_LOGO/160/160/0/0/672311760790653.png" group-title="19. LATIN / SPANISH",MX: AMC
-http://bgdc.live:25461/live/miss.sara/8749634/215099.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  FHD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414503
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC HD
@@ -23,166 +12,32 @@ http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414505
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490463
 #EXTINF:-1 tvg-id="" tvg-name="ANTOFAGASTA TV" tvg-logo="http://goldfull.pro:8880/images/431205a7190450ce000342033ff36c24.png" group-title="⭐️ CHILE REGIONALES",ANTOFAGASTA TV
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/252153
-#EXTINF:-1 tvg-id="" tvg-name="MX: Animal Planet" tvg-logo="http://www.tmsimg.com/assets/s103224_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Animal Planet
-http://bgdc.live:25461/live/miss.sara/8749634/215100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Antena 3" tvg-logo="http://www.tmsimg.com/assets/s90309_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Antena 3
-http://bgdc.live:25461/live/miss.sara/8749634/215101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: AXN" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/813/CH_LOGO/160/160/0/0/561493290772534.png" group-title="19. LATIN / SPANISH",MX: AXN
-http://bgdc.live:25461/live/miss.sara/8749634/215102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="CANALES DE SERIE",AXN HD MEX
 http://149.104.90.177/eventos14/rqtv_get.php?id=323939204c41543a2041584e&type=master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZ CINEMA" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/945/CH_LOGO/160/160/0/0/280142210795687.png" group-title="19. LATIN / SPANISH",MX: AZ CINEMA
-http://bgdc.live:25461/live/miss.sara/8749634/215103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA 7" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/968/CH_LOGO/160/160/0/0/322805130716464.png" group-title="19. LATIN / SPANISH",MX: AZTECA 7
-http://bgdc.live:25461/live/miss.sara/8749634/215104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZCLIC" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/943/CH_LOGO/160/160/0/0/248688360792197.png" group-title="19. LATIN / SPANISH",MX: AZCLIC
-http://bgdc.live:25461/live/miss.sara/8749634/215106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca uno HD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/969/CH_LOGO/160/160/0/0/813239380724519.png" group-title="19. LATIN / SPANISH",MX: Azteca uno HD
-http://bgdc.live:25461/live/miss.sara/8749634/215107.m3u8
-#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15161
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2 HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/12090
-#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2 4K
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69279
-#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/24857
-#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15160
-#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 4K
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69281
-#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32529
-#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15159
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4 HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/47535
-#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4 4K
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69283
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69789
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69790
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 HD 50FPS" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5 HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69142
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 4K" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5 4K
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69003
-#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="beINSPORTS 1max HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR| beINSPORTS",beINSPORTS 1max HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15158
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1max HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR| beINSPORTS",beINSPORTS 1max HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/47978
-#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beINSPORTS 2max" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR| beINSPORTS",beINSPORTS 2max
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32058
-#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beINSPORTS 2max HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR| beINSPORTS",beINSPORTS 2max HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15157
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2max HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR| beINSPORTS",beINSPORTS 2max HD 50FPS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69144
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS 1" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEISPORT1HD.png" group-title="FR| SPORTS",FR| beINSPORTS 1
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26262
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS HD 1" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEISPORT1HD.png" group-title="FR| SPORTS",FR| beINSPORTS HD 1
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1656
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS HD 2" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORT2HD.png" group-title="FR| SPORTS",FR| beINSPORTS HD 2
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1655
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS HD 3" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORT3HD.png" group-title="FR| SPORTS",FR| beINSPORTS HD 3
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1654
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX4HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32083
-#EXTINF:-1 tvg-id="" tvg-name="FR| beINSPORTS max 5" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BEINSPORTMAX5HD.png" group-title="FR| SPORTS",FR| beINSPORTS max 5
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1652
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/252151
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 22 HD" tvg-logo="" group-title="19. LATIN / SPANISH",MX: Canal 22 HD
-http://bgdc.live:25461/live/miss.sara/8749634/215111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 24 Horas" tvg-logo="http://www.tmsimg.com/assets/s20742_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Canal 24 Horas
-http://bgdc.live:25461/live/miss.sara/8749634/215112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 5 HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2YWY1OTMzLWM4ZTAtNGQ1Yi04NDg4LTQ1MzM5YzViMDI1MlwvZGYwOTR6cS03ODA0MGM2ZS1jNzkzLTRiM2EtODYyNS0yY2JkMTcyNzA0MDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aI9eAmcwnIjegxFyrbwQw9-dwuykYGCE8AO-q-Mo-aE" group-title="19. LATIN / SPANISH",MX: Canal 5 HD
-http://bgdc.live:25461/live/miss.sara/8749634/215115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 6" tvg-logo="" group-title="19. LATIN / SPANISH",MX: Canal 6
-http://bgdc.live:25461/live/miss.sara/8749634/215116.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 11"  GUATEMALA"CANAL 11" tvg-logo="http://redworld.pro:8880/images/1e216f0de32c66b15b6332513f96407c.png" group-title="⭐️ Guatemala",CANAL 11"  GUATEMALA"CANAL 11
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/432855
 #EXTINF:-1 tvg-id="CanalCHD.co@SD",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Televida (Argentina)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Canal Televida (Argentina)
+#EXTINF:-1 tvg-id="" tvg-name="Canal Televida (Argentina)" tvg-logo="" group-title=" Canales "Conexiones Lentas"",Canal Televida (Argentina)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/410187
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 9" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live9.png" group-title="FR| SPORTS",FR| CANAL+LIVE 9
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/14881
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 10" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live10.png" group-title="FR| SPORTS",FR| CANAL+LIVE 10
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/16148
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+LIVE 13" tvg-logo="https://raw.githubusercontent.com/MyWorkTV/IPTV_Picons/refs/heads/main/FR/C_live13.png" group-title="FR| SPORTS",FR| CANAL+LIVE 13
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/16160
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="https://lo1.in/fr/cspthd.png" group-title="FR| SPORTS",FR| CANAL+ SPORT HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1657
 #EXTINF:-1 xui-id="119764" tvg-id="" tvg-name="CO | CARACOL" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZdXJUMkeU66SLclkfBZHjGkBN3IzRJabq7bCYQcVkrP.png" group-title="COLOMBIA",CO | CARACOL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ-PUh7630VuABXV8m
-#EXTINF:-1 tvg-id="" tvg-name="MX: Cartoon Network" tvg-logo="http://www.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Cartoon Network
-http://bgdc.live:25461/live/miss.sara/8749634/215120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Cartoonito" tvg-logo="http://www.tmsimg.com/assets/s31760_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Cartoonito
-http://bgdc.live:25461/live/miss.sara/8749634/215121.m3u8
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="20. USA SPORTS -ESPN",CBS SPORTS
-http://bgdc.live:25461/live/miss.sara/8749634/8459.m3u8
 #EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://redworld.pro:8880/images/06074edd7f572f827c08c4ef64c49049.png" group-title="⭐️ CHILE  ",CL | CHILEVISION HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/58287
-#EXTINF:-1 tvg-id="" tvg-name="MX: CINEMA PLATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Cplatino.png/revision/latest?cb=20220412195517" group-title="19. LATIN / SPANISH",MX: CINEMA PLATINO
-http://bgdc.live:25461/live/miss.sara/8749634/215110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: CINECANAL" tvg-logo="http://www.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: CINECANAL
-http://bgdc.live:25461/live/miss.sara/8749634/215122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  FHD
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414479
-#EXTINF:-1 tvg-id="" tvg-name="MX: CINEMAX" tvg-logo="http://www.tmsimg.com/assets/s10120_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: CINEMAX
-http://bgdc.live:25461/live/miss.sara/8749634/215123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | *C1NEMAX* HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *C1NEMAX* HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414457
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | *C1NEMAX* SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *C1NEMAX* SD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414458
 #EXTINF:-1 tvg-id="" tvg-name="ARG | Cine AR" tvg-logo="http://redworld.pro:8880/images/9886b06ab7ad16606fa6213688d32688.png" group-title="⭐️ Argentina",ARG | Cine AR
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490461
-#EXTINF:-1 tvg-id="" tvg-name="MX | CLARO SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest?cb=20140409052254" group-title="19. LATIN / SPANISH",MX | CLARO SPORTS
-http://bgdc.live:25461/live/miss.sara/8749634/215175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: CNN en Español" tvg-logo="http://www.tmsimg.com/assets/s105477_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: CNN en Español
-http://bgdc.live:25461/live/miss.sara/8749634/215125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/208/CH_LOGO/160/160/0/0/2272528707106112.png" group-title="19. LATIN / SPANISH",MX: Comedy Central
-http://bgdc.live:25461/live/miss.sara/8749634/215126.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="DAZN LaLiga 3 FHD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/dazn_tv_laliga/dazn_tv_laliga_3.png" group-title="== Primera Division por Dazn",DAZN LaLiga 3 FHD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/e7a03684-dc57-46f6-a238-112393d700a8.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="DAZN LaLiga 4 FHD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/dazn_tv_laliga/dazn_tv_laliga_4.png" group-title="== Primera Division por Dazn",DAZN LaLiga 4 FHD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/2f714cd8-8f1e-4e4c-b81e-d2ce5e696ed5.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula" tvg-logo="http://www.tmsimg.com/assets/s16288_h3_aa.png" group-title="19. LATIN / SPANISH",MX: De Pelicula
-http://bgdc.live:25461/live/miss.sara/8749634/215127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: PANICO" tvg-logo="" group-title="19. LATIN / SPANISH",MX: PANICO
-http://bgdc.live:25461/live/miss.sara/8749634/215128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula Plus HD" tvg-logo="http://www.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: De Pelicula Plus HD
-http://bgdc.live:25461/live/miss.sara/8749634/215129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Channel" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/567/CH_LOGO/160/160/0/0/376909670725788.png" group-title="19. LATIN / SPANISH",MX: Discovery Channel
-http://bgdc.live:25461/live/miss.sara/8749634/215130.m3u8
 #EXTINF:-1 xui-id="119428" tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087e1KBAN6JdRdYO1zirMlYGl7pCFS45M2Cr9QahWJVyZA.png" group-title="CULTURA ESPAÑA",CUL | DISCOVERY CHANNEL HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrmxI9-DIqdIXYhUqHcM-gKM9o9t2HBIfloc0majN0D5
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Home  Health" tvg-logo="http://www.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Discovery Home  Health
-http://bgdc.live:25461/live/miss.sara/8749634/215131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Kids" tvg-logo="http://www.tmsimg.com/assets/s16680_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Discovery Kids
-http://bgdc.live:25461/live/miss.sara/8749634/215132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Theater HD" tvg-logo="http://www.tmsimg.com/assets/s65940_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Discovery Theater HD
-http://bgdc.live:25461/live/miss.sara/8749634/215134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Turbo" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/570/CH_LOGO/160/160/0/0/206692940746608.png" group-title="19. LATIN / SPANISH",MX: Discovery Turbo
-http://bgdc.live:25461/live/miss.sara/8749634/215135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery World HD" tvg-logo="http://www.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Discovery World HD
-http://bgdc.live:25461/live/miss.sara/8749634/215136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Disney Channel" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/571/CH_LOGO/160/160/0/0/206471920719234.png" group-title="19. LATIN / SPANISH",MX: Disney Channel
-http://bgdc.live:25461/live/miss.sara/8749634/215137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Disney Junior HD" tvg-logo="http://www.tmsimg.com/assets/s104473_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Disney Junior HD
-http://bgdc.live:25461/live/miss.sara/8749634/215138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia" tvg-logo="http://www.tmsimg.com/assets/s55980_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Distrito Comedia
-http://bgdc.live:25461/live/miss.sara/8749634/215139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: DW Latinoamerica" tvg-logo="" group-title="19. LATIN / SPANISH",MX: DW Latinoamerica
-http://bgdc.live:25461/live/miss.sara/8749634/215141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: E! Entertainment" tvg-logo="http://www.tmsimg.com/assets/s32195_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: E! Entertainment
-http://bgdc.live:25461/live/miss.sara/8749634/215142.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil] HD"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek Fan
@@ -191,352 +46,76 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490460
 #EXTINF:-1 tvg-id="" tvg-name="ARG | EL NUEVE HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | EL NUEVE HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490472
-#EXTINF:-1 tvg-id="" tvg-name="MX: El Gourmet" tvg-logo="http://www.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="19. LATIN / SPANISH",MX: El Gourmet
-http://bgdc.live:25461/live/miss.sara/8749634/215144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: El Financiero - Bloomberg" tvg-logo="" group-title="19. LATIN / SPANISH",MX: El Financiero - Bloomberg
-http://bgdc.live:25461/live/miss.sara/8749634/215143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: EL NUEVE" tvg-logo="" group-title="19. LATIN / SPANISH",MX: EL NUEVE
-http://bgdc.live:25461/live/miss.sara/8749634/215198.m3u8
-#EXTINF:-1 xui-id="120913" tvg-id="" tvg-name="MX | ESPN HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aq0G8VGEtmfHXhi5YRR9OGZKWv9M2MelXnbIN_C6MRF.png" group-title="⚽ ESPN",MX | ESPN HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsZXdF9JSz0Q5OE5djeQPp_Q5FCEJ5_tStOMwEx8LWJC
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN" tvg-logo="http://www.tmsimg.com/assets/s10179_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: ESPN
-http://bgdc.live:25461/live/miss.sara/8749634/215146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2" tvg-logo="http://www.tmsimg.com/assets/s100563_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: ESPN 2
-http://bgdc.live:25461/live/miss.sara/8749634/215147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3" tvg-logo="http://www.tmsimg.com/assets/s68030_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: ESPN 3
-http://bgdc.live:25461/live/miss.sara/8749634/215148.m3u8
+#EXTINF:-1,AU: ESPN 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/25026
 #EXTINF:-1 xui-id="120921" tvg-id="" tvg-name="MX | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",MX | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqkLDKgPHMk2zXlqIt24_t_bgRHw5ipkW8icdQAMj3Hk
 #EXTINF:-1 xui-id="120927" tvg-id="" tvg-name="CO | ESPN 3 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087X1XJsg2kXn74rKUna7wB8rTYTdnIZc7M79MRbDvZsvL.png" group-title="⚽ ESPN",CO | ESPN 3 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqS7wqHteww8x5kJ75RtXqXCR2fU4Z8Cakc09HnWqYGo
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 4 HD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/575/CH_LOGO/160/160/0/0/3191804707121144.png" group-title="19. LATIN / SPANISH",MX: ESPN 4 HD
-http://bgdc.live:25461/live/miss.sara/8749634/215149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 2 HD" tvg-logo="https://lo1.in/nl/espn2.png" group-title="NL| SPORTS",( NL ) ESPN 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8204
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ESPN 3 HD" tvg-logo="https://lo1.in/nl/espn3.png" group-title="NL| SPORTS",( NL ) ESPN 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8202
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="20. USA SPORTS -ESPN",ESPN2
-http://bgdc.live:25461/live/miss.sara/8749634/38227.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" ,ExtremaTv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Enlace TBN" tvg-logo="" group-title="19. LATIN / SPANISH",MX: Enlace TBN
-http://bgdc.live:25461/live/miss.sara/8749634/215145.m3u8
-#EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50174.png" group-title="TR| SPOR",EUROSPORT 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2043
-#EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50170.png" group-title="TR| SPOR",EUROSPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2042
-#EXTINF:-1 tvg-id="" tvg-name="MX: Europa Europa" tvg-logo="http://www.tmsimg.com/assets/s27741_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Europa Europa
-http://bgdc.live:25461/live/miss.sara/8749634/215150.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec",FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/521032
-#EXTINF:-1 tvg-id="" tvg-name="MX: Film  Arts" tvg-logo="http://www.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Film  Arts
-http://bgdc.live:25461/live/miss.sara/8749634/215152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports" tvg-logo="http://www.tmsimg.com/assets/s61704_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Fox Sports
-http://bgdc.live:25461/live/miss.sara/8749634/215155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports 2" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/770/CH_LOGO/160/160/0/0/938239240771328.png" group-title="19. LATIN / SPANISH",MX: Fox Sports 2
-http://bgdc.live:25461/live/miss.sara/8749634/215156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports 3" tvg-logo="http://www.tmsimg.com/assets/s105109_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Fox Sports 3
-http://bgdc.live:25461/live/miss.sara/8749634/215157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports Premium" tvg-logo="http://www.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: Fox Sports Premium
-http://bgdc.live:25461/live/miss.sara/8749634/215158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Food Network" tvg-logo="http://www.tmsimg.com/assets/s103855_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Food Network
-http://bgdc.live:25461/live/miss.sara/8749634/215153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Foro TV HD" tvg-logo="http://www.tmsimg.com/assets/s16462_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: Foro TV HD
-http://bgdc.live:25461/live/miss.sara/8749634/215154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: FX" tvg-logo="http://www.tmsimg.com/assets/s105689_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: FX
-http://bgdc.live:25461/live/miss.sara/8749634/215159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  FHD
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414497
-#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Plus HD" tvg-logo="http://www.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: Golden Plus HD
-http://bgdc.live:25461/live/miss.sara/8749634/215163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: HBO MUNDI" tvg-logo="http://www.tmsimg.com/assets/s70081_h3_aa.png" group-title="19. LATIN / SPANISH",MX: HBO MUNDI
-http://bgdc.live:25461/live/miss.sara/8749634/215170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: HBO Plus" tvg-logo="http://www.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: HBO Plus
-http://bgdc.live:25461/live/miss.sara/8749634/215171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: HBO POP HD" tvg-logo="http://www.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: HBO POP HD
-http://bgdc.live:25461/live/miss.sara/8749634/215172.m3u8
-#EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title="PAQUETE HBO",ENT | HB0 SIGNATURE HD
+#EXTINF:-1 xui-id="119674" tvg-id="" tvg-name="ENT | HB0 SIGNATURE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TF2p2vX2eSjixGFFbGMB2CuZFcXrUVCVv5d4-eDJ6Hx.png" group-title=" HBO",ENT | HB0 SIGNATURE HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqeUUjUCFOcC1iqXYzNrXIdxtH2ISZhXXauHDGQxwehL
-#EXTINF:-1 tvg-id="" tvg-name="MX: HBO XTREME" tvg-logo="http://www.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: HBO XTREME
-http://bgdc.live:25461/live/miss.sara/8749634/215174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="19. LATIN / SPANISH",MX: HGTV
-http://bgdc.live:25461/live/miss.sara/8749634/215182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: History 2" tvg-logo="http://www.tmsimg.com/assets/s80374_ll_h3_ad.png" group-title="19. LATIN / SPANISH",MX: History 2
-http://bgdc.live:25461/live/miss.sara/8749634/215176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: HISTORY CHANNEL" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/578/CH_LOGO/160/160/0/0/601366760740137.png" group-title="19. LATIN / SPANISH",MX: HISTORY CHANNEL
-http://bgdc.live:25461/live/miss.sara/8749634/215177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: ID" tvg-logo="http://www.tmsimg.com/assets/s105091_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: ID
-http://bgdc.live:25461/live/miss.sara/8749634/215179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV HD" tvg-logo="http://www.tmsimg.com/assets/s101096_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Imagen TV HD
-http://bgdc.live:25461/live/miss.sara/8749634/215180.m3u8
-#EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MajestadTelevision.ec@SD",Majestad Televisión
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec",Marca TV
 https://eu1.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 1 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37061
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 2 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37060
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 3 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37059
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 4 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37058
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 5 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37057
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 6 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37056
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 7 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 7 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37055
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 8 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 8 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37062
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="DE| MAGENTA 9 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 9 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10286
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 10 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 10 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139949
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 11 HD" tvg-logo="http://logo.premium-ott.com:9999/logo/50075.png" group-title="DE| SPORTS",DE| MAGENTA 11 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/3974
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 12 HD" tvg-logo="" group-title="DE| SPORTS",DE| MAGENTA 12 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189150
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 13 HD" tvg-logo="" group-title="DE| SPORTS",DE| MAGENTA 13 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189151
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA 14 HD" tvg-logo="" group-title="DE| SPORTS",DE| MAGENTA 14 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/189152
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png" group-title="⭐️ CHILE  ",CL | MEGA HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/28244
 #EXTINF:-1 xui-id="221102" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpFG_DzSI6aMpau6yUB7jJXzJqLzjtVYx3tC3ZHK8oUM
 #EXTINF:-1 xui-id="221103" tvg-id="" tvg-name="ES | MOVISTAR DEPORTES 2 HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087VkRnJfqfUGPNT3omTp7ZgePmfzPNdPyKo2u9AxF8Qe_.png" group-title="⚽ DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES 2 HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvJakK1mBDZ7MS4X0wqQ9Ge1kgq2Cz1cUHorBJlO7o5b
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga TV HD" tvg-logo="https://od.lk/s/NThfNTk3MjY2MjBf/movistarlaligafhd.png" group-title="== Primera Division por Movistar",M+ LaLiga TV HD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/1ea1afcd-4870-4c59-a3db-bc34904ab3dc.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV HD@" tvg-logo="https://od.lk/s/NThfNTk3MjY2MjBf/movistarlaligafhd.png" group-title="== Primera Division por Movistar",M+ LaLiga TV HD@
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/35f5b0d1-99a5-41c9-8199-1d7998eb16bf.ts
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_LaLiga_176x122_Camp.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones HD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/148ea962-31ac-4d1b-83ac-7b1ae48dbd6c.ts
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD ?" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_LaLiga_176x122_Camp.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones HD ?
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/26a4c465-9c26-479c-9cb3-dca7471b7230.ts
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ Liga de Campeones 2 HD ?" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones2fhd.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones 2 HD ?
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/c5de6fb1-9b40-4b8d-98e8-12ee5d5a8bd2.ts
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 HD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones2fhd.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones 2 HD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/586cc6c4-f331-4964-8021-89ccf22209e3.ts
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ Liga de Campeones 2 SD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones2fhd.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones 2 SD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/da4d5685-0207-4b0a-adc1-278d810bd8f4.ts
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 HD?" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeonesfhd.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones 3 HD?
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/06048f6c-7971-45d7-9f19-8940dded9d90.ts
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4 HD ?" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones4sd.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones 4 HD ?
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/4fcbc6e2-13e4-49ce-8624-377648da097a.ts
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5 HD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones5sd.png" group-title="== LIGACAMPEONES",M+ Liga de Campeones 5 HD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/5e34bff7-4799-4aac-b0cf-d07052ee9758.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="19. LATIN / SPANISH",MX: MULTICINEMA
-http://bgdc.live:25461/live/miss.sara/8749634/215181.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | Multivision" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",AR | Multivision
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490477
-#EXTINF:-1 tvg-id="" tvg-name="MX: MasChic" tvg-logo="http://www.tmsimg.com/assets/s17457_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: MasChic
-http://bgdc.live:25461/live/miss.sara/8749634/215185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV" tvg-logo="http://www.tmsimg.com/assets/s12712_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: MTV
-http://bgdc.live:25461/live/miss.sara/8749634/215187.m3u8
-#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MX | MULTIPREMIER" tvg-logo=src="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="19. LATIN / SPANISH",MX | MULTIPREMIER
-http://bgdc.live:25461/live/miss.sara/8749634/215178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: National Geographic" tvg-logo="http://www.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: National Geographic
-http://bgdc.live:25461/live/miss.sara/8749634/215193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Nick Jr." tvg-logo="https://edge.prod.ovp.ses.com:9002/images/542/CH_LOGO/160/160/0/0/810571930760295.png" group-title="19. LATIN / SPANISH",MX: Nick Jr.
-http://bgdc.live:25461/live/miss.sara/8749634/215194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Nickelodeon" tvg-logo="http://www.tmsimg.com/assets/s100403_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Nickelodeon
-http://bgdc.live:25461/live/miss.sara/8749634/215195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | NET TV" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | NET TV
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490459
 #EXTINF:-1 tvg-id="LatacungaTV.ec@SD",Latacunga TV (360p)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 xui-id="221240" tvg-id="" tvg-name="ES | LA LIGA HYPERMOTION FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087cdoXBK-ND-dVBrIYITJPNqoJTWCQg1EfeT84ngxeUN2Pi9TWzyp86Do05WF6nJPYQ.png" group-title="⚽ DEPORTES ESPAÑA",ES | LA LIGA HYPERMOTION FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBqlxBRu8KMqpGrzrP9oJMZg9Ealh-QpgaQ9aoN02S21x
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/segunda_devision/laligatv_hypermotion.png" group-title="== Segunda Division",LaLiga TV Hypermotion HD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/d65e76f2-0a60-4631-b2a1-2595924d451e.ts
-#EXTINF:-1 tvg-id="" tvg-name="Laliga TV Hypermotion HD @" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_159x110.png" group-title="== Segunda Division",Laliga TV Hypermotion HD @
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/88c3db81-8bd9-4cea-bd69-e5edcb0c0c8d.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2 HD @" tvg-logo="http://picon.tvparanosotros.ru/picon2023/segunda_devision/laligatv2_hypermotion.png" group-title="== Segunda Division",LaLiga TV Hypermotion 2 HD @
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/d73c9096-56d6-444c-aa89-8eef87bf66c5.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2 SD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/segunda_devision/laligatv2_hypermotion.png" group-title="== Segunda Division",LaLiga TV Hypermotion 2 SD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/8051c17f-6217-42a5-b775-bd6b1709c029.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga TV Hypermotion 3 HD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/segunda_devision/laligatv3_hypermotion.png" group-title="== Segunda Division",LaLiga TV Hypermotion 3 HD
-http://distribuir02offshore.ddns.net:8080/live/8T19143555525581F/ViHrn9U8GVpCrBwr/1c41ac0c-ff8a-4307-a18f-4e40e99978af.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Lifetime" tvg-logo="http://www.tmsimg.com/assets/s89197_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Lifetime
-http://bgdc.live:25461/live/miss.sara/8749634/215184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL | UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="⭐️ CHILE  ",CL | UCV HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/273733
-#EXTINF:-1 tvg-id="" tvg-name="MX: Once TV HD" tvg-logo="http://www.tmsimg.com/assets/s15178_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Once TV HD
-http://bgdc.live:25461/live/miss.sara/8749634/215199.m3u8
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD",Ondas Quevedeñas TV (720p) [Not 24/7]
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-name="Oromar TV HD ©" "https://i.ibb.co/QFYXSRx/oromarv.png",Oromar TV (720p)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oromar HD (Ecuador)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Oromar HD (Ecuador)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/410184
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportspremierleaguehd.png" group-title="DE| SPORTS",DE| SKY SPORT PREMIER LEAGUE HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69101
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT TOP EVENT HD" tvg-logo="http://xatemo.pro/picons_EU_all/skysportsmaineventhd.png" group-title="DE| SPORTS",DE| SKY SPORT TOP EVENT HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69102
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKYSPORT BUNDESLIGA" tvg-logo="http://logo.premium-ott.com:8000/logo/50148.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/69149
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKYSPORT BUNDESLIGA HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50148.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/37105
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKYSPORT BUNDESLIGA 1" tvg-logo="http://logo.premium-ott.com:8000/logo/50148.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 1
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/5858
-#EXTINF:-1 tvg-id="" tvg-name="DE| SKYSPORT BUNDESLIGA 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50148.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1918
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE| SKYSPORT BUNDESLIGA 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50146.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26248
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD DE" tvg-name="DE| SKYSPORT BUNDESLIGA 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50142.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1915
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE| SKYSPORT BUNDESLIGA 6 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50138.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/11290
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE| SKYSPORT BUNDESLIGA 7 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50136.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 7 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/11289
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE| SKYSPORT BUNDESLIGA 8 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50135.png" group-title="DE| SPORTS",DE| SKYSPORT BUNDESLIGA 8 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/11288
-#EXTINF:-1 tvg-id="" tvg-name="sporSMART 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/spor_smart2.png" group-title="TR| SPOR",sporSMART 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/26601
-#EXTINF:-1 tvg-id="3884" tvg-name="SPORTS TV HD" tvg-logo="http://picnanbla.xyz/picons/220x132/s/sportstv.png" group-title="TR| SPOR",SPORTS TV HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/32600
-#EXTINF:-1 tvg-id="" tvg-name="SSPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2040
-#EXTINF:-1 tvg-id="SSPORT-0xa" tvg-name="SSPORT HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15804
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="SSPORT UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/127095
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="SSPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport_2.png" group-title="TR| SSPORT",SSPORT 2
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/46616
-#EXTINF:-1 tvg-id="" tvg-name="SSPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport_2.png" group-title="TR| SSPORT",SSPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10028
-#EXTINF:-1 xui-id="120185" tvg-id="" tvg-name="ENT | STAR CHANNEL HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZuzR0odASxB-n9dlzLFOeORKWbJ3n1fD1HDY9lEyDX1.png" group-title="ENTRETENIMIENTO LATINO",ENT | STAR CHANNEL HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpxFPegF10cu1LKWINUEZxF1aj15nyPc847XSo76hcBe
-#EXTINF:-1 tvg-id="" tvg-name="MX: Star Channel" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/604/CH_LOGO/160/160/0/0/555712060715688.png" group-title="19. LATIN / SPANISH",MX: Star Channel
-http://bgdc.live:25461/live/miss.sara/8749634/215204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  FHD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414464
-#EXTINF:-1 xui-id="120187" tvg-id="" tvg-name="ENT | SONY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="ENTRETENIMIENTO LATINO",ENT | SONY HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBgEOL2IdOzLqqBL30fvd10BWcnN2oBYj1ReHAIC6phXk
 #EXTINF:-1 xui-id="119684" tvg-id="" tvg-name="LA | SONY CHANNEL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpDVUZtYjPnXEOj3Sw10utBgn1qeapNzzfVCTC5IDGq7
-#EXTINF:-1 tvg-id="" tvg-name="MX: Sony Channel" tvg-logo="http://www.tmsimg.com/assets/s16212_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: Sony Channel
-http://bgdc.live:25461/live/miss.sara/8749634/215201.m3u8
-#EXTINF:-1 xui-id="119711" tvg-id="" tvg-name="Studio Universal" tvg-logo="http://www.tmsimg.com/assets/s100358_h3_aa.png" group-title=" LATIN / SPANISH",Studio Universal
-http://bgdc.live:25461/live/miss.sara/8749634/215205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Space" tvg-logo="http://www.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Space
-http://bgdc.live:25461/live/miss.sara/8749634/215203.m3u8
+#EXTINF:-1,CO: RCN
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5258
 #EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO: RCN Novelas
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBp6onWAPlVgknWm-35NW-He7FCJnt-MFl9zJQ56vyXef
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR| SPORTS",FR| RMC SPORT 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1663
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR| SPORTS",FR| RMC SPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1662
-#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR| SPORTS",FR| RMC SPORT 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/1661
-#EXTINF:-1 tvg-id="" tvg-name="MX: TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="19. LATIN / SPANISH",MX: TELEMUNDO INTERNACIONAL
-http://bgdc.live:25461/live/miss.sara/8749634/215197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Teleformula" tvg-logo="http://www.tmsimg.com/assets/s34344_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: Teleformula
-http://bgdc.live:25461/live/miss.sara/8749634/215208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG | Telefe" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | Telefe
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490458
 #EXTINF:-1 xui-id="142345" tvg-id="" tvg-name="CR | TD+ HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087RkCnlN1ZD5xoZX5sAIcbo17v1H57A5PaK8v6yrGPPQs.png" group-title="COSTA RICA",CR | TD+ HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpZsdPV2ek0h59zemooVUGGdKC635BDUHOOcSzjxIMLT
-#EXTINF:-1 tvg-id="6527" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://www.canlitvplayer.com/media/images/tvlogo/ead99218-7774-4e93-b1cf-43904c279bd0_tivibu-spor-tv-player.png" group-title="TR| SPOR",TIVIBUSPOR 1 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2064
-#EXTINF:-1 tvg-id="6528" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="TR| SPOR",TIVIBUSPOR 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/5316
-#EXTINF:-1 tvg-id="6529" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="TR| SPOR",TIVIBUSPOR 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8012
 #EXTINF:-1 tvg-id="" tvg-name="ARG | TV Publica" tvg-logo="http://redworld.pro:8880/images/e18523361e24e6508919b799b7e0a144.png" group-title="⭐️ Argentina",ARG | TV Publica
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490456
-#EXTINF:-1 tvg-id="6525" tvg-name="TRTSPOR HD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/15135
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRTSPOR UHD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR UHD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/2049
-#EXTINF:-1 tvg-id="" tvg-name="MX: TL novelas" tvg-logo="http://www.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="19. LATIN / SPANISH",MX: TL novelas
-http://bgdc.live:25461/live/miss.sara/8749634/215212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TLC" tvg-logo="http://www.tmsimg.com/assets/s101780_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: TLC
-http://bgdc.live:25461/live/miss.sara/8749634/215213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TNT" tvg-logo="http://www.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: TNT
-http://bgdc.live:25461/live/miss.sara/8749634/215214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/23/TNT_Novelas_%282007%29.png/revision/latest/scale-to-width-down/246?cb=20231127013129" group-title="19. LATIN / SPANISH",MX: TNT Novelas
-http://bgdc.live:25461/live/miss.sara/8749634/215215.m3u8
-#EXTINF:-1 xui-id="120189" tvg-id="" tvg-name="ENT | TNT SERIES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZN_otNOPLaRBOu0CxNIVFvVCJrCkA1jj4emOAI4DkiL.png" group-title="ENTRETENIMIENTO LATINO",ENT | TNT SERIES HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBspPUfHRTFWxOhU9JLGB_0_R4iwyLDVQi3BN5HbtYfiW
-#EXTINF:-1 xui-id="118334" tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aKtt-7VyRpx5fn8YSl6GRoL5cXtilbLYsegLoQyAsXH.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrkzkpR1LciV4dvf65jedZDtPl3B6zOgoBapM5WLDmPw
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TSN1_new.png" group-title="20. USA SPORTS -ESPN",TSN 1
-http://bgdc.live:25461/live/miss.sara/8749634/38236.m3u8
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN2.png" group-title="20. USA SPORTS -ESPN",TSN 2
-http://bgdc.live:25461/live/miss.sara/8749634/38237.m3u8
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN3.png" group-title="20. USA SPORTS -ESPN",TSN 3
-http://bgdc.live:25461/live/miss.sara/8749634/38238.m3u8
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Tsn_4_ca.png" group-title="20. USA SPORTS -ESPN",TSN 4
-http://bgdc.live:25461/live/miss.sara/8749634/38239.m3u8
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN5.png" group-title="20. USA SPORTS -ESPN",TSN 5
-http://bgdc.live:25461/live/miss.sara/8749634/38240.m3u8
 #EXTINF:-1 tvg-id="TVColorCanal36.ec@SD",TV Color Canal 36 (720p)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 xui-id="118337" tvg-id="" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title="⚽ DEPORTES",AR | TyC SPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrTW64i0ZcYPBnEHwWIWZ9w7zpNC-aarjhyxgIz1A5ML
-#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
+#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TVC DEPORTES" tvg-logo="" group-title="19. LATIN / SPANISH",MX: TVC DEPORTES
-http://bgdc.live:25461/live/miss.sara/8749634/215151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TNT Series" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/603/CH_LOGO/160/160/0/0/7961086907107366.png" group-title="19. LATIN / SPANISH",MX: TNT Series
-http://bgdc.live:25461/live/miss.sara/8749634/215216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="19. LATIN / SPANISH",MX: TUDN
-http://bgdc.live:25461/live/miss.sara/8749634/215218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: UNIVERSO" tvg-logo="" group-title="19. LATIN / SPANISH",MX: UNIVERSO
-http://bgdc.live:25461/live/miss.sara/8749634/215114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Universal Cinema HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png" group-title="19. LATIN / SPANISH",MX: Universal Cinema HD
-http://bgdc.live:25461/live/miss.sara/8749634/215222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Universal Comedy HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" group-title="19. LATIN / SPANISH",MX: Universal Comedy HD
-http://bgdc.live:25461/live/miss.sara/8749634/215223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Universal Crime HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" group-title="19. LATIN / SPANISH",MX: Universal Crime HD
-http://bgdc.live:25461/live/miss.sara/8749634/215224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Universal Premier HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="19. LATIN / SPANISH",MX: Universal Premier HD
-http://bgdc.live:25461/live/miss.sara/8749634/215225.m3u8
-#EXTINF:-1 xui-id="119705" tvg-id="" tvg-name="LA | UNIVERSAL PREMIERE HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087SvOftnu85shArbtLh3LAUZx-cRu1BVSATKu2xsKHusEZTUQDKzZ0QfZv6ctt_kfmw.png" group-title="PAQUETE UNIVERSAL+",LA | UNIVERSAL PREMIERE HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBvv8hYnZOZqbSLjip2DVpk2RoV6MuxY9VFHKK8FYMTDL
-#EXTINF:-1 tvg-id="" tvg-name="MX: Universal Reality HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png" group-title="19. LATIN / SPANISH",MX: Universal Reality HD
-http://bgdc.live:25461/live/miss.sara/8749634/215226.m3u8
 #EXTINF:-1 tvg-id="EL: UNIVISION MIAMI FL WLTV" tvg-name="USL: UNIVISION MIAMI (WLTV)" tvg-logo="" group-title="TELEMUNDO / UNIMAS",USL: UNIVISION MIAMI (WLTV)
 http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/780601
 #EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | Volver" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | Volver
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490462
-#EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="37. COLUMBIA",CO: Win Sports
-http://bgdc.live:25461/live/miss.sara/8749634/191005.m3u8
-#EXTINF:-1 xui-id="119383" tvg-id="" tvg-name="CO | WINSPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS FHD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsgFZh0j-Wc1xzouYiFQlYRBANaS3zFFVoyyOd_4Rl-e
 #EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYpqA4bvCer1MMNmX0k
-#EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/1200?cb=20200225220524&path-prefix=es" group-title="37. COLUMBIA",CO: Win Sports + HD
-http://bgdc.live:25461/live/miss.sara/8749634/191008.m3u8
 #EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
 #EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D3GgVZ4iARAHk3TdV
 #EXTINF:-1 xui-id="119392" tvg-id="" tvg-name="CO | WINSPORTS+ SD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ SD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/141110
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/139942
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 2 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 2 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8213
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 3 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 3 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8218
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 4 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 4 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8216
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 5 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 5 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/10109
-#EXTINF:-1 tvg-id="" tvg-name="( NL ) ZIGGO SPORT 6 HD" tvg-logo="https://lo1.in/nl/zigspex.png" group-title="NL| SPORTS",( NL ) ZIGGO SPORT 6 HD
-http://03.yasar.tv:80/kudretsancak/gDqejKEYgRr/8210
 #EXTINF:-1 tvg-id="" tvg-name="Halloween II (1981)" tvg-logo="http://redworld.pro:8880/images/55b4f02eb12be10a5bb0436aa1be1d47.jpg" group-title="⭐️Cine retro",Halloween II (1981)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/301138.mkv
 #EXTINF:-1 tvg-name="Proyecto fin del Mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="CINE CIENCIA FICCION",Proyecto fin del Mundo (2026)
@@ -609,167 +188,331 @@ http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/701447.mkv
 http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/676105.mkv
 #EXTINF:-1 tvg-name="Super/Man: La historia de Christopher Reeve (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP0Lxg8p1FDLUKoO28MTGDdwpP0.jpg" group-title="DOCUMENTARIES MOVIE",Super/Man: La historia de Christopher Reeve (SUB)
 http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/602395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E1" tvg-logo="https://image.tmdb.org/t/p/w400/c3CUkVMNAGZpZ4h32LyaLyuvPel.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E1
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/b0112b40-ac51-4922-ba31-d23906e6f766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E2" tvg-logo="https://image.tmdb.org/t/p/w400/6Pl8NUbrBFkSG7C51nvFF8zNd9H.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E2
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/4a2e2395-d2d2-44b8-9ef9-fdf40cba0de4.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E3" tvg-logo="https://image.tmdb.org/t/p/w400/3aeg9Kq0w1AiHnmUFNFkqW3vbrs.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E3
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/5d68bf7d-79c6-493f-8b78-14b561ffe8b6.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E4" tvg-logo="https://image.tmdb.org/t/p/w400/5DzgsrKFVB7SpLUtTT2NG2oamhI.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E4
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/ca65975c-7758-42f7-968a-1999ba5dea3a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E5" tvg-logo="https://image.tmdb.org/t/p/w400/tcX2TCexx8Tea1PljP47q6hIVTp.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E5
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/1af9c55d-59a5-4fd8-bb66-f9a7d252c594.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E6" tvg-logo="https://image.tmdb.org/t/p/w400/k22QqjvgUapBOQ4nkuYoqmk6rwR.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E6
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/65db1bc6-6adc-492b-ba75-cc3ae6a008e9.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E7" tvg-logo="https://image.tmdb.org/t/p/w400/noEVg9zK1I8eQyzIJWXczfNeUAZ.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E7
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/401aa96a-5a99-4538-bbe1-ce124f7f5016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E8" tvg-logo="https://image.tmdb.org/t/p/w400/q55LqMeHDhh8UZXTaYmnQVcoVF2.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E8
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/053f1f83-5501-4cf1-acbd-659fcd345923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E9" tvg-logo="https://image.tmdb.org/t/p/w400/5LxEDDIuC9s0rxQTTO7Vc7GxREm.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E9
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/a525a4cc-bcc4-44ba-95e1-331e52d5b89a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E10" tvg-logo="https://image.tmdb.org/t/p/w400/2xSykS8b8NMq9Zf0HphEUDuI3sx.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E10
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/3fd9d4c0-ad9a-4a92-ae3c-fd886ca0bef9.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E11" tvg-logo="https://image.tmdb.org/t/p/w400/rU6v9S0CcGUznxoTdL5HH5a0Iwd.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E11
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/827dc3a7-64f4-4069-a758-caa681cacabc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E12" tvg-logo="https://image.tmdb.org/t/p/w400/u8UkMggEPOagPSdvLxrHmjXYESo.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E12
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/6dad2ea0-4e27-437e-82e6-539392332a02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E13" tvg-logo="https://image.tmdb.org/t/p/w400/42pXXMhcruAW45XMIR3FdlWa2pw.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E13
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/55c67503-3a7b-4115-923a-f92744e30de0.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E14" tvg-logo="https://image.tmdb.org/t/p/w400/y26vP3GNxr0GKp8FpDAqFVaf0T2.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E14
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/84608c6e-d91c-4440-8753-4a0d77064877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E15" tvg-logo="https://image.tmdb.org/t/p/w400/dqrqlkOP52nyrr7xR1zbTlBKtnk.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E15
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/6ed65afd-727a-4faf-9e59-c82b8a7ea291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E16" tvg-logo="https://image.tmdb.org/t/p/w400/jHJ1K3bLwyWUpWQdMmQTgbsArgD.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E16
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/62ade921-773d-4367-9d35-60859a8cdc20.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E17" tvg-logo="https://image.tmdb.org/t/p/w400/p9CcOJ3Mafg92MfDMvRVNUg9RIE.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E17
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/c15c6b3d-47aa-4162-92ec-0e9d48aa29f7.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E18" tvg-logo="https://image.tmdb.org/t/p/w400/7NcH9EcEi8DquaoPZLJHZINdPTc.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E18
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/aa252681-c276-4780-b070-aeba563f22a6.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E19" tvg-logo="https://image.tmdb.org/t/p/w400/5lBbsRUszVntO85I2C1KEQa6VNh.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E19
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/b503df90-a0ca-4cb3-947e-527eeb644048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E20" tvg-logo="https://image.tmdb.org/t/p/w400/cxrJ6Xogi0QPAQQLhG0hdUqs9xc.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E20
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/18fce4e9-02e0-4949-b648-17c5706a481e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E21" tvg-logo="https://image.tmdb.org/t/p/w400/zfmfiPLMoWHy3ImGJUHK7Yqnw3F.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E21
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/30392e59-21f9-4ee2-ad8c-32a17d3a2227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E22" tvg-logo="https://image.tmdb.org/t/p/w400/rsJj0bxKYstcagygfaMVrTYspUo.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E22
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/7e04647f-652a-470d-9271-39fa1cc385aa.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E23" tvg-logo="https://image.tmdb.org/t/p/w400/fSnuPIqjZD3sWRFIRf6o3gJWZiH.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E23
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/95f3648b-bdf0-43a0-b751-f7debc9ea54f.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E24" tvg-logo="https://image.tmdb.org/t/p/w400/bPu0UxA1PiTWb3bHU4uBkk7XrrO.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E24
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/b58b10e4-f7b0-43c5-95fe-45f405f34001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S5 E25" tvg-logo="https://image.tmdb.org/t/p/w400/uVzigBe3X9v1r8oJSHHCQig3YHq.jpg" group-title="TV Series HBOMAX",My Hero Academia S5 E25
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/3f9e31c9-973b-4d5a-8859-58077df969bd.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E1" tvg-logo="https://image.tmdb.org/t/p/w400/ezH8zW6UB11eCXBR4rDI1SuQ5gs.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E1
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/e38bc8fc-1e5d-42c1-be18-e9fdc4b02e17.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E2" tvg-logo="https://image.tmdb.org/t/p/w400/7iCmJKtbHHprGjc9Li5o6inRj1o.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E2
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/141c1d5c-367f-4f66-a27b-bd2be74c954e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E3" tvg-logo="https://image.tmdb.org/t/p/w400/aXmXFwXn6NByM8jvBBfCOzgeA1i.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E3
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/60979e9a-1263-48c8-8e0b-ec954204d984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E4" tvg-logo="https://image.tmdb.org/t/p/w400/blB13XgeDs8bFaA80uX2xM9jO9j.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E4
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/9555be4c-96e4-4a8a-8507-df18283811a2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E5" tvg-logo="https://image.tmdb.org/t/p/w400/gcBkJSig5SqqPhUViz21jFrZGYO.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E5
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/36ec5159-202f-4b92-ba84-0405be417542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E6" tvg-logo="https://image.tmdb.org/t/p/w400/4waajYqQmwZQS2toXumWpiDBA8p.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E6
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/55341ca8-ff41-43e1-bbcf-d14a4ee133ca.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E7" tvg-logo="https://image.tmdb.org/t/p/w400/6mnUhO9gWWqhx864Ilg46lPBVrX.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E7
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/1fe7424f-0f34-4543-804b-0bfc64a2dfe4.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E8" tvg-logo="https://image.tmdb.org/t/p/w400/szj1iO0Zpwljx9eF9d4dQ5WPM7h.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E8
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/0cbb29ce-c1d1-4e38-902f-663e0b790ae8.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E9" tvg-logo="https://image.tmdb.org/t/p/w400/6AkMU8GuKKGJhDNe5YPkJiOlo8h.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E9
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/a90d1e2f-c054-4583-b3c4-c0faa67dd0c6.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E10" tvg-logo="https://image.tmdb.org/t/p/w400/3HHHSGbSXdY2hLF5aerh8p5gWZc.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E10
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/9e4bc684-3461-45f6-9027-b74af4841529.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E11" tvg-logo="https://image.tmdb.org/t/p/w400/4mceUKrI8Jk11Z9vxN238IJdM5Q.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E11
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/46ce1d12-ded2-4ad3-8bc0-d6eb0afdc611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E12" tvg-logo="https://image.tmdb.org/t/p/w400/y7PY9Xt86AYaBSC1eNateMgWKcE.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E12
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/39f8cfcd-cbf9-4aeb-9f97-746b0f22553c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E13" tvg-logo="https://image.tmdb.org/t/p/w400/xM0yAQk6A8nFTJx0CD327PtanvG.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E13
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/b50385c7-f6ec-4586-9bee-e5a8f6bb7ad9.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E14" tvg-logo="https://image.tmdb.org/t/p/w400/a6y9e7wCPbWxrzA3Uhj3F1bnYwW.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E14
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/e23bef43-ef50-4064-84c0-6aba92345dfe.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E15" tvg-logo="https://image.tmdb.org/t/p/w400/faKL4xUY6UvROUMJYsWjYOPj9Jw.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E15
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/1007e526-89cc-43af-988e-05ef46e59ddc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E16" tvg-logo="https://image.tmdb.org/t/p/w400/yeWoqC48XOOrwMLJt8jkgrJyN1r.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E16
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/6befddde-d215-4a22-b07b-edb8f88ce17a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E17" tvg-logo="https://image.tmdb.org/t/p/w400/aLzD6lxekNUnpHF22dpMB6PmEd9.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E17
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/50d9c422-1b25-4fa5-be4e-a41f945c8ab9.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E18" tvg-logo="https://image.tmdb.org/t/p/w400/rFN8Abn3ZChkhJ2UXZ7yiZPmvYt.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E18
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/c39e0f9c-c949-45d0-93fc-738a225cc6d3.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E19" tvg-logo="https://image.tmdb.org/t/p/w400/qsuiAqpcq21c04060f1WDCNpX19.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E19
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/d0e4ddda-e42b-4ded-a4cd-23b3173f19c4.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E20" tvg-logo="https://image.tmdb.org/t/p/w400/qS6YnhRhc6YeKIEZZtETXH60fwU.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E20
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/cb6c38d1-6cb5-42de-8750-b14161eb09fc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E21" tvg-logo="https://image.tmdb.org/t/p/w400/lDWHItqpBBNqDB4P7HGCQru0eFe.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E21
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/44bf47c4-ef42-4113-81e3-1a8f170e0ef8.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E22" tvg-logo="https://image.tmdb.org/t/p/w400/2FUih57geusmQxr65PIIV5L3nF7.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E22
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/736b2144-81ee-4c32-9d4e-5d139321f625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E23" tvg-logo="https://image.tmdb.org/t/p/w400/5iwVOV442xICdQxlirhYkSE0rq8.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E23
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/f52d5d73-f837-4ccf-b588-2731814a9188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E24" tvg-logo="https://image.tmdb.org/t/p/w400/tappKU5KIjiCAMVb7jlGksFD8Hx.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E24
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/10e04e6f-672b-4e4e-9273-3f33ecdbc406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S6 E25" tvg-logo="https://image.tmdb.org/t/p/w400/4xERRuWvV59p6wssrakxi4kLynO.jpg" group-title="TV Series HBOMAX",My Hero Academia S6 E25
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/da4af273-dbfb-4b4f-a552-0c2e08d5e5e8.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E1" tvg-logo="https://image.tmdb.org/t/p/w400/e4KFHKkM6UuTltWInVVO7TP3OqH.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E1
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/61946c80-f4cf-43e9-8c97-4cb642e1f365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E2" tvg-logo="https://image.tmdb.org/t/p/w400/8nVGPXo8qXiuIqlBdwqxONt9X8N.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E2
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/bee58eaf-e625-4ba8-8df0-ebb1961d4c6c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E3" tvg-logo="https://image.tmdb.org/t/p/w400/5GDVlA5ijDHgX8U1BbrTfbIC12u.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E3
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/caea963b-91db-43a5-9915-dba9ae9fc3e3.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E4" tvg-logo="https://image.tmdb.org/t/p/w400/c5sGqyVQGzXfM9TSXgAPlx8bVKY.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E4
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/466e9cae-f155-4cef-adb4-8dabe3f7afaf.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E5" tvg-logo="https://image.tmdb.org/t/p/w400/4ayj3HgbgrSR4AGvb4pUWWuEgLO.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E5
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/f8610701-a44a-4808-bb99-2261f69a5d17.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E6" tvg-logo="https://image.tmdb.org/t/p/w400/dzZdEp8vkQBh2hCTFpcprMXcQOR.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E6
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/62f5008a-3114-4445-8621-15fa130b9a27.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E7" tvg-logo="https://image.tmdb.org/t/p/w400/36Pyo4H9dt7u2TRKRoJ8dLm0Nmj.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E7
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/40fd471b-232d-4d4d-bae2-8486e8aeae2a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E8" tvg-logo="https://image.tmdb.org/t/p/w400/y9geYHqEFuXr5L2Ec0AtPu2vpeH.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E8
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/63eb40c8-3f09-4660-95f5-26d775ef774e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E9" tvg-logo="https://image.tmdb.org/t/p/w400/egS8k0UGGI4nFQxdqdfMf9X4EJe.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E9
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/7efa3e84-1d7d-47f4-aba5-0c5fcf7fea82.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E10" tvg-logo="https://image.tmdb.org/t/p/w400/gjL2Gripg0TrBPTYnDvc8yEd7F2.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E10
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/f0f8bf51-eb87-4aa0-8e54-dd9dce8626de.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E11" tvg-logo="https://image.tmdb.org/t/p/w400/e156Rz4wVpC2YFYDgGDg9hpVJzm.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E11
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/de328b9f-5d1e-42f9-804f-71911f02d488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E12" tvg-logo="https://image.tmdb.org/t/p/w400/lwXZah2oQiABUnvBx4Ojf0c7K2p.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E12
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/6935daf6-595a-4bb0-aa29-2694522e51ad.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E13" tvg-logo="https://image.tmdb.org/t/p/w400/lAVIjJV5yVjjNA4zMWsEKSQQIZc.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E13
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/b6f0780c-913e-4ad3-91d5-8988c8649868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E14" tvg-logo="https://image.tmdb.org/t/p/w400/1Qg0SqyCfJXfd6Hx8Sz9VHNDa2.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E14
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/0fba14cf-a5ea-422e-a113-c8b91ad7b189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E15" tvg-logo="https://image.tmdb.org/t/p/w400/h5PYapJXByNk5H4KmTFGm5FYpfm.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E15
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/88950c4f-91e3-45bd-941c-d77bc04c5493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E16" tvg-logo="https://image.tmdb.org/t/p/w400/feNuAmfP049pcPGTVXs8Hlzbt9b.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E16
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/dd5ed8d8-7715-4475-8959-4df0a1c42f4a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E17" tvg-logo="https://image.tmdb.org/t/p/w400/o7ae0yUpYu2z2UxuStpKedaulr5.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E17
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/e6cbe963-5dad-432a-9b93-a952e03dbaf9.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E18" tvg-logo="https://image.tmdb.org/t/p/w400/A8YFRm8sxLE2E07CmICTa83jQS7.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E18
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/b93c7448-956b-47df-aac9-14dbe0389221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E19" tvg-logo="https://image.tmdb.org/t/p/w400/jkEttBH1bZ9IJeNv64kZhxqKLI4.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E19
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/383cad4b-267e-494f-bb24-617db814a695.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E20" tvg-logo="https://image.tmdb.org/t/p/w400/nte5TamPfFScgL4avOu7Viz35ar.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E20
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/f5e01d9f-11f0-43bc-9516-88813c614067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S7 E21" tvg-logo="https://image.tmdb.org/t/p/w400/78FUZGgSL0HPzySATH44Tof3ori.jpg" group-title="TV Series HBOMAX",My Hero Academia S7 E21
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/07ec8fa8-98dd-49cf-b2a5-0ce276b3f9a1.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E1" tvg-logo="https://image.tmdb.org/t/p/w400/o5IgdwAKJ6MWRmYKinCGepmRoJO.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E1
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/36ce657e-317a-4774-b0ec-ab979e9c00ee.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E2" tvg-logo="https://image.tmdb.org/t/p/w400/A7tBAcy4Hv5jyWvLBRpRM6lvPio.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E2
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/a95d7952-aaca-4872-ad45-c7d3d8833871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E3" tvg-logo="https://image.tmdb.org/t/p/w400/h0OFD47ep6DRCX9c6v8XFsOCnS9.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E3
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/66a57218-6ef9-4690-a633-09a3f02f9181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E4" tvg-logo="https://image.tmdb.org/t/p/w400/tQ9kLKWIDNb0puDBt1ZnWGvxeBm.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E4
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/9579657b-b350-4fb8-b06e-4cf30f47e01e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E5" tvg-logo="https://image.tmdb.org/t/p/w400/haM6c6whayuTVrIWky6ZEjIzuM.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E5
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/80050e03-ec78-454f-8743-47104e6a5cde.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E6" tvg-logo="https://image.tmdb.org/t/p/w400/e5bFbT7pCCKDXsor7ZP94nUsABc.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E6
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/5201a64b-3d18-4317-853d-1b0f64324290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E7" tvg-logo="https://image.tmdb.org/t/p/w400/sZZ29bdPKOIHmL13JjoKmUU06kR.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E7
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/82c96572-00c9-426c-be57-545929567d24.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E8" tvg-logo="https://image.tmdb.org/t/p/w400/l31jtqoy9WHhcw35CFFTG5HI10D.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E8
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/8bbb1835-a00d-4b70-a8d8-77c34cd5c633.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E9" tvg-logo="https://image.tmdb.org/t/p/w400/7Slp5jjSOhZrWb7KFAiXI5aceJN.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E9
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/d959d8ae-6565-47a6-88d8-1598a7361ee7.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E10" tvg-logo="https://image.tmdb.org/t/p/w400/rYkrF1mUvIqqmbCTGT8EfoKtIpP.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E10
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/29b88be3-863f-4d36-ba28-3ac669a4d925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia S8 E11" tvg-logo="https://image.tmdb.org/t/p/w400/2ujDRL4aVKhCASVXMawPNsYgxOD.jpg" group-title="TV Series HBOMAX",My Hero Academia S8 E11
-http://distribuir02offshore.ddns.net:8080/series/8T19143555525581F/ViHrn9U8GVpCrBwr/1dadf150-4807-4c9b-ad36-74ec82f6db4b.mkv
+#EXTINF:-1,AF: SUPERSPORT VARIETY 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/157814
+#EXTINF:-1,AF: SUPERSPORT VARIETY 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/157815
+#EXTINF:-1,ALB: ART SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158021
+#EXTINF:-1,ALB: ART SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158022
+#EXTINF:-1,ALB: ART SPORT 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158023
+#EXTINF:-1,ALB: ART SPORT 4
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158024
+#EXTINF:-1,ALB: ART SPORT 5
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158025
+#EXTINF:-1,ALB: ART SPORT 6
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158026
+#EXTINF:-1,ALB: RTSH SPORT
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158034
+#EXTINF:-1,ALB: SUPER SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158035
+#EXTINF:-1,ALB: SUPER SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158036
+#EXTINF:-1,ALB: SUPER SPORT 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158037
+#EXTINF:-1,ALB: SUPER SPORT 5
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158039
+#EXTINF:-1,ALB: SUPER SPORT KOSOVA 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158042
+#EXTINF:-1,ALB: SUPER SPORT KOSOVA 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158043
+#EXTINF:-1,ALB: TRING SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158045
+#EXTINF:-1,ALB: TRING SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158046
+#EXTINF:-1,ALB: TRING SPORT 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158047
+#EXTINF:-1,AR: BEIN SPORTS 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/841
+#EXTINF:-1,AR: BEIN SPORTS 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/842
+#EXTINF:-1,AR: BEIN SPORTS 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/843
+#EXTINF:-1,AR: BEIN SPORTS 4
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/844
+#EXTINF:-1,AR: BEIN SPORTS 5
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/845
+#EXTINF:-1,AR: BEIN SPORTS 6
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/846
+#EXTINF:-1,AR: BEIN SPORTS 7
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/847
+#EXTINF:-1,AR: BEIN SPORTS PREMIUM 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/853
+#EXTINF:-1,AR: BEIN SPORTS PREMIUM 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/855
+#EXTINF:-1,AR: BEIN SPORTS MAX 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/835
+#EXTINF:-1,AR: BEIN SPORTS MAX 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/836
+#EXTINF:-1,AR: BEIN SPORTS MAX 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/837
+#EXTINF:-1,AR: BEIN SPORTS MAX 4
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/838
+#EXTINF:-1,AR: BEIN SPORTS ENG 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/849
+#EXTINF:-1,AR: BEIN SPORTS ENG 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/850
+#EXTINF:-1,AR: BEIN SPORTS XTRA 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/856
+#EXTINF:-1,AR: ON TIME SPORTS 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/6702
+#EXTINF:-1,AR: ON TIME SPORTS 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/6703
+#EXTINF:-1,AR: AD SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/6893
+#EXTINF:-1,AR-UAE: DUBAI SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/130646
+#EXTINF:-1,ARG: A&E
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4720
+#EXTINF:-1,ARG: CARTOON NETWORK
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4738
+#EXTINF:-1,ARG: CINECANAL
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4740
+#EXTINF:-1,ARG: COMEDY
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4745
+#EXTINF:-1,ARG: DIRECTV SPORTS
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4748
+#EXTINF:-1,ARG: DIRECTV SPORTS +
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4749
+#EXTINF:-1,ARG: DIRECTV SPORTS 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4750
+#EXTINF:-1,ARG: ESPN
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4757
+#EXTINF:-1,ARG: ESPN 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4758
+#EXTINF:-1,ARG: ESPN 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4759
+#EXTINF:-1,ARG: ESPN+
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4760
+#EXTINF:-1,ARG: EUROPA
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4761
+#EXTINF:-1,ARG: FILM &AMP; ARTS
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4762
+#EXTINF:-1,ARG: FOX SPORTS 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4764
+#EXTINF:-1,ARG: FOX SPORTS 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4765
+#EXTINF:-1,ARG: FX
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4768
+#EXTINF:-1,ARG: HBO
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4774
+#EXTINF:-1,ARG: HBO 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4775
+#EXTINF:-1,ARG: HBO FAMILY
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4776
+#EXTINF:-1,ARG: HBO SIGNATURE
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4777
+#EXTINF:-1,ARG: HBO Mundi
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4783
+#EXTINF:-1,ARG: MAX UP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4785
+#EXTINF:-1,ARG: NICKELODEON
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4792
+#EXTINF:-1,ARG: PARAMOUNT
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4795
+#EXTINF:-1 xui-id="120187" tvg-id="" tvg-name=" SONY HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="ENTRETENIMIENTO LATINO",ARG: SONY
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4801
+#EXTINF:-1,ARG: SPACE
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4802
+#EXTINF:-1,ARG: SYFY
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4804
+#EXTINF:-1,ARG: TNT
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4813
+#EXTINF:-1 xui-id="120189" tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087ZN_otNOPLaRBOu0CxNIVFvVCJrCkA1jj4emOAI4DkiL.png" group-title="ENTRETENIMIENTO LATINO",ARG: TNT SERIES
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4814
+#EXTINF:-1,ARG: TNT SPORTS
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4815
+#EXTINF:-1,ARG: WARNER
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4826
+#EXTINF:-1,ARG: STAR CHANNEL
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4827
+#EXTINF:-1,ARG: ESPN PREMIUM
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4828
+#EXTINF:-1,BE: VOO SPORT WORLD 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158329
+#EXTINF:-1,BE: VOO SPORT WORLD 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158330
+#EXTINF:-1,BE: DAZN PRO LEAGUE 1 FR
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158340
+#EXTINF:-1,BE: PLAY SPORTS 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158343
+#EXTINF:-1,BE: PLAY SPORTS 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/158344
+#EXTINF:-1,BR: BAND SPORT
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4835
+#EXTINF:-1,BR: ESPN4
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4859
+#EXTINF:-1,BR: GLOBO EPTV CAMPINAS
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4862
+#EXTINF:-1,BR: PREMIERE 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4887
+#EXTINF:-1,BR: PREMIERE 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4888
+#EXTINF:-1,BR: PREMIERE 4
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4889
+#EXTINF:-1,BR: PREMIERE CLUBES
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4892
+#EXTINF:-1,BR: SPORTV 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4903
+#EXTINF:-1,BR: SPORTV 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/4904
+#EXTINF:-1,BG: MAX SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2987
+#EXTINF:-1,BG: MAX SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2988
+#EXTINF:-1,BG: MAX SPORT 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2989
+#EXTINF:-1,BG: DIEMA SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3337
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TSN1_new.png" group-title=" USA SPORTS -ESPN",CA: TSN 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5508
+#EXTINF:-1,CA: TSN 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5510
+#EXTINF:-1,CA: TSN 4
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5511
+#EXTINF:-1,CA: TSN 5
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5512
+#EXTINF:-1,CAR: ESPN 2 CARIBBEAN
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5340
+#EXTINF:-1,CAR: ESPN CARIBBEAN
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5341
+#EXTINF:-1,CAR: FLOW SPORTS 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5343
+#EXTINF:-1,CL: TNT SPORTS 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5273
+#EXTINF:-1,CL: WIN SPORT PLUS
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5274
+#EXTINF:-1,CL: LA RED
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5285
+#EXTINF:-1,CL: MEGA
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5286
+#EXTINF:-1,CL: TNT SPORTS 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5288
+#EXTINF:-1,CL: TNT SPORTS Premium
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/133971
+#EXTINF:-1,CL: TNT SPORTS 02
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/133973
+#EXTINF:-1,CL: ESTADIO TNT SPORTS
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134004
+#EXTINF:-1,CL: CDO Premium VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134047
+#EXTINF:-1,CL: CNN VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134048
+#EXTINF:-1,CL: ECDF VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134051
+#EXTINF:-1,CL: MEGA VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134054
+#EXTINF:-1,CL: Telesur VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134058
+#EXTINF:-1,CL: TNT SPORTS VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134059
+#EXTINF:-1,CL: TVN VIP
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/134061
+#EXTINF:-1,CRO: VIP MAX SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/34146
+#EXTINF:-1,CRO: VIP MAX SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/37641
+#EXTINF:-1,CRO: ARENA SPORT 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2991
+#EXTINF:-1,CRO: ARENA SPORT 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2992
+#EXTINF:-1,CRO: ARENA SPORT 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2993
+#EXTINF:-1,CRO: ARENA SPORT 5
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2995
+#EXTINF:-1,CRO: ARENA SPORT 6
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2996
+#EXTINF:-1,CRO: SPORT KLUB 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2997
+#EXTINF:-1,CRO: SPORT KLUB 2
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2998
+#EXTINF:-1,CRO: SPORT KLUB 3
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/2999
+#EXTINF:-1,CRO: SPORT KLUB 5
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3001
+#EXTINF:-1,CRO: SPORT KLUB 6
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3002
+#EXTINF:-1,EC: CANELA TV
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5293
+#EXTINF:-1,EC: GOL TV
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/5298
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3409
+#EXTINF:-1,EX-YU: ARENA SPORT 2 BIH
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3411
+#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3412
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3413
+#EXTINF:-1,EX-YU: ARENA SPORT 4 BIH
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3414
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3415
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3416
+#EXTINF:-1,EX-YU: ARENA SPORT 5 SRB
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3417
+#EXTINF:-1,EX-YU: SPORT TV 1
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/3599
+#EXTINF:-1,EXYU: ARENA SPORT 1 (BIH)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144491
+#EXTINF:-1,EXYU: ARENA SPORT 1 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144492
+#EXTINF:-1,EXYU: ARENA SPORT 1 (SRB)  FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144493
+#EXTINF:-1,EXYU: ARENA SPORT 10 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144495
+#EXTINF:-1,EXYU: ARENA SPORT 10 (SRB) FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144496
+#EXTINF:-1,EXYU: ARENA SPORT 1X2 (SRB)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144497
+#EXTINF:-1,EXYU: ARENA SPORT 2 (BIH)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144498
+#EXTINF:-1,EXYU: ARENA SPORT 2 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144499
+#EXTINF:-1,EXYU: ARENA SPORT 2 (SRB)  FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144500
+#EXTINF:-1,EXYU: ARENA SPORT 3 (BIH)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144502
+#EXTINF:-1,EXYU: ARENA SPORT 3 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144503
+#EXTINF:-1,EXYU: ARENA SPORT 3 (SRB)  FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144504
+#EXTINF:-1,EXYU: ARENA SPORT 4 (SRB)  FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144507
+#EXTINF:-1,EXYU: ARENA SPORT 5 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144509
+#EXTINF:-1,EXYU: ARENA SPORT 5 (SRB)  FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144510
+#EXTINF:-1,EXYU: ARENA SPORT 6 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144512
+#EXTINF:-1,EXYU: ARENA SPORT 6 (SRB)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144513
+#EXTINF:-1,EXYU: ARENA SPORT 7 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144514
+#EXTINF:-1,EXYU: ARENA SPORT 7 (SRB)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144515
+#EXTINF:-1,EXYU: ARENA SPORT 8 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144516
+#EXTINF:-1,EXYU: ARENA SPORT 8 (SRB)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144517
+#EXTINF:-1,EXYU: ARENA SPORT 9 (CRO)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144518
+#EXTINF:-1,EXYU: ARENA SPORT 9 (SRB) FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144519
+#EXTINF:-1,EXYU: ARENA SPORT PREMIUM 1 (BIH)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144520
+#EXTINF:-1,EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144521
+#EXTINF:-1,EXYU: ARENA SPORT PREMIUM 2 (BIH)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144523
+#EXTINF:-1,EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144524
+#EXTINF:-1,EXYU: ARENA SPORT PREMIUM 3 (BIH)
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144526
+#EXTINF:-1,EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144527
+#EXTINF:-1,EXYU: PREMIER LEAGUE
+http://vpjertrcww.top:8080/VIP013721755870329577/e10c8b571542/144542
