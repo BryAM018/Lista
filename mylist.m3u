@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="" tvg-name="*$PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="⭐️ CHILE DEPORTE",*$PORTS 2 (CHI)
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/120550
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  FHD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414503
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC HD
@@ -32,8 +30,6 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBs4zIyk8qQ3xqgxbLE0_cl00s9IJ
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/58287
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | C1NEMAX* HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *C1NEMAX* HD
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414457
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | *C1NEMAX* SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *C1NEMAX* SD
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414458
 #EXTINF:-1 tvg-id="" tvg-name="ARG | Cine AR" tvg-logo="http://redworld.pro:8880/images/9886b06ab7ad16606fa6213688d32688.png" group-title="⭐️ Argentina",ARG | Cine AR
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490461
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
@@ -88,8 +84,6 @@ https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oromar HD (Ecuador)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Oromar HD (Ecuador)
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/410184
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  FHD
-http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/414464
 #EXTINF:-1 xui-id="119684" tvg-id="" tvg-name="LA | SONY CHANNEL FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087a5FMHtmqYhHYyZDDT2aEwSWi7e7F_RvanV3ngntvlwM.png" group-title="PAQUETE SONY",LA | SONY CHANNEL FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpDVUZtYjPnXEOj3Sw10utBgn1qeapNzzfVCTC5IDGq7
 #EXTINF:-1 xui-id="119772" tvg-id="" tvg-name="CO | RCN NOVELAS" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Zt7S1BJO0y5iLOhqn4HbbBdoAvNnc4FKY5-PrvY-qz2HVK1sjD-2Mcyohs_WF6ZCA.jpg" group-title="COLOMBIA",CO: RCN Novelas
@@ -104,12 +98,8 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="EL: UNIVISION MIAMI FL WLTV" tvg-name="USL: UNIVISION MIAMI (WLTV)" tvg-logo="" group-title="TELEMUNDO / UNIMAS",USL: UNIVISION MIAMI (WLTV)
 http://ahhshitherewegoagain.sytes.net:2096/8035715468/0819542736/780601
-#EXTINF:-1 tvg-id="VosyTV.ec",Vos y TV
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | Volver" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | Volver
 http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/490462
-#EXTINF:-1 xui-id="119384" tvg-id="" tvg-name="CO | WINSPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087dRv_ZJf0sSWuHaDW6PkAFMMwCabPEm355nboKPmJEp6.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS HD
-http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsumlKFW_m5MUR5o_zAsDbxW8fYpqA4bvCer1MMNmX0k
 #EXTINF:-1 xui-id="119387" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBsCqs4mcg_wCIGca7YMKjX1imXPaOpg_ln3X8HXMDBAJ
 #EXTINF:-1 xui-id="119388" tvg-id="" tvg-name="CO | WINSPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087Q8BySbq5rju2CWHaiJhP6tCtQHJC7ZTal0J4S93gM-U.png" group-title="⚽ DEPORTES COLOMBIA",CO | WINSPORTS+ FHD
@@ -118,50 +108,10 @@ http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBv_x9DVAig4h5E4ybiV3iDUjew6D
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBpR7-CFkfH9dhaL4Ec98S3p74klukvKLfeGjCAxrwRGE
 #EXTINF:-1 tvg-id="" tvg-name="Halloween II (1981)" tvg-logo="http://redworld.pro:8880/images/55b4f02eb12be10a5bb0436aa1be1d47.jpg" group-title="⭐️Cine retro",Halloween II (1981)
 http://rlatinop.com:8880/movie/chiqui123/g54R8qaxvnv6/301138.mkv
-#EXTINF:-1 tvg-name="Proyecto fin del Mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg" group-title="CINE CIENCIA FICCION",Proyecto fin del Mundo (2026)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/764842.mkv
-#EXTINF:-1 tvg-name="El francotirador (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntso1nvAVIEdzjc4Tc9nB7MPSKu.jpg" group-title="CINE BELICO",El francotirador (2014)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/764213.mkv
-#EXTINF:-1 tvg-name="Fuerza Delta (1986)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE4OTM1NTY0NF5BMl5BanBnXkFtZTYwNDE1Nzk4._V1_.jpg" group-title="CINE SAGAS",Fuerza Delta (1986)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/764038.mkv
-#EXTINF:-1 tvg-name="Fuerza Delta 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qWJkYxCp42JBoiAPLstAZYZc3r.jpg" group-title="CINE SAGAS",Fuerza Delta 2 (1990)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/764042.mkv
-#EXTINF:-1 tvg-name="No hay otra opción (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gu70dhYzzPNLh0hNpzZKdE1Pun.jpg" group-title="NOMINADAS OSCAR 2026",No hay otra opción (2025)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/744527.mkv
-#EXTINF:-1 tvg-name="Un simple accidente (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyeTL52iQJQN6FrCaVRkiuzJDDp.jpg" group-title="NOMINADAS OSCAR 2026",Un simple accidente (2025)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/744526.mkv
-#EXTINF:-1 tvg-name="El agente secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYWybdgL6casJxbZE0xLGXsdWOP.jpg" group-title="NOMINADAS OSCAR 2026",El agente secreto (2025)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/744525.mkv
-#EXTINF:-1 tvg-name="Marty Supreme (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg" group-title="NOMINADAS OSCAR 2026",Marty Supreme (2025)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/744523.mkv
-#EXTINF:-1 tvg-name="Hamnet (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg" group-title="NOMINADAS OSCAR 2026",Hamnet (2025)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/742549.mkv
-#EXTINF:-1 tvg-name="S.W.A.T.: Los hombres de Harrelson (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBv6FzdqYnXpoosz3yyuCa2ifJS.jpg" group-title="CINE SAGAS",S.W.A.T.: Los hombres de Harrelson (2003)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/739094.mkv
-#EXTINF:-1 tvg-name="S.W.A.T.: Bajo asedio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1PWWGx6vcdbjUEvYXpwELTtodO.jpg" group-title="CINE SAGAS",S.W.A.T.: Bajo asedio (2017)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/739093.mkv
-#EXTINF:-1 tvg-name="S.W.A.T. (2019)" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18579893_p_v8_aa.jpg" group-title="CINE SAGAS",S.W.A.T. (2019)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/739092.mkv
-#EXTINF:-1 tvg-name="La monja II (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" group-title="CINE 2023",La monja II (2023)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/490177.mkv
-#EXTINF:-1 tvg-name="Superman (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfMKNOaaS2jGT3QKUaiFA8cO7DC.jpg" group-title="CINE CIENCIA FICCION",Superman (2025)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/701447.mkv
-#EXTINF:-1 tvg-name="Attack on Titan: El ataque final (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg" group-title="CINE ANIME",Attack on Titan: El ataque final (2024)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/676105.mkv
-#EXTINF:-1 tvg-name="Super/Man: La historia de Christopher Reeve (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP0Lxg8p1FDLUKoO28MTGDdwpP0.jpg" group-title="DOCUMENTARIES MOVIE",Super/Man: La historia de Christopher Reeve (SUB)
-http://avefenixtv.com:80/movie/rey_estrada/Estrada2022R/602395.mkv
-#EXTINF:-1,Predators (2010)
-http://vpjertrcww.top:8080/movie/VIP013721755870329577/e10c8b571542/136979.mkv
-#EXTINF:-1,Tron (1982)
-http://vpjertrcww.top:8080/movie/VIP013721755870329577/e10c8b571542/137039.mkv
-#EXTINF:-1,TRON: Legacy (2010)
-http://vpjertrcww.top:8080/movie/VIP013721755870329577/e10c8b571542/137040.mkv
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/25125.m3u8
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/57344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/63431.m3u8
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/54668.m3u8
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
@@ -176,8 +126,6 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/57560.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/54531.m3u8
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/57363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58115.m3u8
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/5589.m3u8
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (HD) DAZN 1
@@ -220,26 +168,6 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/5605.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/5735.m3u8
 #EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES",ES: GOL PLAY
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/5617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH11" tvg-logo="" group-title="PPV",CH11
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH2" tvg-logo="" group-title="PPV",CH2
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH3" tvg-logo="" group-title="PPV",CH3
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH5" tvg-logo="" group-title="PPV",CH5
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH6" tvg-logo="" group-title="PPV",CH6
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/58322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | PORTUGAL",PT: CANAL 11
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/25004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | PORTUGAL",PT: SPORT TV 1
@@ -274,60 +202,12 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/23835.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/23831.m3u8
 #EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="PL | SPORT",PL: POLSAT SPORT EXTRA 1
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/23830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 4
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 6
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 7
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 8
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 HD 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_BAR_1_HD_720P.png" group-title="DE | MIX SPORT HD",DE: DAZN BAR 1 HD 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HD 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_BAR_2_HD_720P.png" group-title="DE | MIX SPORT HD",DE: DAZN BAR 2 HD 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_MIX_720P.png" group-title="DE | MIX SPORT HD",DE: SKY SPORT MIX  720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_3_720P.png" group-title="DE | MIX SPORT HD",DE: SKY SPORT 3  720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_4_720P.png" group-title="DE | MIX SPORT HD",DE: SKY SPORT 4  720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_8_720P.png" group-title="DE | MIX SPORT HD",DE: SKY SPORT 8  720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9  720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_720P.png" group-title="DE | MIX SPORT HD",DE: SKY SPORT 9  720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_HD.png" group-title="DE | MIX SPORT",DE: SKY SPORT 5
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_10_HD.png" group-title="DE | MIX SPORT",DE: SKY SPORT 10
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_1_HD.png" group-title="DE | MIX SPORT",DE: SKY SPORT AUSTRIA 1
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_2_HD.png" group-title="DE | MIX SPORT",DE: SKY SPORT AUSTRIA 2
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_3_HD.png" group-title="DE | MIX SPORT",DE: SKY SPORT AUSTRIA 3
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_7_HD.png" group-title="DE | MIX SPORT",DE: SKY SPORT AUSTRIA 7
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 1 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 2 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 3 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 5 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 9 720P
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/61479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CZ: SPORT 2" tvg-logo="https://docdog.top/logo/countries/cz/sport2.png" group-title="EURO | CZ & SLOVAK",CZ: SPORT 2
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24094.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport2.png" group-title="EURO | CROATIA",CRO: ARENA SPORT 2
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRO: SPORT KLUB 2" tvg-logo="https://docdog.top/logo/countries/croatia/sportklub-2-hr.png" group-title="EURO | CROATIA",CRO: SPORT KLUB 2
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRO: SPORT KLUB 3" tvg-logo="https://docdog.top/logo/countries/croatia/sportklub-3-hr.png" group-title="EURO | CROATIA",CRO: SPORT KLUB 3
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="LAME | BRAZIL",BR: ESPN 2
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10704.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="LAME | BRAZIL",BR: ESPN4
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10671.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/brazil/foxsports3.png" group-title="LAME | BRAZIL",BR: FOX SPORTS 2
@@ -340,50 +220,6 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10744.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10675.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="LAME | BRAZIL",BR: SPORTV 2
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="TR | SPORT",TR: BEIN SPORTS 2 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="TR | SPORT",TR: BEIN SPORTS 3 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="TR | SPORT",TR: BEIN SPORTS 4 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62823.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="" group-title="TR | SPORT",TR: BEIN SPORTS 5 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax1.png" group-title="TR | SPORT",TR: BEIN SPORTS MAX 1 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 5 HD" tvg-logo="" group-title="TR | SPORT",TR: EXXEN SPOR 5 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 7 HD" tvg-logo="" group-title="TR | SPORT",TR: EXXEN SPOR 7 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 8 HD" tvg-logo="" group-title="TR | SPORT",TR: EXXEN SPOR 8 HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR HD" tvg-logo="" group-title="TR | SPORT",TR: HT SPOR HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="TR | SPORT",TR: S SPORT HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HD" tvg-logo="" group-title="TR | SPORT",TR: SPOR SMART HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HEVC" tvg-logo="" group-title="TR | SPORT",TR: SPOR SMART HEVC
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="" group-title="TR | SPORT",TR: SPORTS TV
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="https://docdog.top/logo/countries/turkey/a-spor-tr.png" group-title="TR | SPORT",TR: A SPOR HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT+ HD" tvg-logo="" group-title="IT | ITALY",IT: RAI SPORT+ HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA HD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png" group-title="IT | ITALY",IT: SKY SPORT ARENA HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MAX HD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-football-it.png" group-title="IT | ITALY",IT: SKY SPORT MAX HD
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/62250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 3" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-3-gr.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 3
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 6" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-6-gr.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 6
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 7" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-7-gr.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 7
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 8" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-8-gr.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 8
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/24005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 9" tvg-logo="https://docdog.top/logo/countries/greece/cosmotesport8.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 9
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/25956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS FOOTBALL" tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="UK",UK: VIP SKY SPORTS FOOTBALL
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/29677.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS ARENA" tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="UK",UK: VIP SKY SPORTS ARENA
@@ -406,27 +242,13 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/9995.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10083.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="LAME | ARGENTINA",ARG: E!
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN+
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 3
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA",ARG: FX
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="LAME | ARGENTINA",ARG: HBO FAMILY
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="LAME | ARGENTINA",ARG: HBO SIGNATURE
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA",ARG: PARAMOUNT
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10044.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA",ARG: STUDIO UNIVERSAL
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="LAME | ARGENTINA",ARG: SYFY
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA",ARG: WARNER
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA",ARG: ESPN PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN PR3MIUM EXCLUSIVO" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="LAME | ARGENTINA",ARG: ESPN PREMIUM
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/52470.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/8298.m3u8
@@ -440,29 +262,391 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/8338.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/8339.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT",FR: RMC SPORT 5 LIVE
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/8342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3GUwFYju4g0Z0d1g9RJCmb3Qv4.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E01
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR8enBtWV6kmiqPzflbnM2Dn51r.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E02
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1ABNwmNKHZTniBqItfHL7d8zbL.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E03
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8KXlt5urYoli1emHUZxDHi4AaN.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E04
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vovlBltv4n1uZGSFLcE7mcDNtru.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E05
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuM6BkWx4FHD54Q9yoHcl75b7qp.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E06
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44838.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZf72QYoNGXng5yPWydV0htan9q.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E07
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Hos4orp3bJ7fqVOvrSx9KG0B0B.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E08
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ezMbUU37SFY5IXZEXYPMLTNv67.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E09
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E10
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwhfam88JfxkCb1Ro41Du1JqyGK.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E11
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzNQy08xI5i5iC5Q3UonIsWdbpY.jpg" group-title="SERIES | NETFLIX",Dorohedoro S01 E12
-http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/44844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN EVENT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/dazn.png" group-title="FR | DAZN",FR: DAZN EVENT 3
-http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/57536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBodZTlh8d3SfJtHzGtKQjfApdX.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E01
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWnWvwkm7f0r1wdJyYyNKDWEceb.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E02
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c10AS7JKyfpAKj8hdI9Pnzg4489.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E03
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm8TPBlZmJCcaspfczCfg1YmoIn.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E04
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4NGfKmQnOnNGivGW4SbZbFSPKu.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E05
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toIZBpXPbwOfAVxYVvddrbW4YcY.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E06
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAxcVG7vVGQwkSvdDf8Kl6pzzoY.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E07
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e1UqodJUur4a00XEmPPJYvFikj.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E08
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVFfSzZxX4OlKejFsOhfqQjjLNY.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E09
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrnhRG4ZzBmShHN7JAUPJMgCQBF.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E10
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMt4FtYPqiSQOSU3GyRWyZDvSgk.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E01
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYb1ZQqAfRZj5kGX7HBEaZ0dBCH.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E02
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro8w38gTxCbdoUbTMsD8hz7kKUU.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E03
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51qcgm2huk0TiDYs3RXjLT6S0dq.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E04
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xhluuHTcndM1ckPzcyV2JkuVeZ.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E05
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rTB4IP9xt6PPuP9nMEgfIsXOHe.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E06
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQYdTWiWGqJp4bgisw22Bds1e7.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E07
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wlEQ5zKc16qi5gM5q4ObgJpeY7.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E08
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NCPSRdnOkpAqWyaReRgAxRCbSt.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E09
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGOmOq4Cf4VknLZvrNfYJm81M0J.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E10
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iE5j1JJjsODVIYVJSGTBTiWx9Lb.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E01
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfanw2gjl28emHpLoENtB3aijpI.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E02
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFRvjuw8czlNig1uWF6C9VK2Sqs.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E03
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JolsZuttdhj6H8jgGifRRaMy9U.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E04
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66X7uiXe0wAX8dMScntSKLMiTZ.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E05
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzywwV0O0tuByu0ybhw5SEaVas9.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E06
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wPg8iOMHmqh4nv8CAOOBqq3o0i.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E07
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0ej0ZLl38TorcCgbkxkO4JqQ15.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E08
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXVDohEE1P6Y0XafWJ3RD9LkbyK.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E09
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEBOSpPYrZoI91zmgzqgtQnVNZF.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S03 E10
+http://vivaelbetis.neospaxy.top:8080/series/48175467876776/55ktbtg4pujr/38702.mkv
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png" group-title="⭐️ CHILE  ",CL | MEGA HD
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/28244
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://redworld.pro:8880/images/06074edd7f572f827c08c4ef64c49049.png" group-title="⭐️ CHILE  ",CL | CHILEVISION HD
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/58287
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/120546
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 3 (CHI)
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/120547
+#EXTINF:-1 tvg-id="" tvg-name="*$PORTS + (CHI)" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="⭐️ CHILE DEPORTE",*$PORTS + (CHI)
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/120548
+#EXTINF:-1 tvg-id="" tvg-name="Latino | A3S" tvg-logo="http://redworld.pro:8880/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="⭐️ Telenovelas",Latino | A3S
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/135427
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/135431
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/135435
+#EXTINF:-1 tvg-id="" tvg-name="TL Novelas Univision" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/135439
+#EXTINF:-1 tvg-id="" tvg-name="$PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="⭐️ CHILE DEPORTE",*$PORTS 2 (CHI)
+http://rlatinop.com:8880/chiqui123/g54R8qaxvnv6/120550
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *$PORTS 1" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="⭐️ DEPORTE VIP",DEPORTES | *$PORTS 1
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167731
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *$PORTS +" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="⭐️ DEPORTE VIP",DEPORTES | *$PORTS +
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167732
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 3
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167736
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS PREMIUM
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167737
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS " tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DEPORTE VIP",DEPORTES | WIN SPORTS 
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167739
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TUDN
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167770
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TUDN XTRA
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167771
+#EXTINF:-1 tvg-id="" tvg-name="*$PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="⭐️ CHILE DEPORTE",*$PORTS 1 (CHI)
+http://rlatinop.com:8880/playtvs098t/5k878m2xCTqe/167962
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="http://redworld.pro:8880/images/f3501d1a2cf8bab02b587413b0b3ab83.jpg" group-title="⭐️Comedía",Abracadabra 2 (2022)
+http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/258264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desconectados (2022)" tvg-logo="http://redworld.pro:8880/images/3726bf7022969871e291c751fa45fccb.jpg" group-title="⭐️Películas 2022",Desconectados (2022)
+http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/258382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E03" tvg-logo="http://redworld.pro:8880/images/f1a55fb2db90e0fdb305b0d00520a0de.jpg" group-title="⭐️ Series Anime ",One Piece S18 E03
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E04" tvg-logo="http://redworld.pro:8880/images/59b0d77bbf7baa5b6d84cc7904cc52ee.jpg" group-title="⭐️ Series Anime ",One Piece S18 E04
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E05" tvg-logo="http://redworld.pro:8880/images/c2595a32b92881b89f627b861584c187.jpg" group-title="⭐️ Series Anime ",One Piece S18 E05
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E06" tvg-logo="http://redworld.pro:8880/images/ccb4d20f34e8569893350edbf21e9029.jpg" group-title="⭐️ Series Anime ",One Piece S18 E06
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E07" tvg-logo="http://redworld.pro:8880/images/ec1dc83290c7bdf6adb8fd8d14b346f1.jpg" group-title="⭐️ Series Anime ",One Piece S18 E07
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E08" tvg-logo="http://redworld.pro:8880/images/e8f9ddfd0e628164738d87ab4140ce72.jpg" group-title="⭐️ Series Anime ",One Piece S18 E08
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E09" tvg-logo="http://redworld.pro:8880/images/465070fd73ae3f046a8c11559fe20e5c.jpg" group-title="⭐️ Series Anime ",One Piece S18 E09
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E10" tvg-logo="http://redworld.pro:8880/images/518c524f39e8e3e0a06f615fa5694c1e.jpg" group-title="⭐️ Series Anime ",One Piece S18 E10
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E11" tvg-logo="http://redworld.pro:8880/images/0b4a3e279c2cd79a1f41819cf46cee6a.jpg" group-title="⭐️ Series Anime ",One Piece S18 E11
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E12" tvg-logo="http://redworld.pro:8880/images/a8244c841d631c416bfe2aebe070513f.jpg" group-title="⭐️ Series Anime ",One Piece S18 E12
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E13" tvg-logo="http://redworld.pro:8880/images/5b3b1c85ba3bfb5ce47979c5a64937da.jpg" group-title="⭐️ Series Anime ",One Piece S18 E13
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E14" tvg-logo="http://redworld.pro:8880/images/b3c9e4969f03793d52a123bd7ecc824c.jpg" group-title="⭐️ Series Anime ",One Piece S18 E14
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E15" tvg-logo="http://redworld.pro:8880/images/e8574a461ed5e07da45164d233671d05.jpg" group-title="⭐️ Series Anime ",One Piece S18 E15
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E16" tvg-logo="http://redworld.pro:8880/images/1f1b5c1a8e1af699d90b6e0ee918d7c8.jpg" group-title="⭐️ Series Anime ",One Piece S18 E16
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E17" tvg-logo="http://redworld.pro:8880/images/97dfeff53e9db4505feab0dceb04c34b.jpg" group-title="⭐️ Series Anime ",One Piece S18 E17
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E18" tvg-logo="http://redworld.pro:8880/images/98d110663b5bed6387a5f6d43ca9bace.jpg" group-title="⭐️ Series Anime ",One Piece S18 E18
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E19" tvg-logo="http://redworld.pro:8880/images/111404d80f1552cf05ca6ba59bc76e07.jpg" group-title="⭐️ Series Anime ",One Piece S18 E19
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E20" tvg-logo="http://redworld.pro:8880/images/cc8d92f549ef8bd434b8f6b5ef9a3103.jpg" group-title="⭐️ Series Anime ",One Piece S18 E20
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E21" tvg-logo="http://redworld.pro:8880/images/45cc0d1c7c21e15b9bd72c7a10ebd243.jpg" group-title="⭐️ Series Anime ",One Piece S18 E21
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E22" tvg-logo="http://redworld.pro:8880/images/da5993babd1a9067c11cc66e6cf11a9d.jpg" group-title="⭐️ Series Anime ",One Piece S18 E22
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E23" tvg-logo="http://redworld.pro:8880/images/cd20495fee56f3f2859ff6650bc36a25.jpg" group-title="⭐️ Series Anime ",One Piece S18 E23
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E24" tvg-logo="http://redworld.pro:8880/images/f11ac7d72ff31cb4bd8d9974a1938d9a.jpg" group-title="⭐️ Series Anime ",One Piece S18 E24
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E25" tvg-logo="http://redworld.pro:8880/images/8b17e99486a204283a7706b3d9b59408.jpg" group-title="⭐️ Series Anime ",One Piece S18 E25
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E26" tvg-logo="http://redworld.pro:8880/images/b1560fa1fa81147f47b33d78a166ae07.jpg" group-title="⭐️ Series Anime ",One Piece S18 E26
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E27" tvg-logo="http://redworld.pro:8880/images/c76e5b7506bafcca087ac309103e93f9.jpg" group-title="⭐️ Series Anime ",One Piece S18 E27
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E28" tvg-logo="http://redworld.pro:8880/images/0101788154bc1a1ca9cdf464c6ebe3b9.jpg" group-title="⭐️ Series Anime ",One Piece S18 E28
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E29" tvg-logo="http://redworld.pro:8880/images/a3363f29a9acf4b4fba3bc1b676ed798.jpg" group-title="⭐️ Series Anime ",One Piece S18 E29
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E30" tvg-logo="http://redworld.pro:8880/images/24ddbd0bae61ff5fbf8ef7f63c53c979.jpg" group-title="⭐️ Series Anime ",One Piece S18 E30
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E31" tvg-logo="http://redworld.pro:8880/images/baa1913c64d9678feb12f4e41f547ad7.jpg" group-title="⭐️ Series Anime ",One Piece S18 E31
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E32" tvg-logo="http://redworld.pro:8880/images/3c81a41b4d84857bd25871b8aa1492f2.jpg" group-title="⭐️ Series Anime ",One Piece S18 E32
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E33" tvg-logo="http://redworld.pro:8880/images/b2b15151a3df116758080bc1fae294cb.jpg" group-title="⭐️ Series Anime ",One Piece S18 E33
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E34" tvg-logo="http://redworld.pro:8880/images/63bb0fb9d7f211c9e09f9a18b62c3ace.jpg" group-title="⭐️ Series Anime ",One Piece S18 E34
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E35" tvg-logo="http://redworld.pro:8880/images/0c8fe87b4142b80cf7955f704199d697.jpg" group-title="⭐️ Series Anime ",One Piece S18 E35
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E36" tvg-logo="http://redworld.pro:8880/images/57ceab6f0a90e33b82cc29fb522e22d7.jpg" group-title="⭐️ Series Anime ",One Piece S18 E36
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E37" tvg-logo="http://redworld.pro:8880/images/20e399e2706cf1974a5c8c909344215b.jpg" group-title="⭐️ Series Anime ",One Piece S18 E37
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E38" tvg-logo="http://redworld.pro:8880/images/746db6dd3ea6c3c5d0088ca0d79754ce.jpg" group-title="⭐️ Series Anime ",One Piece S18 E38
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E39" tvg-logo="http://redworld.pro:8880/images/9ab6c55205a6cdc74492bcc9e09ef9de.jpg" group-title="⭐️ Series Anime ",One Piece S18 E39
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E40" tvg-logo="http://redworld.pro:8880/images/cf4f4f2a39b1ce77259521b832248801.jpg" group-title="⭐️ Series Anime ",One Piece S18 E40
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E41" tvg-logo="http://redworld.pro:8880/images/3ac8fb653508010f57df73841b40d901.jpg" group-title="⭐️ Series Anime ",One Piece S18 E41
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E42" tvg-logo="http://redworld.pro:8880/images/2f4dfd7d7c954e61c04ab9a65352d3c7.jpg" group-title="⭐️ Series Anime ",One Piece S18 E42
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E43" tvg-logo="http://redworld.pro:8880/images/aa416f84538504ffd5a7095203aea222.jpg" group-title="⭐️ Series Anime ",One Piece S18 E43
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E44" tvg-logo="http://redworld.pro:8880/images/52ef61ee18cbf49ce9212e5b87dd9e4b.jpg" group-title="⭐️ Series Anime ",One Piece S18 E44
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E45" tvg-logo="http://redworld.pro:8880/images/2163d5ca5309db1070531f50c76dae55.jpg" group-title="⭐️ Series Anime ",One Piece S18 E45
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E46" tvg-logo="http://redworld.pro:8880/images/ae6b378f8308905a598e579957c5a082.jpg" group-title="⭐️ Series Anime ",One Piece S18 E46
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E47" tvg-logo="http://redworld.pro:8880/images/969b0349567d074f8fbdd5352cf6c096.jpg" group-title="⭐️ Series Anime ",One Piece S18 E47
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E48" tvg-logo="http://redworld.pro:8880/images/c3310a588955b3c236c52e3e44558af4.jpg" group-title="⭐️ Series Anime ",One Piece S18 E48
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E49" tvg-logo="http://redworld.pro:8880/images/9b65433755fda72d9a71ec02b4863fde.jpg" group-title="⭐️ Series Anime ",One Piece S18 E49
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E50" tvg-logo="http://redworld.pro:8880/images/10f93313a299d5a024dd8dfb60931a97.jpg" group-title="⭐️ Series Anime ",One Piece S18 E50
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E51" tvg-logo="http://redworld.pro:8880/images/dd81c7fb828aa4efd5976e0570e38ad0.jpg" group-title="⭐️ Series Anime ",One Piece S18 E51
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E52" tvg-logo="http://redworld.pro:8880/images/6c029500895ce437a6a9c845fdb81022.jpg" group-title="⭐️ Series Anime ",One Piece S18 E52
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E53" tvg-logo="http://redworld.pro:8880/images/0013550078dbfc44e2458fd4d47c125d.jpg" group-title="⭐️ Series Anime ",One Piece S18 E53
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E54" tvg-logo="http://redworld.pro:8880/images/360571662a6aad043ae0adcf6ea5072f.jpg" group-title="⭐️ Series Anime ",One Piece S18 E54
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S18 E55" tvg-logo="http://redworld.pro:8880/images/9985b2912eef6f5c7f99e3d2e936f47f.jpg" group-title="⭐️ Series Anime ",One Piece S18 E55
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E01" tvg-logo="http://redworld.pro:8880/images/c4dffced6635161f0de3e71eec49c639.jpg" group-title="⭐️ Series Anime ",One Piece S19 E01
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E02" tvg-logo="http://redworld.pro:8880/images/e5e94edaef76a9076c8225fe40faca04.jpg" group-title="⭐️ Series Anime ",One Piece S19 E02
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E03" tvg-logo="http://redworld.pro:8880/images/0c3b1221113187dfee80d4ba502f79d3.jpg" group-title="⭐️ Series Anime ",One Piece S19 E03
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E04" tvg-logo="http://redworld.pro:8880/images/0cda8915c6a1eee67b31d6087c239c0a.jpg" group-title="⭐️ Series Anime ",One Piece S19 E04
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E05" tvg-logo="http://redworld.pro:8880/images/f8123a1ce030c4cec19f8dfc7d90ada6.jpg" group-title="⭐️ Series Anime ",One Piece S19 E05
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E06" tvg-logo="http://redworld.pro:8880/images/4874063c149b588444b0b4b5dce382bb.jpg" group-title="⭐️ Series Anime ",One Piece S19 E06
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E07" tvg-logo="http://redworld.pro:8880/images/41cdcea06c48ad9a297eb1fbf8cf805e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E07
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E08" tvg-logo="http://redworld.pro:8880/images/a6502dfbfb95b9d40ffc9978e80a65e2.jpg" group-title="⭐️ Series Anime ",One Piece S19 E08
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E09" tvg-logo="http://redworld.pro:8880/images/95d48ce3cdaea70e17487bd4757c172f.jpg" group-title="⭐️ Series Anime ",One Piece S19 E09
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E10" tvg-logo="http://redworld.pro:8880/images/074d8b2d037d8b767da71b9cc498ea9d.jpg" group-title="⭐️ Series Anime ",One Piece S19 E10
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E11" tvg-logo="http://redworld.pro:8880/images/98fcc1560b00ef8f00b7522817611ae1.jpg" group-title="⭐️ Series Anime ",One Piece S19 E11
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E12" tvg-logo="http://redworld.pro:8880/images/28eac00d1460b9b6627258c051808bcb.jpg" group-title="⭐️ Series Anime ",One Piece S19 E12
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E13" tvg-logo="http://redworld.pro:8880/images/de3a7f1e23f1e3731e9858ab0d743903.jpg" group-title="⭐️ Series Anime ",One Piece S19 E13
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E14" tvg-logo="http://redworld.pro:8880/images/236055a7fb0fc86b45394146a5fa352e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E14
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E15" tvg-logo="http://redworld.pro:8880/images/02f004370d8274dc712d8777517b426f.jpg" group-title="⭐️ Series Anime ",One Piece S19 E15
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E16" tvg-logo="http://redworld.pro:8880/images/daf16780b503be7d6936732b9f03de16.jpg" group-title="⭐️ Series Anime ",One Piece S19 E16
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E17" tvg-logo="http://redworld.pro:8880/images/8cbaea951eec693790d7ac24dd6be137.jpg" group-title="⭐️ Series Anime ",One Piece S19 E17
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E18" tvg-logo="http://redworld.pro:8880/images/8abfb304b9e3caba1538e09771f302bf.jpg" group-title="⭐️ Series Anime ",One Piece S19 E18
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E19" tvg-logo="http://redworld.pro:8880/images/f8f7337f802ffdc90206b8e95d1e96a8.jpg" group-title="⭐️ Series Anime ",One Piece S19 E19
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E20" tvg-logo="http://redworld.pro:8880/images/864d0e3867cde5f1c75f68c1c30fa04f.jpg" group-title="⭐️ Series Anime ",One Piece S19 E20
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E21" tvg-logo="http://redworld.pro:8880/images/16c0268772a68b3b64d3e7e34aa3f250.jpg" group-title="⭐️ Series Anime ",One Piece S19 E21
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E22" tvg-logo="http://redworld.pro:8880/images/ef400b5a3e3e65ae775b9b5a4e5c1665.jpg" group-title="⭐️ Series Anime ",One Piece S19 E22
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E23" tvg-logo="http://redworld.pro:8880/images/5b11f414f2e2747010be54c79471d292.jpg" group-title="⭐️ Series Anime ",One Piece S19 E23
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E24" tvg-logo="http://redworld.pro:8880/images/33e41c9ba4083245bca9f983328b5aa2.jpg" group-title="⭐️ Series Anime ",One Piece S19 E24
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E25" tvg-logo="http://redworld.pro:8880/images/668bc96704ca83bcde20c0706ab92c86.jpg" group-title="⭐️ Series Anime ",One Piece S19 E25
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E26" tvg-logo="http://redworld.pro:8880/images/0786a2767e1500b2df5c188eaa695d13.jpg" group-title="⭐️ Series Anime ",One Piece S19 E26
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E27" tvg-logo="http://redworld.pro:8880/images/54e5b1edae572682ad4ea220be90a313.jpg" group-title="⭐️ Series Anime ",One Piece S19 E27
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E28" tvg-logo="http://redworld.pro:8880/images/4e204ec19542bb8f6a115cdb6e76975e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E28
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E29" tvg-logo="http://redworld.pro:8880/images/e8643f51fba8560c53db2c850fbe5692.jpg" group-title="⭐️ Series Anime ",One Piece S19 E29
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E30" tvg-logo="http://redworld.pro:8880/images/84de730f4c99fe5317a70073a344d00e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E30
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E31" tvg-logo="http://redworld.pro:8880/images/9508ef0867a81654b9c027db321ad42b.jpg" group-title="⭐️ Series Anime ",One Piece S19 E31
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E32" tvg-logo="http://redworld.pro:8880/images/cac15dfa45de70c5207ae20054f54c29.jpg" group-title="⭐️ Series Anime ",One Piece S19 E32
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E33" tvg-logo="http://redworld.pro:8880/images/01dda9b72d3476c7507dc9cfb2cdadd0.jpg" group-title="⭐️ Series Anime ",One Piece S19 E33
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E34" tvg-logo="http://redworld.pro:8880/images/41efce3ea835c7dcf079b48a5fb9de30.jpg" group-title="⭐️ Series Anime ",One Piece S19 E34
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E35" tvg-logo="http://redworld.pro:8880/images/2f0069a170f1b907d9367d1d5a30d26e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E35
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E36" tvg-logo="http://redworld.pro:8880/images/aab66beb0bd00c8a556d0133f8cca607.jpg" group-title="⭐️ Series Anime ",One Piece S19 E36
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E37" tvg-logo="http://redworld.pro:8880/images/743018b875959e30328a4c9661dbd106.jpg" group-title="⭐️ Series Anime ",One Piece S19 E37
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E38" tvg-logo="http://redworld.pro:8880/images/977898c236897fb5423659ee8650af66.jpg" group-title="⭐️ Series Anime ",One Piece S19 E38
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E39" tvg-logo="http://redworld.pro:8880/images/38666cc11f30129e0382029123553697.jpg" group-title="⭐️ Series Anime ",One Piece S19 E39
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E40" tvg-logo="http://redworld.pro:8880/images/549f070d4565b09639c2a84335e125ce.jpg" group-title="⭐️ Series Anime ",One Piece S19 E40
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E41" tvg-logo="http://redworld.pro:8880/images/8bbceb32898d920cc1b25ba9b3ee9a5b.jpg" group-title="⭐️ Series Anime ",One Piece S19 E41
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E42" tvg-logo="http://redworld.pro:8880/images/11f711b62a6379b76e2c5caf45ce4884.jpg" group-title="⭐️ Series Anime ",One Piece S19 E42
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E43" tvg-logo="http://redworld.pro:8880/images/9095f8881c8e08cf8ba52bd105310066.jpg" group-title="⭐️ Series Anime ",One Piece S19 E43
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E44" tvg-logo="http://redworld.pro:8880/images/1f41f2336119e5f6373a873cea8113b6.jpg" group-title="⭐️ Series Anime ",One Piece S19 E44
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E45" tvg-logo="http://redworld.pro:8880/images/21b14961799bdf90a3acbae59c512567.jpg" group-title="⭐️ Series Anime ",One Piece S19 E45
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E46" tvg-logo="http://redworld.pro:8880/images/42e9b5f73c749b9b148b0d8a2567f80b.jpg" group-title="⭐️ Series Anime ",One Piece S19 E46
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E47" tvg-logo="http://redworld.pro:8880/images/ed2efb637c240bb90fc7f57eeb44efe8.jpg" group-title="⭐️ Series Anime ",One Piece S19 E47
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E48" tvg-logo="http://redworld.pro:8880/images/6afc2baf495ae9a2c4404ee885ddc86a.jpg" group-title="⭐️ Series Anime ",One Piece S19 E48
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E49" tvg-logo="http://redworld.pro:8880/images/f58570899b2b6b0b0d891048817cf0c2.jpg" group-title="⭐️ Series Anime ",One Piece S19 E49
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E50" tvg-logo="http://redworld.pro:8880/images/874fd797b1e70c50fadbb099ef36692a.jpg" group-title="⭐️ Series Anime ",One Piece S19 E50
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E51" tvg-logo="http://redworld.pro:8880/images/d27177e9c29d45a38d71cecd0e9fde9e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E51
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E52" tvg-logo="http://redworld.pro:8880/images/b7c148677bac7b64d41da1f5bc3ec95d.jpg" group-title="⭐️ Series Anime ",One Piece S19 E52
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E53" tvg-logo="http://redworld.pro:8880/images/d782fd7c932d98e0f2242021ce50b5c8.jpg" group-title="⭐️ Series Anime ",One Piece S19 E53
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E54" tvg-logo="http://redworld.pro:8880/images/330edb4082489e7f7a3a0ed50847d78b.jpg" group-title="⭐️ Series Anime ",One Piece S19 E54
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E55" tvg-logo="http://redworld.pro:8880/images/0b8029a66e7171457112b5e0fd9a875d.jpg" group-title="⭐️ Series Anime ",One Piece S19 E55
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E56" tvg-logo="http://redworld.pro:8880/images/908eac63befad16f38b2813e2366d85d.jpg" group-title="⭐️ Series Anime ",One Piece S19 E56
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E57" tvg-logo="http://redworld.pro:8880/images/efe7278021f43793c975328d90732f6e.jpg" group-title="⭐️ Series Anime ",One Piece S19 E57
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E58" tvg-logo="http://redworld.pro:8880/images/bf95a54c37c2da15bdac2926f6eed724.jpg" group-title="⭐️ Series Anime ",One Piece S19 E58
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E59" tvg-logo="http://redworld.pro:8880/images/d2b8aba35d4d4a3bb5618399027db503.jpg" group-title="⭐️ Series Anime ",One Piece S19 E59
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E60" tvg-logo="http://redworld.pro:8880/images/78058e045eb7c1dbc4f8fdae6f7cde85.jpg" group-title="⭐️ Series Anime ",One Piece S19 E60
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E61" tvg-logo="http://redworld.pro:8880/images/ce06fbd08f12f956c08681caee620e92.jpg" group-title="⭐️ Series Anime ",One Piece S19 E61
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E62" tvg-logo="http://redworld.pro:8880/images/52baa0e6c17658169ef9917bef3410c4.jpg" group-title="⭐️ Series Anime ",One Piece S19 E62
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E63" tvg-logo="http://redworld.pro:8880/images/36beff2eecec74f59aba476a826a3080.jpg" group-title="⭐️ Series Anime ",One Piece S19 E63
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E64" tvg-logo="http://redworld.pro:8880/images/844f493a097f8761ddf93dcfd32ea20d.jpg" group-title="⭐️ Series Anime ",One Piece S19 E64
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E65" tvg-logo="http://redworld.pro:8880/images/8098ad3110cd3bb82c6602e4391be4ba.jpg" group-title="⭐️ Series Anime ",One Piece S19 E65
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E66" tvg-logo="http://redworld.pro:8880/images/5433b0b733c2a3fe4e2334a0c12563b6.jpg" group-title="⭐️ Series Anime ",One Piece S19 E66
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E67" tvg-logo="http://redworld.pro:8880/images/4122da6946bb0217bb9c2bcfa0e61b57.jpg" group-title="⭐️ Series Anime ",One Piece S19 E67
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E68" tvg-logo="http://redworld.pro:8880/images/25c384a907af1441c5e4cd7427a19537.jpg" group-title="⭐️ Series Anime ",One Piece S19 E68
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E69" tvg-logo="http://redworld.pro:8880/images/905a1b7e827283684881d7a4cec05020.jpg" group-title="⭐️ Series Anime ",One Piece S19 E69
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E70" tvg-logo="http://redworld.pro:8880/images/762cd4c54e605cda20b18b3e068fe2ff.jpg" group-title="⭐️ Series Anime ",One Piece S19 E70
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E71" tvg-logo="http://redworld.pro:8880/images/2ca3d092f4ed27494794c8cc7070f7c2.jpg" group-title="⭐️ Series Anime ",One Piece S19 E71
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E72" tvg-logo="http://redworld.pro:8880/images/2a921f00495f0e6820ddf882ab4ddda9.jpg" group-title="⭐️ Series Anime ",One Piece S19 E72
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E73" tvg-logo="http://redworld.pro:8880/images/4fb49061b7bbb044e3134e3b38a8c697.jpg" group-title="⭐️ Series Anime ",One Piece S19 E73
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S19 E74" tvg-logo="http://redworld.pro:8880/images/bb229ba83ee328cf9adb1ff293996175.jpg" group-title="⭐️ Series Anime ",One Piece S19 E74
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E01" tvg-logo="http://redworld.pro:8880/images/7a658b6f5323b1a652f729f5533a8407.jpg" group-title="⭐️ Series Anime ",One Piece S20 E01
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E02" tvg-logo="http://redworld.pro:8880/images/6735189c05adb7f3d411cd97b86f091e.jpg" group-title="⭐️ Series Anime ",One Piece S20 E02
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E03" tvg-logo="http://redworld.pro:8880/images/821718ed9fd8f312e00c28df2e556d92.jpg" group-title="⭐️ Series Anime ",One Piece S20 E03
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E04" tvg-logo="http://redworld.pro:8880/images/68fe22c41055b5be0fb7191de68ee3d4.jpg" group-title="⭐️ Series Anime ",One Piece S20 E04
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E05" tvg-logo="http://redworld.pro:8880/images/ff0e2349963d17c94f0698f3b8ec9236.jpg" group-title="⭐️ Series Anime ",One Piece S20 E05
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E06" tvg-logo="http://redworld.pro:8880/images/e3c3f9cc861d7178bf67731a91890a7b.jpg" group-title="⭐️ Series Anime ",One Piece S20 E06
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E07" tvg-logo="http://redworld.pro:8880/images/551db632dae073a283fed1d31fa741aa.jpg" group-title="⭐️ Series Anime ",One Piece S20 E07
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E08" tvg-logo="http://redworld.pro:8880/images/8819b4c088a5372544688dc7daf426c6.jpg" group-title="⭐️ Series Anime ",One Piece S20 E08
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E09" tvg-logo="http://redworld.pro:8880/images/8271c5f0161af5420253aa9b54a11940.jpg" group-title="⭐️ Series Anime ",One Piece S20 E09
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E10" tvg-logo="http://redworld.pro:8880/images/f76dd96ac31db9e960823063b25178cb.jpg" group-title="⭐️ Series Anime ",One Piece S20 E10
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E11" tvg-logo="http://redworld.pro:8880/images/a02da4f3b9190f2121d2fca87b04ac0b.jpg" group-title="⭐️ Series Anime ",One Piece S20 E11
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E12" tvg-logo="http://redworld.pro:8880/images/61c399772a72c972c9e0eb9ca0ce3bfa.jpg" group-title="⭐️ Series Anime ",One Piece S20 E12
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E13" tvg-logo="http://redworld.pro:8880/images/97c214d09213386c2393a7cdf9a44be8.jpg" group-title="⭐️ Series Anime ",One Piece S20 E13
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece S20 E14" tvg-logo="http://redworld.pro:8880/images/cd94a2bb4eb5b415a7e91bc2c05b2538.jpg" group-title="⭐️ Series Anime ",One Piece S20 E14
+http://rlatinop.com:8880/series/playtvs098t/5k878m2xCTqe/512648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="http://redworld.pro:8880/images/8e9331d7a59febe81594f25526296763.jpg" group-title="⭐️Películas 2022",Batman (2022)
+http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/258873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 3 (2022)" tvg-logo="http://redworld.pro:8880/images/d5f6856c71f5beef9d3c6818601f95dc.jpg" group-title="⭐️Películas 2022",Z-O-M-B-I-E-S 3 (2022)
+http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/258988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: El Legado (2021)" tvg-logo="http://redworld.pro:8880/images/cc5db10964c62aa207ab7a56e7715f59.jpg" group-title="⭐️Películas 2021",Ghostbusters: El Legado (2021)
+http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/259084.mp4
