@@ -32,6 +32,8 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 http://1000digital.pw:8080/play/d_QsQPjjNIwXZDtvP5vKBrmxI9-DIqdIXYhUqHcM-gKM9o9t2HBIfloc0majN0D5
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil] HD"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa Quito (1080p) [Not 24/7]
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek Fan
@@ -228,8 +230,12 @@ http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10007.m3u8
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA",ARG: WARNER
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/10069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN PR3MIUM EXCLUSIVO" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="LAME | ARGENTINA",ARG: ESPN PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | EŠPN PR3MIUM EXCLUSIVO" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="LAME | ARGENTINA",ARG: ESPN PREMIUM
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/52470.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",BeIN SPORTS XTRA En Espanol (720p)
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
 http://vivaelbetis.neospaxy.top:8080/live/48175467876776/55ktbtg4pujr/8298.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
@@ -768,3 +774,27 @@ http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/259280.mkv
 http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/259762.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El manto sagrado (1953)" tvg-logo="http://redworld.pro:8880/images/bd6beb100f9bacb40701887618871c95.jpg" group-title="⭐️Drama",El manto sagrado (1953)
 http://rlatinop.com:8880/movie/playtvs098t/5k878m2xCTqe/259877.mkv
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD",Fox Deportes (1280p)
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec@SD",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RTV.ec@SD",RTV Riobamba (720p) [Not 24/7]
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas Quito (1080p) [Geo-blocked]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCisne.ec@SD",TV Cisne (1080p)
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (1080p)
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
