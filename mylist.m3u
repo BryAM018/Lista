@@ -1,26 +1,12 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080p)
-#EXTVLCOPT:http-referrer=https://vod.tvp.pl/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://raw.githubusercontent.com/travino/tvpi/main/streams/tvp1.m3u
-#EXTINF:-1 tvg-id="TVP2.pl@SD",TVP2 (1080p)
-#EXTVLCOPT:http-referrer=https://vod.tvp.pl/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://tvpi.travny.workers.dev/tvp2.m3u
-#EXTINF:-1 tvg-id="ArenaSport9.hr@SD",Arena Sport 9 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS9HRHD/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",BeIN SPORTS XTRA En Espanol (720p)
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK | OPC2" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK | OPC2
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/321973
 #EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="DSportsUruguay.uy@SD",DSports Uruguay
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil] HD"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png",Ecuavisa Guayaquil
@@ -35,6 +21,8 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+#EXTINF:-1 tvg-id="WJAR101.us@HD",NBC 10 Providence MA (1080p)
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
@@ -47,20 +35,12 @@ http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="WJAR101.us@HD",NBC 10 Providence MA (1080p)
-https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="WKAQTV21.pr@HD",WKAQ-DT1 (Telemundo PR) (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl@SD",TVP Sport (1080p)
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DEPORTE VIP",DEPORTES | TUDN XTRA
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/167771
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/321974
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DEPORTE VIP",DEPORTES | CLARO SPORTS
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/407036
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
@@ -87,12 +67,10 @@ http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414521
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414525
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA |  RPC TV" tvg-logo="http://redworld.pro:8880/images/b823b2f7d32514006bcd3e6af84ac0fa.png" group-title="⭐️ Panama",PANAMA |  RPC TV
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/418182
-#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD OP2" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina HD OP2
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/429010
+#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina " tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="PERU", Latina HD
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina SD" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina SD
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/429011
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (720p)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PE| Panamericana SD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="⭐️ PERU",PE| Panamericana SD
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/429020
 #EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⭐️ PERU",PE | IMPERIAL TV HUANCAVELICA
@@ -255,10 +233,10 @@ http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/1342
 http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/134310.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="NETFLIX | Drama",Enola Holmes (2020)
 http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/134311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://redworld.pro:8880/images/89faa2eb196e1980240894635f92a487.jpg" group-title="⭐️Películas 2022",El Proyecto Adam (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258462.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="NETFLIX | Sci-Fi",The Adam Project (2022)
 http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://redworld.pro:8880/images/89faa2eb196e1980240894635f92a487.jpg" group-title="⭐️Películas 2022",El Proyecto Adam (2022)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258462.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman y Superman: La batalla de los Super hijos (2022)" tvg-logo="http://redworld.pro:8880/images/448ad73ff9d2de77397494c36ca102fe.jpg" group-title="⭐️Películas 2022",Batman y Superman: La batalla de los Super hijos (2022)
 http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258319.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Leyends: Frío y Penumbra (2022)" tvg-logo="http://redworld.pro:8880/images/789c3708fbccb0ab47a7c5db22c5ba73.jpg" group-title="⭐️Películas 2022",Mortal Kombat Leyends: Frío y Penumbra (2022)
@@ -1065,3 +1043,55 @@ http://rlatinop.com:8880/series/lima88815678/FwxykmLrtYap/532933.mp4
 http://rlatinop.com:8880/series/lima88815678/FwxykmLrtYap/532934.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S04 E06" tvg-logo="http://redworld.pro:8880/images/bd8384efff12370dce282bd166cbe997.jpg" group-title="⭐️ Series Amazon ",La leyenda de Vox Machina S04 E06
 http://rlatinop.com:8880/series/lima88815678/FwxykmLrtYap/532935.mp4
+#EXTINF:-1,Dragon Ball DAIMA S01 E01
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/219931.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E02
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/219932.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E03
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/219933.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E04
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/219934.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E05
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/219935.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E06
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/221445.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E07
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/221446.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E08
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/221447.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E09
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/221448.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E10
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222883.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E11
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222884.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E12
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222885.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E13
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222886.mkv
+#EXTINF:-1,Dragon Ball DAIMA S01 E14
+http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222887.mkv
+#EXTINF:-1,US Latin Hola TV (A)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/139757
+#EXTINF:-1,COL: TELECARIBE HD
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/173301
+#EXTINF:-1,Television Caribbean
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/216085
+#EXTINF:-1,BR GLOBO NORDESTE  (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266459
+#EXTINF:-1,BR Globo TV Sergipe HD
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266469
+#EXTINF:-1,BR GLOBO TV TRIBUNA SANTOS
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266470
+#EXTINF:-1,BR PREMIERE 1 (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266487
+#EXTINF:-1,BR PREMIERE 3 (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266488
+#EXTINF:-1,BR SPORTV 2  (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266513
+#EXTINF:-1,BR (DTV) Globo SP  (D)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266542
+#EXTINF:-1,CO: CARACOL
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/320298
+#EXTINF:-1,CO: CARACOL VIP
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/320304
