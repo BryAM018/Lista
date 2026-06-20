@@ -1,12 +1,13 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",BeIN SPORTS XTRA En Espanol (720p)
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA VIP",ARG: CINECANAL
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/4740
 #EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil] HD"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png",Ecuavisa Guayaquil
@@ -23,14 +24,16 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
 #EXTINF:-1 tvg-id="WJAR101.us@HD",NBC 10 Providence MA (1080p)
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
-#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,SC | Greenville | NBC (WYFF)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/324706
 #EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas Quito (1080p) [Geo-blocked]
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
@@ -41,80 +44,18 @@ https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="WKAQTV21.pr@HD",WKAQ-DT1 (Telemundo PR) (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DEPORTE VIP",DEPORTES | CLARO SPORTS
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/407036
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414471
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP SD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414472
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  FHD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414479
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  HD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414480
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  FHD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414485
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414486
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  FHD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414503
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  FHD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414506
-#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | PARAMOUNT CHANEL FHD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414512
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Este" tvg-logo="http://redworld.pro:8880/images/f8ad17fe253c743c4d755af0d8675f77.png" group-title="⭐️ CINE PREMIUM",P | Universal Premier Este
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414521
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="http://todoen1.xyz:8080/Altoquetv83/ALt3Q34Re9372/149705" group-title="⭐️ CINE PREMIUM",P | Universal Premier Oeste
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/414525
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA |  RPC TV" tvg-logo="http://redworld.pro:8880/images/b823b2f7d32514006bcd3e6af84ac0fa.png" group-title="⭐️ Panama",PANAMA |  RPC TV
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/418182
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina " tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="PERU", Latina HD
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina SD" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina SD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/429011
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PE| Panamericana SD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="⭐️ PERU",PE| Panamericana SD
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/429020
 #EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⭐️ PERU",PE | IMPERIAL TV HUANCAVELICA
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/430832
 #EXTINF:-1 tvg-id="" tvg-name="PE| UTV Ucayali" tvg-logo="http://redworld.pro:8880/images/c6b5d100fe3243dc9f82837a5ff20ab9.jpg" group-title="⭐️ PERU",PE| UTV Ucayali
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/463894
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO BOSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO BOSTON
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/490422
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO LOS ÁNGELES" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO LOS ÁNGELES
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/490423
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO FRESNO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO FRESNO
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/490424
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO PUERTO RICO" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO PUERTO RICO
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/490428
 #EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) ARG | 13 EL TRECE OPC. A" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",(OFFLINE) ARG | 13 EL TRECE OPC. A
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/490440
 #EXTINF:-1 tvg-id="" tvg-name="CNN En Español" tvg-logo="http://redworld.pro:8880/images/0e0ab4b1c8a2fd5e40510a12eeaca2f8.png" group-title="⭐️ Noticias",CNN En Español
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/518524
 #EXTINF:-1 tvg-id="" tvg-name="NOTI | RT EN ESPANOL" tvg-logo="http://svtv.xyz:8000/images/5b278c5acc0456d50aa7f723fdd0c858.png" group-title="⭐️ Noticias",NOTI | RT EN ESPANOL
 http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/518528
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/373
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 2
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/374
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 3
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/375
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 4
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/376
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 5
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/377
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 6
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/378
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 7
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/379
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 8
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/380
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 9
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/381
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 10
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/382
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT VIP",FR: CANAL+ PREMIER LEAGUE
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/441
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 360
-http://estrellaos.voohocep.top:8080/VIP01101757767694644/0dc8b0b8519d/370
 #EXTINF:-1,CA TSN 2 (R)
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/16129
 #EXTINF:-1,CA TSN 2 HD 
@@ -125,9 +66,7 @@ http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/10389
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/47444
 #EXTINF:-1,MX | CNN 
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/57619
-#EXTINF:-1,UK-Sky Sports Main Event
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/35243
-#EXTINF:-1,UK Sky Sports Mix FHD (D)
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="" group-title="UK VIP NEW",UK Sky Sports Mix FHD (D)
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/53706
 #EXTINF:-1,LAT: TELEMUNDO 51 MIAMI HD
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/56410
@@ -145,118 +84,294 @@ http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/53708
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/120648
 #EXTINF:-1,CBS: LAS VEGAS NV KLAS
 http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/120742
-#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snGVInrnUBK6LrfLZkOdbj5PpJo.jpg" group-title="DISNEY | Kids",Z-O-M-B-I-E-S (2018)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evangelion: 2.0 You Can (Not) Advance (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg" group-title="AMAZON | Movies In English",Evangelion: 2.0 You Can (Not) Advance (2009)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/139573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evangelion: 3.0+1.0 Thrice Upon a Time (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md5wZRRj8biHrGtyitgBZo7674t.jpg" group-title="AMAZON | Movies In English",Evangelion: 3.0+1.0 Thrice Upon a Time (2021)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/139574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evangelion: 3.0 You Can (Not) Redo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg" group-title="AMAZON | Movies In English",Evangelion: 3.0 You Can (Not) Redo (2012)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/139575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdman (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n0u3Ee7OUjgeyF5kIwahxkf4xm.jpg" group-title="AMAZON | TOP",Birdman (2015)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/142378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg" group-title="DISNEY | Marvel",Black Panther: Wakanda Forever (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="DISNEY | Marvel",Deadpool & Wolverine (2024)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg" group-title="DISNEY | Marvel",Doctor Strange in the Multiverse of Madness (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elektra (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="DISNEY | Marvel",Elektra (2005)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFByFSLV5WDJEv3KabbdAF959F2.jpg" group-title="DISNEY | Marvel",Eternals (2021)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136754.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="DISNEY | Marvel",Guardians of the Galaxy Vol. 3 (2023)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136760.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Marvels (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg" group-title="DISNEY | Marvel",The Marvels (2023)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136812.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The New Mutants (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg" group-title="DISNEY | Marvel",The New Mutants (2020)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136813.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg" group-title="DISNEY | Marvel",Thor: Love and Thunder (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Werewolf by Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg" group-title="DISNEY | Marvel",Werewolf by Night (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alice in Wonderland (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg" group-title="DISNEY | Action/Adventure",Alice in Wonderland (2010)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode II - Attack of the Clones (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZNPzxqM2s5DyVWab09NTQScDQt.jpg" group-title="DISNEY | Action/Adventure",Star Wars: Episode II - Attack of the Clones (2002)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" group-title="DISNEY | Action/Adventure",Star Wars (1977)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Return of the Jedi (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQYlydvHm3kUix1f8prMucrplhm.jpg" group-title="DISNEY | Action/Adventure",Return of the Jedi (1983)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Clone Wars (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJQfixW818LUdSXlCDL3JZm0S0g.jpg" group-title="DISNEY | Action/Adventure",Star Wars: The Clone Wars (2008)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Empire Strikes Back (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg" group-title="DISNEY | Action/Adventure",The Empire Strikes Back (1980)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Force Awakens (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg" group-title="DISNEY | Action/Adventure",Star Wars: The Force Awakens (2015)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/136999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Last Jedi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg" group-title="DISNEY | Action/Adventure",Star Wars: The Last Jedi (2017)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode I - The Phantom Menace (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg" group-title="DISNEY | Action/Adventure",Star Wars: Episode I - The Phantom Menace (1999)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="DISNEY | Action/Adventure",Indiana Jones and the Dial of Destiny (2023)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg" group-title="DISNEY | Animation",Lightyear (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mary Poppins Returns (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg" group-title="DISNEY | Audio Description",Mary Poppins Returns (2018)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg" group-title="DISNEY | Audio Description",Cruella (2021)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Obi-Wan Kenobi: A Jedi's Return (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg" group-title="DISNEY | Audio Description",Obi-Wan Kenobi: A Jedi's Return (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/137422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lost Bullet 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg" group-title="NETFLIX | Action",Lost Bullet 2 (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/132612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lost Bullet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnlChF8U4diiykXQYs1miigGy7t.jpg" group-title="NETFLIX | Action",Lost Bullet (2020)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/132613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg" group-title="NETFLIX | Comedy",Murder Mystery 2 (2023)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/132813.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSMSO9xupd4R4vwTPqigHn2quLN.jpg" group-title="NETFLIX | Comedy",Murder Mystery (2019)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/132814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ferry 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pwdnL3pEISIN1EGmwZzU6hpNVk.jpg" group-title="NETFLIX | Drama",Ferry 2 (2024)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT0CbPtySSNLNh6MvFkq3xwbRBR.jpg" group-title="NETFLIX | Drama",Ferry (2021)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="tick, tick... BOOM! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg" group-title="NETFLIX | Musical",tick, tick... BOOM! (2021)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rich in Love 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA2emLQTNb8XS1646Nmhp91NNgv.jpg" group-title="NETFLIX | Romance",Rich in Love 2 (2023)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rich in Love (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVqRATKlpCoWy96lfxiHc9TY9An.jpg" group-title="NETFLIX | Romance",Rich in Love (2020)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tall Girl 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg" group-title="NETFLIX | Romance",Tall Girl 2 (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tall Girl (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0clsFEXidLVJ0TueqWOvvImOMh.jpg" group-title="NETFLIX | Romance",Tall Girl (2019)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nobody Sleeps in the Woods Tonight 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg" group-title="NETFLIX | Horror",Nobody Sleeps in the Woods Tonight 2 (2021)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/134251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nobody Sleeps in the Woods Tonight (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg" group-title="NETFLIX | Horror",Nobody Sleeps in the Woods Tonight (2020)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/134252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="NETFLIX | Drama",Enola Holmes 2 (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/134310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="NETFLIX | Drama",Enola Holmes (2020)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/134311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="NETFLIX | Sci-Fi",The Adam Project (2022)
-http://estrellaos.voohocep.top:8080/movie/VIP01101757767694644/0dc8b0b8519d/133828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://redworld.pro:8880/images/89faa2eb196e1980240894635f92a487.jpg" group-title="⭐️Películas 2022",El Proyecto Adam (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258462.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman y Superman: La batalla de los Super hijos (2022)" tvg-logo="http://redworld.pro:8880/images/448ad73ff9d2de77397494c36ca102fe.jpg" group-title="⭐️Películas 2022",Batman y Superman: La batalla de los Super hijos (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Leyends: Frío y Penumbra (2022)" tvg-logo="http://redworld.pro:8880/images/789c3708fbccb0ab47a7c5db22c5ba73.jpg" group-title="⭐️Películas 2022",Mortal Kombat Leyends: Frío y Penumbra (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espartaco (1960)" tvg-logo="http://redworld.pro:8880/images/91767dfbcb9922c8f14cc869585cd5ba.jpg" group-title="⭐️Drama",Espartaco (1960)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/259762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="⭐️Saga Rambo",Rambo 1
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final (2000)" tvg-logo="http://redworld.pro:8880/images/550795c75680f0ff68b912b81d1216be.jpg" group-title="⭐️Saga Destino Final",Destino Final (2000)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 2 (2003)" tvg-logo="http://redworld.pro:8880/images/08d17a053847be87fa59fa3be5314057.jpg" group-title="⭐️Saga Destino Final",Destino Final 2 (2003)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 3 (2006)" tvg-logo="http://redworld.pro:8880/images/7e9cf0ffb24a57215ac592975da23826.jpg" group-title="⭐️Saga Destino Final",Destino Final 3 (2006)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 4 (2009)" tvg-logo="http://redworld.pro:8880/images/92a3296072968b2ef6e52c20e6316e7a.jpg" group-title="⭐️Saga Destino Final",Destino Final 4 (2009)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 5 (2011)" tvg-logo="http://redworld.pro:8880/images/1799f41532093f82675c655bc7cbce86.jpg" group-title="⭐️Saga Destino Final",Destino Final 5 (2011)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="http://redworld.pro:8880/images/4c779faeff1278590e5ee2774341c109.jpg" group-title="⭐️Películas 2023",¡Shazam! La furia de los dioses (2023)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/290534.mkv
+#EXTINF:-1,US Latin Hola TV (A)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/139757
+#EXTINF:-1,COL: TELECARIBE HD
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/173301
+#EXTINF:-1,Television Caribbean
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/216085
+#EXTINF:-1,BR GLOBO NORDESTE  (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266459
+#EXTINF:-1,BR Globo TV Sergipe HD
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266469
+#EXTINF:-1,BR GLOBO TV TRIBUNA SANTOS
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266470
+#EXTINF:-1,BR PREMIERE 1 (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266487
+#EXTINF:-1,BR PREMIERE 3 (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266488
+#EXTINF:-1,BR SPORTV 2  (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266513
+#EXTINF:-1,BR PREMIERE 4  (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266489
+#EXTINF:-1,BR PREMIERE 8  (P)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266490
+#EXTINF:-1,BR (DTV) Globo SP  (D)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266542
+#EXTINF:-1,CO: CARACOL
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/320298
+#EXTINF:-1,CO: CARACOL VIP
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/320304
+#EXTINF:-1,Event 03:
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/325876
+#EXTINF:-1,Event 04:
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/325877
+#EXTINF:-1,Event 06
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/326237
+#EXTINF:-1,FL | Panama City | CBS 18 (WECP)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/324468
+#EXTINF:-1,GA | Augusta | CBS 12 (WRDW)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/324469
+#EXTINF:-1,IL | Champaign | CBS (WCIA)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/324499
+#EXTINF:-1,IL | Chicago | CBS (WBBM)
+http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/324501
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png" group-title="LAME | MEXICO VIP",MEX: UNIVERSAL CHANNEL
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/5225
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/4775
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO FAMILY
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/4776
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="" group-title="USA VIP",USA: HBO LATINO
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/155571
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="" group-title="USA VIP",USA: HBO LATINO
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/155572
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO (EAST)" tvg-logo="" group-title="USA VIP",USA: HBO LATINO (EAST)
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/155573
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO2) DAZN LALIGA
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/147167
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD) DAZN LALIGA
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/97138
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) DAZN LALIGA
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/97193
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/254
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) M+ LALIGA
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/97192
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/267
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/247
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES VIP",ES: DAZN 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/248
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES VIP",ES: DAZN 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/249
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES VIP",ES: DAZN 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/250
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/246
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/634
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/635
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA VIP",ES: DAZN LALIGA 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128942
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/255
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA VIP",ES: M+ LALIGA TV 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/56470
+#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/269
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ DEPORTES
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/286
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/288
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/289
+#EXTINF:-1 tvg-id="M.Deportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/290
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/291
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/293
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/632
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES VIP",ES: TELEDEPORTE
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/726
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES VIP",ES: GOL PLAY
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/633
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/132302
+#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/132303
+#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/132304
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158460
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158471
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL_2.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 2 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158474
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 4 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL_4.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 4 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158480
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/orange/DAZN_MUNDIAL.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158483
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/orange/DAZN_MUNDIAL_2.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 2 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158486
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 3 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/orange/DAZN_MUNDIAL_3.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 3 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158489
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 4 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/orange/DAZN_MUNDIAL_4.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 4 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158492
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 360
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/370
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/265
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/97196
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT VIP",FR: RMC SPORT 5 LIVE
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/392
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/142250
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/142251
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/142252
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 4" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+ VIP",FR: LIGUE1+ 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/142253
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 1 FHD" tvg-logo="https://docdog.top/logo/countries/france/LIGUE1PLUS.png" group-title="FR | LIGUE1+ FHD",FR: LIGUE1+ 1 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/144830
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 4 FHD" tvg-logo="https://docdog.top/logo/countries/france/LIGUE1PLUS.png" group-title="FR | LIGUE1+ FHD",FR: LIGUE1+ 4 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/144833
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/fr/CANAL_SPORT_2.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/154443
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/fr/CANAL_SPORT_5.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/154444
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 1 720P
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134774
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_720P.png" group-title="DE | BUNDESLIGA HD",DE: SKY SPORT BUNDESLIGA 6 720P
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134779
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/373
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/374
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/375
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/376
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/377
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 6
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/378
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 7
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/379
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 8
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/380
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 9
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/381
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 10
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/382
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 2" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_2.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134852
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 6" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_6.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 6
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134856
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 7" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_7.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 7
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134857
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 8" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_8.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 8
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134858
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 10" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_10.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 10
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134860
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 11" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_11.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 11
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134861
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 12" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_12.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 12
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134862
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 13" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_13.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 13
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134863
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 14" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_14.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 14
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134864
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 15" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_15.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 15
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134865
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN | EVENT 16" tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_EVENT_16.png" group-title="DE | DAZN EVENT",DE: DAZN | EVENT 16
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/134866
+#EXTINF:-1 tvg-id="" tvg-name="DE: FUSSBALL.TV 1 FHD" tvg-logo="https://docdog.top/logo/countries/de/MAGENTA_FIFA.png" group-title="DE | FIFA 2026",DE: FUSSBALL.TV 1 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158495
+#EXTINF:-1 tvg-id="" tvg-name="DE:  FUSSBALL.TV 2 FHD" tvg-logo="https://docdog.top/logo/countries/de/MAGENTA_FIFA.png" group-title="DE | FIFA 2026",DE:  FUSSBALL.TV 2 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158497
+#EXTINF:-1 tvg-id="" tvg-name="DE:  FUSSBALL.TV 3 FHD" tvg-logo="https://docdog.top/logo/countries/de/MAGENTA_FIFA.png" group-title="DE | FIFA 2026",DE:  FUSSBALL.TV 3 FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/158499
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/876
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/878
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/879
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/880
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/881
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/882
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/883
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/34309
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/886
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/887
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT EXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT EXTRA 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/873
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT EXTRA 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/874
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT PEXTRA 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/875
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99479
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 6
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99480
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99484
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99485
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99486
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99487
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99488
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 6
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/99489
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128986
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 2" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128987
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 3" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128988
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 4" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128994
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 5" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128995
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 6" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT 6
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/128996
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 4
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/844
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 5
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/845
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 7
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/847
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS PREMIUM 1
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/853
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/836
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/837
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS ENG 2
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/849
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS ENG 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/850
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS ENG 3
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/850
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MAIN EVENT" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="UK | ENGLAND VIP",UK: VIP SKY SPORTS MAIN EVENT
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/1677
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports+ FHD" tvg-logo="" group-title="UK VIP NEW",UK: Sky Sports+ FHD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/146466
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="UK VIP NEW",UK: Sky Sports Action HD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/147016
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="UK VIP NEW",UK: Sky Sports Football HD
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/147020
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena" tvg-logo="" group-title="UK VIP NEW",UK: Sky Sports Arena
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/147058
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="UK VIP NEW",UK: Sky Sports Premier League
+http://jo122.voorcqds.top:8080/SVIP0152175233448247/ksq2sh4mb3st/147066
 #EXTINF:-1 tvg-id="" tvg-name="007: El satánico Dr. No (1962)" tvg-logo="http://redworld.pro:8880/images/f9d368199dbaa61510731236e1afd0e3.jpg" group-title="⭐️Cine retro",007: El satánico Dr. No (1962)
 http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/300979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="007: Contra Goldfinger (1964)" tvg-logo="http://redworld.pro:8880/images/121f0f1fb6c991d10c374bee6f4f4b58.jpg" group-title="⭐️Cine retro",007: Contra Goldfinger (1964)
@@ -1071,27 +1186,25 @@ http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222885.mkv
 http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222886.mkv
 #EXTINF:-1,Dragon Ball DAIMA S01 E14
 http://tvmate.icu:8080/series/Lori10@rogers.com/1048@0205/222887.mkv
-#EXTINF:-1,US Latin Hola TV (A)
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/139757
-#EXTINF:-1,COL: TELECARIBE HD
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/173301
-#EXTINF:-1,Television Caribbean
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/216085
-#EXTINF:-1,BR GLOBO NORDESTE  (P)
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266459
-#EXTINF:-1,BR Globo TV Sergipe HD
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266469
-#EXTINF:-1,BR GLOBO TV TRIBUNA SANTOS
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266470
-#EXTINF:-1,BR PREMIERE 1 (P)
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266487
-#EXTINF:-1,BR PREMIERE 3 (P)
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266488
-#EXTINF:-1,BR SPORTV 2  (P)
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266513
-#EXTINF:-1,BR (DTV) Globo SP  (D)
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/266542
-#EXTINF:-1,CO: CARACOL
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/320298
-#EXTINF:-1,CO: CARACOL VIP
-http://tvmate.icu:8080/Lori10@rogers.com/1048@0205/320304
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://redworld.pro:8880/images/89faa2eb196e1980240894635f92a487.jpg" group-title="Películas 2022",El Proyecto Adam (2022)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman y Superman: La batalla de los Super hijos (2022)" tvg-logo="http://redworld.pro:8880/images/448ad73ff9d2de77397494c36ca102fe.jpg" group-title="⭐️Películas 2022",Batman y Superman: La batalla de los Super hijos (2022)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espartaco (1960)" tvg-logo="http://redworld.pro:8880/images/91767dfbcb9922c8f14cc869585cd5ba.jpg" group-title="⭐️Drama",Espartaco (1960)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/259762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="⭐️Saga Rambo",Rambo 1
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final (2000)" tvg-logo="http://redworld.pro:8880/images/550795c75680f0ff68b912b81d1216be.jpg" group-title="⭐️Saga Destino Final",Destino Final (2000)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 2 (2003)" tvg-logo="http://redworld.pro:8880/images/08d17a053847be87fa59fa3be5314057.jpg" group-title="⭐️Saga Destino Final",Destino Final 2 (2003)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 3 (2006)" tvg-logo="http://redworld.pro:8880/images/7e9cf0ffb24a57215ac592975da23826.jpg" group-title="⭐️Saga Destino Final",Destino Final 3 (2006)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 4 (2009)" tvg-logo="http://redworld.pro:8880/images/92a3296072968b2ef6e52c20e6316e7a.jpg" group-title="⭐️Saga Destino Final",Destino Final 4 (2009)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 5 (2011)" tvg-logo="http://redworld.pro:8880/images/1799f41532093f82675c655bc7cbce86.jpg" group-title="⭐️Saga Destino Final",Destino Final 5 (2011)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Leyends: Frío y Penumbra (2022)" tvg-logo="http://redworld.pro:8880/images/789c3708fbccb0ab47a7c5db22c5ba73.jpg" group-title="⭐️Películas 2022",Mortal Kombat Leyends: Frío y Penumbra (2022)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="http://redworld.pro:8880/images/4c779faeff1278590e5ee2774341c109.jpg" group-title="⭐️Películas 2023",¡Shazam! La furia de los dioses (2023)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/290534.mkv
