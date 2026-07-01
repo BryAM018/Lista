@@ -14,7 +14,7 @@ https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playl
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil] HD"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
@@ -44,32 +44,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina" tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina HD
+#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina" tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⭐️ PERU",PE | IMPERIAL TV HUANCAVELICA
-http://rlatinop.com:8880/lima88815678/FwxykmLrtYap/430832
-#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://redworld.pro:8880/images/89faa2eb196e1980240894635f92a487.jpg" group-title="Películas 2022",El Proyecto Adam (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258462.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman y Superman: La batalla de los Super hijos (2022)" tvg-logo="http://redworld.pro:8880/images/448ad73ff9d2de77397494c36ca102fe.jpg" group-title="⭐️Películas 2022",Batman y Superman: La batalla de los Super hijos (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espartaco (1960)" tvg-logo="http://redworld.pro:8880/images/91767dfbcb9922c8f14cc869585cd5ba.jpg" group-title="⭐️Drama",Espartaco (1960)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/259762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="⭐️Saga Rambo",Rambo 1
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final (2000)" tvg-logo="http://redworld.pro:8880/images/550795c75680f0ff68b912b81d1216be.jpg" group-title="⭐️Saga Destino Final",Destino Final (2000)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 2 (2003)" tvg-logo="http://redworld.pro:8880/images/08d17a053847be87fa59fa3be5314057.jpg" group-title="⭐️Saga Destino Final",Destino Final 2 (2003)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 3 (2006)" tvg-logo="http://redworld.pro:8880/images/7e9cf0ffb24a57215ac592975da23826.jpg" group-title="⭐️Saga Destino Final",Destino Final 3 (2006)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 4 (2009)" tvg-logo="http://redworld.pro:8880/images/92a3296072968b2ef6e52c20e6316e7a.jpg" group-title="⭐️Saga Destino Final",Destino Final 4 (2009)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 5 (2011)" tvg-logo="http://redworld.pro:8880/images/1799f41532093f82675c655bc7cbce86.jpg" group-title="⭐️Saga Destino Final",Destino Final 5 (2011)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Leyends: Frío y Penumbra (2022)" tvg-logo="http://redworld.pro:8880/images/789c3708fbccb0ab47a7c5db22c5ba73.jpg" group-title="⭐️Películas 2022",Mortal Kombat Leyends: Frío y Penumbra (2022)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/258721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="http://redworld.pro:8880/images/4c779faeff1278590e5ee2774341c109.jpg" group-title="⭐️Películas 2023",¡Shazam! La furia de los dioses (2023)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/290534.mkv
 #EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="KDFW41.us@HD",KDFW-DT1 (1080p)
@@ -82,8 +58,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KTBC71.us@HD",KTBC-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us@HD",KTTV-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WFLD501.us@HD",WFLD-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
@@ -114,14 +88,10 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/540038.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/541538.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7 MEXICO HD " tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",AZTECA 7 MEXICO HD 
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/541543.ts
-#EXTINF:-1 tvg-id="" tvg-name="L∆  LlG∆_TV TV FHD |Mas+|" tvg-logo="https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg" group-title="⚽ L∆_LlG∆ ESP ⚽",L∆  LlG∆_TV TV FHD |Mas+|
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/406871.ts
 #EXTINF:-1 tvg-id="" tvg-name="L∆  LlG∆_TV 2 FHD Orange" tvg-logo="http://mundo2.pro:80/images/a90f240fdedf0e0e5ebdc2ee425a3f1b.png" group-title="⚽ L∆_LlG∆ ESP ⚽",L∆  LlG∆_TV 2 FHD Orange
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/406867.ts
 #EXTINF:-1 tvg-id="" tvg-name="L∆  LlG∆_TV 3 FHD |opc-3|" tvg-logo="http://mundo2.pro:80/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="⚽ L∆_LlG∆ ESP ⚽",L∆  LlG∆_TV 3 FHD |opc-3|
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/406860.ts
-#EXTINF:-1 tvg-id="" tvg-name="LlG∆ END€SA 1" tvg-logo="http://mundo2.pro:80/images/02f3961a7941da7849b16eb345d1689e.jpg" group-title="⚽ L∆_LlG∆ ESP ⚽",LlG∆ END€SA 1
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/406879.ts
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
@@ -166,8 +136,6 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/50.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/47.ts
 #EXTINF:-1 tvg-id="526" tvg-name="CINE | HBO XTREME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO XTREME FHD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/48.ts
-#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO POP  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO POP  FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1242.ts
 #EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO .POP  HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO .POP  HD 
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1243.ts
 #EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDl FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDl FHD
@@ -186,10 +154,6 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1260.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1287.ts
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  SD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1288.ts
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN EDG  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1290.ts
-#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CINEMA HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111421.ts
 #EXTINF:-1 tvg-id="576" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL PREMIER HD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111419.ts
 #EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL REALITY HD
@@ -248,10 +212,6 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/437206.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52810.ts
 #EXTINF:-1 tvg-id="" tvg-name="UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwVviXy5jGpId7IjK0Ncrn2AQvcY1CyZWnUJwofsfV4dJ_WJXvmXlcLb3G4SX9P62urE&usqp=CAU.png" group-title="❎ URUGUAY ❎",UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52825.ts
-#EXTINF:-1 tvg-id="" tvg-name="l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="❎ URUGUAY ❎",l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52834.ts
-#EXTINF:-1 tvg-id="" tvg-name="l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="❎ URUGUAY ❎",l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52835.ts
 #EXTINF:-1 tvg-id="" tvg-name="l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52836.ts
 #EXTINF:-1 tvg-id="" tvg-name="⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
@@ -262,8 +222,6 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52833.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52838.ts
 #EXTINF:-1 tvg-id="" tvg-name="UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhgMPWVm4VgzwePzg5__BiAehavyNecnvyMZ0eSqa-A&s=10" group-title="❎ URUGUAY ❎",UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/135976.ts
-#EXTINF:-1 tvg-id="" tvg-name="  LCDLF ALL-STAR" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfus26.png" group-title="",  LCDLF ALL-STAR
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/531323.ts
 #EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="http://dplatino.net:8080/images/6ec28b3d93bfcfed6758ca6a6031223a.png" group-title="❎ PARAGUAY VIP ❎",PY | TELEFUTURO HD **
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154284.ts
 #EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV HD*" tvg-logo="http://dplatino.net:8080/images/3d53480662df429c4ccaccc8d3ccd9ac.png" group-title="❎ PARAGUAY VIP ❎",PY | GEN TV HD*
@@ -272,9 +230,17 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154294.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154295.ts
 #EXTINF:-1 tvg-id="" tvg-name="PY | MI TV HD*" tvg-logo="http://daleplaypro.com:8080/images/eaab97706b8fbdd3a3f0dffbf28e3fcc.png" group-title="❎ PARAGUAY VIP ❎",PY | MI TV HD*
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154304.ts
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL FHD" tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co@SD",Canal Capital (1080p)
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL MUNDIAL 2026" tvg-logo="http://mundo2.pro:80/images/b0864d8a6e627e31965ceb4ece41acaf.png" group-title="❎ COLOMBIA ❎",CO | CARACOL MUNDIAL 2026
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | Cable Noticias HD" tvg-logo="http://mundo2.pro:80/images/4d07e32d605e6408997b2aa20f9f1df4.png" group-title="❎ COLOMBIA ❎",CO | Cable Noticias HD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69241.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://mundo2.pro:80/images/4d07e32d605e6408997b2aa20f9f1df4.png" group-title="❎ COLOMBIA ❎",CO | Cablenoticias
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69242.ts
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV " tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota (1080p)
 http://138.121.15.230:9002/CITY-TV/index.m3u8
@@ -282,27 +248,61 @@ http://138.121.15.230:9002/CITY-TV/index.m3u8
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="AupurTelevision.co@SD",Aupur Television (1080p)
 https://canal.aupurtv.co/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
-http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
-http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (576p)
-http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
-http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas (576p)
 http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL MUNDIAL 2026" tvg-logo="http://mundo2.pro:80/images/b0864d8a6e627e31965ceb4ece41acaf.png" group-title="❎ COLOMBIA ❎",CO | CARACOL MUNDIAL 2026
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69252.ts
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="CO | RCN HD 03" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="❎ COLOMBIA ❎",CO | RCN HD 03
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69270.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD 05" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="❎ COLOMBIA ❎",CO | RCN HD 05
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/541557.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cable Noticias HD" tvg-logo="http://mundo2.pro:80/images/4d07e32d605e6408997b2aa20f9f1df4.png" group-title="❎ COLOMBIA ❎",CO | Cable Noticias HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69241.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://mundo2.pro:80/images/4d07e32d605e6408997b2aa20f9f1df4.png" group-title="❎ COLOMBIA ❎",CO | Cablenoticias
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69242.ts
-#EXTINF:-1 tvg-id="Telepacifico.co@SD",Telepacífico (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (576p)
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="CO | Telepacifico" tvg-logo="http://mundo2.pro:80/images/74fa2894a0e94f674ef02ea7963971bf.png" group-title="COLOMBIA",Telepacífico (1080p)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveColombia.co@SD",TeveColombia (720p) [Not 24/7]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+#EXTINF:-1 tvg-id="DTV.pe@SD",DTV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Espartaco (1960)" tvg-logo="http://redworld.pro:8880/images/91767dfbcb9922c8f14cc869585cd5ba.jpg" group-title="⭐️Drama",Espartaco (1960)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/259762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="⭐️Saga Rambo",Rambo 1
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final (2000)" tvg-logo="http://redworld.pro:8880/images/550795c75680f0ff68b912b81d1216be.jpg" group-title="⭐️Saga Destino Final",Destino Final (2000)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 2 (2003)" tvg-logo="http://redworld.pro:8880/images/08d17a053847be87fa59fa3be5314057.jpg" group-title="⭐️Saga Destino Final",Destino Final 2 (2003)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 3 (2006)" tvg-logo="http://redworld.pro:8880/images/7e9cf0ffb24a57215ac592975da23826.jpg" group-title="⭐️Saga Destino Final",Destino Final 3 (2006)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 4 (2009)" tvg-logo="http://redworld.pro:8880/images/92a3296072968b2ef6e52c20e6316e7a.jpg" group-title="⭐️Saga Destino Final",Destino Final 4 (2009)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino Final 5 (2011)" tvg-logo="http://redworld.pro:8880/images/1799f41532093f82675c655bc7cbce86.jpg" group-title="⭐️Saga Destino Final",Destino Final 5 (2011)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="http://redworld.pro:8880/images/4c779faeff1278590e5ee2774341c109.jpg" group-title="⭐️Películas 2023",¡Shazam! La furia de los dioses (2023)
+http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/290534.mkv
+#EXTINF:-1 tvg-id="Senal.co" tvg-name="CO | Señal Colombia SD" tvg-logo="http://mundo2.pro:80/images/b506267fcd091cb6e299047626b50dd4.png" group-title="❎ COLOMBIA ❎",CO | Señal Colombia SD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69273.ts
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13  HD" tvg-logo="http://mundo2.pro:80/images/d98aef5762bd8b471455d9f05e0f49cc.png" group-title="❎ CHILE ❎",CL | CANAL 13  HD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/209.ts
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13 SD" tvg-logo="http://mundo2.pro:80/images/8242ecd1291d824f315946cef432e338.png" group-title="❎ CHILE ❎",CL | CANAL 13 SD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55270.ts
+#EXTINF:-1 tvg-id="canal13c.cl" tvg-name="CL | CANAL 13 HD OP 02" tvg-logo="http://mundo2.pro:80/images/d98aef5762bd8b471455d9f05e0f49cc.png" group-title="❎ CHILE ❎",CL | CANAL 13 HD OP 02
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55271.ts
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://mundo2.pro:80/images/361536b9d8be725e99850ab2b8b65e63.png" group-title="❎ CHILE ❎",CL | CHILEVISION HD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55272.ts
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION SD" tvg-logo="http://mundo2.pro:80/images/72f91e904ceaebebd5a02bf48ab5d2dc.png" group-title="❎ CHILE ❎",CL | CHILEVISION SD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55274.ts
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://mundo2.pro:80/images/0922164c6083f6885554b340f166307c.png" group-title="❎ CHILE ❎",CL | MEGA HD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55275.ts
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD OP 2" tvg-logo="http://mundo2.pro:80/images/0922164c6083f6885554b340f166307c.png" group-title="❎ CHILE ❎",CL | MEGA HD OP 2
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55277.ts
+#EXTINF:-1 tvg-id="tvnchile.cl" tvg-name="CL | TVN. HD" tvg-logo="http://mundo2.pro:80/images/a486a534c887f371c91a18619b9337ce.png" group-title="❎ CHILE ❎",CL | TVN. HD
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55278.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="http://mundo2.pro:80/images/44eb113bc3a23505f846400da04e56f9.png" group-title="❎ MEXICO ❎",AZ CINEMA
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362402.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="http://mundo2.pro:80/images/562f663eb498ccfa0bfa8ec5fc828822.png" group-title="❎ MEXICO ❎",AZ CLICK
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362403.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="http://mundo2.pro:80/images/30acf73d415d1877c022495d3f14922c.png" group-title="❎ MEXICO ❎",AZ MUNDO
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362405.ts
