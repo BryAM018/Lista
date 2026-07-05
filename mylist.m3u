@@ -1,11 +1,14 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Spiderman" tvg-logo="http://mundo2.vip:8080/images/7282678212cb484ac805708e3abb5230.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Spiderman
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317151.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Suspenso" tvg-logo="http://mundo2.vip:8080/images/487141148d55d9541a0a9d09bebf1eed.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Suspenso
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317154.ts
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
@@ -50,8 +53,6 @@ http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina" tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KDFW41.us@HD",KDFW-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us@SD",KMSP-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KRIV261.us@HD",KRIV-DT1 (1080p)
@@ -72,8 +73,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="WLUKTV141.us@HD",FOX 11 Green Bay WI (WLUK) (1080p)
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KOKHTV251.us@HD",FOX 25 Oklahoma City OK (KOKH) (1080p)
-https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KMPHTV261.us@HD",FOX 26 Visalia CA (KMPH) (1080p)
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WBFF451.us@HD",FOX 45 Baltimore MD (WBFF) (1080p)
@@ -164,14 +163,6 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/54172.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/110244.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOON NETWORK HD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_cn.jpg" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | CARTOON NETWORK HD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/132707.ts
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/132691.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | SAW" tvg-logo="http://mundo2.vip:8080/images/71ca1c1872bc1f13eb4e53acf59ae22f.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | SAW
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317149.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Spiderman" tvg-logo="http://mundo2.vip:8080/images/7282678212cb484ac805708e3abb5230.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Spiderman
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317151.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Suspenso" tvg-logo="http://mundo2.vip:8080/images/487141148d55d9541a0a9d09bebf1eed.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Suspenso
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317154.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | TY*C SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | T*Y*C SPORTS HD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/81252.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL | *TN*T SPORTS HD/OP/ 01" tvg-logo="http://mundo2.pro:80/images/c225cdb5c9a1b6ec33c4d5f8814e6770.png" group-title="⚽DEPORTES CHILE⚽",CL | *T*N*T SPORTS HD/OP/ 01
@@ -296,12 +287,12 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55278.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362402.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="http://mundo2.pro:80/images/562f663eb498ccfa0bfa8ec5fc828822.png" group-title="❎ MEXICO ❎",AZ CLICK
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362403.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="http://mundo2.pro:80/images/562f663eb498ccfa0bfa8ec5fc828822.png" group-title="❎ MEXICO ❎",AZ CLICK
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362418.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="http://mundo2.pro:80/images/30acf73d415d1877c022495d3f14922c.png" group-title="❎ MEXICO ❎",AZ MUNDO
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362405.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Amanecer Del Planeta De Los Simios 2014" tvg-logo="" group-title="⏩SAGAS⏪",El Amanecer Del Planeta De Los Simios 2014
 http://goldtv.lat:80/movie/delgadoalberto43/xjwtfcW5UwJf/471899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="http://mundo2.pro:80/images/562f663eb498ccfa0bfa8ec5fc828822.png" group-title="❎ MEXICO ❎",AZ CLICK
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362418.ts
 #EXTINF:-1 tvg-id="" tvg-name="BRA: Premiere Clubes 4K" tvg-logo="http://127.0.0.1/" group-title="BRAS | PREMIE",BRA: Premiere Clubes 4K
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/352461.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM 2 HD" tvg-logo="" group-title="BRAS | PREMIE",PREMIUM 2 HD
@@ -320,3 +311,31 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111729.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111731.ts
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (1080p)
 http://187.62.68.32:8080/GLOBO/index.m3u8
+#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="TN8.ni@SD",TN8 (1080p)
+https://streamingcws30.com/tn8/videotn8/chunks.m3u8
+#EXTINF:-1 tvg-id="TV45.ni@SD",TV45-3ABN Nicaragua (720p) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
+#EXTINF:-1 tvg-id="" tvg-name="MX || AYM SPORTS HD®" tvg-logo="http://mundo2.pro:80/images/0f10911f46fc9b1fc4d49a54866424bd.png" group-title="❎ MEXICO ❎",MX || AYM SPORTS HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404313.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Aym Sports FHD/HD®" tvg-logo="http://mundo2.pro:80/images/530fd2e0fc1ae770a7e37a1596f391be.png" group-title="❎ MEXICO ❎",MX || Aym Sports FHD/HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404314.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Az Cinema HD®" tvg-logo="http://mundo2.pro:80/images/fcc697659777917da4e06d1385e74468.png" group-title="❎ MEXICO ❎",MX || Az Cinema HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404315.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Az Clic HD®" tvg-logo="http://mundo2.pro:80/images/4d370e5062dd7c9fa7f1f6eb6a2d1a67.png" group-title="❎ MEXICO ❎",MX || Az Clic HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404316.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || TVP Obregón - HD®" tvg-logo="http://mundo2.pro:80/images/a7049d3d1124b45622544d7cc627403f.png" group-title="❎ MEXICO ❎",MX || TVP Obregón - HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404329.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 11 MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="❎ MEXICO ❎",MX || CANAL 11 MX FHD/HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404331.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Telemundo Internacional HD®" tvg-logo="http://mundo2.pro:80/images/94dbf727a98772fbd2d2874489e1eb2a.png" group-title="❎ MEXICO ❎",MX || Telemundo Internacional HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404350.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Canal Rakuten Viki Drama HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/1200px-Rakuten_Viki_Logo_2019.svg.png" group-title="❎ MEXICO ❎",MX || Canal Rakuten Viki Drama HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404352.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 14 Noticias HD®" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_heraldo-tv_dn040220.jpg" group-title="❎ MEXICO ❎",MX || CANAL 14 Noticias HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404353.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || CINE ESTRELLA HD®" tvg-logo="http://mundo2.pro:80/images/49759bd76a31cc050f2f962d7c6dee46.png" group-title="❎ MEXICO ❎",MX || CINE ESTRELLA HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404354.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || FORO TV MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="❎ MEXICO ❎",MX || FORO TV MX FHD/HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404359.ts
