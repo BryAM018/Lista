@@ -67,8 +67,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYW51.us@HD",WNYW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WTTG51.us@HD",WTTG-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="WLUKTV141.us@HD",FOX 11 Green Bay WI (WLUK) (1080p)
@@ -143,8 +141,6 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1276.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1258.ts
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  HD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1259.ts
-#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | WARNER  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1260.ts
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  HD
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1287.ts
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  SD
@@ -195,7 +191,7 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/437206.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52810.ts
 #EXTINF:-1 tvg-id="" tvg-name="UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwVviXy5jGpId7IjK0Ncrn2AQvcY1CyZWnUJwofsfV4dJ_WJXvmXlcLb3G4SX9P62urE&usqp=CAU.png" group-title="❎ URUGUAY ❎",UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52825.ts
-#EXTINF:-1 tvg-id="" tvg-name="l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
+#EXTINF:-1 tvg-id="" tvg-name="l>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52836.ts
 #EXTINF:-1 tvg-id="" tvg-name="⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52832.ts
@@ -339,3 +335,23 @@ http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404353.ts
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404354.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX || FORO TV MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="❎ MEXICO ❎",MX || FORO TV MX FHD/HD®
 http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404359.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || IMAGEN TV MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1280px-HD-TV_Logo.svg.png" group-title="❎ MEXICO ❎",MX || IMAGEN TV MX FHD/HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404365.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Telemundo 51 Fl. HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="❎ MEXICO ❎",MX || Telemundo 51 Fl. HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404369.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || TELEVISA MEXICALI HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="❎ MEXICO ❎",MX || TELEVISA MEXICALI HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404382.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || ULTRA CLASICO HD®" tvg-logo="http://mundo2.pro:80/images/473dec405225f0853138fa5bdc0959be.png" group-title="❎ MEXICO ❎",MX || ULTRA CLASICO HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404412.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Canal 6 CDMX (FHD)®" tvg-logo="http://mundo2.pro:80/images/5d3827f9b1664efe8984b0d5f6151b9f.jpg" group-title="❎ MEXICO ❎",MX || Canal 6 CDMX (FHD)®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404418.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || TVT (Tabasqueña) HD®" tvg-logo="https://tvt.mx/wp-content/uploads/2019/06/logo_tvt_retina.png" group-title="❎ MEXICO ❎",MX || TVT (Tabasqueña) HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404420.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || Canal Yuma Channel 72 FHD/HD®" tvg-logo="http://mundo2.pro:80/images/742dd35e0389fa4471aa4728929bcf19.png" group-title="❎ MEXICO ❎",MX || Canal Yuma Channel 72 FHD/HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404430.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || California Medios HD®" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="❎ MEXICO ❎",MX || California Medios HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/450350.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || UnoTV HD®" tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="❎ MEXICO ❎",MX || UnoTV HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/450353.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX || AZTECA MUNDO HD®" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="❎ MEXICO ❎",MX || AZTECA MUNDO HD®
+http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/450359.ts
