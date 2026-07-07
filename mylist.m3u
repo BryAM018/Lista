@@ -1,14 +1,11 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Spiderman" tvg-logo="http://mundo2.vip:8080/images/7282678212cb484ac805708e3abb5230.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Spiderman
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317151.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Suspenso" tvg-logo="http://mundo2.vip:8080/images/487141148d55d9541a0a9d09bebf1eed.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Suspenso
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/317154.ts
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
@@ -75,150 +72,16 @@ https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WBFF451.us@HD",FOX 45 Baltimore MD (WBFF) (1080p)
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="*D$P0RT$  ∆RG" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",*D$P0RT$  ∆RG
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/540038.ts
-#EXTINF:-1 tvg-id="" tvg-name="TËLEMÜND0 HD " tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",TeLEMÜND0 
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/541538.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7 MEXICO HD " tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",AZTECA 7 MEXICO HD 
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/541543.ts
-#EXTINF:-1 tvg-id="" tvg-name="L∆  LlG∆_TV 2 FHD Orange" tvg-logo="http://mundo2.pro:80/images/a90f240fdedf0e0e5ebdc2ee425a3f1b.png" group-title="⚽ L∆_LlG∆ ESP ⚽",L∆  LlG∆_TV 2 FHD Orange
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/406867.ts
-#EXTINF:-1 tvg-id="" tvg-name="L∆  LlG∆_TV 3 FHD |opc-3|" tvg-logo="http://mundo2.pro:80/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="⚽ L∆_LlG∆ ESP ⚽",L∆  LlG∆_TV 3 FHD |opc-3|
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/406860.ts
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@US",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ 5 HD" tvg-logo="http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPⓝ 5 HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/306392.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ PREMIUM AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPⓝ PREMIUM AR HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/306398.ts
-#EXTINF:-1 tvg-id="605" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | F⚽X SPORTS 1 HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/99836.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 SD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | F⚽X SPORTS 1 SD.
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/99837.ts
-#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 2 HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/100116.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 2 SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/144412.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 3 SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/306176.ts
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$P0RTS + 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$P0RTS + 0PC ²
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/54472.ts
-#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | AXN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AXN  FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1254.ts
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TÑT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TÑT  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1245.ts
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TNT  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TNT  SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1246.ts
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/54.ts
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55.ts
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE  | HBO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO  SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1240.ts
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE  | HBO FAMILY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO FAMILY FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/51.ts
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52.ts
-#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  FHD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/50.ts
-#EXTINF:-1 tvg-id="528" tvg-name="CINE  | HBO XTREME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO XTREME HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/47.ts
-#EXTINF:-1 tvg-id="526" tvg-name="CINE | HBO XTREME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO XTREME FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/48.ts
-#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO .POP  HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO .POP  HD 
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1243.ts
-#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDl FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDl FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/53937.ts
-#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1281.ts
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1276.ts
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  FHD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1258.ts
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1259.ts
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1287.ts
-#EXTINF:-1 tvg-id="golden.mx" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/1288.ts
-#EXTINF:-1 tvg-id="576" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL PREMIER HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111419.ts
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL REALITY HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111420.ts
-#EXTINF:-1 tvg-id="" tvg-name="ClNE l DHE cine  HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE l DHE cine  HD 
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/400290.ts
-#EXTINF:-1 tvg-id="holatv.co" tvg-name="HOLA! TV" tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg" group-title=" ✅ CULTURA  ✅",HOLA! TV
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/126560.ts
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL Planet HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpiwMvAu1bIRrZ-0sQw0shYJrp_Y4Klp6yFbE0NgU-g&s=10" group-title=" ✅ CULTURA  ✅",ANIMAL Planet HD.
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/54172.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="C∆N∆L DEC∆S∆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qoZJh2FFcWQqEIXv7RZ9eSYYDZaG168vXw&s" group-title=" ✅ CULTURA  ✅",C∆N∆L DEC∆S∆
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/110244.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOON NETWORK HD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_cn.jpg" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | CARTOON NETWORK HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/132707.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | TY*C SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | T*Y*C SPORTS HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/81252.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL | *TN*T SPORTS HD/OP/ 01" tvg-logo="http://mundo2.pro:80/images/c225cdb5c9a1b6ec33c4d5f8814e6770.png" group-title="⚽DEPORTES CHILE⚽",CL | *T*N*T SPORTS HD/OP/ 01
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/276332.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL | *T*N*T SPORTS FHD /OP /0" tvg-logo="http://mundo2.pro:80/images/25f02304571090e7565e017948c211cc.png" group-title="⚽DEPORTES CHILE⚽",CL | *T*N*T SPORTS FHD /OP /0
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/276334.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL | *T*N*T SPORTS HD / OP / 02" tvg-logo="http://mundo2.pro:80/images/c225cdb5c9a1b6ec33c4d5f8814e6770.png" group-title="⚽DEPORTES CHILE⚽",CL | *T*N*T SPORTS HD / OP / 02
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/276335.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC TELEVISION HD" tvg-logo="http://mundo2.pro:80/images/950b0708ae3bbec4e9070b7bdbe888be.png" group-title="❇️ ECUADOR PREMIUM ❇️",EC | TC TELEVISION HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/360518.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC INTERNACIONAL HD" tvg-logo="http://mundo2.pro:80/images/950b0708ae3bbec4e9070b7bdbe888be.png" group-title="❇️ ECUADOR PREMIUM ❇️",EC | TC INTERNACIONAL HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/360542.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | GAMAVISION HD" tvg-logo="http://mundo2.pro:80/images/486a39badabf9bd59c220262e9c23af3.png" group-title="❇️ ECUADOR PREMIUM ❇️",EC | GAMAVISION HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/360524.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | TVC  HD" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png" group-title="❇️ ECUADOR PREMIUM ❇️",EC | TVC  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/360528.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | Wuan+" tvg-logo="http://mundo2.pro:80/images/4f39410ab25b5a50377010e85b1d0d6c.png" group-title="❇️ ECUADOR PREMIUM ❇️",EC | Wuan+
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/360533.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC I MULTICANAL HD" tvg-logo="http://mundo2.pro:80/images/4d5f40939e0027ad67ba08d5273b95b4.png" group-title="❇️ ECUADOR PREMIUM ❇️",EC I MULTICANAL HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/360526.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | CANELA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" group-title="❇️ ECUADOR PREMIUM ❇️",EC | CANELA TV
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/443036.ts
-#EXTINF:-1 tvg-id="" tvg-name="PE| LATINA HD OP 02" tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="❎ PERU ❎",PE| LATINA HD OP 02
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/306669.ts
-#EXTINF:-1 tvg-id="" tvg-name="PE| PANAMERICA HD OP 02" tvg-logo="http://mundo2.pro:80/images/c2e57587a9fceb5af3473f6933f4d444.png" group-title="❎ PERU ❎",PE| PANAMERICA HD OP 02
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/306673.ts
-#EXTINF:-1 tvg-id="" tvg-name="UR l 'C∆N∆L L∆ RED ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dvrDMOHf3ygjGveFMd6KsVshCciQx_hWvYJ1lWmdVg&s" group-title="❎ URUGUAY ❎",UR l 'C∆N∆L L∆ RED ʜᴅ
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/437206.ts
-#EXTINF:-1 tvg-id="" tvg-name="UR | C.ANAL 4 ꜰʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3xFdkhqdzEnQZMReH-5vaSeH_iIHhlp2jli-ImEb7w&s=10" group-title="❎ URUGUAY ❎",UR | C.ANAL 4 ꜰʜᴅ
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52810.ts
-#EXTINF:-1 tvg-id="" tvg-name="UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwVviXy5jGpId7IjK0Ncrn2AQvcY1CyZWnUJwofsfV4dJ_WJXvmXlcLb3G4SX9P62urE&usqp=CAU.png" group-title="❎ URUGUAY ❎",UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52825.ts
-#EXTINF:-1 tvg-id="" tvg-name="l>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52836.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52832.ts
-#EXTINF:-1 tvg-id="" tvg-name="UR |VTV HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0reKkt1qs3OXYCUWE8X6xrFyiWiy7gkoZKdwSmymAUA&s" group-title="❎ URUGUAY ❎",UR |VTV HD 
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52833.ts
-#EXTINF:-1 tvg-id="" tvg-name="UR | TV CIUDAD ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e5oA9oyAuogZGSPUAQvKRgWxk4cC9wR0yIxM97Cw0A&s=10" group-title="❎ URUGUAY ❎",UR | TV CIUDAD ʜᴅ
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/52838.ts
-#EXTINF:-1 tvg-id="" tvg-name="UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhgMPWVm4VgzwePzg5__BiAehavyNecnvyMZ0eSqa-A&s=10" group-title="❎ URUGUAY ❎",UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/135976.ts
-#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="http://dplatino.net:8080/images/6ec28b3d93bfcfed6758ca6a6031223a.png" group-title="❎ PARAGUAY VIP ❎",PY | TELEFUTURO HD **
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154284.ts
-#EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV HD*" tvg-logo="http://dplatino.net:8080/images/3d53480662df429c4ccaccc8d3ccd9ac.png" group-title="❎ PARAGUAY VIP ❎",PY | GEN TV HD*
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154294.ts
-#EXTINF:-1 tvg-id="" tvg-name="PY | GEN SD*" tvg-logo="http://dplatino.net:8080/images/3d53480662df429c4ccaccc8d3ccd9ac.png" group-title="❎ PARAGUAY VIP ❎",PY | GEN SD*
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154295.ts
-#EXTINF:-1 tvg-id="" tvg-name="PY | MI TV HD*" tvg-logo="http://daleplaypro.com:8080/images/eaab97706b8fbdd3a3f0dffbf28e3fcc.png" group-title="❎ PARAGUAY VIP ❎",PY | MI TV HD*
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/154304.ts
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL MUNDIAL 2026" tvg-logo="http://mundo2.pro:80/images/b0864d8a6e627e31965ceb4ece41acaf.png" group-title="❎ COLOMBIA ❎",CO | CARACOL MUNDIAL 2026
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69252.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cable Noticias HD" tvg-logo="http://mundo2.pro:80/images/4d07e32d605e6408997b2aa20f9f1df4.png" group-title="❎ COLOMBIA ❎",CO | Cable Noticias HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69241.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://mundo2.pro:80/images/4d07e32d605e6408997b2aa20f9f1df4.png" group-title="❎ COLOMBIA ❎",CO | Cablenoticias
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69242.ts
 #EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV " tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota (1080p)
@@ -231,10 +94,6 @@ https://canal.aupurtv.co/live/stream/index.m3u8
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="CO | RCN HD 03" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="❎ COLOMBIA ❎",CO | RCN HD 03
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69270.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD 05" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="❎ COLOMBIA ❎",CO | RCN HD 05
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/541557.ts
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (576p)
 http://181.78.8.199:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
@@ -261,50 +120,6 @@ http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283339.mkv
 http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283340.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="http://redworld.pro:8880/images/4c779faeff1278590e5ee2774341c109.jpg" group-title="⭐️Películas 2023",¡Shazam! La furia de los dioses (2023)
 http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/290534.mkv
-#EXTINF:-1 tvg-id="Senal.co" tvg-name="CO | Señal Colombia SD" tvg-logo="http://mundo2.pro:80/images/b506267fcd091cb6e299047626b50dd4.png" group-title="❎ COLOMBIA ❎",CO | Señal Colombia SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/69273.ts
-#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13  HD" tvg-logo="http://mundo2.pro:80/images/d98aef5762bd8b471455d9f05e0f49cc.png" group-title="❎ CHILE ❎",CL | CANAL 13  HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/209.ts
-#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13 SD" tvg-logo="http://mundo2.pro:80/images/8242ecd1291d824f315946cef432e338.png" group-title="❎ CHILE ❎",CL | CANAL 13 SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55270.ts
-#EXTINF:-1 tvg-id="canal13c.cl" tvg-name="CL | CANAL 13 HD OP 02" tvg-logo="http://mundo2.pro:80/images/d98aef5762bd8b471455d9f05e0f49cc.png" group-title="❎ CHILE ❎",CL | CANAL 13 HD OP 02
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55271.ts
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION HD" tvg-logo="http://mundo2.pro:80/images/361536b9d8be725e99850ab2b8b65e63.png" group-title="❎ CHILE ❎",CL | CHILEVISION HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55272.ts
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | CHILEVISION SD" tvg-logo="http://mundo2.pro:80/images/72f91e904ceaebebd5a02bf48ab5d2dc.png" group-title="❎ CHILE ❎",CL | CHILEVISION SD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55274.ts
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://mundo2.pro:80/images/0922164c6083f6885554b340f166307c.png" group-title="❎ CHILE ❎",CL | MEGA HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55275.ts
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD OP 2" tvg-logo="http://mundo2.pro:80/images/0922164c6083f6885554b340f166307c.png" group-title="❎ CHILE ❎",CL | MEGA HD OP 2
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55277.ts
-#EXTINF:-1 tvg-id="tvnchile.cl" tvg-name="CL | TVN. HD" tvg-logo="http://mundo2.pro:80/images/a486a534c887f371c91a18619b9337ce.png" group-title="❎ CHILE ❎",CL | TVN. HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/55278.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="http://mundo2.pro:80/images/44eb113bc3a23505f846400da04e56f9.png" group-title="❎ MEXICO ❎",AZ CINEMA
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362402.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="http://mundo2.pro:80/images/562f663eb498ccfa0bfa8ec5fc828822.png" group-title="❎ MEXICO ❎",AZ CLICK
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362403.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="http://mundo2.pro:80/images/562f663eb498ccfa0bfa8ec5fc828822.png" group-title="❎ MEXICO ❎",AZ CLICK
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362418.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="http://mundo2.pro:80/images/30acf73d415d1877c022495d3f14922c.png" group-title="❎ MEXICO ❎",AZ MUNDO
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/362405.ts
-#EXTINF:-1 tvg-id="" tvg-name="El Amanecer Del Planeta De Los Simios 2014" tvg-logo="" group-title="⏩SAGAS⏪",El Amanecer Del Planeta De Los Simios 2014
-http://goldtv.lat:80/movie/delgadoalberto43/xjwtfcW5UwJf/471899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BRA: Premiere Clubes 4K" tvg-logo="http://127.0.0.1/" group-title="BRAS | PREMIE",BRA: Premiere Clubes 4K
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/352461.ts
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM 2 HD" tvg-logo="" group-title="BRAS | PREMIE",PREMIUM 2 HD
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/355648.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 1 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="BRAS | PREMIE",BRA: PREMIERE 1 ʙʀᴀsɪʟ ᴴᴰ
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/352453.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 6 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="BRAS | PREMIE",BRA: PREMIERE 6 ʙʀᴀsɪʟ ᴴᴰ
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/352457.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRA: PREMIERE 7 ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="BRAS | PREMIE",BRA: PREMIERE 7 ʙʀᴀsɪʟ ᴴᴰ
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/352458.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN7Lf94uwCrO0DV7xSHXpYCC-EsvmWJ9ULw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",BAND SP | 4k
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111692.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwuvcFaawQ-vRqHj5UFGOLcF_h9Ns7OEvqNw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO RJ | 4k
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111729.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TRIBUNA SANTOS | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGV5XlaA6Ry_wZKlKLYLrnxwT9ovNCW2E9-A&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO TRIBUNA SANTOS | 4k
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/111731.ts
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (1080p)
 http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
@@ -313,45 +128,57 @@ http://138.117.4.70:8075/channel9/playlist.m3u8
 https://streamingcws30.com/tn8/videotn8/chunks.m3u8
 #EXTINF:-1 tvg-id="TV45.ni@SD",TV45-3ABN Nicaragua (720p) [Not 24/7]
 https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-#EXTINF:-1 tvg-id="" tvg-name="MX || AYM SPORTS HD®" tvg-logo="http://mundo2.pro:80/images/0f10911f46fc9b1fc4d49a54866424bd.png" group-title="❎ MEXICO ❎",MX || AYM SPORTS HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404313.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Aym Sports FHD/HD®" tvg-logo="http://mundo2.pro:80/images/530fd2e0fc1ae770a7e37a1596f391be.png" group-title="❎ MEXICO ❎",MX || Aym Sports FHD/HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404314.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Az Cinema HD®" tvg-logo="http://mundo2.pro:80/images/fcc697659777917da4e06d1385e74468.png" group-title="❎ MEXICO ❎",MX || Az Cinema HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404315.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Az Clic HD®" tvg-logo="http://mundo2.pro:80/images/4d370e5062dd7c9fa7f1f6eb6a2d1a67.png" group-title="❎ MEXICO ❎",MX || Az Clic HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404316.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || TVP Obregón - HD®" tvg-logo="http://mundo2.pro:80/images/a7049d3d1124b45622544d7cc627403f.png" group-title="❎ MEXICO ❎",MX || TVP Obregón - HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404329.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 11 MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="❎ MEXICO ❎",MX || CANAL 11 MX FHD/HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404331.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Telemundo Internacional HD®" tvg-logo="http://mundo2.pro:80/images/94dbf727a98772fbd2d2874489e1eb2a.png" group-title="❎ MEXICO ❎",MX || Telemundo Internacional HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404350.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal Rakuten Viki Drama HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/1200px-Rakuten_Viki_Logo_2019.svg.png" group-title="❎ MEXICO ❎",MX || Canal Rakuten Viki Drama HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404352.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || CANAL 14 Noticias HD®" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_heraldo-tv_dn040220.jpg" group-title="❎ MEXICO ❎",MX || CANAL 14 Noticias HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404353.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || CINE ESTRELLA HD®" tvg-logo="http://mundo2.pro:80/images/49759bd76a31cc050f2f962d7c6dee46.png" group-title="❎ MEXICO ❎",MX || CINE ESTRELLA HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404354.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || FORO TV MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="❎ MEXICO ❎",MX || FORO TV MX FHD/HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404359.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || IMAGEN TV MX FHD/HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1280px-HD-TV_Logo.svg.png" group-title="❎ MEXICO ❎",MX || IMAGEN TV MX FHD/HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404365.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Telemundo 51 Fl. HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="❎ MEXICO ❎",MX || Telemundo 51 Fl. HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404369.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || TELEVISA MEXICALI HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="❎ MEXICO ❎",MX || TELEVISA MEXICALI HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404382.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || ULTRA CLASICO HD®" tvg-logo="http://mundo2.pro:80/images/473dec405225f0853138fa5bdc0959be.png" group-title="❎ MEXICO ❎",MX || ULTRA CLASICO HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404412.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal 6 CDMX (FHD)®" tvg-logo="http://mundo2.pro:80/images/5d3827f9b1664efe8984b0d5f6151b9f.jpg" group-title="❎ MEXICO ❎",MX || Canal 6 CDMX (FHD)®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404418.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || TVT (Tabasqueña) HD®" tvg-logo="https://tvt.mx/wp-content/uploads/2019/06/logo_tvt_retina.png" group-title="❎ MEXICO ❎",MX || TVT (Tabasqueña) HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404420.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || Canal Yuma Channel 72 FHD/HD®" tvg-logo="http://mundo2.pro:80/images/742dd35e0389fa4471aa4728929bcf19.png" group-title="❎ MEXICO ❎",MX || Canal Yuma Channel 72 FHD/HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/404430.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || California Medios HD®" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="❎ MEXICO ❎",MX || California Medios HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/450350.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || UnoTV HD®" tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="❎ MEXICO ❎",MX || UnoTV HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/450353.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX || AZTECA MUNDO HD®" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="❎ MEXICO ❎",MX || AZTECA MUNDO HD®
-http://goldtv.lat:80/live/delgadoalberto43/xjwtfcW5UwJf/450359.ts
+#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD",CCTV-Storm Football (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="TeleUno.cr@SD",Tele Uno (720p) [Not 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleUno.cr@SD",Tele Uno (720p) [Not 24/7]
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMas.cr@SD",TeleMas (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/63431
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/57476
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/54532
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/54531
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5663
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5664
+#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5666
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5589
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5590
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5591
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5592
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25128
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25953
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25954
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5652
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5651
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA",ES: M+ LALIGA TV 4
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/57248
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5643
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES",ES: TELEDEPORTE
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5735
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES",ES: GOL PLAY
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5617
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERAL",ES: LA 1
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5622
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | GENERAL",ES: LA 2
+http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5623
