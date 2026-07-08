@@ -8,16 +8,37 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr@HD",M6 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+#EXTINF:-1 tvg-id="AupurTelevision.co@SD",Aupur Television (1080p)
+https://canal.aupurtv.co/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",BeIN SPORTS XTRA En Espanol (720p)
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital (1080p)
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV " tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota (1080p)
+http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD",CCTV-Storm Football (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="DTV.pe@SD",DTV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
@@ -32,135 +53,65 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@US",MTV Biggest Pop (1080p)
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="EC | TELEAMAZONAS UIO SD" tvg-logo="http://mundo2.pro:80/images/704e22982fd9cadb8ca9db1b36c8d240.png" group-title="ECUADOR",Teleamazonas Quito (1080p) [Geo-blocked]
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
-http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
-#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
-http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina" tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KMSPDT1.us@SD",KMSP-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KRIV261.us@HD",KRIV-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSAZTV101.us@HD",KSAZ-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTBC71.us@HD",KTBC-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WFLD501.us@HD",WFLD-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="",FOX Sports (1080p)
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-id="WLUKTV141.us@HD",FOX 11 Green Bay WI (WLUK) (1080p)
-https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KMPHTV261.us@HD",FOX 26 Visalia CA (KMPH) (1080p)
-https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WBFF451.us@HD",FOX 45 Baltimore MD (WBFF) (1080p)
-https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
-http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@US",MTV Biggest Pop (1080p)
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
-http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
-http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital (1080p)
-http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV " tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota (1080p)
-http://138.121.15.230:9002/CITY-TV/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="AupurTelevision.co@SD",Aupur Television (1080p)
-https://canal.aupurtv.co/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas (576p)
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
-http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (576p)
 http://181.78.8.199:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
 http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="CO | Telepacifico" tvg-logo="http://mundo2.pro:80/images/74fa2894a0e94f674ef02ea7963971bf.png" group-title="COLOMBIA",Telepacífico (1080p)
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="TeveColombia.co@SD",TeveColombia (720p) [Not 24/7]
-https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-id="DTV.pe@SD",DTV (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Espartaco (1960)" tvg-logo="http://redworld.pro:8880/images/91767dfbcb9922c8f14cc869585cd5ba.jpg" group-title="⭐️Drama",Espartaco (1960)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/259762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="⭐️Saga Rambo",Rambo 1
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final (2000)" tvg-logo="http://redworld.pro:8880/images/550795c75680f0ff68b912b81d1216be.jpg" group-title="⭐️Saga Destino Final",Destino Final (2000)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 2 (2003)" tvg-logo="http://redworld.pro:8880/images/08d17a053847be87fa59fa3be5314057.jpg" group-title="⭐️Saga Destino Final",Destino Final 2 (2003)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 3 (2006)" tvg-logo="http://redworld.pro:8880/images/7e9cf0ffb24a57215ac592975da23826.jpg" group-title="⭐️Saga Destino Final",Destino Final 3 (2006)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 4 (2009)" tvg-logo="http://redworld.pro:8880/images/92a3296072968b2ef6e52c20e6316e7a.jpg" group-title="⭐️Saga Destino Final",Destino Final 4 (2009)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino Final 5 (2011)" tvg-logo="http://redworld.pro:8880/images/1799f41532093f82675c655bc7cbce86.jpg" group-title="⭐️Saga Destino Final",Destino Final 5 (2011)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/283340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="http://redworld.pro:8880/images/4c779faeff1278590e5ee2774341c109.jpg" group-title="⭐️Películas 2023",¡Shazam! La furia de los dioses (2023)
-http://rlatinop.com:8880/movie/lima88815678/FwxykmLrtYap/290534.mkv
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (1080p)
-http://187.62.68.32:8080/GLOBO/index.m3u8
-#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
-http://138.117.4.70:8075/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="TN8.ni@SD",TN8 (1080p)
-https://streamingcws30.com/tn8/videotn8/chunks.m3u8
-#EXTINF:-1 tvg-id="TV45.ni@SD",TV45-3ABN Nicaragua (720p) [Not 24/7]
-https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
-https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
-#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD",CCTV-Storm Football (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina" tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="EC | TELEAMAZONAS UIO SD" tvg-logo="http://mundo2.pro:80/images/704e22982fd9cadb8ca9db1b36c8d240.png" group-title="ECUADOR",Teleamazonas Quito (1080p) [Geo-blocked]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD",Tele Uno (720p) [Not 24/7]
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMas.cr@SD",TeleMas (720p) [Not 24/7]
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/63431
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/57476
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/54532
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/54531
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5589
-#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5590
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5591
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5592
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25128
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25953
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25954
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA",ES: M+ LALIGA TV 4
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/57248
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES",ES: TELEDEPORTE
-http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5735
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas (576p)
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="CO | Telepacifico" tvg-logo="http://mundo2.pro:80/images/74fa2894a0e94f674ef02ea7963971bf.png" group-title="COLOMBIA",Telepacífico (1080p)
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="TeveColombia.co@SD",TeveColombia (720p) [Not 24/7]
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (1080p)
+http://187.62.68.32:8080/GLOBO/index.m3u8
+#EXTINF:-1 tvg-id="TN8.ni@SD",TN8 (1080p)
+https://streamingcws30.com/tn8/videotn8/chunks.m3u8
+#EXTINF:-1 tvg-id="TV45.ni@SD",TV45-3ABN Nicaragua (720p) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
+#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+#EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr@HD",M6 (720p)
+http://cdn.haititivi.com/M6-HD/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
+http://177.234.249.135:8888/Golden/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (720p)
+http://177.234.249.135:8888/GoldenEdge/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
+http://177.234.249.135:8888/Univision/index.m3u8
