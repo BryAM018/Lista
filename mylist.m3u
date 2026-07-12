@@ -1,5 +1,5 @@
 #EXTM3U
-tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe@SD",FuegoTV (1080p)
@@ -183,8 +183,6 @@ https://redirector.dps.live/hls/pucontv/playlist.m3u8
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="FX.cl@SD" tvg-name="CINE | FX " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title=" CINE ",FX (720p)
 http://138.121.15.230:9002/FX/index.m3u8
-#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13 HD" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="⭐️ CHILE  ",CL | CANAL 13 HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/272241
 #EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",CL | 13 CULTURA
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/300291
 #EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional" tvg-logo="http://goldfull.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional
@@ -219,8 +217,6 @@ http://177.234.249.178:8888/NICK-JR/index.m3u8
 http://177.234.249.178:8888/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
 http://177.234.249.178:8888/NATGEO/index.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD",Hola! TV Latin America (1080p)
-http://177.234.249.178:8888/HOLA-TV/index.m3u8
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD",GolTV Latin America (720p)
 http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
@@ -345,8 +341,6 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/418182
 http://45.167.2.101:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
 https://livestream.mediacci.com/ccitv/index.m3u8
-#EXTINF:-1 tvg-id="JBNTV.hn@SD",JBN TV (1080p)
-https://viewhn.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 tvg-id="AZATVHD.hn@SD",AZA TV HD (1080p)
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telerayo.hn@SD",Telerayo (1080p)
@@ -374,8 +368,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe@SD",Vision Sur (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="RegionTVCallao.pe@SD",Region TV Callao (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RikuTV.pe@SD",Riku TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbriciasTV.pe@SD",Albricias TV (720p)
@@ -412,8 +404,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe@SD",Studio Pasco TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalMasTV.pe@SD",Canal Mas TV (720p)
-https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BNBDigital.pe@SD",BNB Digital (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe@SD",TV MAX (720p)
@@ -438,8 +428,6 @@ https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
 http://179.60.51.134:8888/ATV/index.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe@SD",Monterrico TV
-https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (720p)
@@ -523,8 +511,6 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490045
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490055
 #EXTINF:-1 tvg-id="" tvg-name="CR | Coto Brus TV" tvg-logo="http://redworld.pro:8880/images/f5e2546e339089e91f2d162e492be01a.png" group-title="⭐️ COSTA RICA",CR | Coto Brus TV
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490056
-#EXTINF:-1 tvg-id="" tvg-name="CR | ZurquTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZPsoBxWDWYaP59aELUi9ekudNOAONyN11Q&s" group-title="⭐️ COSTA RICA",CR | ZurquTV
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490072
 #EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO ORLANDO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO ORLANDO
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490420
 #EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO BOSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO BOSTON
@@ -547,10 +533,6 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490440
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490441
 #EXTINF:-1 tvg-id="" tvg-name="ARG | 13 El Trece" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | 13 El Trece
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490442
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) ARG | TV Publica FHD" tvg-logo="http://redworld.pro:8880/images/e18523361e24e6508919b799b7e0a144.png" group-title="⭐️ Argentina",(OFFLINE) ARG | TV Publica FHD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490455
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TV Publica" tvg-logo="http://redworld.pro:8880/images/e18523361e24e6508919b799b7e0a144.png" group-title="⭐️ Argentina",ARG | TV Publica
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490456
 #EXTINF:-1 tvg-id="5tv.ar@SD",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Misiones.ar@SD",Canal 2 Misiones (1080p)
@@ -625,4 +607,57 @@ https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (720p)
 http://168.228.44.241:9998/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD"
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (1080p)
+http://45.162.193.35:80/CANAL13_HD/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (1080p)
+https://redirector.dps.live/hls/13intav/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-name="SV | CANAL 10" tvg-logo="http://redworld.pro:8880/images/cd6a352a8383b27243e5422bc15abc7f.png" group-title="El Salvador",Canal 10 (720p)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD",Canal 10 (576p)
+http://45.167.2.101:8000/play/a0r8/index.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD",Megavisión Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="Canal2.sv@SD",Canal 2 (576p)
+https://signal.teleon.live/stream/canal2sv.m3u8?token=free
+#EXTINF:-1 tvg-id="GSGTV.sv@SD",GSG TV
+https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMElSalvador.sv@SD",TVM El Salvador (720p)
+https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Scooby y Scraapy Doo" tvg-logo="http://redworld.pro:8880/images/5c04a4a382f18f4024d998d3665d1999.jpg" group-title="✅ 24/7 VIP",24/7 - Scooby y Scraapy Doo
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526336
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - La Mascara Animada" tvg-logo="http://redworld.pro:8880/images/2e994ab30e968f4f54387c3d065b195a.jpg" group-title="✅ 24/7 VIP",24/7 - La Mascara Animada
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Los Pitufos" tvg-logo="http://redworld.pro:8880/images/bd753154e3d9f71fa8126cdd7295c2be.jpg" group-title="✅ 24/7 VIP",24/7 - Los Pitufos
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - DR Stone | S03" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7880b2d6-6d4c-40fa-a5c3-b0c6df558613/dedqj8e-0ac9006b-f8c5-4351-b38e-984a572b0443.png/v1/fill/w_1280,h_720/dr_stone_logo_by_jacko_2026_dedqj8e-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4ODBiMmQ2LTZkNGMtNDBmYS1hNWMzLWIwYzZkZjU1ODYxM1wvZGVkcWo4ZS0wYWM5MDA2Yi1mOGM1LTQzNTEtYjM4ZS05ODRhNTcyYjA0NDMucG5nIiwiaGVpZ2h0IjoiPD03MjAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83ODgwYjJkNi02ZDRjLTQwZmEtYTVjMy1iMGM2ZGY1NTg2MTNcL2phY2tvLTIwMjYtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.v2CnekaPKi-9iNG2Kj3YHZa_Ag_yST7ZRIWckgZR57I" group-title="✅ 24/7 VIP",24/7 - DR Stone | S03
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526345
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Peliculas 2023" tvg-logo="http://redworld.pro:8880/images/894fb1c1dbbf620740ac7c02a14b8d33.jpg" group-title="✅ 24/7 VIP",24/7 - Peliculas 2023
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="http://redworld.pro:8880/images/c73c914ca8d709e7af40ab3cc129377f.jpeg" group-title="✅ 24/7 VIP",24/7 - El Chavo del 8
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526348
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 1-14" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 1-14
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 15-27" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 15-27
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 28-46" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 28-46
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 47-76" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 47-76
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bugs Bunny" tvg-logo="http://redworld.pro:8880/images/436a1cf81f027217eba9cde632933fa0.png" group-title="✅ 24/7 VIP",24/7 Bugs Bunny
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526391
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitán Cavernicola" tvg-logo="http://redworld.pro:8880/images/838371f4ef574161aee0b11b92344afb.jpg" group-title="✅ 24/7 VIP",24/7 Capitán Cavernicola
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526395
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saga Halloween" tvg-logo="http://redworld.pro:8880/images/3fe3b1303f220f0c7f17999908d15578.png" group-title="✅ 24/7 VIP",24/7 Saga Halloween
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526399
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Viernes 13" tvg-logo="http://redworld.pro:8880/images/f700958d053e91bcf2da49672ea182c7.png" group-title="✅ 24/7 VIP",24/7 Viernes 13
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526400
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Johnny Bravo" tvg-logo="http://redworld.pro:8880/images/3a041a993a915f92c40f4bd086ae54fc.png" group-title="✅ 24/7 VIP",24/7 - Johnny Bravo
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526412
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un show mas" tvg-logo="http://redworld.pro:8880/images/c8ea15ecee0f790f0cb6142dcfdcd1f6.jpg" group-title="✅ 24/7 VIP",24/7 Un show mas
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526513
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs (1993)" tvg-logo="http://redworld.pro:8880/images/96fa0de2825addd1d6531ea188fcc629.jpg" group-title="✅ 24/7 VIP",24/7 Animaniacs (1993)
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/526531
