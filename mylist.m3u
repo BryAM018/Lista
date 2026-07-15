@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
@@ -42,38 +47,114 @@ http://91.146.94.234:10001/play/a02p
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://91.146.94.234:10001/play/a03a
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+#EXTINF:-1 tvg-id="13C.cl@SD",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl@SD",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",CL | 13 CULTURA
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/300291
+#EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-name="13 REALITIES" tvg-logo="http://goldfull.pro:8880/images/ee3b184577f187218b41b2f4fdd320f0.png" group-title="CHILE",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="CHILE",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="CINE | A&E " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title=" CINE ",A&E Latin America (1080p)
+http://138.186.23.7:8082/AE/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title=" CINE ",AMC Latin America (1080p)
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTOFAGASTA TV" tvg-logo="http://goldfull.pro:8880/images/431205a7190450ce000342033ff36c24.png" group-title="⭐️ CHILE REGIONALES",ANTOFAGASTA TV
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252153
+#EXTINF:-1 tvg-id="AntofagastaTV.cl@SD",Antofagasta TV (ATV) (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AupurTelevision.co@SD",Aupur Television (1080p)
 https://canal.aupurtv.co/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN Latin America Andes (1080p)
+http://138.186.23.7:8082/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN Latin America Andes (1080p)
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="CINE | AXN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title=" CINE ",AXN Latin America (1080p)
+http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="BandamaxUSA.us@SD",Bandamax USA (1080p)
+http://177.234.249.135:8888/Bandamax/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",BeIN SPORTS XTRA En Espanol (720p)
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://redworld.pro:8880/images/6397e0a8c21ef6a4bac5a777a71e7f01.png" group-title="⭐️ Colombia",CO | Cablenoticias
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318400
+#EXTINF:-1 tvg-id="Canal1Nuble.cl@SD",Canal 1 Nuble
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252151
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Quellón" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Canal 2 Quellón
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/379643
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl@SD",Canal 9 Bío Bío Televisión (1080p)
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 Bio Bio" tvg-logo="http://goldfull.pro:8880/images/af6bd0bf5130ca63c286f44f14735047.png" group-title="⭐️ CHILE REGIONALES",CANAL 9 Bio Bio
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252150
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral - Entre Rios" tvg-logo="" group-title="⭐️ Argentina Regionales",Canal 9 Litoral - Entre Rios
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/360495
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://goldfull.pro:8880/images/9f52aa882d0be5fbec5fead45cef225d.png" group-title="⭐️ Nicaragua",CANAL 11
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357692
+#EXTINF:-1 tvg-id="" tvg-name="HN: Canal 11" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: Canal 11
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357703
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Tv - Misiones" tvg-logo="" group-title="⭐️ Argentina Regionales",Canal 21 Tv - Misiones
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/361273
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 TV" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Canal 21 TV
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/379652
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135431
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital
-http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV" tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota
-http://138.121.15.230:9002/CITY-TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional" tvg-logo="http://goldfull.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318375
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://redworld.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional HD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318376
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/321974
 #EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
-http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD",CCTV-Storm Football (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-id="CHTV.hn@SD",CHTV (1080p)
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="CINE | CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title=" CINE ",Cinecanal (1080p)
+http://138.186.23.7:8082/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Pacific",Cinecanal Pacific (1080p)
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV" tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota
+http://138.121.15.230:9002/CITY-TV/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (720p)
+http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="DCHTV.cl@SD",DCH TV (1080p)
+https://v2.tustreaming.cl/dchtv/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaUS.us@SD",De Pelicula US (720p)
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD",DHE (1080p)
+http://177.245.131.133:8080/DHE/index.m3u8
 #EXTINF:-1 tvg-id="DTV.pe@SD",DTV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico",E! Latin America Mexico (720p)
+http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA HD (GYE)" tvg-logo="http://redworld.pro:8880/images/17f45e5b8073063b43f222ebe7b0a19d.png" group-title="⭐️ Ecuador",EC | ECUAVISA HD (GYE)
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/347673
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa HD (Ecuador)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Ecuavisa HD (Ecuador)
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/410183
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek Fan
@@ -88,260 +169,180 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@US",MTV Biggest Pop (1080p)
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
-https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (576p)
-http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
-http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina " tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="EC | TELEAMAZONAS UIO SD" tvg-logo="http://mundo2.pro:80/images/704e22982fd9cadb8ca9db1b36c8d240.png" group-title="ECUADOR",Teleamazonas Quito (1080p) [Geo-blocked]
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-id="TeleMas.cr@SD",TeleMas (720p) [Not 24/7]
-https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas (576p)
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
-http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="CO | Telepacifico" tvg-logo="http://mundo2.pro:80/images/74fa2894a0e94f674ef02ea7963971bf.png" group-title="COLOMBIA",Telepacífico (1080p)
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="TeveColombia.co@SD",TeveColombia (720p) [Not 24/7]
-https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
-http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
-#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (1080p)
-http://187.62.68.32:8080/GLOBO/index.m3u8
-#EXTINF:-1 tvg-id="TN8.ni@SD",TN8 (1080p)
-https://streamingcws30.com/tn8/videotn8/chunks.m3u8
-#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
-https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
-#EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
-http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
-http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="M6.fr@HD",M6 (720p)
-http://cdn.haititivi.com/M6-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FoX sPORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/120546
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FoX $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 2
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/167735
+#EXTINF:-1 tvg-id="FX.cl@SD" tvg-name="CINE | FX " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title=" CINE ",FX (720p)
+http://138.121.15.230:9002/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South",FX Latin America South
+http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-name="CINE | GOLDEN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title=" CINE ",Golden (720p)
 http://177.234.249.135:8888/Golden/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-name="CINE | GOLDEN EDG " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title=" CINE ",Golden Edge (720p)
 http://177.234.249.135:8888/GoldenEdge/index.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
-http://177.234.249.135:8888/Univision/index.m3u8
-#EXTINF:-1 tvg-id="VersoTV.cl@SD",Verso TV
-https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-#EXTINF:-1 tvg-id="VivoTV.cl@SD",Vivo TV
-https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (1080p)
-https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FoX $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/120546
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135431
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135435
-#EXTINF:-1 tvg-id="" tvg-name="TL Novelas Univision" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135439
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 2
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/167735
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 Bio Bio" tvg-logo="http://goldfull.pro:8880/images/af6bd0bf5130ca63c286f44f14735047.png" group-title="⭐️ CHILE REGIONALES",CANAL 9 Bio Bio
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252150
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252151
-#EXTINF:-1 tvg-id="" tvg-name="ANTOFAGASTA TV" tvg-logo="http://goldfull.pro:8880/images/431205a7190450ce000342033ff36c24.png" group-title="⭐️ CHILE REGIONALES",ANTOFAGASTA TV
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252153
-#EXTINF:-1 tvg-id="AntofagastaTV.cl@SD",Antofagasta TV (ATV) (1080p)
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13C.cl@SD",13C (1080p)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13Festival.cl@SD",13 Festival (1080p)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="13Humor.cl@SD",13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-name="13 REALITIES" tvg-logo="http://goldfull.pro:8880/images/ee3b184577f187218b41b2f4fdd320f0.png" group-title="CHILE",13 Realities (1080p)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="CHILE",13 Teleseries (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="Canal1Nuble.cl@SD",Canal 1 Nuble
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl@SD",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
-https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
-http://138.121.15.230:9002/TVN/index.m3u8
-#EXTINF:-1 tvg-id="DCHTV.cl@SD",DCH TV (1080p)
-https://v2.tustreaming.cl/dchtv/index.m3u8
-#EXTINF:-1 tvg-id="PuconTV.cl@SD",Pucon TV
-https://redirector.dps.live/hls/pucontv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title=" CINE ",Star Channel (720p)
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="FX.cl@SD" tvg-name="CINE | FX " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title=" CINE ",FX (720p)
-http://138.121.15.230:9002/FX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",CL | 13 CULTURA
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/300291
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional" tvg-logo="http://goldfull.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318375
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://redworld.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318376
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telemedellin" tvg-logo="http://goldfull.pro:8880/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="⭐️ Colombia",CO | Telemedellin
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318395
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telemedellin HD" tvg-logo="http://redworld.pro:8880/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="⭐️ Colombia",CO | Telemedellin HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318396
-#EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="http://redworld.pro:8880/images/a4b965de697b8782ba503dd6ab336c04.png" group-title="⭐️ Colombia",CO | La kalle
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318398
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://redworld.pro:8880/images/6397e0a8c21ef6a4bac5a777a71e7f01.png" group-title="⭐️ Colombia",CO | Cablenoticias
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318400
-#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico",E! Latin America Mexico (720p)
-http://72.1.184.5:8089/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South",FX Latin America South (720p)
-http://72.1.184.5:8089/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="TeleHitEstadosUnidos.us@SD",TeleHit Estados Unidos (720p)
-http://177.234.249.135:8888/Telehit/index.m3u8
-#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us@SD",Telehit Musica Estados Unidos (720p)
-http://177.234.249.135:8888/TelehitMusica/index.m3u8
-#EXTINF:-1 tvg-id="BandamaxUSA.us@SD",Bandamax USA (1080p)
-http://177.234.249.135:8888/Bandamax/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
-http://177.234.249.178:8888/UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD",GolTV Latin America (720p)
+http://177.234.249.178:8888/GOLTV/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
+http://138.186.23.7:8082/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
+http://138.186.23.7:8082/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBÖ* 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBÖ* 2 SD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414463
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO F@MILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  HD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414465
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* FaMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  SD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414466
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414471
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP SD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414472
+#EXTINF:-1 tvg-id="M6.fr@HD",M6 (720p)
+http://cdn.haititivi.com/M6-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA 2 HD" tvg-logo="http://redworld.pro:8880/images/e01d921297fdc4476e65a6ec8af447c8.png" group-title="⭐️ CHILE  ",CL | MEGA 2 HD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357059
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@US",MTV Biggest Pop (1080p)
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multivision Sport (Guatemala)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Multivision Sport (Guatemala)
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/410185
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (720p)
+http://177.245.131.133:8080/NATGEO/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us@East",NBC Universo (720p)
+http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr. Latin America (1080p)
 http://177.234.249.178:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
 http://177.234.249.178:8888/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
 http://177.234.249.178:8888/NATGEO/index.m3u8
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD",GolTV Latin America (720p)
-http://177.234.249.178:8888/GOLTV/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
-http://177.234.249.178:8888/PASIONES/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN Latin America Andes (1080p)
-http://177.234.249.178:8888/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title=" CINE ",AMC Latin America (1080p)
-http://177.234.249.178:8888/AMC/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="CINE | CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title=" CINE ",Cinecanal (1080p)
-http://138.186.23.7:8082/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="CINE | A&E " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title=" CINE ",A&E Latin America (1080p)
-http://138.186.23.7:8082/AE/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
-http://138.186.23.7:8082/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
-http://138.186.23.7:8082/UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (720p)
-http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional",Paramount Network Latin America (720p)
-http://138.186.23.7:8082/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaUS.us@SD",De Pelicula US (720p)
-http://138.121.15.230:9002/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="CINE | AXN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title=" CINE ",AXN Latin America (1080p)
-http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us@Pacific",Cinecanal Pacific (1080p)
-http://138.121.15.230:9002/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us@East",NBC Universo (720p)
-http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
-http://45.224.97.181:9999/Pasiones/index.m3u8
-#EXTINF:-1 tvg-id="DHE.us@SD",DHE (1080p)
-http://177.245.131.133:8080/DHE/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (720p)
-http://177.245.131.133:8080/NATGEO/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC Latin America (1080p)
-http://45.171.108.253:8888/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN Latin America Andes (1080p)
-http://138.186.23.7:8082/AXN/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title=" CINE",Star Channel Latin America (1080p)
-http://138.186.23.7:8082/STARCHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@SD",TNT Novelas (1080p)
-http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
-http://138.186.23.7:8082/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
-http://138.186.23.7:8082/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
-http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@SD",USA Network Latin America (1080p)
-http://138.186.23.7:8082/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="CINE | SONY " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title=" CINE ",Sony Channel Andes (1080p)
-http://138.186.23.7:8082/SONYCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (576p)
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish",NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/321974
-#EXTINF:-1 tvg-id="" tvg-name="TVC HD " tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="⭐️ Ecuador",TVC HD 
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/347666
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA HD (GYE)" tvg-logo="http://redworld.pro:8880/images/17f45e5b8073063b43f222ebe7b0a19d.png" group-title="⭐️ Ecuador",EC | ECUAVISA HD (GYE)
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/347673
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA 2 HD" tvg-logo="http://redworld.pro:8880/images/e01d921297fdc4476e65a6ec8af447c8.png" group-title="⭐️ CHILE  ",CL | MEGA 2 HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357059
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://goldfull.pro:8880/images/9f52aa882d0be5fbec5fead45cef225d.png" group-title="⭐️ Nicaragua",CANAL 11
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357692
-#EXTINF:-1 tvg-id="CHTV.hn@SD",CHTV (1080p)
-https://viewhn.com/chtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telerayo.hn@SD",Telerayo (1080p)
-https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HN: Canal 11" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: Canal 11
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357703
-#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Tv - Misiones" tvg-logo="" group-title="⭐️ Argentina Regionales",Canal 21 Tv - Misiones
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/361273
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Quellón" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Canal 2 Quellón
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/379643
-#EXTINF:-1 tvg-id="" tvg-name="URU || TNU  CANAL 5 SD (I)" tvg-logo="http://redworld.pro:8880/images/71688ac6876bc032599040367578d33b.png" group-title="⭐️ Uruguay",URU || TNU  CANAL 5 SD (I)
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/385099
-#EXTINF:-1 tvg-id="" tvg-name="Multivision Sport (Guatemala)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Multivision Sport (Guatemala)
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/410185
-#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBÖ* 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBÖ* 2 SD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414463
-#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414465
-#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  SD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414466
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414471
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP SD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414472
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  FHD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414485
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414486
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="⭐️ CINE PREMIUM",P | Universal Comedy
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414519
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Este" tvg-logo="http://goldfull.pro:8880/images/5f9bdadd92cc63bf5567b22706b25391.png" group-title="⭐️ CINE PREMIUM",P | Universal Crime Este
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414520
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Reality" tvg-logo="http://daleplay.club:8080/images/b5cd18267789d07c58596bcae4f0055f.png" group-title="⭐️ CINE PREMIUM",P | Universal Reality
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414522
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Cinema" tvg-logo="http://daleplay.club:8080/images/2f9119fd3e55f3968f4c683b2e9916d9.png" group-title="⭐️ CINE PREMIUM",P | Universal Cinema
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414523
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Oeste" tvg-logo="http://daleplay.club:8080/images/ddab0de6d960b6f7ce2b83fcf5c7392d.png" group-title="⭐️ CINE PREMIUM",P | Universal Crime Oeste
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414524
-#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="http://todoen1.xyz:8080/Altoquetv83/ALt3Q34Re9372/149705" group-title="⭐️ CINE PREMIUM",P | Universal Premier Oeste
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414525
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa HD (Ecuador)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",Ecuavisa HD (Ecuador)
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/410183
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA |  RPC TV" tvg-logo="http://redworld.pro:8880/images/b823b2f7d32514006bcd3e6af84ac0fa.png" group-title="⭐️ Panama",PANAMA |  RPC TV
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/418182
+#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina " tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="http://redworld.pro:8880/images/a4b965de697b8782ba503dd6ab336c04.png" group-title="⭐️ Colombia",CO | La kalle
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318398
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+http://138.186.23.7:8082/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135435
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
+http://177.234.249.178:8888/PASIONES/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
+http://45.224.97.181:9999/Pasiones/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional",Paramount Network Latin America (720p)
+http://138.186.23.7:8082/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="PuconTV.cl@SD",Pucon TV
+https://redirector.dps.live/hls/pucontv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title=" CINE ",Star Channel (720p)
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title=" CINE",Star Channel Latin America (1080p)
+http://138.186.23.7:8082/STARCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="CINE | SONY " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title=" CINE ",Sony Channel Andes (1080p)
+http://138.186.23.7:8082/SONYCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="EC | TELEAMAZONAS UIO SD" tvg-logo="http://mundo2.pro:80/images/704e22982fd9cadb8ca9db1b36c8d240.png" group-title="ECUADOR",Teleamazonas Quito (1080p) [Geo-blocked]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD",Telecadena 7 y 4 (576p)
 http://45.167.2.101:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
-https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena" tvg-logo="http://redworld.pro:8880/images/b0fa538867fe6f2bd71ebd7f8bf6e462.png" group-title="⭐️ Honduras",Telecadena
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/421855
+#EXTINF:-1 tvg-id="TeleMas.cr@SD",TeleMas (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="CO | Telepacifico" tvg-logo="http://mundo2.pro:80/images/74fa2894a0e94f674ef02ea7963971bf.png" group-title="COLOMBIA",Telepacífico (1080p)
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="TeveColombia.co@SD",TeveColombia (720p) [Not 24/7]
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+#EXTINF:-1 tvg-id="TeleHitEstadosUnidos.us@SD",TeleHit Estados Unidos (720p)
+http://177.234.249.135:8888/Telehit/index.m3u8
+#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us@SD",Telehit Musica Estados Unidos (720p)
+http://177.234.249.135:8888/TelehitMusica/index.m3u8
+#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telemedellin" tvg-logo="http://goldfull.pro:8880/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="⭐️ Colombia",CO | Telemedellin
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318395
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telemedellin HD" tvg-logo="http://redworld.pro:8880/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="⭐️ Colombia",CO | Telemedellin HD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318396
+#EXTINF:-1 tvg-id="Telemetro.pa@SD",Telemetro (720p)
+http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Telerayo.hn@SD",Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD",Television Olanchana (1080p)
 https://viewhn.com/canal30/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecadena" tvg-logo="http://redworld.pro:8880/images/b0fa538867fe6f2bd71ebd7f8bf6e462.png" group-title="⭐️ Honduras",Telecadena
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/421855
+#EXTINF:-1 tvg-id="TNTNovelas.us@SD",TNT Novelas (1080p)
+http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TN8.ni@SD",TN8 (1080p)
+https://streamingcws30.com/tn8/videotn8/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URU || TNU CANAL 5 (I)" tvg-logo="http://redworld.pro:8880/images/71688ac6876bc032599040367578d33b.png" group-title="⭐️ Uruguay",URU || TNU  CANAL 5 SD (I)
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/385099
+#EXTINF:-1 tvg-id="" tvg-name="TL Novelas Univision" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135439
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (1080p)
+http://187.62.68.32:8080/GLOBO/index.m3u8
+#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+#EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (1080p)
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC HD " tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="⭐️ Ecuador",TVC HD 
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/347666
+#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
+http://138.121.15.230:9002/TVN/index.m3u8
+#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas (576p)
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | RPC TV" tvg-logo="http://redworld.pro:8880/images/b823b2f7d32514006bcd3e6af84ac0fa.png" group-title="⭐️ Panama",PANAMA |  RPC TV
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/418182
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+http://138.186.23.7:8082/UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="⭐️ CINE PREMIUM",P | Universal Comedy
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414519
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Cinema" tvg-logo="http://daleplay.club:8080/images/2f9119fd3e55f3968f4c683b2e9916d9.png" group-title="⭐️ CINE PREMIUM",P | Universal Cinema
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414523
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Este" tvg-logo="http://goldfull.pro:8880/images/5f9bdadd92cc63bf5567b22706b25391.png" group-title="⭐️ CINE PREMIUM",P | Universal Crime Este
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414520
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Oeste" tvg-logo="http://daleplay.club:8080/images/ddab0de6d960b6f7ce2b83fcf5c7392d.png" group-title="⭐️ CINE PREMIUM",P | Universal Crime Oeste
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414524
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Reality" tvg-logo="http://daleplay.club:8080/images/b5cd18267789d07c58596bcae4f0055f.png" group-title="⭐️ CINE PREMIUM",P | Universal Reality
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414522
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="http://todoen1.xyz:8080/Altoquetv83/ALt3Q34Re9372/149705" group-title="⭐️ CINE PREMIUM",P | Universal Premier Oeste
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414525
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
+http://177.234.249.135:8888/Univision/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
+http://177.234.249.178:8888/UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
+http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@SD",USA Network Latin America (1080p)
+http://138.186.23.7:8082/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="VersoTV.cl@SD",Verso TV
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+#EXTINF:-1 tvg-id="VivoTV.cl@SD",Vivo TV
+https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  FHD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414485
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414486
+#EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2318" tvg-name="PE | C4N4L N" tvg-logo="http://redworld.pro:8880/images/d24268d5fcb7b05c20db39f135285580.png" group-title="⭐️ PERU",PE | C4N4L N
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/429012
 #EXTINF:-1 tvg-id="AntenaSUR.pe@SD",Antena SUR (720p)
@@ -376,8 +377,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe@SD",Altura TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImperialTelevision.pe@SD",Imperial Television (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CANALMTelevision.pe@SD",CANAL M Television (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV.pe@SD",DTV (720p)
@@ -608,8 +607,6 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/521032
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX HD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX HD
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/533403
-#EXTINF:-1 tvg-id="lch3298" tvg-name="PE| MOVISTAR DEPORTES HD" tvg-logo="http://redworld.pro:8880/images/d433e275a9107f856d8c228da5603b8a.png" group-title="⭐️ DƏPORTES PE",PE| MOVISTAR DEPORTES HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/533409
 #EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
 http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
@@ -1493,3 +1490,5 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515775.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515776.mp4
 #EXTINF:-1 tvg-id="talkSPORT.uk@SD",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionLatina.pa@SD",Vision Latina (1080p)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
