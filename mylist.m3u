@@ -8,7 +8,7 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-name="Latino | TLNovelas" tvg-logo="http://redworld.pro:8880/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="Telenovelas",Tlnovelas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr@HD",M6 (1080p)
@@ -29,15 +29,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai2.it@SD",Rai 2 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:-1 tvg-id="Rai4.it@HD",Rai 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://91.146.94.234:10001/play/a02p
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://91.146.94.234:10001/play/a03a
 #EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
 #EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
 http://181.119.93.83:8000/play/a25t/index.m3u8
@@ -150,9 +141,9 @@ http://45.167.2.101:8000/play/a0r8/index.m3u8
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357692
 #EXTINF:-1 tvg-id="" tvg-name="HN: Canal 11" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: Canal 11
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357703
-#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (1080p)
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",Canal 13 (1080p)
 http://45.162.193.35:80/CANAL13_HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (1080p)
+#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",,Canal 13 (1080p)
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr@SD" tvg-name="CR | Canal 14 Tv Sur" tvg-logo="http://redworld.pro:8880/images/88dff15c264906642b0607abd53ec1c9.png" group-title="⭐️ COSTA RICA",TV Sur Canal 14 (1080p)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -266,14 +257,14 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/521032
 #EXTINF:-1 tvg-id="" tvg-name="FoX sPORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/120546
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FoX $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE VIP",DEPORTES | F0X $PORTS 2
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/167735
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/521032
 #EXTINF:-1 tvg-id="FX.cl@SD" tvg-name="CINE | FX " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title=" CINE ",FX (720p)
 http://138.121.15.230:9002/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South",FX Latin America South
@@ -352,8 +343,8 @@ http://45.171.108.253:8888/LATINA/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="http://redworld.pro:8880/images/a4b965de697b8782ba503dd6ab336c04.png" group-title="⭐️ Colombia",CO | La kalle
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318398
-#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | LIGA 1 MAX HD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX HD
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/533403
+#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | LIGA 1 MAX HD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | LIGA 1 MAX HD
+
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
 http://138.186.23.7:8082/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Ovasion TV" tvg-logo="http://redworld.pro:8880/images/69822150e35dc5f7896b130be9d44d9f.png" group-title="⭐️ PERU",PE| Ovasion TV
@@ -364,7 +355,7 @@ http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135435
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD"tvg-name="CO | Pasiones" tvg-logo="http://redworld.pro:8880/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="Colombia",Pasiones Latin America (1080p)
 http://177.234.249.178:8888/PASIONES/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
 http://45.224.97.181:9999/Pasiones/index.m3u8
@@ -456,7 +447,7 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490040
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD"  tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title=" COSTA RICA",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title="COSTA RICA",Tele Uno (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title="COSTA RICA",Tele Uno (720p)
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD",Television Olanchana (1080p)
 https://viewhn.com/canal30/live/playlist.m3u8
@@ -470,10 +461,6 @@ http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
 https://streamingcws30.com/tn8/videotn8/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URU || TNU CANAL 5 (I)" tvg-logo="http://redworld.pro:8880/images/71688ac6876bc032599040367578d33b.png" group-title="⭐️ Uruguay",URU || TNU  CANAL 5 SD (I)
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/385099
-#EXTINF:-1 tvg-id="" tvg-name="TL Novelas Univision" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135439
-#EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu
@@ -488,7 +475,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMElSalvador.sv@SD",TVM El Salvador (720p)
 https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="CL | TVN " tvg-logo="http://redworld.pro:8880/images/69e49ff199bfc129952b6602b5ed7aba.png" group-title="CHILE",TVN (1080p)
 http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
@@ -498,11 +485,9 @@ https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowi
 http://91.146.94.234:10001/play/a0c2
 #EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Ty€ 5PORT5" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ DEPORTE VIP",DEPORTES | Ty€ 5PORT5
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/443250
 #EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) [Not 24/7]
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas (576p)
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas " tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas 
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
@@ -524,8 +509,6 @@ https://amixtv.com:8081/rikutv/index.m3u8
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/418182
 #EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV (1080p)
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
-#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe@SD",Ucayalina de Television (720p)
-https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 #EXTINF:-1 tvg-id="UchuTV.pe@SD",Uchu TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@Mountain",UniMas Mountain (1080p)
@@ -578,7 +561,7 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490462
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414485
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414486
-#EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-name="DEPORTES | WIN SPORTS " tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="DEPORTE",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | W $ports + HD" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia",CO | W $ports + HD
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/437740
@@ -593,64 +576,6 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E01" tvg-logo="http://redworld.pro:8880/images/61dc1cdc5e82156f864aee525f31f018.jpg" group-title="⭐️ Series HBO ",Primal S01 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E02" tvg-logo="http://redworld.pro:8880/images/53691d9096bb222d654b96b411f10f02.jpg" group-title="⭐️ Series HBO ",Primal S01 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E03" tvg-logo="http://redworld.pro:8880/images/178ed50939815c25a329ed5f7fa4582b.jpg" group-title="⭐️ Series HBO ",Primal S01 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E04" tvg-logo="http://redworld.pro:8880/images/fe261ff5a7dd1b4d5598374a8cb95982.jpg" group-title="⭐️ Series HBO ",Primal S01 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E06" tvg-logo="http://redworld.pro:8880/images/5a60f602354fa159b08cb47546542736.jpg" group-title="⭐️ Series HBO ",Primal S01 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E07" tvg-logo="http://redworld.pro:8880/images/44bfd438f430f2b7a217e07827208c39.jpg" group-title="⭐️ Series HBO ",Primal S01 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E08" tvg-logo="http://redworld.pro:8880/images/6aaa295082eda8179240ca79118e39ae.jpg" group-title="⭐️ Series HBO ",Primal S01 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E09" tvg-logo="http://redworld.pro:8880/images/27efb72effa7b7c79ae8ec932470e340.jpg" group-title="⭐️ Series HBO ",Primal S01 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E10" tvg-logo="http://redworld.pro:8880/images/f84a64394bb7ef1b39d19cd8eddf1905.jpg" group-title="⭐️ Series HBO ",Primal S01 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E01" tvg-logo="http://redworld.pro:8880/images/e9e67607488f49dffd878f74d9505875.jpg" group-title="⭐️ Series HBO ",Primal S02 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E02" tvg-logo="http://redworld.pro:8880/images/e2d1deeef9efc6ddf3b3146959a41eca.jpg" group-title="⭐️ Series HBO ",Primal S02 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E03" tvg-logo="http://redworld.pro:8880/images/5003044b764768f28cd77f73d39bda78.jpg" group-title="⭐️ Series HBO ",Primal S02 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E04" tvg-logo="http://redworld.pro:8880/images/16cfc9483f7350c3543d826c3f4e14be.jpg" group-title="⭐️ Series HBO ",Primal S02 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E06" tvg-logo="http://redworld.pro:8880/images/0a038b7350d72897158d2aa616549260.jpg" group-title="⭐️ Series HBO ",Primal S02 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E07" tvg-logo="http://redworld.pro:8880/images/490372be23646f74b6dd3954a5d9f82a.jpg" group-title="⭐️ Series HBO ",Primal S02 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E08" tvg-logo="http://redworld.pro:8880/images/a7704e7c88435846b9a86075ddd805ad.jpg" group-title="⭐️ Series HBO ",Primal S02 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E09" tvg-logo="http://redworld.pro:8880/images/6b035acda86fc423eddf32b29efc365d.jpg" group-title="⭐️ Series HBO ",Primal S02 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E10" tvg-logo="http://redworld.pro:8880/images/bad7af508aca64ed6d5e0afe514cbcf8.jpg" group-title="⭐️ Series HBO ",Primal S02 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E01" tvg-logo="http://redworld.pro:8880/images/bf296dfefd5f7a11e774f15bca3fc845.jpg" group-title="⭐️ Series HBO ",Primal S03 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E02" tvg-logo="http://redworld.pro:8880/images/d913962ebcffed92443f6fe942a86772.jpg" group-title="⭐️ Series HBO ",Primal S03 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E03" tvg-logo="http://redworld.pro:8880/images/663994b33bdcbef8cf621364631ef78f.jpg" group-title="⭐️ Series HBO ",Primal S03 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/489682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E04" tvg-logo="http://redworld.pro:8880/images/6920894443f0f4c6990ea353ad8bb40d.jpg" group-title="⭐️ Series HBO ",Primal S03 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/490109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E05" tvg-logo="http://redworld.pro:8880/images/7f2c523481da37eb4fc1d2a593d58b40.jpg" group-title="⭐️ Series HBO ",Primal S03 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/502092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E06" tvg-logo="http://redworld.pro:8880/images/c8fc44382899ea65d03062344c246740.jpg" group-title="⭐️ Series HBO ",Primal S03 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/502883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E07" tvg-logo="http://redworld.pro:8880/images/fd2a7f21db5cf16ba5640e7d30eb2d47.jpg" group-title="⭐️ Series HBO ",Primal S03 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E08" tvg-logo="http://redworld.pro:8880/images/6c4cc3a2b5043bc67e022cb9119bb4c9.jpg" group-title="⭐️ Series HBO ",Primal S03 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/514129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E10" tvg-logo="http://redworld.pro:8880/images/2ea902ff9b51b56c55b22d36443209b6.jpg" group-title="⭐️ Series HBO ",Primal S03 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/519761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E01" tvg-logo="http://redworld.pro:8880/images/b2ad56568b7393cef2e3d26e5c93df9f.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476313.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E02" tvg-logo="http://redworld.pro:8880/images/2011a5237b15cb9aaae22e1f4a7e90df.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476314.mkv
 #EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E03" tvg-logo="http://redworld.pro:8880/images/8781245a6055c04238d99f96c5d8c104.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E03
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476315.mkv
 #EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E04" tvg-logo="http://redworld.pro:8880/images/0e91dc144a0b746a631ad680a7535f63.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E04
@@ -747,8 +672,6 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476359.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476361.mp4
 #EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E13" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E13
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E01" tvg-logo="http://redworld.pro:8880/images/cbe3fd6a44cb031b6f6ffdba0d9b46db.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486948.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E02" tvg-logo="http://redworld.pro:8880/images/f6342e2ebc9fd87016192b5440121fa7.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E02
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486949.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E04" tvg-logo="http://redworld.pro:8880/images/897550ed759c0611819be8af72ad8ce5.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E04
@@ -854,59 +777,7 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487913.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487914.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E04" tvg-logo="http://redworld.pro:8880/images/0141557ce57418f1c5545c01ea80a611.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E04
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E01" tvg-logo="http://redworld.pro:8880/images/81d35fe3a602700660d8212c290a0b9a.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E02" tvg-logo="http://redworld.pro:8880/images/5a1e692337b79f2d1bc28061495f5f9c.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E03" tvg-logo="http://redworld.pro:8880/images/874d06379bc2d7792978d5a44dccf8d2.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E04" tvg-logo="http://redworld.pro:8880/images/71b900720829c7d5a47cf0624a93ca59.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E06" tvg-logo="http://redworld.pro:8880/images/1c894bcadfef074a3cc3221ab874d86d.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E07" tvg-logo="http://redworld.pro:8880/images/19ca0b837aaef9aa475097e86eebb3d3.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E08" tvg-logo="http://redworld.pro:8880/images/ed8c752acb89deef0cf566534e857b12.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E09" tvg-logo="http://redworld.pro:8880/images/3d5f2946c11c57c6d65dc28b2a1940ce.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E01" tvg-logo="http://redworld.pro:8880/images/31201b03f22296dd3b37959b9c71bbe0.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E02" tvg-logo="http://redworld.pro:8880/images/332c129c7339a097c653dbeb147d0232.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E03" tvg-logo="http://redworld.pro:8880/images/54cb2261a8c07f1a3078c368677855ac.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E04" tvg-logo="http://redworld.pro:8880/images/51307bc374d4cfa94272c40aabce83c5.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E05" tvg-logo="http://redworld.pro:8880/images/8b3c8f62e51a22fef26936c8c8a716d4.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E07" tvg-logo="http://redworld.pro:8880/images/d615a6e9bb533d104466c005cc1c122c.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E01" tvg-logo="http://redworld.pro:8880/images/bfa353c0169f598158fc2efc9963cf79.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E02" tvg-logo="http://redworld.pro:8880/images/472c694f622a317587dd582344b5959f.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E03" tvg-logo="http://redworld.pro:8880/images/a34f015cd918f677cab4d3cb01daaae3.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E04" tvg-logo="http://redworld.pro:8880/images/ce09c51c1b45b98e5d7eedaeed1549c7.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E05" tvg-logo="http://redworld.pro:8880/images/1c736bedc08af1c30d2780e29f2c89a3.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E07" tvg-logo="http://redworld.pro:8880/images/4b790eb70342fd3c404aa1646d09a592.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E08" tvg-logo="http://redworld.pro:8880/images/29bf25832511664c837793016f1bd91f.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E09" tvg-logo="http://redworld.pro:8880/images/5aafefb905ab09cad90a9276ffe115f1.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E10" tvg-logo="http://redworld.pro:8880/images/773d5fc6f2b030f3a2c331a13efb0204.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E11" tvg-logo="http://redworld.pro:8880/images/0463c9e81ced4a0fdbaee457cb6e0861.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E11
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E12" tvg-logo="http://redworld.pro:8880/images/c66879c1f3b366806982e16395ed3388.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E12
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505896.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E04" tvg-logo="http://redworld.pro:8880/images/3ce2e880fd43588d9071530f0df2e850.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507342.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E05" tvg-logo="http://redworld.pro:8880/images/f8581d85e03d9d746f1986cfdea4206b.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E05
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E06" tvg-logo="http://redworld.pro:8880/images/00bca95fc01403e5de6e4bf7b333a12a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E06
@@ -1150,6 +1021,182 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507464.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E25" tvg-logo="http://redworld.pro:8880/images/a7df1d3446c53d37359f73ef167056e0.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E25
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507465.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E01" tvg-logo="http://redworld.pro:8880/images/e4b5dda7794c0f0035aa6e3563ca1b54.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E01
+http://redworld.pro:8880/series/Prem011de66@/qg7hUhRWx8gt/483860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E02" tvg-logo="http://redworld.pro:8880/images/60ec42ddb5a89bd093cbc22359600363.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E03" tvg-logo="http://redworld.pro:8880/images/9dfd14f66269ea89a050b360a9dc8161.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E04" tvg-logo="http://redworld.pro:8880/images/429c36caa88a865aa76ab45ebad063df.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E05" tvg-logo="http://redworld.pro:8880/images/0e13222862f8ee5e7b9273d744871efb.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E06" tvg-logo="http://redworld.pro:8880/images/214b8ef1fef3ced9108b24dd0598d72c.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E07" tvg-logo="http://redworld.pro:8880/images/81eb87d803bba38e1343612ab5d3fabb.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E08" tvg-logo="http://redworld.pro:8880/images/17b326758727b598c3d6fb553f64d31e.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/483867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E01" tvg-logo="http://redworld.pro:8880/images/467ad546be97dfc5298687764fa10cd3.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E02" tvg-logo="http://redworld.pro:8880/images/2f6d6edf2199330cb0b10eb8a6e4b0b4.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E03" tvg-logo="http://redworld.pro:8880/images/22ca93f859ef99ddca8700b501cb9862.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E04" tvg-logo="http://redworld.pro:8880/images/229c11b6a615a3829310dd763e10de45.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E05" tvg-logo="http://redworld.pro:8880/images/f142513ee24a8ddeb6e55ff3caffeebe.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E06" tvg-logo="http://redworld.pro:8880/images/dff56478033367a0d02cf67342c3bf8d.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E07" tvg-logo="http://redworld.pro:8880/images/510250bfc9f7169b3e37e1db56c67f7d.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E09" tvg-logo="http://redworld.pro:8880/images/990898f80f89b0bcf90e13209b572cd6.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E10" tvg-logo="http://redworld.pro:8880/images/a93e13c993bc47198ee36d3b36a4fcc4.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E11" tvg-logo="http://redworld.pro:8880/images/8a73fcb06ffb469047b98d1a7d41eb92.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E11
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E12" tvg-logo="http://redworld.pro:8880/images/b7985462541c24b717d90c47e214de1c.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E12
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E13" tvg-logo="http://redworld.pro:8880/images/c148083a6a034ca2e43d263750d5f304.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E13
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E14" tvg-logo="http://redworld.pro:8880/images/14521ca6a53787e46cff796500770b39.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E14
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E15" tvg-logo="http://redworld.pro:8880/images/6d9eadb42ab60acc315b7ff8aef5c9b3.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E15
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E16" tvg-logo="http://redworld.pro:8880/images/5b79ce9b7cc6982c15163b86302ee4cc.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E16
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E17" tvg-logo="http://redworld.pro:8880/images/8a9bdbeff65456688ffeceaa5312646f.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E17
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E19" tvg-logo="http://redworld.pro:8880/images/cbf1f3098514b4264b2ed881d99ce779.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E19
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E20" tvg-logo="http://redworld.pro:8880/images/8f7892dff6ff18e1fdef5637f6ebfa5e.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E20
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E21" tvg-logo="http://redworld.pro:8880/images/c82819b33eac44a79aee23e9ce29eb52.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E21
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E22" tvg-logo="http://redworld.pro:8880/images/3d7e1d6babdfa3720b8acd3e2d01ea9e.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E22
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E23" tvg-logo="http://redworld.pro:8880/images/4a871680d3a5f99dcfbd919d604f70a6.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E23
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E24" tvg-logo="http://redworld.pro:8880/images/00adba60d98dbeb386a1560f43554422.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E24
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujer Maravilla (1984)" tvg-logo="http://redworld.pro:8880/images/0d81d1bede9aa1095729d81e7674466d.jpg" group-title="⭐️Dc Universe",Mujer Maravilla (1984)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/542341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. No \ (1962)" tvg-logo="http://redworld.pro:8880/images/a428897f8c0c7e97d07f8c3aea381475.jpg" group-title="⭐️Cine retro",Dr. No \ (1962)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/540337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Predator \ (2018)" tvg-logo="http://redworld.pro:8880/images/732720c31eeec692c22416f50ff86cc5.jpg" group-title="⭐️Variadas",The Predator \ (2018)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/543275.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle Creation \ (2017)" tvg-logo="http://redworld.pro:8880/images/bb4fde7e4ec1988247356d0bbcc88bd6.jpg" group-title="⭐️Variadas",Annabelle Creation \ (2017)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/542727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween II (1981)" tvg-logo="http://redworld.pro:8880/images/55b4f02eb12be10a5bb0436aa1be1d47.jpg" group-title="⭐️Cine retro",Halloween II (1981)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/540657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E01" tvg-logo="http://redworld.pro:8880/images/61dc1cdc5e82156f864aee525f31f018.jpg" group-title="⭐️ Series HBO ",Primal S01 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E02" tvg-logo="http://redworld.pro:8880/images/53691d9096bb222d654b96b411f10f02.jpg" group-title="⭐️ Series HBO ",Primal S01 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E03" tvg-logo="http://redworld.pro:8880/images/178ed50939815c25a329ed5f7fa4582b.jpg" group-title="⭐️ Series HBO ",Primal S01 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E04" tvg-logo="http://redworld.pro:8880/images/fe261ff5a7dd1b4d5598374a8cb95982.jpg" group-title="⭐️ Series HBO ",Primal S01 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E06" tvg-logo="http://redworld.pro:8880/images/5a60f602354fa159b08cb47546542736.jpg" group-title="⭐️ Series HBO ",Primal S01 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E07" tvg-logo="http://redworld.pro:8880/images/44bfd438f430f2b7a217e07827208c39.jpg" group-title="⭐️ Series HBO ",Primal S01 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E08" tvg-logo="http://redworld.pro:8880/images/6aaa295082eda8179240ca79118e39ae.jpg" group-title="⭐️ Series HBO ",Primal S01 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E09" tvg-logo="http://redworld.pro:8880/images/27efb72effa7b7c79ae8ec932470e340.jpg" group-title="⭐️ Series HBO ",Primal S01 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S01 E10" tvg-logo="http://redworld.pro:8880/images/f84a64394bb7ef1b39d19cd8eddf1905.jpg" group-title="⭐️ Series HBO ",Primal S01 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E01" tvg-logo="http://redworld.pro:8880/images/e9e67607488f49dffd878f74d9505875.jpg" group-title="⭐️ Series HBO ",Primal S02 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E02" tvg-logo="http://redworld.pro:8880/images/e2d1deeef9efc6ddf3b3146959a41eca.jpg" group-title="⭐️ Series HBO ",Primal S02 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E03" tvg-logo="http://redworld.pro:8880/images/5003044b764768f28cd77f73d39bda78.jpg" group-title="⭐️ Series HBO ",Primal S02 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E04" tvg-logo="http://redworld.pro:8880/images/16cfc9483f7350c3543d826c3f4e14be.jpg" group-title="⭐️ Series HBO ",Primal S02 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E06" tvg-logo="http://redworld.pro:8880/images/0a038b7350d72897158d2aa616549260.jpg" group-title="⭐️ Series HBO ",Primal S02 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E07" tvg-logo="http://redworld.pro:8880/images/490372be23646f74b6dd3954a5d9f82a.jpg" group-title="⭐️ Series HBO ",Primal S02 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E08" tvg-logo="http://redworld.pro:8880/images/a7704e7c88435846b9a86075ddd805ad.jpg" group-title="⭐️ Series HBO ",Primal S02 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E09" tvg-logo="http://redworld.pro:8880/images/6b035acda86fc423eddf32b29efc365d.jpg" group-title="⭐️ Series HBO ",Primal S02 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S02 E10" tvg-logo="http://redworld.pro:8880/images/bad7af508aca64ed6d5e0afe514cbcf8.jpg" group-title="⭐️ Series HBO ",Primal S02 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E01" tvg-logo="http://redworld.pro:8880/images/bf296dfefd5f7a11e774f15bca3fc845.jpg" group-title="⭐️ Series HBO ",Primal S03 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E02" tvg-logo="http://redworld.pro:8880/images/d913962ebcffed92443f6fe942a86772.jpg" group-title="⭐️ Series HBO ",Primal S03 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E03" tvg-logo="http://redworld.pro:8880/images/663994b33bdcbef8cf621364631ef78f.jpg" group-title="⭐️ Series HBO ",Primal S03 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/489682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E04" tvg-logo="http://redworld.pro:8880/images/6920894443f0f4c6990ea353ad8bb40d.jpg" group-title="⭐️ Series HBO ",Primal S03 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/490109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E05" tvg-logo="http://redworld.pro:8880/images/7f2c523481da37eb4fc1d2a593d58b40.jpg" group-title="⭐️ Series HBO ",Primal S03 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/502092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E06" tvg-logo="http://redworld.pro:8880/images/c8fc44382899ea65d03062344c246740.jpg" group-title="⭐️ Series HBO ",Primal S03 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/502883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E07" tvg-logo="http://redworld.pro:8880/images/fd2a7f21db5cf16ba5640e7d30eb2d47.jpg" group-title="⭐️ Series HBO ",Primal S03 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E08" tvg-logo="http://redworld.pro:8880/images/6c4cc3a2b5043bc67e022cb9119bb4c9.jpg" group-title="⭐️ Series HBO ",Primal S03 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/514129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primal S03 E10" tvg-logo="http://redworld.pro:8880/images/2ea902ff9b51b56c55b22d36443209b6.jpg" group-title="⭐️ Series HBO ",Primal S03 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/519761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E01" tvg-logo="http://redworld.pro:8880/images/81d35fe3a602700660d8212c290a0b9a.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E02" tvg-logo="http://redworld.pro:8880/images/5a1e692337b79f2d1bc28061495f5f9c.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E03" tvg-logo="http://redworld.pro:8880/images/874d06379bc2d7792978d5a44dccf8d2.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E04" tvg-logo="http://redworld.pro:8880/images/71b900720829c7d5a47cf0624a93ca59.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E06" tvg-logo="http://redworld.pro:8880/images/1c894bcadfef074a3cc3221ab874d86d.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E07" tvg-logo="http://redworld.pro:8880/images/19ca0b837aaef9aa475097e86eebb3d3.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E08" tvg-logo="http://redworld.pro:8880/images/ed8c752acb89deef0cf566534e857b12.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S01 E09" tvg-logo="http://redworld.pro:8880/images/3d5f2946c11c57c6d65dc28b2a1940ce.jpg" group-title="⭐️ Series HBO ",The Last of Us S01 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E01" tvg-logo="http://redworld.pro:8880/images/31201b03f22296dd3b37959b9c71bbe0.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E02" tvg-logo="http://redworld.pro:8880/images/332c129c7339a097c653dbeb147d0232.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E03" tvg-logo="http://redworld.pro:8880/images/54cb2261a8c07f1a3078c368677855ac.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E04" tvg-logo="http://redworld.pro:8880/images/51307bc374d4cfa94272c40aabce83c5.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E05" tvg-logo="http://redworld.pro:8880/images/8b3c8f62e51a22fef26936c8c8a716d4.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us S02 E07" tvg-logo="http://redworld.pro:8880/images/d615a6e9bb533d104466c005cc1c122c.jpg" group-title="⭐️ Series HBO ",The Last of Us S02 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E01" tvg-logo="http://redworld.pro:8880/images/bfa353c0169f598158fc2efc9963cf79.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E02" tvg-logo="http://redworld.pro:8880/images/472c694f622a317587dd582344b5959f.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E03" tvg-logo="http://redworld.pro:8880/images/a34f015cd918f677cab4d3cb01daaae3.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E04" tvg-logo="http://redworld.pro:8880/images/ce09c51c1b45b98e5d7eedaeed1549c7.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E05" tvg-logo="http://redworld.pro:8880/images/1c736bedc08af1c30d2780e29f2c89a3.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E07" tvg-logo="http://redworld.pro:8880/images/4b790eb70342fd3c404aa1646d09a592.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E08" tvg-logo="http://redworld.pro:8880/images/29bf25832511664c837793016f1bd91f.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E09" tvg-logo="http://redworld.pro:8880/images/5aafefb905ab09cad90a9276ffe115f1.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E10" tvg-logo="http://redworld.pro:8880/images/773d5fc6f2b030f3a2c331a13efb0204.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E11" tvg-logo="http://redworld.pro:8880/images/0463c9e81ced4a0fdbaee457cb6e0861.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E11
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chainsaw Man S01 E12" tvg-logo="http://redworld.pro:8880/images/c66879c1f3b366806982e16395ed3388.jpg" group-title="⭐️ Series Anime ",Chainsaw Man S01 E12
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/505896.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="http://redworld.pro:8880/images/da7a1bd711a8c766cdfcdb4f413abb64.jpg" group-title="⭐️ Series Amazon ",Dexter S01 E01
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513785.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="http://redworld.pro:8880/images/caa59e4b4f9fb43ebdfd68d2c280e482.jpg" group-title="⭐️ Series Amazon ",Dexter S01 E02
@@ -1386,47 +1433,90 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513913.mkv
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513914.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dioses Americanos S03 E09" tvg-logo="http://redworld.pro:8880/images/ec9067ecd28e313687c898819e87be87.jpg" group-title="⭐️ Series Amazon ",Dioses Americanos S03 E09
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E01" tvg-logo="http://redworld.pro:8880/images/467ad546be97dfc5298687764fa10cd3.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E02" tvg-logo="http://redworld.pro:8880/images/2f6d6edf2199330cb0b10eb8a6e4b0b4.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E03" tvg-logo="http://redworld.pro:8880/images/22ca93f859ef99ddca8700b501cb9862.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E04" tvg-logo="http://redworld.pro:8880/images/229c11b6a615a3829310dd763e10de45.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E05" tvg-logo="http://redworld.pro:8880/images/f142513ee24a8ddeb6e55ff3caffeebe.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E06" tvg-logo="http://redworld.pro:8880/images/dff56478033367a0d02cf67342c3bf8d.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E07" tvg-logo="http://redworld.pro:8880/images/510250bfc9f7169b3e37e1db56c67f7d.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E09" tvg-logo="http://redworld.pro:8880/images/990898f80f89b0bcf90e13209b572cd6.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E10" tvg-logo="http://redworld.pro:8880/images/a93e13c993bc47198ee36d3b36a4fcc4.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E11" tvg-logo="http://redworld.pro:8880/images/8a73fcb06ffb469047b98d1a7d41eb92.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E11
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E12" tvg-logo="http://redworld.pro:8880/images/b7985462541c24b717d90c47e214de1c.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E12
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E13" tvg-logo="http://redworld.pro:8880/images/c148083a6a034ca2e43d263750d5f304.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E13
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E14" tvg-logo="http://redworld.pro:8880/images/14521ca6a53787e46cff796500770b39.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E14
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E15" tvg-logo="http://redworld.pro:8880/images/6d9eadb42ab60acc315b7ff8aef5c9b3.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E15
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E16" tvg-logo="http://redworld.pro:8880/images/5b79ce9b7cc6982c15163b86302ee4cc.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E16
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E17" tvg-logo="http://redworld.pro:8880/images/8a9bdbeff65456688ffeceaa5312646f.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E17
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E19" tvg-logo="http://redworld.pro:8880/images/cbf1f3098514b4264b2ed881d99ce779.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E19
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E20" tvg-logo="http://redworld.pro:8880/images/8f7892dff6ff18e1fdef5637f6ebfa5e.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E20
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E21" tvg-logo="http://redworld.pro:8880/images/c82819b33eac44a79aee23e9ce29eb52.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E21
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E22" tvg-logo="http://redworld.pro:8880/images/3d7e1d6babdfa3720b8acd3e2d01ea9e.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E22
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E23" tvg-logo="http://redworld.pro:8880/images/4a871680d3a5f99dcfbd919d604f70a6.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E23
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E24" tvg-logo="http://redworld.pro:8880/images/00adba60d98dbeb386a1560f43554422.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E24
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/515776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVP - Alien vs. Predator \ (2004)" tvg-logo="http://redworld.pro:8880/images/e475132da235cfa2b8b9e62752efab11.jpg" group-title="⭐️Variadas",AVP - Alien vs. Predator \ (2004)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/542751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Terminator \ (1984)" tvg-logo="http://redworld.pro:8880/images/807d06fbad3574a63a25759c81c61154.jpg" group-title="⭐️Variadas",The Terminator \ (1984)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/543285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El planeta de los simios (1968)" tvg-logo="http://redworld.pro:8880/images/568ac6773ff03f9f8c20bdde4fd9dfc8.jpg" group-title="⭐️Cine retro",El planeta de los simios (1968)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/540470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tron (1982)" tvg-logo="http://redworld.pro:8880/images/be64028365db1a42ae797359759a1bc1.jpg" group-title="⭐️Cine retro",Tron (1982)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/541125.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E01" tvg-logo="http://redworld.pro:8880/images/65afc02be48f0ddc0ad0e1ae1ae07e77.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E01
+http://redworld.pro:8880/series/Prem011de66@/qg7hUhRWx8gt/500750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E02" tvg-logo="http://redworld.pro:8880/images/706a2ff6b7e5bd838c72f44da89fb86d.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E03" tvg-logo="http://redworld.pro:8880/images/5cf667fd477e4d35f03ada43e8cb9654.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E04" tvg-logo="http://redworld.pro:8880/images/3ffe0df95b679c6c941f87e973686aa2.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E04
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E05" tvg-logo="http://redworld.pro:8880/images/f310435fab8dd4e2a3edfde251b52bb3.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E06" tvg-logo="http://redworld.pro:8880/images/9c65e2968e1e39d94fb78b86dee3426f.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E07" tvg-logo="http://redworld.pro:8880/images/09f57808b7eb08aecf524fb85b7d03d0.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E08" tvg-logo="http://redworld.pro:8880/images/6553bf0efffdccc2eb647bdc03e63cf0.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E09" tvg-logo="http://redworld.pro:8880/images/b153eeab8e12893e134566b2d59d280c.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E10" tvg-logo="http://redworld.pro:8880/images/b3e1af4f86de1dc3188170af784fc135.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E01" tvg-logo="http://redworld.pro:8880/images/4fdba6a7bac64a565d90b2117184047b.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E02" tvg-logo="http://redworld.pro:8880/images/49724c99c518e0a634e8d16ada434770.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E03" tvg-logo="http://redworld.pro:8880/images/f42ebc9a9a1e76fbd98fe174ce31c5cb.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E05" tvg-logo="http://redworld.pro:8880/images/4e23b227119a70a6040a7326f14b0236.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E05
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E06" tvg-logo="http://redworld.pro:8880/images/d66ccce83a2593a4a20dea0d6971c74d.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E06
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E07" tvg-logo="http://redworld.pro:8880/images/2426d84e6e2a7596be2d6973e10cabe4.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E07
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E08" tvg-logo="http://redworld.pro:8880/images/18c3c638ca4db71258f9a68b83cacb3f.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E08
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E09" tvg-logo="http://redworld.pro:8880/images/97e68643f1408250c2d85c2b962753a4.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E09
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E10" tvg-logo="http://redworld.pro:8880/images/a2f04d5d62d235eb7d966aa6192cd893.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E10
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S03 E01" tvg-logo="http://redworld.pro:8880/images/84452844ee828816bbe8aa7d17c8eb98.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S03 E01
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S03 E02" tvg-logo="http://redworld.pro:8880/images/d19105e71294f28a2ab24b1c1ac58ecf.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S03 E02
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S03 E03" tvg-logo="http://redworld.pro:8880/images/d82fe4bdd2f7f43317f8a6862c49c984.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S03 E03
+http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/534999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amnesia (2000)" tvg-logo="http://redworld.pro:8880/images/e937701b7bca2b0a8c66a70087039fa1.jpg" group-title="⭐️Acción",Amnesia (2000)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/545900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025)" tvg-logo="http://redworld.pro:8880/images/3b73710e7125f2ddaea9611f45ddfebc.jpg" group-title="⭐️Variadas",Zootopia 2 (2025)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/543343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/252151
+#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CL | 24 HORAS HD" tvg-logo="http://redworld.pro:8880/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="⭐️ CHILE  ",CL | 24 HORAS HD
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/272253
+#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red [Geo-blocked]
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+#EXTINF:-1 tvg-id="Canal2Quellon.cl@SD",TV Quellón (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CL | TV +
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/273685
+#EXTINF:-1 tvg-id="cdobasico.cl" tvg-name="CDO 2 " tvg-logo="http://redworld.pro:8880/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="⭐️ CHILE DEPORTE",CDO 2 
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/273686
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://138.186.23.7:8082/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://177.234.249.178:8888/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://181.78.17.228:8081/RCN-HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://190.61.43.123:8081/RCNHD/index.m3u8
+#EXTINF:-1 tvg-id="CanalTelefamilia.co@SD",Canal Telefamilia (360p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTROPlus.co@SD",Canal TRO Plus (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pingüino tv CL" tvg-logo="http://goldfull.pro:8880/images/4fac3513374b9b98b81f0bad844db8d9.png" group-title="⭐️ CHILE REGIONALES",Pingüino tv CL
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/308135
