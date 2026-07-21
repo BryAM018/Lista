@@ -8,6 +8,9 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://mundo2.pro:80/images/ebef49edc36070bb4535ef5835fe57dc.png" group-title="MEXICO",Las Estrellas Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTROPlus.co@SD",Canal TRO Plus (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-name="Latino | TLNovelas" tvg-logo="http://redworld.pro:8880/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="Telenovelas",Tlnovelas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
@@ -67,12 +70,12 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="CHILE",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CL | 24 HORAS HD" tvg-logo="http://redworld.pro:8880/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="⭐️ CHILE  ",CL | 24 HORAS HD
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/272253
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="CINE | A&E " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="CINE",A&E Latin America 
 http://138.186.23.7:8082/AE/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title=" CINE ",AMC Latin America (1080p)
 http://45.171.108.253:8888/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
-http://45.171.108.253:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe@SD",Antena SUR (720p)
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-name="ANTENA TV (MX)" tvg-logo="http://127.0.0.1/" group-title="México",Antena TV
@@ -95,16 +98,14 @@ http://138.186.23.7:8082/AXN/index.m3u8
 http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="CINE | AXN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title=" CINE ",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP1" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP1
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534771
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZTECA CLIC
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534798
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX II AZTECA INTERNACIONAL HD (PP)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-Wfr_kRdeHrHpDDyPZ-O__nV2Vm57Wj6oqHovOzBlw&s" group-title="⭐️ México",MEX II AZTECA INTERNACIONAL HD (PP)
+#EXTINF:-1 tvg-id="" tvg-name="MEX AZTECA INTERNACIONAL HD (PP)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-Wfr_kRdeHrHpDDyPZ-O__nV2Vm57Wj6oqHovOzBlw&s" group-title="⭐️ México",MEX II AZTECA INTERNACIONAL HD (PP)
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534815
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZ Mundo Hd®" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | AZ Mundo Hd®
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534818
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZ CLIC" tvg-logo="http://redworld.pro:8880/images/4e2199d5c23700b0b54c2383b522184a.png" group-title="⭐️ México",MX | AZ CLIC
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534787
 #EXTINF:-1 tvg-id="BandamaxUSA.us@SD",Bandamax USA (1080p)
 http://177.234.249.135:8888/Bandamax/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
@@ -167,6 +168,18 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135431
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://138.186.23.7:8082/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://177.234.249.178:8888/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://181.78.17.228:8081/RCN-HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://190.61.43.123:8081/RCNHD/index.m3u8
+#EXTINF:-1 tvg-id="CanalTelefamilia.co@SD",Canal Telefamilia (360p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
@@ -179,6 +192,8 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
 https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-id="cdobasico.cl" tvg-name="CDO 2 " tvg-logo="http://redworld.pro:8880/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="⭐️ CHILE DEPORTE",CDO 2 
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/273686
 #EXTINF:-1 tvg-id="CharapaTV.pe@SD",Charapa TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CHTV.hn@SD",CHTV (1080p)
@@ -301,6 +316,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357059
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD",Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILENIO" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",MILENIO
+http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534844
 #EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
@@ -313,8 +330,6 @@ http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/410185
 http://177.245.131.133:8080/NATGEO/index.m3u8
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe@SD",Nativa TV Satipo (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
-https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@East",NBC Universo (720p)
@@ -343,8 +358,8 @@ http://45.171.108.253:8888/LATINA/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="http://redworld.pro:8880/images/a4b965de697b8782ba503dd6ab336c04.png" group-title="⭐️ Colombia",CO | La kalle
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/318398
-#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | LIGA 1 MAX HD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | LIGA 1 MAX HD
-
+#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red [Geo-blocked]
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
 http://138.186.23.7:8082/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Ovasion TV" tvg-logo="http://redworld.pro:8880/images/69822150e35dc5f7896b130be9d44d9f.png" group-title="⭐️ PERU",PE| Ovasion TV
@@ -361,6 +376,8 @@ http://177.234.249.178:8888/PASIONES/index.m3u8
 http://45.224.97.181:9999/Pasiones/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional",Paramount Network Latin America (720p)
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pingüino tv CL" tvg-logo="http://goldfull.pro:8880/images/4fac3513374b9b98b81f0bad844db8d9.png" group-title="⭐️ CHILE REGIONALES",Pingüino tv CL
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/308135
 #EXTINF:-1 tvg-id="PlaneaTV.pe@SD",Planea TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PuconTV.cl@SD",Pucon TV
@@ -438,14 +455,10 @@ http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe@SD",Telelima (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 " tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="⭐️ COSTA RICA",CR | Teletica 7 
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490038
-#EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 " tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="⭐️ COSTA RICA",CR | Teletica 7 
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490039
-#EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 " tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="⭐️ COSTA RICA",CR | Teletica 7 
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490040
 #EXTINF:-1 tvg-id="Telerayo.hn@SD",Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 tvg-id="TeleUno.cr@SD"  tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title=" COSTA RICA",Tele Uno (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TeleUno.cr@SD"  tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title=" COSTA RICA",Tele Uno (720p) 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title="COSTA RICA",Tele Uno (720p)
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
@@ -481,6 +494,10 @@ http://138.121.15.230:9002/TVN/index.m3u8
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (1080p)
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CL | TV +
+http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/273685
+#EXTINF:-1 tvg-id="Canal2Quellon.cl@SD",TV Quellón (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1
 http://91.146.94.234:10001/play/a0c2
 #EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
@@ -537,8 +554,6 @@ http://138.121.15.230:9002/UNIVISION/index.m3u8
 http://177.234.249.135:8888/Univision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX UNIVISION NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUosVlbnYJnLvdrLrokjyX_M4lnNphe7_SQ&s" group-title="⭐️ México",MX UNIVISION NOTICIAS
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/534805
-#EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
-http://provedores.unsion.tv:8081/srt/1/playlist.m3u
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@SD",USA Network Latin America (1080p)
 http://138.186.23.7:8082/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| UTV Ucayali" tvg-logo="http://redworld.pro:8880/images/c6b5d100fe3243dc9f82837a5ff20ab9.jpg" group-title="⭐️ PERU",PE| UTV Ucayali
@@ -576,8 +591,6 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E03" tvg-logo="http://redworld.pro:8880/images/8781245a6055c04238d99f96c5d8c104.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476315.mkv
 #EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E04" tvg-logo="http://redworld.pro:8880/images/0e91dc144a0b746a631ad680a7535f63.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E04
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476316.mkv
 #EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E05" tvg-logo="http://redworld.pro:8880/images/fbc699829ade552713ad138a5d5ef92e.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E05
@@ -672,8 +685,8 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476359.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476361.mp4
 #EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E13" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E13
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E02" tvg-logo="http://redworld.pro:8880/images/f6342e2ebc9fd87016192b5440121fa7.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E03" tvg-logo="http://redworld.pro:8880/images/b4acd1d505f60a44123bec15fca509fa.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E03
+http://redworld.pro:8880/series/Prem011de66@/qg7hUhRWx8gt/486950.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E04" tvg-logo="http://redworld.pro:8880/images/897550ed759c0611819be8af72ad8ce5.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E04
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486951.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E05" tvg-logo="http://redworld.pro:8880/images/7f5d1a8cf1caff44137db47397b686bd.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E05
@@ -1087,11 +1100,12 @@ http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/542341.mkv
 http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/540337.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Predator \ (2018)" tvg-logo="http://redworld.pro:8880/images/732720c31eeec692c22416f50ff86cc5.jpg" group-title="⭐️Variadas",The Predator \ (2018)
 http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/543275.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Annabelle Creation \ (2017)" tvg-logo="http://redworld.pro:8880/images/bb4fde7e4ec1988247356d0bbcc88bd6.jpg" group-title="⭐️Variadas",Annabelle Creation \ (2017)
 http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/542727.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween II (1981)" tvg-logo="http://redworld.pro:8880/images/55b4f02eb12be10a5bb0436aa1be1d47.jpg" group-title="⭐️Cine retro",Halloween II (1981)
 http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/540657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025)" tvg-logo="http://redworld.pro:8880/images/3b73710e7125f2ddaea9611f45ddfebc.jpg" group-title="⭐️Variadas",Zootopia 2 (2025)
+http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/543343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Primal S01 E01" tvg-logo="http://redworld.pro:8880/images/61dc1cdc5e82156f864aee525f31f018.jpg" group-title="⭐️ Series HBO ",Primal S01 E01
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/464126.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Primal S01 E02" tvg-logo="http://redworld.pro:8880/images/53691d9096bb222d654b96b411f10f02.jpg" group-title="⭐️ Series HBO ",Primal S01 E02
@@ -1442,7 +1456,6 @@ http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/540470.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tron (1982)" tvg-logo="http://redworld.pro:8880/images/be64028365db1a42ae797359759a1bc1.jpg" group-title="⭐️Cine retro",Tron (1982)
 http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/541125.mp4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E01" tvg-logo="http://redworld.pro:8880/images/65afc02be48f0ddc0ad0e1ae1ae07e77.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E01
 http://redworld.pro:8880/series/Prem011de66@/qg7hUhRWx8gt/500750.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E02" tvg-logo="http://redworld.pro:8880/images/706a2ff6b7e5bd838c72f44da89fb86d.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E02
@@ -1489,34 +1502,6 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533343.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/534999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amnesia (2000)" tvg-logo="http://redworld.pro:8880/images/e937701b7bca2b0a8c66a70087039fa1.jpg" group-title="⭐️Acción",Amnesia (2000)
 http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/545900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025)" tvg-logo="http://redworld.pro:8880/images/3b73710e7125f2ddaea9611f45ddfebc.jpg" group-title="⭐️Variadas",Zootopia 2 (2025)
-http://redworld.pro:8880/movie/Prem011de66@/qg7hUhRWx8gt/543343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
-http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/252151
-#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CL | 24 HORAS HD" tvg-logo="http://redworld.pro:8880/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="⭐️ CHILE  ",CL | 24 HORAS HD
-http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/272253
-#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red [Geo-blocked]
-https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
-#EXTINF:-1 tvg-id="Canal2Quellon.cl@SD",TV Quellón (1080p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CL | TV +
-http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/273685
-#EXTINF:-1 tvg-id="cdobasico.cl" tvg-name="CDO 2 " tvg-logo="http://redworld.pro:8880/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="⭐️ CHILE DEPORTE",CDO 2 
-http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/273686
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://138.186.23.7:8082/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://177.234.249.178:8888/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://181.78.17.228:8081/RCN-HD/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://190.61.43.123:8081/RCNHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalTelefamilia.co@SD",Canal Telefamilia (360p) [Not 24/7]
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTROPlus.co@SD",Canal TRO Plus (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pingüino tv CL" tvg-logo="http://goldfull.pro:8880/images/4fac3513374b9b98b81f0bad844db8d9.png" group-title="⭐️ CHILE REGIONALES",Pingüino tv CL
-http://redworld.pro:8880/Prem011de66@/qg7hUhRWx8gt/308135
+
+#EXTINF:-1 tvg-id="XEIPNTDT.mx@SD",XEIPN-TDT (720p)
+https://s5.mexside.net:1936/stream/stream/index.m3u8
