@@ -65,17 +65,11 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="CHILE",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="CINE | A&E " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="CINE",A&E Latin America 
-http://138.186.23.7:8082/AE/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title=" CINE ",AMC Latin America (1080p)
 http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe@SD",Antena SUR (720p)
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-name="ANTENA TV (MX)" tvg-logo="http://127.0.0.1/" group-title="México",Antena TV
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANTOFAGASTA TV" tvg-logo="http://goldfull.pro:8880/images/431205a7190450ce000342033ff36c24.png" group-title="⭐️ CHILE REGIONALES",ANTOFAGASTA TV
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/252153
-#EXTINF:-1 tvg-id="AntofagastaTV.cl@SD",Antofagasta TV (ATV) (1080p)
+#EXTINF:-1 tvg-id="AntofagastaTV.cl@SD" tvg-name="ANTOFAGASTA TV" tvg-logo="http://goldfull.pro:8880/images/431205a7190450ce000342033ff36c24.png" group-title="CHILE",Antofagasta TV (ATV) (1080p)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe@SD",Altura TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
@@ -125,6 +119,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://45.167.2.101:8000/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://goldfull.pro:8880/images/9f52aa882d0be5fbec5fead45cef225d.png" group-title="⭐️ Nicaragua",CANAL 11
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/357692
+#EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-name="HN: Canal 11" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: Canal 11 
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",Canal 13 (1080p)
 http://45.162.193.35:80/CANAL13_HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",,Canal 13 (1080p)
@@ -152,8 +148,6 @@ https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
 http://138.186.23.7:8082/RCN/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
 http://177.234.249.178:8888/RCN/index.m3u8
@@ -169,6 +163,8 @@ http://181.78.14.26:4000/play/a00d/index.m3u8
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/321974
 #EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
+https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD",CCTV-Storm Football (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
@@ -177,6 +173,8 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CHTV.hn@SD",CHTV (1080p)
 https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CholutecaTV.hn@SD",Choluteca TV (1080p)
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="CINE | CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title=" CINE ",Cinecanal (1080p)
 http://138.186.23.7:8082/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific",Cinecanal Pacific (1080p)
@@ -229,6 +227,8 @@ http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec@SD",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA HD (GYE)" tvg-logo="http://redworld.pro:8880/images/17f45e5b8073063b43f222ebe7b0a19d.png" group-title="⭐️ Ecuador",EC | ECUAVISA HD (GYE)
@@ -277,10 +277,6 @@ http://177.234.249.178:8888/GOLTV/index.m3u8
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414471
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP SD
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/414472
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
-http://138.186.23.7:8082/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
-http://138.186.23.7:8082/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" tvg-name="MX | HOLA TV" tvg-logo="http://redworld.pro:8880/images/8c719c19c406ff800c60130a594a21ec.png" group-title="México",Hola! TV Latin America
 http://177.234.249.178:8888/HOLA-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⭐️ PERU",PE | IMPERIAL TV HUANCAVELICA
@@ -327,20 +323,16 @@ http://45.171.108.253:8888/LATINA/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl@SD",La Red [Geo-blocked]
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
-http://138.186.23.7:8082/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Ovasion TV" tvg-logo="http://redworld.pro:8880/images/69822150e35dc5f7896b130be9d44d9f.png" group-title="⭐️ PERU",PE| Ovasion TV
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/429052
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (720p)
 http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/135435
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="Telenovelas",Pasiones Latin America (1080p)
+http://45.224.97.181:9999/Pasiones/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD"tvg-name="CO | Pasiones" tvg-logo="http://redworld.pro:8880/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="Colombia",Pasiones Latin America (1080p)
 http://177.234.249.178:8888/PASIONES/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
-http://45.224.97.181:9999/Pasiones/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional",Paramount Network Latin America (720p)
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="PlaneaTV.pe@SD",Planea TV (720p)
@@ -369,10 +361,18 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk@SD",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television (1080p)
+http://45.171.108.253:8888/TC/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television (1080p)
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television (1080p)
+http://177.234.249.178:8888/TC/index.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@SD",Teleamazonas (1080p)
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="EC | TELEAMAZONAS UIO SD" tvg-logo="http://mundo2.pro:80/images/704e22982fd9cadb8ca9db1b36c8d240.png" group-title="ECUADOR",Teleamazonas Quito (1080p) [Geo-blocked]
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas (720p)
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecadena" tvg-logo="http://redworld.pro:8880/images/b0fa538867fe6f2bd71ebd7f8bf6e462.png" group-title="⭐️ Honduras",Telecadena
 http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/421855
 #EXTINF:-1 tvg-id="Telecinco.ar@SD",TeleCinco Trelew (240p)
@@ -391,14 +391,6 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (720p)
 http://168.228.44.241:9998/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO ORLANDO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO ORLANDO
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490420
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO PUERTO RICO" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO PUERTO RICO
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490428
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO SAN FRANSISCO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO SAN FRANSISCO
-http://rlatinop.com:8880/QUISPE26/dGCqN2sKVRAf/490429
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="CO | Telepacifico" tvg-logo="http://mundo2.pro:80/images/74fa2894a0e94f674ef02ea7963971bf.png" group-title="COLOMBIA",Telepacífico (1080p)
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa@SD",Telemetro (720p)
@@ -423,6 +415,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
 #EXTINF:-1 tvg-id="TVenLinea.pe@SD",TVenLinea (1080p)
 https://srt.tvdatta.com/tvenlinea/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec@SD",TVC (1080p)
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec@SD",TVC (720p)
+http://157.100.248.242:8080/TVCHD/index.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe@SD",TV MAX (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx@SD",TVMÁS (XHGV-TDT) (360p)
@@ -435,8 +431,12 @@ http://138.121.15.230:9002/TVN/index.m3u8
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="TVPlus.cl@SD" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="CHILE",TV+ (1080p)
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD",TV Globo Rio de Janeiro (720p)
+http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl@SD",TV Quellón (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSurCanal14.cr@SD",TV Sur Canal 14 (1080p)
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087aaeygNuLeWyKeLG7U5LTs8jj9l39UBd2MOAA7rQAfuX.png" group-title=" DEPORTES",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) [Not 24/7]
@@ -503,103 +503,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E05" tvg-logo="http://redworld.pro:8880/images/fbc699829ade552713ad138a5d5ef92e.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E06" tvg-logo="http://redworld.pro:8880/images/10da6776d05a60621787be0cd3257ecc.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E07" tvg-logo="http://redworld.pro:8880/images/c5d83260581527a48372333fb9292215.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E08" tvg-logo="http://redworld.pro:8880/images/d7233d73d98fe47480ca0b5154bf266d.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E09" tvg-logo="http://redworld.pro:8880/images/a73fcc7c0dcc535bb1654553713c15ee.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E10" tvg-logo="http://redworld.pro:8880/images/ff1c3c3f528ed85163ea03ca24ba364b.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E01" tvg-logo="http://redworld.pro:8880/images/eccb603215ac378b9bcae5d2a26319e6.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E02" tvg-logo="http://redworld.pro:8880/images/7cfa9166c1b39e7c8850c20a31b4b1da.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E03" tvg-logo="http://redworld.pro:8880/images/33734cb27e9e162e2aeed3ae6d45379d.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E04" tvg-logo="http://redworld.pro:8880/images/62248a624a7a5d46dbe9c2ac2809c122.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E05" tvg-logo="http://redworld.pro:8880/images/bc71b9d896e5f2842e1ba64cc5d7b0ac.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E06" tvg-logo="http://redworld.pro:8880/images/8874ee6a147114589c6e8fd680a9ca97.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E07" tvg-logo="http://redworld.pro:8880/images/e8e8253fc81d4e65a535a5d47bc5607e.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E09" tvg-logo="http://redworld.pro:8880/images/4118844b61d26388b115809105827152.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E10" tvg-logo="http://redworld.pro:8880/images/a5982d127d25a7db9c79639d233f4601.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E01" tvg-logo="http://redworld.pro:8880/images/29aa9177c8e9822d8027ce669c7913e7.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E02" tvg-logo="http://redworld.pro:8880/images/1bc1d2641c52a483bb3c0839f549b414.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E03" tvg-logo="http://redworld.pro:8880/images/03ea37488bb56f8d3e4e38db91ebc9bc.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E04" tvg-logo="http://redworld.pro:8880/images/d5dc5034d345c692ef45e6f345f2b694.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E05" tvg-logo="http://redworld.pro:8880/images/0a6a2dad7e0dd1d4ee8ff54ec852d4d1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E06" tvg-logo="http://redworld.pro:8880/images/59e7dcdcdbf1b0fcaf8d1a455c92fccb.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E07" tvg-logo="http://redworld.pro:8880/images/1f68e76d2b23a8225a2c2402328c87a9.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E08" tvg-logo="http://redworld.pro:8880/images/27bec97ccaff09c9347f3a7a35303dd8.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E09" tvg-logo="http://redworld.pro:8880/images/f159f41ff8d6ca1e8688dd329798fd9d.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E10" tvg-logo="http://redworld.pro:8880/images/7ffc0a77c4510ea839a9f536ecaacadd.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E01" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E02" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E03" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E04" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E05" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E06" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E07" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E09" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E10" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E01" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E02" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E03" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E04" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E05" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E06" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E07" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E08" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E09" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E10" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E12" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E12
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E13" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E13
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/476362.mp4
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (720p)
+http://138.255.2.6:8084/GLOBOHD/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (720p)
+http://170.84.165.204:80/Globo_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E06" tvg-logo="http://redworld.pro:8880/images/00bca95fc01403e5de6e4bf7b333a12a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E07" tvg-logo="http://redworld.pro:8880/images/127295055f90743af7867dbca179ae9c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507345.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E08" tvg-logo="http://redworld.pro:8880/images/946e3dc1fea817911b6af44c38d34947.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E08
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/507346.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E09" tvg-logo="http://redworld.pro:8880/images/7bbc0ea5deb4ffc6871bfdafafb3e015.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E09
@@ -869,36 +777,6 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487893.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487894.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E08" tvg-logo="http://redworld.pro:8880/images/6cf0ed1a485b706ddc2bc3554f7d56b0.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E08
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E01" tvg-logo="http://redworld.pro:8880/images/0dc265a136b861fecd2b376b06479a4d.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E02" tvg-logo="http://redworld.pro:8880/images/3638d10313d73f050ef1889694db3ebe.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E03" tvg-logo="http://redworld.pro:8880/images/3763a89396f91ed7811281085d98787a.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E04" tvg-logo="http://redworld.pro:8880/images/aa9eee502983341152004867b663cbff.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E05" tvg-logo="http://redworld.pro:8880/images/0454d7295a2d48f59f75b01d60d347e8.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E06" tvg-logo="http://redworld.pro:8880/images/b32a98b103c667bae50500c3e1785164.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E07" tvg-logo="http://redworld.pro:8880/images/40975d62a105e9cac1807c1050727a2f.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E08" tvg-logo="http://redworld.pro:8880/images/768c27296eb00cece750e3fccec78604.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E01" tvg-logo="http://redworld.pro:8880/images/951ca3f5ba071f3674f9acd850b6ecbf.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E02" tvg-logo="http://redworld.pro:8880/images/a3704527a278fe39c6d407d3aa6b5967.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E03" tvg-logo="http://redworld.pro:8880/images/5ecfb6f1cba3efd2ed9bad2b954024ba.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E04" tvg-logo="http://redworld.pro:8880/images/05ef7ffb2bd65b4bb27d4c57264e163d.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E05" tvg-logo="http://redworld.pro:8880/images/130d97cd399169088584c270bc101aed.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E06" tvg-logo="http://redworld.pro:8880/images/51cf5e0593f1c692456a74e8203ae451.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E08" tvg-logo="http://redworld.pro:8880/images/0b1996ee5a187d0ee3399fefcbe135c4.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487911.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E01" tvg-logo="http://redworld.pro:8880/images/358da79d291c02d0ae2d55b00d365a0b.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E01
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/487912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E02" tvg-logo="http://redworld.pro:8880/images/eaff3dc6141f54fda5771d2f65138b42.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E02
@@ -1191,72 +1069,6 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513842.mkv
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513843.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E12" tvg-logo="http://redworld.pro:8880/images/5bbba56fea0fff31d81d8fd984b93194.jpg" group-title="⭐️ Series Amazon ",Dexter S05 E12
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E01" tvg-logo="http://redworld.pro:8880/images/624080a8f4fff25c0e791df1334393ed.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E02" tvg-logo="http://redworld.pro:8880/images/e0e78664ae5e917185feb5e74035ee24.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E03" tvg-logo="http://redworld.pro:8880/images/076ecd67f6bb9e179d6d9e8c3f9aed9c.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E04" tvg-logo="http://redworld.pro:8880/images/eb9bfdcd5d3ef5f9c1c6c1875f276b17.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E05" tvg-logo="http://redworld.pro:8880/images/8a29d70d73439404b67470c257bfb4d9.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E06" tvg-logo="http://redworld.pro:8880/images/40c920f15d5a927999241b7bb9befb86.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E07" tvg-logo="http://redworld.pro:8880/images/759add5ed5467d41a7c2d94307fffb1b.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E08" tvg-logo="http://redworld.pro:8880/images/4ce0046a4fbcecc1c2123d0b1dfb2b62.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E09" tvg-logo="http://redworld.pro:8880/images/4817abc5b7e095b298f07225aa708356.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E10" tvg-logo="http://redworld.pro:8880/images/2cdd0ebfb2b2fbefcb817f01876a6498.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E11" tvg-logo="http://redworld.pro:8880/images/2e0b8e7c7f6317feae7b5561b2be351b.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E11
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E12" tvg-logo="http://redworld.pro:8880/images/afa03e7f49b5dc5d1905934f1e758b10.jpg" group-title="⭐️ Series Amazon ",Dexter S06 E12
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E01" tvg-logo="http://redworld.pro:8880/images/787e48a977a924dfd32392fa35843a89.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E02" tvg-logo="http://redworld.pro:8880/images/f2b30660b5ecd8be9c30da98bedf32fe.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E03" tvg-logo="http://redworld.pro:8880/images/255deeb06335010da27ba542858e5307.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E05" tvg-logo="http://redworld.pro:8880/images/24e20adb2f799366bbb68dce36bce181.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E06" tvg-logo="http://redworld.pro:8880/images/6b71a9d9e8f98b20865728476f496253.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E07" tvg-logo="http://redworld.pro:8880/images/d0a0f8b0aeba52920d0b079e785714a2.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E08" tvg-logo="http://redworld.pro:8880/images/919a8332f552661b29330d399b46a0cf.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E09" tvg-logo="http://redworld.pro:8880/images/4c409b4e2869ebc5e9b12c9c02474a52.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E10" tvg-logo="http://redworld.pro:8880/images/fe1e85ae5656ee7adf460c40e203009c.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E11" tvg-logo="http://redworld.pro:8880/images/9f944727ea95dd78809c0d27bdad225a.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E11
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E12" tvg-logo="http://redworld.pro:8880/images/5f3be4b1867094932d566cc2dafe8b13.jpg" group-title="⭐️ Series Amazon ",Dexter S07 E12
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E01" tvg-logo="http://redworld.pro:8880/images/475639984c329a178292eb326fdee64b.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E03" tvg-logo="http://redworld.pro:8880/images/09f457e712b67ea8a776772b947ed671.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E04" tvg-logo="http://redworld.pro:8880/images/e13e45e4a5428644a72ef870a4af304c.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E04
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E05" tvg-logo="http://redworld.pro:8880/images/7f230cb048d085b18b3e732f2800ea5c.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E06" tvg-logo="http://redworld.pro:8880/images/a66e55fa551d99205cabfb9f052b42c6.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E07" tvg-logo="http://redworld.pro:8880/images/5cf8c5d90a82a11b2d07408bdba609d1.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E08" tvg-logo="http://redworld.pro:8880/images/8d95bda38c1642b0bfc662563d21e821.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E09" tvg-logo="http://redworld.pro:8880/images/afac3118c3913c848e612e44e8eb8162.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E10" tvg-logo="http://redworld.pro:8880/images/ab039c8da2ae808ca4727614084822d1.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E11" tvg-logo="http://redworld.pro:8880/images/214298ac1484f6b445dd291cbbfc65ca.jpg" group-title="⭐️ Series Amazon ",Dexter S08 E11
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513879.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dioses Americanos S01 E01" tvg-logo="http://redworld.pro:8880/images/fd52ca10120ccaff763797c039a8fcdb.jpg" group-title="⭐️ Series Amazon ",Dioses Americanos S01 E01
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/513891.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dioses Americanos S01 E02" tvg-logo="http://redworld.pro:8880/images/b857f2b347fa1415e6da2100c788d881.jpg" group-title="⭐️ Series Amazon ",Dioses Americanos S01 E02
@@ -1325,30 +1137,6 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500757.mp4
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500758.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E10" tvg-logo="http://redworld.pro:8880/images/b3e1af4f86de1dc3188170af784fc135.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E10
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/500759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E01" tvg-logo="http://redworld.pro:8880/images/4fdba6a7bac64a565d90b2117184047b.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E02" tvg-logo="http://redworld.pro:8880/images/49724c99c518e0a634e8d16ada434770.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E03" tvg-logo="http://redworld.pro:8880/images/f42ebc9a9a1e76fbd98fe174ce31c5cb.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E05" tvg-logo="http://redworld.pro:8880/images/4e23b227119a70a6040a7326f14b0236.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E05
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E06" tvg-logo="http://redworld.pro:8880/images/d66ccce83a2593a4a20dea0d6971c74d.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E06
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E07" tvg-logo="http://redworld.pro:8880/images/2426d84e6e2a7596be2d6973e10cabe4.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E07
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E08" tvg-logo="http://redworld.pro:8880/images/18c3c638ca4db71258f9a68b83cacb3f.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E08
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E09" tvg-logo="http://redworld.pro:8880/images/97e68643f1408250c2d85c2b962753a4.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E09
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S02 E10" tvg-logo="http://redworld.pro:8880/images/a2f04d5d62d235eb7d966aa6192cd893.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S02 E10
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S03 E01" tvg-logo="http://redworld.pro:8880/images/84452844ee828816bbe8aa7d17c8eb98.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S03 E01
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S03 E02" tvg-logo="http://redworld.pro:8880/images/d19105e71294f28a2ab24b1c1ac58ecf.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S03 E02
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/533343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S03 E03" tvg-logo="http://redworld.pro:8880/images/d82fe4bdd2f7f43317f8a6862c49c984.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S03 E03
-http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/534999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E04" tvg-logo="http://redworld.pro:8880/images/897550ed759c0611819be8af72ad8ce5.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E04
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486951.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E05" tvg-logo="http://redworld.pro:8880/images/7f5d1a8cf1caff44137db47397b686bd.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E05
@@ -1368,35 +1156,164 @@ http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486958.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E12" tvg-logo="http://redworld.pro:8880/images/8edf2a6e241a17170ed19500635d6084.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E12
 http://rlatinop.com:8880/series/QUISPE26/dGCqN2sKVRAf/486959.mp4
 
-#EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-name="HN: Canal 11" tvg-logo="http://redworld.pro:8880/images/86c84684ef5a86799f551bcfdb87ec14.png" group-title="⭐️ Honduras",HN: Canal 11 
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
-https://livestream.mediacci.com/ccitv/index.m3u8
-#EXTINF:-1 tvg-id="CholutecaTV.hn@SD",Choluteca TV (1080p)
-https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-id="CHTV.hn@SD",CHTV (1080p)
-https://viewhn.com/chtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSurCanal14.cr@SD",TV Sur Canal 14 (1080p)
-https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec@SD",Ecuador TV
-https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television (1080p)
-http://45.171.108.253:8888/TC/index.m3u8
-#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television (1080p)
-http://45.224.97.181:9999/TC/index.m3u8
-#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television (1080p)
-http://177.234.249.178:8888/TC/index.m3u8
-#EXTINF:-1 tvg-id="TVC.ec@SD",TVC (1080p)
-http://45.224.97.181:9999/TVC/index.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas (720p)
-http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
-#EXTINF:-1 tvg-id="TVC.ec@SD",TVC (720p)
-http://157.100.248.242:8080/TVCHD/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD",TV Globo Rio de Janeiro (720p)
-http://45.190.28.50/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (720p)
-http://138.255.2.6:8084/GLOBOHD/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (720p)
-http://170.84.165.204:80/Globo_HD/index.m3u8
-#EXTINF:-1 tvg-id="Telecosta.gt@SD",Telecosta (720p)
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63431
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/57476
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/57362
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5589
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5590
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5591
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5592
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/25128
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/25953
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/25954
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5651
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5639
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5640
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5681
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5683
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5630
+#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/73273
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES",ES: TELEDEPORTE
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5735
+#EXTINF:-1 tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="ES | UFC",ES: UFC FIGHT PASS
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/58114
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL FHD
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/73786
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL_2.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 2 FHD
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/73789
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 3 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL_3.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 3 FHD
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/73792
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MUNDIAL 4 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/DAZN_MUNDIAL_4.png" group-title="ES | FIFA 2026",ES: DAZN MUNDIAL 4 FHD
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/73795
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8298
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8300
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8302
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8303
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8304
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="FR | SPORT",FR: RMC SPORT 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8338
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT",FR: RMC SPORT 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8339
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT",FR: RMC SPORT 5 LIVE
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8342
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63353
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 5
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63355
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 6
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63356
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 7" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 7
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63357
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 8" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 8
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63358
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 10
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63360
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 7
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/61044
+#EXTINF:-1 tvg-id="" tvg-name="DE:  FUSSBALL.TV 3 FHD" tvg-logo="https://docdog.top/logo/countries/de/MAGENTA_FIFA.png" group-title="DE | FIFA 2026",DE:  FUSSBALL.TV 3 FHD
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/73814
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8008
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8006
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23826
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="PL | SPORT",PL: CANAL+ SPORT 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23832
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="PL | SPORT",PL: CANAL+ SPORT 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10130
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="PL | SPORT",PL: CANAL+ SPORT 5
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23828
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10152
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10153
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10154
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23837
+#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="PL | SPORT",PL: POLSAT SPORT 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/56005
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="PL | SPORT",PL: POLSAT SPORT 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23833
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="PL | SPORT",PL: POLSAT SPORT 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23839
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23835
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23836
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="PL | SPORT",PL: POLSAT SPORT EXTRA 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23831
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="PL | SPORT",PL: POLSAT SPORT PEXTRA 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23825
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="PL | SPORT",PL: POLSAT SPORT EXTRA 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23830
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="PL | SPORT",PL: POLSAT SPORT PEXTRA 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23829
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/54531
+#EXTINF:-1 tvg-id="",Xtrem Sports (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-id="",Cine Estrella (1080p)
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | PORTUGAL",PT: CANAL 11
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/25004
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | PORTUGAL",PT: SPORT TV +
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/29668
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | PORTUGAL",PT: SPORT TV 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24984
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | PORTUGAL",PT: SPORT TV 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24982
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | PORTUGAL",PT: SPORT TV 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24980
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | PORTUGAL",PT: SPORT TV 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24979
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | PORTUGAL",PT: SPORT TV 5
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24978
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/Sport_tv_6.png" group-title="PT | PORTUGAL",PT: SPORT TV 6
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/29669
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT" tvg-logo="https://docdog.top/logo/countries/netherlands/ziggosport.png" group-title="NL | NETHERLANDS",NL: ZIGGO SPORT
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9977
+#EXTINF:-1 tvg-id="ESPN 1 [TV]" tvg-name="NL: ESPN 1" tvg-logo="https://docdog.top/logo/countries/netherlands/espn1.png" group-title="NL | NETHERLANDS",NL: ESPN 1
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9871
+#EXTINF:-1 tvg-id="ESPN 2 [TV]" tvg-name="NL: ESPN 2" tvg-logo="https://docdog.top/logo/countries/netherlands/espn2.png" group-title="NL | NETHERLANDS",NL: ESPN 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9872
+#EXTINF:-1 tvg-id="ESPN 3 [TV]" tvg-name="NL: ESPN 3" tvg-logo="https://docdog.top/logo/countries/netherlands/espn3.png" group-title="NL | NETHERLANDS",NL: ESPN 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9873
+#EXTINF:-1 tvg-id="ESPN 4 [TV]" tvg-name="NL: ESPN 4" tvg-logo="https://docdog.top/logo/countries/netherlands/espn4.png" group-title="NL | NETHERLANDS",NL: ESPN 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9874
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 2" tvg-logo="" group-title="NL | NETHERLANDS",NL: ZIGGO SPORT 2
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/58304
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 3" tvg-logo="" group-title="NL | NETHERLANDS",NL: ZIGGO SPORT 3
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/58305
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 4" tvg-logo="" group-title="NL | NETHERLANDS",NL: ZIGGO SPORT 4
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/58306
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 5" tvg-logo="" group-title="NL | NETHERLANDS",NL: ZIGGO SPORT 5
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/58307
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 6" tvg-logo="" group-title="NL | Categorizing",NL: ZIGGO SPORT 6
+http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/615524
