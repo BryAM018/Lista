@@ -1,7 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="PERU",TV Peru 
-http://181.119.93.83:8000/play/a25t/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
+#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD",Arena Sport Premium 1 BH (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD",Arena Sport Premium 2 BH (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#EXTINF:-1 tvg-id="Go3Sport1.ee@SD",Go3 Sport 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="PERU",TV Peru (1080p)
 http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-name="PE| TV PERU NOTICIAS" tvg-logo="http://redworld.pro:8880/images/ae52a2d088bc70e2951496c096bca957.png" group-title="PERU",TV Peru Noticias (1080p)
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
@@ -53,7 +60,7 @@ https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 http://209.14.115.253:8081/azteca-deportes/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (1080p)
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-name="AZTECA INTERNACIONAL" tvg-logo="http://127.0.0.1/" group-title="México",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
@@ -67,8 +74,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="BNBDigital.pe@SD",BNB Digital (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="BravoTV.ar@SD",Bravo TV (1080p)
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-name="BOL : BOLIVISION HD" tvg-logo="http://daleplay.club:8080/images/a3fa6320b10d8c821f6da40c07ffb800.png" group-title="Bolivia",Bolivision (1080p)
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="BOL : BOLIVIA TV 7" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="Bolivia",Bolivia TV (1080p)
@@ -113,12 +118,6 @@ http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN " tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN 
-http://177.234.249.178:8888/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://181.78.17.228:8081/RCN-HD/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
-http://209.14.115.253:8081/RCN/index.m3u8
 #EXTINF:-1 tvg-id="CanalCatorce.do@SD",Canal Catorce (1080p) 
 https://stream.haislin.com/14tv/index.m3u8
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD",Canal del Sol (1080p) [Not 24/7]
@@ -159,8 +158,6 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="",Cine Estrella (1080p)
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-name="CINE | CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="CINE",CineLatino (720p)
-http://45.162.193.35/CINELATINO_HD/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-name="CO | CITY TV" tvg-logo="http://mundo2.pro:80/images/f2c6f24916e77d91cc6865bff9c7f596.png" group-title="COLOMBIA",Citytv Bogota
@@ -257,9 +254,9 @@ http://190.93.224.42/FX/index.m3u8
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin
 http://181.119.66.28:8081/FX-HD/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-name="CINE | GOLDEN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",Golden
-http://38.19.41.46:8081/MTV/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden 
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South",FX Latin America South (720p)
+https://streamer.metronethn.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-name="CINE | GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",Golden 
 http://209.14.115.253:8081/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-name="CINE | GOLDEN EDG " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="CINE",Golden Edge 
 http://209.14.115.253:8081/GOLDEN-EDGE/index.m3u8
@@ -283,7 +280,7 @@ http://15.204.246.24:8080/MEGAHD/index.m3u8
 http://15.204.246.24:8080/Mega2HD/index.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-name="Megavision 21" tvg-logo="" group-title="El Salvador",Megavisión Canal 21 
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-name="EL SALVADOR| MEGAVISION CANAL 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/915241a77babf3e6fd51981e5bfa15fe.webp" group-title="El Salvador",Megavisión Canal 21 
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MontonesTV.do@HD",Montones TV (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
@@ -339,8 +336,6 @@ https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE: RPP" tvg-logo="" group-title="PERU",PE: RPP
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/58643
 #EXTINF:-1 tvg-id="LatinaNoticias247.pe@SD" tvg-name="PE: LATINA " tvg-logo="" group-title="PERU",Latina Noticias 24/7 (1080p)
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina H" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="PERU",Latina (1080p)
@@ -463,6 +458,8 @@ https://s.emisoras.tv:8081/telemas/index.m3u8
 http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West (720p)
 http://181.119.108.43:9001/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West (720p)
+https://streamer.metronethn.com/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="Telemundo",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East" tvg-name="PR | TELEMUNDO" tvg-logo="http://127.0.0.1/" group-title="Puerto Rico",Telemundo 
@@ -521,6 +518,10 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) 
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN " tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN 
+http://177.234.249.178:8888/RCN/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://181.78.17.228:8081/RCN-HD/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas " tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="COLOMBIA",RCN Novelas 
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="http://mundo2.pro:80/images/f2e6b3d51b0a8f97beb0b4ef5b7fd944.png" group-title="COLOMBIA",RCN HD2 (1080p)
@@ -545,8 +546,6 @@ http://15.204.246.24:8080/UnivisionHD/index.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionLatina.pa@SD",Vision Latina (1080p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
-#EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni@SD" tvg-name="Canal 13 Nic" tvg-logo="http://goldfull.pro:8880/images/175cb3906e6aa908865648c6923e2a64.png" group-title="Nicaragua",Viva Nicaragua Canal 13 (720p)
-http://45.171.108.253:8888/VIVA/index.m3u8
 #EXTINF:-1 tvg-id="WEST.pe@SD",WEST (1080p)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-name="DEPORTES | WIN SPORTS " tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="DEPORTE",Win Sports (1080p)
@@ -566,22 +565,43 @@ https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/57476
-#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5590
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5591
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5592
-#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5640
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5681
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5683
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/5630
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-name="ARG: FILM & ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="ARGENTINA",,Film & Arts (1080p)
+http://15.204.246.24:8080/FilmArtsHD/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-name="EL GOURMET" tvg-logo="http://redworld.pro:8880/images/0e8398e1532318e98927555bc11e0ae1.png" group-title="CULTURA",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
+http://190.93.224.42/EL-GOURMET/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-name="(OFFLINE) ARG | 13 EL TRECE" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",El Trece (1080p)
+http://15.204.246.24:8080/eltreceHD/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-name="ARG | El Nueve " tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p)
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-name="GUA | Guatevision" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="Guatemala",Guatevision (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BebetoTV.do@SD",Bebeto TV (1080p) [Not 24/7]
+https://edge.essastream.com/bebetotelevision/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://138.255.2.6:8084/BANDSPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="MontonesTV.do@HD",Montones TV (1080p)
+https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecentro.do@SD",Telecentro (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/index_pc.php
+#EXTINF:-1 tvg-id="ToraCanal69.do@HD",Tora Canal 69
+https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="BOL : RTP HD" tvg-logo="http://dplatino.net:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="Bolivia ",RTP
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD",TELE 6 (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
+#EXTINF:-1 tvg-id="ImpactChannel.cr@SD",Impact Channel
+https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8298
 #EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
@@ -620,8 +640,6 @@ http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10152
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10153
 #EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 3
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10154
-#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="PL | SPORT",PL: POLSAT SPORT 1
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/56005
 #EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="PL | SPORT",PL: POLSAT SPORT 3
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23839
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 1
@@ -634,8 +652,6 @@ http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23831
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23825
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="PL | SPORT",PL: POLSAT SPORT PEXTRA 2
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23829
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/54531
 #EXTINF:-1 tvg-id="ESPN 2 [TV]" tvg-name="NL: ESPN 2" tvg-logo="https://docdog.top/logo/countries/netherlands/espn2.png" group-title="NL | NETHERLANDS",NL: ESPN 2
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9872
 #EXTINF:-1 tvg-id="ESPN 3 [TV]" tvg-name="NL: ESPN 3" tvg-logo="https://docdog.top/logo/countries/netherlands/espn3.png" group-title="NL | NETHERLANDS",NL: ESPN 3
@@ -648,110 +664,6 @@ http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24003
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24002
 #EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 1" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-1-gr.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 1
 http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24012
-#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-name="ARG: FILM & ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="ARGENTINA",,Film & Arts (1080p)
-http://15.204.246.24:8080/FilmArtsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Christmas Chronicles (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg" group-title="NETFLIX | Kids",The Christmas Chronicles (2018)
-http://ayudaavenezuela.hnsefpop.top:8080/movie/8161755801329880/442b5fb2744b/60322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Christmas Chronicles: Part Two (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg" group-title="NETFLIX | Kids",The Christmas Chronicles: Part Two (2020)
-http://ayudaavenezuela.hnsefpop.top:8080/movie/8161755801329880/442b5fb2744b/60323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBodZTlh8d3SfJtHzGtKQjfApdX.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E01
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38673.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWnWvwkm7f0r1wdJyYyNKDWEceb.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E02
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38674.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c10AS7JKyfpAKj8hdI9Pnzg4489.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E03
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm8TPBlZmJCcaspfczCfg1YmoIn.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E04
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4NGfKmQnOnNGivGW4SbZbFSPKu.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E05
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toIZBpXPbwOfAVxYVvddrbW4YcY.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E06
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38678.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAxcVG7vVGQwkSvdDf8Kl6pzzoY.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E07
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38679.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e1UqodJUur4a00XEmPPJYvFikj.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E08
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVFfSzZxX4OlKejFsOhfqQjjLNY.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E09
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38681.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrnhRG4ZzBmShHN7JAUPJMgCQBF.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S01 E10
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38682.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMt4FtYPqiSQOSU3GyRWyZDvSgk.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E01
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38683.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYb1ZQqAfRZj5kGX7HBEaZ0dBCH.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E02
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38684.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro8w38gTxCbdoUbTMsD8hz7kKUU.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E03
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38685.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51qcgm2huk0TiDYs3RXjLT6S0dq.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E04
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xhluuHTcndM1ckPzcyV2JkuVeZ.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E05
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38687.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rTB4IP9xt6PPuP9nMEgfIsXOHe.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E06
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38688.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQYdTWiWGqJp4bgisw22Bds1e7.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E07
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38689.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wlEQ5zKc16qi5gM5q4ObgJpeY7.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E08
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38690.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NCPSRdnOkpAqWyaReRgAxRCbSt.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E09
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38691.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narcos: Mexico S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGOmOq4Cf4VknLZvrNfYJm81M0J.jpg" group-title="SERIES | NETFLIX",Narcos: Mexico S02 E10
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/38692.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83vFYTHtCqWwaDtZluSU8bmnFYG.jpg" group-title="SERIES | NETFLIX",The Boys S01 E01
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XzqWHBFvddrO2sazXzaCTtFEeA.jpg" group-title="SERIES | NETFLIX",The Boys S01 E02
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg" group-title="SERIES | NETFLIX",The Boys S01 E03
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wq1ZX7GYEFhSttQoTFJ4WyqV22.jpg" group-title="SERIES | NETFLIX",The Boys S01 E04
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ST4xchcR2s1JQUV23ryOBVrWbN.jpg" group-title="SERIES | NETFLIX",The Boys S01 E05
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqz0Xvf7gpXwagUoaHxBqmyv6D5.jpg" group-title="SERIES | NETFLIX",The Boys S01 E06
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg" group-title="SERIES | NETFLIX",The Boys S01 E07
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNYs1oSMXa1V3KKWLPvtOy6UQWC.jpg" group-title="SERIES | NETFLIX",The Boys S01 E08
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqdh1aITkP4BicsZmQLQ7MDMo1z.jpg" group-title="SERIES | NETFLIX",The Boys S02 E01
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6LSiAimRiST07sC0vsUDITojT3.jpg" group-title="SERIES | NETFLIX",The Boys S02 E02
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSJsyy1qqHvs1im4xGvP2w0MKms.jpg" group-title="SERIES | NETFLIX",The Boys S02 E03
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg" group-title="SERIES | NETFLIX",The Boys S02 E04
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg" group-title="SERIES | NETFLIX",The Boys S02 E05
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZTRa0V3QFYX2ridnY9wh0FsvId.jpg" group-title="SERIES | NETFLIX",The Boys S02 E06
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OJpTYvdGaTkzxU9oZnx0TaTaOt.jpg" group-title="SERIES | NETFLIX",The Boys S02 E07
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w44GW7Zv808V1nsr1NY6Y3I8r8B.jpg" group-title="SERIES | NETFLIX",The Boys S02 E08
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/41907.mkv
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-name="EL GOURMET" tvg-logo="http://redworld.pro:8880/images/0e8398e1532318e98927555bc11e0ae1.png" group-title="CULTURA",El Gourmet (1080p)
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
-http://190.93.224.42/EL-GOURMET/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-name="(OFFLINE) ARG | 13 EL TRECE" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",El Trece (1080p)
-http://15.204.246.24:8080/eltreceHD/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-name="ARG | El Nueve " tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",El Nueve (1080p)
-http://15.204.246.24:8080/elnueveHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbjOklPhb7OvM1Q03FEjM22leTA.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E01
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cKdbkhHAcIVgnplvH1g9eNP82V.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E02
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu8JCZt3J5lUQ8WRPJsqwfSNhP5.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E03
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4z6FllDUqteIlXVVDopaU0SF8nd.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E04
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuvshH3Hb4YMjvyTgdtbcDENjGU.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E05
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hijeaUHX8QCiA8UyUJwBq6Exc9.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E06
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Re61Fg1kGYCNckR5gbuoJth7z.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E07
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E08
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" group-title="SERIES | NETFLIX",El Chapo S01 E09
-http://ayudaavenezuela.hnsefpop.top:8080/series/8161755801329880/442b5fb2744b/44909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/120546
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + (CHI)
@@ -764,17 +676,10 @@ http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/167735
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/533409
 #EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 03" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 03
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/520016
-#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p)
-http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/407036
 #EXTINF:-1 tvg-id="" tvg-name="GUA | CLARO SPORTS 1" tvg-logo="http://lamtv.ddns.net:80/images/f7409de8-9c04-40d3-a8a4-868e42e4a65b.jpg" group-title="⭐️ Guatemala",GUA | CLARO SPORTS 1
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/533377
-#EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-name="GUA | Guatevision" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="Guatemala",Guatevision (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Viernes 13" tvg-logo="http://redworld.pro:8880/images/f700958d053e91bcf2da49672ea182c7.png" group-title="✅ 24/7 VIP",24/7 Viernes 13
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/526400
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - Johnny Bravo" tvg-logo="http://redworld.pro:8880/images/3a041a993a915f92c40f4bd086ae54fc.png" group-title="✅ 24/7 VIP",24/7 - Johnny Bravo
@@ -845,34 +750,14 @@ http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/357713
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/533406
 #EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CL | TV +
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/273685
-#EXTINF:-1 tvg-id="BebetoTV.do@SD",Bebeto TV (1080p) [Not 24/7]
-https://edge.essastream.com/bebetotelevision/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://138.255.2.6:8084/BANDSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="MontonesTV.do@HD",Montones TV (1080p)
-https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecentro.do@SD",Telecentro (1080p)
-#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/index_pc.php
-#EXTINF:-1 tvg-id="ToraCanal69.do@HD",Tora Canal 69
-https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Cvn TV Tumbes" tvg-logo="http://redworld.pro:8880/images/442b279f10bd4c172436b59a5a86c962.png" group-title="⭐️ PERU",PE| Cvn TV Tumbes
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/429047
 #EXTINF:-1 tvg-id="" tvg-name="PE| Ovasion TV" tvg-logo="http://redworld.pro:8880/images/69822150e35dc5f7896b130be9d44d9f.png" group-title="⭐️ PERU",PE| Ovasion TV
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/429052
 #EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⭐️ PERU",PE | IMPERIAL TV HUANCAVELICA
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/430832
-#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="BOL : RTP HD" tvg-logo="http://dplatino.net:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="Bolivia ",RTP
-https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TELE6.bo@SD",TELE 6 (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 " tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="⭐️ COSTA RICA",CR | Teletica 7 
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/490039
-#EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
-https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
-#EXTINF:-1 tvg-id="ImpactChannel.cr@SD",Impact Channel
-https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 6 " tvg-logo="http://redworld.pro:8880/images/dd531d088d27417200267778510be1e2.png" group-title="⭐️ COSTA RICA",CR | Repretel 6 
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/490044
 #EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
@@ -903,10 +788,6 @@ http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534796
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534798
 #EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 6 MULTIMEDIOS" tvg-logo="http://redworld.pro:8880/images/d6f92508cfc42fd3861eabc720d3fe96.png" group-title="⭐️ México",MX | CANAL 6 MULTIMEDIOS
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534788
-#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL ONCE NACIONAL" tvg-logo="http://redworld.pro:8880/images/c8dcb6cc1425cd9de310d8eda1bed231.png" group-title="⭐️ México",MX | CANAL ONCE NACIONAL
-http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534789
-#EXTINF:-1 tvg-id="" tvg-name="MX | A+" tvg-logo="http://redworld.pro:8880/images/ef7c9461a72bfa1407826f02088236ac.png" group-title="⭐️ México",MX | A+
-http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534791
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZ MUNDO" tvg-logo="http://redworld.pro:8880/images/8bebeb502027b3d6eb16e19f0ced3499.png" group-title="⭐️ México",MX | AZ MUNDO
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534785
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZ CINEMA" tvg-logo="http://redworld.pro:8880/images/bd65143c223736937a94fd8c5aecb24b.png" group-title="⭐️ México",MX | AZ CINEMA
@@ -921,9 +802,333 @@ http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534772
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534768
 #EXTINF:-1 tvg-id="" tvg-name="MX | CANAL DE LAS ESTRELLAS OP2" tvg-logo="http://redworld.pro:8880/images/894a70f37f59ac14d4042b1dba66ea00.png" group-title="⭐️ México",MX | CANAL DE LAS ESTRELLAS OP2
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534766
-#EXTINF:-1 tvg-id="" tvg-name="TVP MAZATLAN" tvg-logo="http://redworld.pro:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="⭐️ México",TVP MAZATLAN
-http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534832
 #EXTINF:-1 tvg-id="" tvg-name="MX | UMTV | MX" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | UMTV | MX
 http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534816
 #EXTINF:-1 tvg-id="" tvg-name="MX | Bandamax Hd®" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | Bandamax Hd®
-http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534817   
+http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/534817
+#EXTINF:-1 tvg-id="" tvg-name="PE| ANIMA KIDS" tvg-logo="http://redworld.pro:8880/images/d26bc428ce236b07f88f667ff0290834.png" group-title="⭐️ PERU",PE| ANIMA KIDS
+http://redworld.pro:8880/XQLfRwX364ha/96XAgDjGL5bx/547736
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E05" tvg-logo="http://redworld.pro:8880/images/fbc699829ade552713ad138a5d5ef92e.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/476317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E06" tvg-logo="http://redworld.pro:8880/images/10da6776d05a60621787be0cd3257ecc.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/476318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E07" tvg-logo="http://redworld.pro:8880/images/c5d83260581527a48372333fb9292215.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/476319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E08" tvg-logo="http://redworld.pro:8880/images/d7233d73d98fe47480ca0b5154bf266d.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/476320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E09" tvg-logo="http://redworld.pro:8880/images/a73fcc7c0dcc535bb1654553713c15ee.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E09
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/476321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S01 E10" tvg-logo="http://redworld.pro:8880/images/ff1c3c3f528ed85163ea03ca24ba364b.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S01 E10
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/476322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E03" tvg-logo="http://redworld.pro:8880/images/b4acd1d505f60a44123bec15fca509fa.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E04" tvg-logo="http://redworld.pro:8880/images/897550ed759c0611819be8af72ad8ce5.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E05" tvg-logo="http://redworld.pro:8880/images/7f5d1a8cf1caff44137db47397b686bd.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="http://redworld.pro:8880/images/961964d302564a0e7fc0c92c219dcfa0.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E07" tvg-logo="http://redworld.pro:8880/images/97fe3214ea1fcf41bd428896e95f7321.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E08" tvg-logo="http://redworld.pro:8880/images/4c94e6e7ee25eeec5e4744d772242770.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E09" tvg-logo="http://redworld.pro:8880/images/cdb472d631e528ab061ce9af84bfba85.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E09
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E10" tvg-logo="http://redworld.pro:8880/images/e29e4e0c81ab6a7bffccb22efd13474a.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E10
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E11" tvg-logo="http://redworld.pro:8880/images/80fa616c2c8e4096bf1847eeefa795c4.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E11
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E12" tvg-logo="http://redworld.pro:8880/images/8edf2a6e241a17170ed19500635d6084.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E12
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/486959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E28" tvg-logo="http://redworld.pro:8880/images/17e44d08b989e2f35847d7d5958420e3.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E28
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E29" tvg-logo="http://redworld.pro:8880/images/41609c98293a893f4665fea16c2dacfd.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E29
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E30" tvg-logo="http://redworld.pro:8880/images/4e4f9aeadbffd80262678a4f707966b9.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E30
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E31" tvg-logo="http://redworld.pro:8880/images/3b698bc8a6f0a62ca206f85ae9403f6b.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E31
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E32" tvg-logo="http://redworld.pro:8880/images/bce69711c15088d423907b27a5a45501.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E32
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E33" tvg-logo="http://redworld.pro:8880/images/0032ac0a52cbdd3bdcc563ec029304a2.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E33
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E34" tvg-logo="http://redworld.pro:8880/images/d77bb7e7127ce4ed7b5edb523726faa4.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E34
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E35" tvg-logo="http://redworld.pro:8880/images/bc99370fdf8d0d942a6c4acf1fdc295b.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E35
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E36" tvg-logo="http://redworld.pro:8880/images/e2a52d6ff229a2312031f67557825441.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E36
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E37" tvg-logo="http://redworld.pro:8880/images/00be98bd5f031519bf3489646eeff4bd.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E37
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E38" tvg-logo="http://redworld.pro:8880/images/c5b3f40b71a174fc4ab2f7297b5d5a2e.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E38
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E39" tvg-logo="http://redworld.pro:8880/images/90e7d154048f6648cf371968a6960748.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E39
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E40" tvg-logo="http://redworld.pro:8880/images/f0e14a1a2de2bd5f63633d7e316cae6c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E40
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E41" tvg-logo="http://redworld.pro:8880/images/4a1b356e54e0f335179b089498464a31.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E41
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E42" tvg-logo="http://redworld.pro:8880/images/e266ffe37541e1cd460ac6c236ece2ef.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E42
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E43" tvg-logo="http://redworld.pro:8880/images/5445943ab1ffbef7745ca3cc630d2061.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E43
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E44" tvg-logo="http://redworld.pro:8880/images/62e8a4ce83962c4d6bf817c40c611508.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E44
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E45" tvg-logo="http://redworld.pro:8880/images/ef74e0611a0b2c28f2df885a7b039def.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E45
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E46" tvg-logo="http://redworld.pro:8880/images/d1670ea2db3e20f5a5262be3141bd498.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E46
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E47" tvg-logo="http://redworld.pro:8880/images/20f4b02e449987170b51dcdee45709d4.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E47
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E48" tvg-logo="http://redworld.pro:8880/images/25598145d26fe0ae7f73e807ff2765df.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E48
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E49" tvg-logo="http://redworld.pro:8880/images/03f82fa02c148a8482c1424a9fa1fcbe.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E49
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E50" tvg-logo="http://redworld.pro:8880/images/007c6788acf6151e752207c444c9ea36.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E50
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E51" tvg-logo="http://redworld.pro:8880/images/71673b2781c46c021abc04b40f1afaa1.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E51
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E52" tvg-logo="http://redworld.pro:8880/images/5e59047ca9a60ca802e2bf877926118c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E52
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E53" tvg-logo="http://redworld.pro:8880/images/c8b69ff92fad8220b4cfeca7305d6ee6.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E53
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E54" tvg-logo="http://redworld.pro:8880/images/e45d63bf3690b0b262cf2f2c84ab4edf.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E54
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E55" tvg-logo="http://redworld.pro:8880/images/811058c80ede252408ca80a217c2b3ed.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E55
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E56" tvg-logo="http://redworld.pro:8880/images/46737b389268c254b95b7ccff3f6ec9a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E56
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E57" tvg-logo="http://redworld.pro:8880/images/47db5eb665094b3b510cddf45b001711.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E57
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E58" tvg-logo="http://redworld.pro:8880/images/b2edbb066407e3b91a462d88f5012782.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E58
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E59" tvg-logo="http://redworld.pro:8880/images/f127e9092e4fbf477f9cc3f90f7acaad.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E59
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E60" tvg-logo="http://redworld.pro:8880/images/ee7dbee2064d121da65eef74013a90ff.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E60
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E61" tvg-logo="http://redworld.pro:8880/images/34cd1c9b714792c8fd4155f607ae8f68.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E61
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E62" tvg-logo="http://redworld.pro:8880/images/cbf28f356b08b056a04aa3ac1974219f.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E62
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E63" tvg-logo="http://redworld.pro:8880/images/4389bf2623add6282d69bae5585fab09.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E63
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E64" tvg-logo="http://redworld.pro:8880/images/46033b0b232804db9dc1e414a46e0b4c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E64
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E65" tvg-logo="http://redworld.pro:8880/images/990efbe86a36d216d3932de1d188dc49.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E65
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E66" tvg-logo="http://redworld.pro:8880/images/68570f6927241dd0525fefa095baba78.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E66
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E67" tvg-logo="http://redworld.pro:8880/images/4b6b6c61d373ff32ccaa71aafe6fde87.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E67
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E68" tvg-logo="http://redworld.pro:8880/images/5bed68b1f4a43b2f59d72c601c38ec6c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E68
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E69" tvg-logo="http://redworld.pro:8880/images/7a7a797322576752da151e82f3f4b9e2.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E69
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E70" tvg-logo="http://redworld.pro:8880/images/9821e44e51e11eae793851cb4972e64d.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E70
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E71" tvg-logo="http://redworld.pro:8880/images/cfe2ba4f33dd0a9ecf59f4645d116d3e.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E71
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E72" tvg-logo="http://redworld.pro:8880/images/8ca36272edd75710c25c24a6e67795ea.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E72
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E73" tvg-logo="http://redworld.pro:8880/images/75f563ad220cdeb1c2d870abbd3501ab.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E73
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E74" tvg-logo="http://redworld.pro:8880/images/58477d41401a1744f1a559e4811e3ffa.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E74
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E75" tvg-logo="http://redworld.pro:8880/images/974810a58a7d364f0243975d4c220088.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E75
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E76" tvg-logo="http://redworld.pro:8880/images/37038e2fcef78acd7b91f0f9508b5297.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E76
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E01" tvg-logo="http://redworld.pro:8880/images/fd2258409ea236256ee650929827ad34.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E02" tvg-logo="http://redworld.pro:8880/images/979f931bd4f4f23dd7285052f26285bb.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E03" tvg-logo="http://redworld.pro:8880/images/53394c8f5a95fb80805a1bac7de184e5.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E04" tvg-logo="http://redworld.pro:8880/images/4fca2633cd2b710dee81c668e0675a81.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E05" tvg-logo="http://redworld.pro:8880/images/f8f34aaaa461ff38ff5d7e3f37fdeb20.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E06" tvg-logo="http://redworld.pro:8880/images/beb2d9fa148cd2357d4f8c012bfd85ed.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E07" tvg-logo="http://redworld.pro:8880/images/01799616163f777de0d5d54e81a2faa5.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E08" tvg-logo="http://redworld.pro:8880/images/9b50195e5d5e2f7d5022caa6be004cba.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E09" tvg-logo="http://redworld.pro:8880/images/c89509159d522b57038124244b9082f5.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E09
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E10" tvg-logo="http://redworld.pro:8880/images/4c2d34890a20e7485606b702ebb6078b.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E10
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E11" tvg-logo="http://redworld.pro:8880/images/d3fc4df34d5d1b18c3c20de9a7555f59.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E11
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E12" tvg-logo="http://redworld.pro:8880/images/aa43ee4ba42892627250e21a8449395a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E12
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E13" tvg-logo="http://redworld.pro:8880/images/1a291ba9e4aa64198168d3b86b84ff7e.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E13
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E14" tvg-logo="http://redworld.pro:8880/images/b61d188f716fa48bfbb1ee84b2ccaf57.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E14
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E15" tvg-logo="http://redworld.pro:8880/images/30ab6953192529574586a8d8f4ed5615.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E15
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E16" tvg-logo="http://redworld.pro:8880/images/2e06d5f0526b185ebcca97b08f961dd9.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E16
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E17" tvg-logo="http://redworld.pro:8880/images/270685e51da7e69c0eb751ddbb5b09e9.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E17
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E18" tvg-logo="http://redworld.pro:8880/images/b7e4b9aab66afb842cf9ddf1e99f7879.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E18
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E19" tvg-logo="http://redworld.pro:8880/images/c625a577e8ad8c63756944d8bd88ff3a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E19
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E20" tvg-logo="http://redworld.pro:8880/images/a7da5e7e0f97490d8c74230a8b4eafe3.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E20
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E21" tvg-logo="http://redworld.pro:8880/images/6e52d0b30a23e71ce2df309b8bba3e51.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E21
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E22" tvg-logo="http://redworld.pro:8880/images/02fda4ecb69cd2ce5cf7fb0f9a3343e7.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E22
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E23" tvg-logo="http://redworld.pro:8880/images/eed9620f6c5848eb796497d0cba187eb.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E23
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E24" tvg-logo="http://redworld.pro:8880/images/3319db4645bdcbfacbf9657030b15545.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E24
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E25" tvg-logo="http://redworld.pro:8880/images/8cde2ca4a3acf86053abb252b00d920a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E25
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S02 E26" tvg-logo="http://redworld.pro:8880/images/2de11b094ba9fcd2892ef9a7c4736daf.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S02 E26
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E01" tvg-logo="http://redworld.pro:8880/images/79cfa31c869bc69ed27b769470131536.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E02" tvg-logo="http://redworld.pro:8880/images/3c145b1675633c3a23ba8af26bfe117a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E03" tvg-logo="http://redworld.pro:8880/images/46dd29e818b32587a6b0a0d9ae85ff84.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E04" tvg-logo="http://redworld.pro:8880/images/94c0ef64679f3836ae9d8707f037d31a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E05" tvg-logo="http://redworld.pro:8880/images/ff75dce8da684965f69a3176c537d850.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E06" tvg-logo="http://redworld.pro:8880/images/b9e4a3c6745d27dffb3ed0001507ac6b.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E07" tvg-logo="http://redworld.pro:8880/images/26452c5d75ae1cb93a793fa5b62e6d8c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E08" tvg-logo="http://redworld.pro:8880/images/aee2c2ac7915ce1caba56137ed56e6e5.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E09" tvg-logo="http://redworld.pro:8880/images/ed90b590a0005b415636b630d6953464.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E09
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E10" tvg-logo="http://redworld.pro:8880/images/1edf68fd2a0829651883505fa588a206.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E10
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E11" tvg-logo="http://redworld.pro:8880/images/c05a209656f64feb112afbc8a7fe1d92.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E11
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E12" tvg-logo="http://redworld.pro:8880/images/122fe875b823627a0e4d9ded2e60a1df.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E12
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E13" tvg-logo="http://redworld.pro:8880/images/5a9865021b0abb75df0d5fbe827cb93e.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E13
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E14" tvg-logo="http://redworld.pro:8880/images/db5a85c33575f569b25aa7445ce261b5.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E14
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E15" tvg-logo="http://redworld.pro:8880/images/1a18106669649291c2762a68db8f808a.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E15
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E16" tvg-logo="http://redworld.pro:8880/images/07218f8cd5579ff13fbe52d6d2626bec.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E16
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E17" tvg-logo="http://redworld.pro:8880/images/a3e924a4b293d00deb456880770870e1.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E17
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E18" tvg-logo="http://redworld.pro:8880/images/f81a8340468a144d887dc72e866bd2e9.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E18
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E19" tvg-logo="http://redworld.pro:8880/images/cbd0e22b7e5fd541e16dd7e79428dd7d.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E19
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E20" tvg-logo="http://redworld.pro:8880/images/e552ab2aa210791f8e4d8eef1cf33255.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E20
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E21" tvg-logo="http://redworld.pro:8880/images/78a593e1b7694e36a6710c3488694dcc.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E21
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E22" tvg-logo="http://redworld.pro:8880/images/cea4ef37a341a51cd5158f8fd90d5e96.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E22
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E23" tvg-logo="http://redworld.pro:8880/images/9d33b25640348bfca48d05b2512ec9fc.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E23
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E24" tvg-logo="http://redworld.pro:8880/images/1dd419258fb21f4627d9feca973528b5.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E24
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S03 E25" tvg-logo="http://redworld.pro:8880/images/a7df1d3446c53d37359f73ef167056e0.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S03 E25
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/507465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E01" tvg-logo="http://redworld.pro:8880/images/e4b5dda7794c0f0035aa6e3563ca1b54.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E02" tvg-logo="http://redworld.pro:8880/images/60ec42ddb5a89bd093cbc22359600363.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E03" tvg-logo="http://redworld.pro:8880/images/9dfd14f66269ea89a050b360a9dc8161.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E04" tvg-logo="http://redworld.pro:8880/images/429c36caa88a865aa76ab45ebad063df.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E05" tvg-logo="http://redworld.pro:8880/images/0e13222862f8ee5e7b9273d744871efb.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E06" tvg-logo="http://redworld.pro:8880/images/214b8ef1fef3ced9108b24dd0598d72c.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E07" tvg-logo="http://redworld.pro:8880/images/81eb87d803bba38e1343612ab5d3fabb.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E08" tvg-logo="http://redworld.pro:8880/images/17b326758727b598c3d6fb553f64d31e.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/483867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E01" tvg-logo="http://redworld.pro:8880/images/d369f52c2d327900f7acb8f973566a35.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E02" tvg-logo="http://redworld.pro:8880/images/4fb8db744a0a0a9d5d3bd98907c5e842.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E03" tvg-logo="http://redworld.pro:8880/images/50a4b6c8324dbdde466079de4e525ace.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E04" tvg-logo="http://redworld.pro:8880/images/e6ae5c8685afac42c20c921e0fc04aa5.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E05" tvg-logo="http://redworld.pro:8880/images/47b6dbdb15ccccab7e24498d4c397c60.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E06" tvg-logo="http://redworld.pro:8880/images/3b756b2d57576560c8fb025220654a3f.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E07" tvg-logo="http://redworld.pro:8880/images/cca7114e24f552e94d76839720efa3af.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E08" tvg-logo="http://redworld.pro:8880/images/3b62bdb1e5814c7819a2ebec191b3c78.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E09" tvg-logo="http://redworld.pro:8880/images/91556ae893e8f9470a661140b13462bc.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E09
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E10" tvg-logo="http://redworld.pro:8880/images/91556ae893e8f9470a661140b13462bc.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E10
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E01" tvg-logo="http://redworld.pro:8880/images/869a71143717e6a410081516bb6c4af6.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E02" tvg-logo="http://redworld.pro:8880/images/1ccb56fe5071bfc54adec81b2d6b2920.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E03" tvg-logo="http://redworld.pro:8880/images/b8862800dd0353bdff458bd0a1169c80.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E04" tvg-logo="http://redworld.pro:8880/images/5582173d66b5477406b275aa26ec8eab.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E05" tvg-logo="http://redworld.pro:8880/images/ab713e5e4a111a085b91670cf6dc2d12.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E06" tvg-logo="http://redworld.pro:8880/images/06a6fe77d2a35eedf53e7f0befd81f1a.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E07" tvg-logo="http://redworld.pro:8880/images/0111d99ba09b7459120b8e561ef3ee46.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E08" tvg-logo="http://redworld.pro:8880/images/95f965b55036983597c46b2a5d4fabee.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E01" tvg-logo="http://redworld.pro:8880/images/1241da53100a114c1e8476f4c129a471.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E02" tvg-logo="http://redworld.pro:8880/images/c4302abd6b87ffb8e41a3b6ffa4f0a8e.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E03" tvg-logo="http://redworld.pro:8880/images/eb2058c6b24e862af1976d15cf2888d1.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E04" tvg-logo="http://redworld.pro:8880/images/6f187f63cc71ed93b3f127f947282340.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E05" tvg-logo="http://redworld.pro:8880/images/8ac6124a8473ae11355c7284f31f0dc8.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E06" tvg-logo="http://redworld.pro:8880/images/ad973711ddb723086bf45e248774e17a.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E07" tvg-logo="http://redworld.pro:8880/images/e4b4e14e63cf6b69a316dac1ef14643f.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E08" tvg-logo="http://redworld.pro:8880/images/6cf0ed1a485b706ddc2bc3554f7d56b0.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E01" tvg-logo="http://redworld.pro:8880/images/0dc265a136b861fecd2b376b06479a4d.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E02" tvg-logo="http://redworld.pro:8880/images/3638d10313d73f050ef1889694db3ebe.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E03" tvg-logo="http://redworld.pro:8880/images/3763a89396f91ed7811281085d98787a.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E04" tvg-logo="http://redworld.pro:8880/images/aa9eee502983341152004867b663cbff.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E05" tvg-logo="http://redworld.pro:8880/images/0454d7295a2d48f59f75b01d60d347e8.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E05
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E06" tvg-logo="http://redworld.pro:8880/images/b32a98b103c667bae50500c3e1785164.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E06
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E07" tvg-logo="http://redworld.pro:8880/images/40975d62a105e9cac1807c1050727a2f.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E07
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E08" tvg-logo="http://redworld.pro:8880/images/768c27296eb00cece750e3fccec78604.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E08
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E01" tvg-logo="http://redworld.pro:8880/images/358da79d291c02d0ae2d55b00d365a0b.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E01
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E02" tvg-logo="http://redworld.pro:8880/images/eaff3dc6141f54fda5771d2f65138b42.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E02
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E03" tvg-logo="http://redworld.pro:8880/images/c072a8ee5c39ecc479027648a035ed3b.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E03
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E04" tvg-logo="http://redworld.pro:8880/images/0141557ce57418f1c5545c01ea80a611.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E04
+http://redworld.pro:8880/series/XQLfRwX364ha/96XAgDjGL5bx/487915.mp4
