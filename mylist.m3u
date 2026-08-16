@@ -21,14 +21,20 @@ https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD",Arena Sport Premium 1 BH (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD",Arena Sport Premium 2 BH (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee@SD",Go3 Sport 1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/416/index.m3u8
 #EXTINF:-1 tvg-id="NPY.py@SD",NPY 
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="TVPSport.pl@SD",TVP Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="PERU",TV Peru (1080p)
 http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-name="PE| TV PERU NOTICIAS" tvg-logo="http://redworld.pro:8880/images/ae52a2d088bc70e2951496c096bca957.png" group-title="PERU",TV Peru Noticias (1080p)
@@ -79,16 +85,12 @@ http://185.47.212.25:8080/tdp_HD/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="BNBDigital.pe@SD",BNB Digital (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-name="BOL : BOLIVISION HD" tvg-logo="http://daleplay.club:8080/images/a3fa6320b10d8c821f6da40c07ffb800.png" group-title="Bolivia",Bolivision (1080p)
-http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="BOL : BOLIVIA TV 7" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="Bolivia",Bolivia TV (1080p)
 http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-name="ARG | TV Publica" tvg-logo="http://redworld.pro:8880/images/e18523361e24e6508919b799b7e0a144.png" group-title="Argentina",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD",TV Publica Marcos Paz
 https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
-#EXTINF:-1 tvg-id="Canal1Nuble.cl@SD",Canal 1 Nuble
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD",Canal 2 NexTV Rafaela (720p)
 https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-name="Latino | Canal 5" tvg-logo="http://redworld.pro:8880/images/7c5f138da031d6efef359be7ce395d48.png" group-title="México",Canal 5 
@@ -115,8 +117,6 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="ARG | CANAL 26 " tvg-logo="http://redworld.pro:8880/images/810cc28538dad9335756506f03410daa.jpg" group-title="Argentina",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8apa
-#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="CO | Canal Capital" tvg-logo="http://mundo2.pro:80/images/0181d83df06a8fad680a3b3a3d195628.png" group-title="COLOMBIA",Canal Capital
-http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="CANALMTelevision.pe@SD",CANAL M Television (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD",Canal TDC
@@ -133,9 +133,7 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 https://edge.essastream.com/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CotubanamaTV.do@SD",Cotubanama TV (1080p)
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol TV (1080p)
-http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-id="CaracolHD2.co@SD",Caracol HD2 (1080p)
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO | CARACOL " tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="COLOMBIA",Caracol HD
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="CarasTV.ar@SD",Caras TV (1080p)
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -311,6 +309,8 @@ http://177.234.249.178:8888/NICK/index.m3u8
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional 
 http://181.78.8.199:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="TeleOnce.pr@HD",TeleOnce (1080p)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NavarreteTelevision.do@HD",Navarrete Television (1080p) 
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-id="NexxoTV.do@SD",Nexxo TV (720p) 
@@ -321,6 +321,8 @@ https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish",NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD",La Descarga TV [Geo-blocked]
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do@HD",Laguna TV (1080p) [Not 24/7]
@@ -401,8 +403,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
 http://190.93.224.42/SONY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America 
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (720p)
-https://streamer.metronethn.com/TUDN/index.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD",STVE Telebasica (1080p)
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="SolarTelevision.pe@SD",Solar Television (720p)
@@ -427,10 +427,6 @@ https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc1
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 #EXTINF:-1 tvg-id="TELESIGLO.do@HD",TELESIGLO (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Teleunion.do@SD",Teleunion (1080p)
-http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleunion.do@SD",Teleunion (480p) [Not 24/7]
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD"  tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title="COSTA RICA",Tele Uno (720p) 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-name="CR | Teleuno" tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title="COSTA RICA",Tele Uno
@@ -443,8 +439,6 @@ https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe@SD" tvg-name="PE: Telecolor (Yurimaguas)" tvg-logo="http://redworld.pro:8880/images/ee8668e4e957dd70324f1462db0104ec.png" group-title="PERU",Telecolor Yurimaguas 
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="Telemas.hn@SD",Telemas (1080p)
-https://s.emisoras.tv:8081/telemas/index.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa@SD" tvg-name="PANAMA |  Telemetro" tvg-logo="http://redworld.pro:8880/images/d02d47af5659e056a51d69a5cf99cd2f.png" group-title="Panama",Telemetro (720p)
 http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West
@@ -475,6 +469,8 @@ http://190.93.224.42/TRIVU-TV/index.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (720p)
+https://streamer.metronethn.com/TUDN/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD" tvg-name="TVC " tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="Ecuador",TVC (720p)
 http://157.100.248.242:8080/TVCHD/index.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe@SD",TV MAX (720p)
@@ -517,8 +513,6 @@ http://181.78.14.26:4000/play/a07m/index.m3u8
 http://138.255.2.6:8084/GLOBOHD/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (720p)
 http://170.84.165.204:80/Globo_HD/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
-http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="RikuTV.pe@SD",Riku TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-name="CINE | UNIVERSAL CHANEL  FHD" tvg-logo="http://127.0.0.1/" group-title="CINE",Universal TV Latin America
@@ -589,72 +583,17 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="ImpactChannel.cr@SD",Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8298
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8300
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="" group-title="TR | SPORT",TR: BEIN SPORTS 5 HD
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/62814
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png" group-title="TR | SPORT",TR: BEIN SPORTS HABER HD
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/62827
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax1.png" group-title="TR | SPORT",TR: BEIN SPORTS MAX 1 HD
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/62829
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8302
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8303
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8304
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT",FR: RMC SPORT 5 LIVE
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8342
-#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63353
-#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 5
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63355
-#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="FR | LIGUE1+",FR: LIGUE1+ 6
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/63356
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8008
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/8006
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23826
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="PL | SPORT",PL: CANAL+ SPORT 5
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23828
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 1
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10152
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10153
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="PL | SPORT",PL: ELEVEN SPORTS 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/10154
-#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="PL | SPORT",PL: POLSAT SPORT 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23839
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 1
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23835
-#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="PL | SPORT",PL: POLSAT SPORT PREMIUM 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23836
-#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="PL | SPORT",PL: POLSAT SPORT EXTRA 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23831
-#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="PL | SPORT",PL: POLSAT SPORT PEXTRA 4
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23825
-#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="PL | SPORT",PL: POLSAT SPORT PEXTRA 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/23829
-#EXTINF:-1 tvg-id="ESPN 2 [TV]" tvg-name="NL: ESPN 2" tvg-logo="https://docdog.top/logo/countries/netherlands/espn2.png" group-title="NL | NETHERLANDS",NL: ESPN 2
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9872
-#EXTINF:-1 tvg-id="ESPN 3 [TV]" tvg-name="NL: ESPN 3" tvg-logo="https://docdog.top/logo/countries/netherlands/espn3.png" group-title="NL | NETHERLANDS",NL: ESPN 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9873
-#EXTINF:-1 tvg-id="ESPN 4 [TV]" tvg-name="NL: ESPN 4" tvg-logo="https://docdog.top/logo/countries/netherlands/espn4.png" group-title="NL | NETHERLANDS",NL: ESPN 4
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/9874
-#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORT 3" tvg-logo="https://docdog.top/logo/countries/greece/nova-sports-3-gr.png" group-title="EURO | GREECE",GR: NOVA SPORT 3
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24003
-#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORT 4" tvg-logo="https://docdog.top/logo/countries/greece/nova-sports-4-gr.png" group-title="EURO | GREECE",GR: NOVA SPORT 4
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24002
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 1" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-1-gr.png" group-title="EURO | GREECE",GR: COSMOTE SPORT 1
-http://ayudaavenezuela.hnsefpop.top:8080/8161755801329880/442b5fb2744b/24012
 #EXTINF:-1 tvg-id="SkySportsMainEvent.ie@SD",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Christmas Chronicles (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg" group-title="NETFLIX | Kids",The Christmas Chronicles (2018)
-http://ayudaavenezuela.hnsefpop.top:8080/movie/8161755801329880/442b5fb2744b/60322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Christmas Chronicles: Part Two (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg" group-title="NETFLIX | Kids",The Christmas Chronicles: Part Two (2020)
-http://ayudaavenezuela.hnsefpop.top:8080/movie/8161755801329880/442b5fb2744b/60323.mkv
+#EXTINF:-1 tvg-id="RMCSport1.fr@SD",RMC Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD",Record (720p)
+http://138.255.2.6:8084/RECORD/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZi5qjwSq79cNeiCVY30BVZSyKO63Hlm_zQ&s" group-title="General",GOGOPLAY
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="General",RETRO PLUS 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
