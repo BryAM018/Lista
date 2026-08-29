@@ -14,9 +14,7 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-name="13 REALITIES" tvg-logo="http://goldfull.pro:8880/images/ee3b184577f187218b41b2f4fdd320f0.png" group-title="CHILE",13 Realities (1080p)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="CINE  | A&E FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="CINE",A&E Latin America (720p)
-https://streamer.metronethn.com/AE/index.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America (1080p)
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="CINE  | A&E " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America 
 http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
@@ -71,6 +69,8 @@ http://177.234.249.178:8888/ATV/index.m3u8
 http://190.93.224.42/ATV-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AupurTelevision.co@SD" tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" group-title="General",Aupur Television (1080p)
 https://canal.aupurtv.co/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="AZATVHD.hn@SD",AZA TV HD (1080p)
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-name="PE| RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/RPP_TV.JPG" group-title="PERU",RPP TV (1080p)
 http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="LA: AXN" tvg-logo="https://docdog.top/logo/countries/latino/axn.png" group-title="LATINO", AxN Latin America Andes 
@@ -159,9 +159,6 @@ http://45.5.118.152:8000/play/a08z/index.m3u8
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaJura.ch@SD" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Undefined",Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-logo="https://i.imgur.com/ew44KOZ.png" http-referrer="https://canalc.vercel.app" group-title="General",Canal C del Zulia (1080p)
-#EXTVLCOPT:http-referrer=https://canalc.vercel.app
-https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
 #EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="General",Canal Catorce (1080p)
 https://stream.haislin.com/14tv/index.m3u8
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="General",Canal del Sol (1080p)
@@ -186,8 +183,6 @@ https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="CarasTV.ar@SD",Caras TV (1080p)
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Sports",CazeTV (1080i)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="CCIChannel.hn@SD",CCI Channel (1080p)
 https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
@@ -292,7 +287,7 @@ http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="MEXICO",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (1080p)
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="MX | DISTRITO COMEDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="MEXICO",Distrito Comedia (1080p)
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="DmodaChannel.bo@SD" tvg-logo="https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png" group-title="General",Dmoda Channel (1080p)
 https://master.tucableip.com/dmoda/index.m3u8
@@ -408,8 +403,6 @@ http://190.93.224.42/GLOBAL/index.m3u8
 http://stream.mcquack.net/416/index.m3u8
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-name="EC | GOL TV" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="Ecuador",GolTV Latin America (720p)
 http://177.234.249.178:8888/GOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZi5qjwSq79cNeiCVY30BVZSyKO63Hlm_zQ&s" group-title="General",GOGOPLAY
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-id="HainaVision.do@SD" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="General",Haina Vision (720p)
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HilandoFinoTV.do@SD" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="General",Hilando Fino TV (1080p)
@@ -445,8 +438,6 @@ https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="JuntosTV.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.pe@SD" tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Legislative",Justicia TV (1080p)
-http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports",KTV Sport (1080p)
@@ -471,7 +462,7 @@ http://190.93.224.42/LA-TELE/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaraenRedes.ve@SD" tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" group-title="Entertainment",Lara en Redes
 https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-name="MX: Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="MEXICO",Las Estrellas Latin America
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-name="MX | CANAL DE LAS ESTRELLAS " tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="MEXICO",Las Estrellas Latin America
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
@@ -509,7 +500,7 @@ https://live.arnoproducciones.com/hls/norte.m3u8
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (1080p)
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Entertainment",Maxivisión TV (720p)
+#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-name="968 | Maxivisión || GUATEMALA" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Guatemala",Maxivisión TV (720p)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="CL | MEGA HD" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="CHILE",Mega 
 http://15.204.246.24:8080/MEGAHD/index.m3u8
@@ -693,8 +684,6 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports+ Ukraine (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 tvg-id="SIPSETV81.mx@SD" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="General",SIPSE TV 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-id="SiscomTV.pe@SD" tvg-logo="https://i.imgur.com/0JUlFZ4.png" group-title="General",Siscom TV
 https://video2.lhdserver.es/siscomtv/live.m3u8
 #EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx@SD" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Undefined",Sistema Michoacano de TV (1080p) [Not 24/7]
@@ -742,12 +731,16 @@ http://stream.mcquack.net/393/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport 5 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD",Sportitalia Solocalcio (1080p)
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@CentralAmerica" tvg-name="CINE | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Latin
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us@East",Starz Edge (720p)
+http://168.228.44.241:9998/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Undefined",Studio Universal Latin 
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America 
@@ -795,9 +788,9 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-name="ARG | TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe Buenos Aires (1080p)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula (720p)
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="MX Teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="General",Telefuturo (1080p)
+#EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-name="PY | TELEFUTURO HD" tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="Paraguay",Telefuturo (1080p)
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe@SD" tvg-logo="https://i.imgur.com/HzWRvXc.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima
@@ -887,8 +880,6 @@ https://edge.essastream.com/dajatv/playlist.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD",TV Globo Rio de Janeiro (720p)
 http://45.190.28.50/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (720p)
-http://170.84.165.204:80/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo@SD" tvg-name="TV LATINA | SCZ | HD" tvg-name="TV LATINA " tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="Bolivia ",TV Latina
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="TVMAR.pe@SD" tvg-logo="https://i.imgur.com/VXvbNjT.png" group-title="General",TV MAR (720p)
@@ -933,26 +924,21 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Obregón (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl@SD",TVP Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="TVUCT.cl@SD" tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="Undefined",TV UCT (1080p)
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU.cl@SD" tvg-name="TVU Concepción " tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE",TVU Concepción (1080p)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl@SD" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="Undefined",TV Quellón (1080p) 
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (1080p)
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
-#EXTINF:-1 xui-id="118337" tvg-id="TyCSports.ar@SD" tvg-name="AR | TyC SPORTS HD" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="DEPORTES",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="QollasuyoTV.pe@SD",Qollasuyo TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 #EXTINF:-1 tvg-id="UcayalinadeTelevision.pe@SD" tvg-logo="https://i.imgur.com/jBhfcqy.png" group-title="Undefined",Ucayalina de Television (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",UFC (1080p)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Entertainment",Ultra Casanare TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Entertainment",Ultra Casanare TV (1080p) 
 https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-id="UnicentroTV.pe@SD" tvg-logo="https://i.imgur.com/lhewC3K.png" group-title="General",Unicentro TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
@@ -981,7 +967,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="WLTVDT231.us@HD",WLTV-DT 23.1 (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="General",Venevisión Internacional (720p)
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-name="Venevision Internacional " tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
@@ -1019,9 +1005,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="Yurivision.pe@SD" tvg-logo="https://i.imgur.com/VhWuaER.jpeg" group-title="General",Yurivision (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonaDAZN.it@SD" tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
 #EXTINF:-1 tvg-id="ZonaLatina.cl@SD" tvg-logo="https://i.imgur.com/lMyZZtk.png" group-title="Undefined",Zona Latina (720p)
 http://45.162.193.35/ZONALATINA/index.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD",Zurquí TV (720p)
@@ -1035,12 +1018,6 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/167771
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/252151
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VClassicTV Tropical
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/257513
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E10" tvg-logo="http://redworld.pro:8880/images/a93e13c993bc47198ee36d3b36a4fcc4.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E10
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E11" tvg-logo="http://redworld.pro:8880/images/8a73fcb06ffb469047b98d1a7d41eb92.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E11
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E12" tvg-logo="http://redworld.pro:8880/images/b7985462541c24b717d90c47e214de1c.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E12
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515764.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E13" tvg-logo="http://redworld.pro:8880/images/c148083a6a034ca2e43d263750d5f304.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E13
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515765.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E14" tvg-logo="http://redworld.pro:8880/images/14521ca6a53787e46cff796500770b39.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E14
@@ -1065,18 +1042,6 @@ http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515774.mp4
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515775.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BEASTARS S03 E24" tvg-logo="http://redworld.pro:8880/images/00adba60d98dbeb386a1560f43554422.jpg" group-title="⭐️ Series Netflix ",BEASTARS S03 E24
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/515776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E40" tvg-logo="http://redworld.pro:8880/images/f0e14a1a2de2bd5f63633d7e316cae6c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E40
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E41" tvg-logo="http://redworld.pro:8880/images/4a1b356e54e0f335179b089498464a31.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E41
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507379.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E42" tvg-logo="http://redworld.pro:8880/images/e266ffe37541e1cd460ac6c236ece2ef.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E42
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E43" tvg-logo="http://redworld.pro:8880/images/5445943ab1ffbef7745ca3cc630d2061.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E43
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E44" tvg-logo="http://redworld.pro:8880/images/62e8a4ce83962c4d6bf817c40c611508.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E44
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507382.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E45" tvg-logo="http://redworld.pro:8880/images/ef74e0611a0b2c28f2df885a7b039def.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E45
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507383.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E46" tvg-logo="http://redworld.pro:8880/images/d1670ea2db3e20f5a5262be3141bd498.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E46
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507384.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E47" tvg-logo="http://redworld.pro:8880/images/20f4b02e449987170b51dcdee45709d4.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E47
@@ -1147,8 +1112,6 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/533408
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/318372
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 2
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/167735
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telecafé" tvg-logo="http://goldfull.pro:8880/images/aff1a8273b40f6cdd36ef6da73fdeb50.png" group-title="⭐️ Colombia",CO | Telecafé
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/318391
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="http://goldfull.pro:8880/images/f661ac88786c79fb80ecb9bde42fa929.png" group-title="⭐️ Colombia",CO | Telepacifico
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/318397
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater HD
@@ -1199,3 +1162,149 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414523
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414524
 #EXTINF:-1 tvg-id="" tvg-name="PE| UTV Ucayali" tvg-logo="http://redworld.pro:8880/images/c6b5d100fe3243dc9f82837a5ff20ab9.jpg" group-title="⭐️ PERU",PE| UTV Ucayali
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/463894
+#EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/521032
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - La Mascara Animada" tvg-logo="http://redworld.pro:8880/images/2e994ab30e968f4f54387c3d065b195a.jpg" group-title="✅ 24/7 VIP",24/7 - La Mascara Animada
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Los Pitufos" tvg-logo="http://redworld.pro:8880/images/bd753154e3d9f71fa8126cdd7295c2be.jpg" group-title="✅ 24/7 VIP",24/7 - Los Pitufos
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Peliculas 2023" tvg-logo="http://redworld.pro:8880/images/894fb1c1dbbf620740ac7c02a14b8d33.jpg" group-title="✅ 24/7 VIP",24/7 - Peliculas 2023
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="http://redworld.pro:8880/images/c73c914ca8d709e7af40ab3cc129377f.jpeg" group-title="✅ 24/7 VIP",24/7 - El Chavo del 8
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526348
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 1-14" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 1-14
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 15-27" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 15-27
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 28-46" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 28-46
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 47-76" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 47-76
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526356
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ MUNDO" tvg-logo="http://redworld.pro:8880/images/8bebeb502027b3d6eb16e19f0ced3499.png" group-title="⭐️ México",MX | AZ MUNDO
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534785
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ CINEMA" tvg-logo="http://redworld.pro:8880/images/bd65143c223736937a94fd8c5aecb24b.png" group-title="⭐️ México",MX | AZ CINEMA
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534786
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL ONCE NACIONAL" tvg-logo="http://redworld.pro:8880/images/c8dcb6cc1425cd9de310d8eda1bed231.png" group-title="⭐️ México",MX | CANAL ONCE NACIONAL
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534789
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZTECA CLIC
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534798
+#EXTINF:-1 tvg-id="" tvg-name="MX | MAS CHIC" tvg-logo="http://redworld.pro:8880/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="⭐️ México",MX | MAS CHIC
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534795
+#EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534796
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bugs Bunny" tvg-logo="http://redworld.pro:8880/images/436a1cf81f027217eba9cde632933fa0.png" group-title="✅ 24/7 VIP",24/7 Bugs Bunny
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526391
+#EXTINF:-1 tvg-id="" tvg-name="MX | UMTV | MX" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | UMTV | MX
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534816
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Johnny Bravo" tvg-logo="http://redworld.pro:8880/images/3a041a993a915f92c40f4bd086ae54fc.png" group-title="✅ 24/7 VIP",24/7 - Johnny Bravo
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526412
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un show mas" tvg-logo="http://redworld.pro:8880/images/c8ea15ecee0f790f0cb6142dcfdcd1f6.jpg" group-title="✅ 24/7 VIP",24/7 Un show mas
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/526513
+#EXTINF:-1 tvg-id="" tvg-name="MX | 01 • AZTECA UNO" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | 01 • AZTECA UNO
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534768
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP2" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP2
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534772
+#EXTINF:-1 tvg-id="" tvg-name="The equalizer \ (2014)" tvg-logo="http://redworld.pro:8880/images/df5ae4c9b4ebb161253bf6bfa43a792e.jpg" group-title="⭐️Acción",The equalizer \ (2014)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 2 \ (2018)" tvg-logo="http://redworld.pro:8880/images/df5ae4c9b4ebb161253bf6bfa43a792e.jpg" group-title="⭐️Acción",The Equalizer 2 \ (2018)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="tick, tick... BOOM! (2021)" tvg-logo="http://redworld.pro:8880/images/3070654fb517487eaa5255d159c7c9d1.jpg" group-title="⭐️Drama",tick, tick... BOOM! (2021)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trainspotting \ (1996)" tvg-logo="http://redworld.pro:8880/images/65b934fb08423d5c50881187684c72a9.jpg" group-title="⭐️Drama",Trainspotting \ (1996)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trainspotting 2 (2017)" tvg-logo="http://redworld.pro:8880/images/3367b24477246f1cb5831804ad22366b.jpg" group-title="⭐️Drama",Trainspotting 2 (2017)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla 2: El rey de los Monstruos (2019)" tvg-logo="http://redworld.pro:8880/images/d8e9b8ae637a27ab84a647a6f72b8625.jpg" group-title="⭐️Ciencia Ficción",Godzilla 2: El rey de los Monstruos (2019)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PE| ANIMA KIDS" tvg-logo="http://redworld.pro:8880/images/d26bc428ce236b07f88f667ff0290834.png" group-title="⭐️ PERU",PE| ANIMA KIDS
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/547736
+#EXTINF:-1 tvg-id="" tvg-name="SV HQ | TSport" tvg-logo="http://127.0.0.1/" group-title="⭐️ El Salvador ",SV HQ | TSport
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/547804
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO LOS ÁNGELES" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO LOS ÁNGELES
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/490423
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO FRESNO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO FRESNO
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/490424
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO LAS VEGAS" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO LAS VEGAS
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/490426
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) 12 | TELEMUNDO ARIZONA | HD" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) 12 | TELEMUNDO ARIZONA | HD
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/490432
+#EXTINF:-1 tvg-id="" tvg-name="Cortocircuito (1986)" tvg-logo="http://redworld.pro:8880/images/287aef4150e7ba56cead7b4a8787c7ba.jpg" group-title="⭐️Cine retro",Cortocircuito (1986)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cortocircuito 2 (1988)" tvg-logo="http://redworld.pro:8880/images/85ebec15fd8c9628d25e4a2dfcbbe595.jpg" group-title="⭐️Cine retro",Cortocircuito 2 (1988)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="http://redworld.pro:8880/images/b823e03eee1d4d1ad83056c2a1fcb9ba.jpg" group-title="⭐️Cine retro",Mortal Kombat (2021)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El muñeco diabólico (2019)" tvg-logo="http://redworld.pro:8880/images/8ebc63be06d81827c913641e4d41d816.jpg" group-title="⭐️Cine retro",El muñeco diabólico (2019)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico 2" tvg-logo="http://redworld.pro:8880/images/8ebc63be06d81827c913641e4d41d816.jpg" group-title="⭐️Cine retro",Muñeco diabólico 2
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico 3" tvg-logo="http://redworld.pro:8880/images/8ebc63be06d81827c913641e4d41d816.jpg" group-title="⭐️Cine retro",Muñeco diabólico 3
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro 2- El caso Enfield \ (2016)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro 2- El caso Enfield \ (2016)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de Emily Rose (2005)" tvg-logo="http://redworld.pro:8880/images/25a1778699afa497f5a09b185ec0dd5e.jpg" group-title="⭐️Terror",El exorcismo de Emily Rose (2005)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Exorcista (1973)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El Exorcista (1973)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El grito \ (2004)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El grito \ (2004)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El grito 2 \ (2006)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El grito 2 \ (2006)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El grito 3 \ (2009)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El grito 3 \ (2009)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre del saco (2002)" tvg-logo="http://redworld.pro:8880/images/15759ecf3e6c75cc3ad1e35085bad6ae.jpg" group-title="⭐️Terror",El hombre del saco (2002)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (1974)" tvg-logo="http://redworld.pro:8880/images/5d7a58ed796ceee627f1f999eda71489.jpg" group-title="⭐️Terror",La masacre de Texas (1974)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (2003)" tvg-logo="http://redworld.pro:8880/images/073cfdb114a92f267bb817bf4a304484.jpg" group-title="⭐️Terror",La masacre de Texas (2003)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Masacre de Texas: El inicio (2006)" tvg-logo="http://redworld.pro:8880/images/d9cde946955d726135d5577746e2ec46.jpg" group-title="⭐️Terror",La Masacre de Texas: El inicio (2006)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas 2 (1986)" tvg-logo="http://redworld.pro:8880/images/e3bbc1f551a808a5a98698ac503f51dc.jpg" group-title="⭐️Terror",La masacre de Texas 2 (1986)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun- El origen \ (2014)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun- El origen \ (2014)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 \ (1994)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 2 \ (1994)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 3 \ (1995)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 3 \ (1995)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 4- En el espacio \ (1996)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 4- En el espacio \ (1996)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 5- La maldición \ (2000)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 5- La maldición \ (2000)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 6- El regreso \ (2003)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 6- El regreso \ (2003)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun Returns \ (2018)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun Returns \ (2018)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist \ (1982)" tvg-logo="http://redworld.pro:8880/images/7267cc12790909fbc073fdfd62009768.jpg" group-title="⭐️Terror",Poltergeist \ (1982)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist II- El otro lado \ (1986)" tvg-logo="http://redworld.pro:8880/images/7267cc12790909fbc073fdfd62009768.jpg" group-title="⭐️Terror",Poltergeist II- El otro lado \ (1986)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist III (1988)" tvg-logo="http://redworld.pro:8880/images/e3500a338b5762917fd44eed707fdb7e.jpg" group-title="⭐️Terror",Poltergeist III (1988)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HN | TSI HD" tvg-logo="http://127.0.0.1/" group-title="⭐️ Honduras",HN | TSI HD
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/555960
+#EXTINF:-1 tvg-id="" tvg-name="HN | TELEPROGRESO HD" tvg-logo="http://127.0.0.1/" group-title="⭐️ Honduras",HN | TELEPROGRESO HD
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/555965
+#EXTINF:-1 tvg-id="" tvg-name="HN | TG SPS HONDURAS ᴴᴰ" tvg-logo="https://static.gameloop.com/img/bddaff5b7e390a281e6427993ebc3b04.png?imageMogr2/thumbnail/172.8x172.8/format/webp" group-title="⭐️ Honduras",HN | TG SPS HONDURAS ᴴᴰ
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/555968
+#EXTINF:-1 tvg-id="" tvg-name="Scream 3 \ (2000)" tvg-logo="http://redworld.pro:8880/images/244503c7135d8d2636200122fe40cc09.jpg" group-title="⭐️Terror",Scream 3 \ (2000)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 4 (2011)" tvg-logo="http://redworld.pro:8880/images/81e8527ec3b5153008d1074e4f61cc55.jpg" group-title="⭐️Terror",Scream 4 (2011)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (2009)" tvg-logo="http://redworld.pro:8880/images/2e0544e79c38fa1374aa2716d9915e45.jpg" group-title="⭐️Cine retro",Viernes 13 (2009)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13, Parte II (1981)" tvg-logo="http://redworld.pro:8880/images/c9b050930d2dee59bb11755c60fa7f62.jpg" group-title="⭐️Cine retro",Viernes 13, Parte II (1981)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Candyman (2021)" tvg-logo="http://redworld.pro:8880/images/036574cd4848986296eb34209bbaf4ef.jpg" group-title="⭐️Terror",Candyman (2021)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phantasma (2025)" tvg-logo="http://redworld.pro:8880/images/009d4f1bf14da47afa1d7e53ff93f8b1.jpg" group-title="⭐️Cine retro",Phantasma (2025)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phantasma II" tvg-logo="http://redworld.pro:8880/images/009d4f1bf14da47afa1d7e53ff93f8b1.jpg" group-title="⭐️Cine retro",Phantasma II
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cocodrilo Dundee (1986)" tvg-logo="http://redworld.pro:8880/images/5468e440f711d9581e41cf3318e57a82.jpg" group-title="⭐️Cine retro",Cocodrilo Dundee (1986)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552080.mkv
