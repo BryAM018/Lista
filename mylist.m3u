@@ -100,6 +100,10 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="General",Canal 2 NexTV Rafaela (720p)
 https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 tvg-id="Canal2.sv@SD",Canal 2 (720p)
+http://186.33.26.18:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv@SD",Canal 4 (1080p)
+http://45.5.118.188:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5 (1080p)
@@ -174,6 +178,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",Chinola TV 
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="General",CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CholutecaTV.hn@SD",Choluteca TV (1080p)
@@ -188,7 +194,7 @@ http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium
 http://190.61.90.17:40000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (1080p) 
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
@@ -246,12 +252,16 @@ http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="NIÑOS",Disney Channel Latin America 
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
+http://45.70.201.81:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" tvg-name="KIDS | DISNEY JUNIOR" tvg-logo="http://redworld.pro:8880/images/69ee308370f166ebd34ee64895d1c9a8.png" group-title="Infantiles",Disney Jr. Latin America 
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="MEXICO",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (576p)
+http://45.70.201.81:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="MX | DISTRITO COMEDIA " tvg-logo="http://fanc.tmsimg.com/assets/s55980_ll_h3_aa.png" group-title="MEXICO",Distrito Comedia (1080p)
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="DmodaChannel.bo@SD" tvg-logo="https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png" group-title="General",Dmoda Channel (1080p)
@@ -394,9 +404,6 @@ https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="General",Junior Technologia TV (1080p) [Not 24/7]
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
-#EXTINF:-1 tvg-id="JuntosTV.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports",KTV Sport (1080p)
@@ -405,6 +412,8 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-name="LIGA 1 MAX " tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="General",La Descarga TV 
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="General",Laguna TV (1080p)
@@ -487,6 +496,8 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="Entertainment",MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-id="MorazanTV.sv@SD",Morazan TV (720p)
+http://45.167.2.138:8000/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mundo Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="General",Musavision (1080p)
@@ -603,6 +614,10 @@ http://15.204.246.24:8080/DTVHD/index.m3u8
 http://138.255.2.6:8084/GLOBOHD/index.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" tvg-name="BOL : RED UNO SANTA CRUZ" tvg-logo="https://i.imgur.com/pqVzZQ9.png" group-title="Bolivia",Red Uno Santa Cruz (1080p)
 http://190.181.18.82:4111/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz",Red Uno (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz",Red Uno La Paz (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
 #EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Entertainment;General;News",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-name="Retro Plus TV" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="General",RETRO PLUS 3
@@ -708,6 +723,8 @@ https://servilive.com:3263/live/channel12live.m3u8
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.imgur.com/bCcnLVL.png" group-title="General",SV+ (720p)
 http://45.167.2.101:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="SVPlus.sv@SD",SV+ (720p)
+http://186.33.26.18:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="TVinet.cl@SD" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="Undefined",T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",talkSPORT (1080p)
@@ -952,6 +969,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 http://45.162.193.35/ZONALATINA/index.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WITI",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/120546
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN XTRA
@@ -1048,7 +1067,7 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/490463
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414468
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414471
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  FHD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414473
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414486
@@ -1227,38 +1246,6 @@ http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487893.mp4
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487894.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E08" tvg-logo="http://redworld.pro:8880/images/6cf0ed1a485b706ddc2bc3554f7d56b0.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E08
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E01" tvg-logo="http://redworld.pro:8880/images/0dc265a136b861fecd2b376b06479a4d.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E01
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E02" tvg-logo="http://redworld.pro:8880/images/3638d10313d73f050ef1889694db3ebe.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E02
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E03" tvg-logo="http://redworld.pro:8880/images/3763a89396f91ed7811281085d98787a.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E03
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E04" tvg-logo="http://redworld.pro:8880/images/aa9eee502983341152004867b663cbff.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E04
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E05" tvg-logo="http://redworld.pro:8880/images/0454d7295a2d48f59f75b01d60d347e8.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E05
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E06" tvg-logo="http://redworld.pro:8880/images/b32a98b103c667bae50500c3e1785164.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E06
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E07" tvg-logo="http://redworld.pro:8880/images/40975d62a105e9cac1807c1050727a2f.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E07
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S03 E08" tvg-logo="http://redworld.pro:8880/images/768c27296eb00cece750e3fccec78604.jpg" group-title="⭐️ Series Netflix ",The Witcher S03 E08
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E01" tvg-logo="http://redworld.pro:8880/images/951ca3f5ba071f3674f9acd850b6ecbf.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E01
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E02" tvg-logo="http://redworld.pro:8880/images/a3704527a278fe39c6d407d3aa6b5967.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E02
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E03" tvg-logo="http://redworld.pro:8880/images/5ecfb6f1cba3efd2ed9bad2b954024ba.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E03
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E04" tvg-logo="http://redworld.pro:8880/images/05ef7ffb2bd65b4bb27d4c57264e163d.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E04
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E05" tvg-logo="http://redworld.pro:8880/images/130d97cd399169088584c270bc101aed.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E05
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E06" tvg-logo="http://redworld.pro:8880/images/51cf5e0593f1c692456a74e8203ae451.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E06
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E07" tvg-logo="http://redworld.pro:8880/images/c0562702a5cfebf6b2685e6447cc08a4.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E07
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher S04 E08" tvg-logo="http://redworld.pro:8880/images/0b1996ee5a187d0ee3399fefcbe135c4.jpg" group-title="⭐️ Series Netflix ",The Witcher S04 E08
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487911.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E01" tvg-logo="http://redworld.pro:8880/images/358da79d291c02d0ae2d55b00d365a0b.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E01
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher: El origen de la sangre S01 E02" tvg-logo="http://redworld.pro:8880/images/eaff3dc6141f54fda5771d2f65138b42.jpg" group-title="⭐️ Series Netflix ",The Witcher: El origen de la sangre S01 E02
@@ -1495,10 +1482,6 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167557
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/168220
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY OPC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bJrOb2D1DwL9xJ3y50RRoQygTh7aYMphaA&usqp=CAU" group-title="⭐️EVENTOS DISNEY⭐️",EVENTOS DISNEY OPC1
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/170979
-#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS  2 HD.." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⭐️ZONA FOX SPORTS HD⭐️",MX | FOX SPORTS  2 HD..
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179209
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LA LIGA HD." tvg-logo="http://daleplaypro.com:8080/images/98e09a4f3b61804659d36bd8d908dc40.jpg" group-title="EVENTOS ESPAÑA LA LIGA⚽️",ES | DAZN LA LIGA HD.
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179943
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="/TV COLOMBIA/",CO | Canal Capital
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/193002
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="/TV COLOMBIA/",CO | Telepacifico
@@ -1555,8 +1538,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/33468.mp4
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/34113.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 5 Guerras de Sangre " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="MAS PELICULAS",Inframundo 5 Guerras de Sangre [2016, R, 5.8][Full HD - Latino-Ingles][CruzCrispin]
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/34114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CO: CITY TV" tvg-logo="http://sinlimitestv.com:8080/images/082f4a27ae9a8c06b86cfd6799a6332b.png" group-title="/TV COLOMBIA/",CO: CITY TV
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/159445
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | A&E FHD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414453
 #EXTINF:-1 tvg-id="" tvg-name="Alita, ángel de combate (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w87I5lmJR59CwyJNrykSkXcoroQ.jpg" group-title="⭐️VOD ANIMADAS - INFANTILES",Alita, ángel de combate (1993)
@@ -1625,7 +1606,9 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177826.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177828.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 3: La Rebelión de las Máquinas (Dual)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWdyO6Snr0oprGihuZX3T51nemd.jpg" group-title="⭐️VOD CIENCIAFICCION⭐️",Terminator 3: La Rebelión de las Máquinas (Dual)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/172098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sport PANAMA" tvg-logo="" group-title="⚡️DEPORTES LATINO⚽️⚡️",Tigo Sport PANAMA
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167243
-#EXTINF:-1 tvg-id="" tvg-name="NIÑOS: Boomerang HD .." tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/boomerang.9b80d70b.png" group-title="⚡️NIÑOS⚡️",NIÑOS: Boomerang HD ..
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167676
+#EXTINF:-1 tvg-id="" tvg-name="Chucky" tvg-logo="http://127.0.0.1/" group-title="♾️24/7 PLUS♾️",Chucky
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/252455
+#EXTINF:-1 tvg-id="" tvg-name="TUDN LATINO" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="LIGA MEXICANA⚽️",TUDN LATINO
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/444550
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT GUATEMALA" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="/TV GUATEMALA/",TIGO SPORT GUATEMALA
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/475304
