@@ -236,16 +236,12 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="NIÑOS",Disney Channel Latin America 
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
-http://45.70.201.81:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" tvg-name="KIDS | DISNEY JUNIOR" tvg-logo="http://redworld.pro:8880/images/69ee308370f166ebd34ee64895d1c9a8.png" group-title="Infantiles",Disney Jr. Latin America 
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="MEXICO",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (576p)
-http://45.70.201.81:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="MX | DISTRITO COMEDIA " tvg-logo="http://fanc.tmsimg.com/assets/s55980_ll_h3_aa.png" group-title="MEXICO",Distrito Comedia (1080p)
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="DmodaChannel.bo@SD" tvg-logo="https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png" group-title="General",Dmoda Channel (1080p)
@@ -386,8 +382,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-name="LIGA 1 MAX " tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
-https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="General",La Descarga TV 
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="General",Laguna TV (1080p)
@@ -647,9 +641,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spark TV Luz & Amor (1080p)
 https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport1.cz@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/sport1_hun/index.m3u8
@@ -659,9 +650,6 @@ http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport2.hu@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/sport2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.ua@SD" tvg-logo="https://i.imgur.com/vk0j1mY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
@@ -756,6 +744,8 @@ http://168.228.44.241:9997/play/a07g/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="Telemundo",Telemundo Internacional (1080p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD",Telemundo East HD (1080p)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General",Telenord 8 (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-name="PR | TeleOnce" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Puerto Rico",TeleOnce (1080p)
@@ -977,8 +967,6 @@ http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507413.mkv
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507414.mkv
 #EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="PE | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE | D GAMES 2
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/533407
-#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="PE |  D GAMES +" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE |  D GAMES +
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/533408
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="http://redworld.pro:8880/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="⭐️ Colombia",CO | CARACOL HD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/318372
 #EXTINF:-1 tvg-id="" tvg-name="CHI | TVN 3" tvg-logo="http://redworld.pro:8880/images/6ef06e2e6e4b448a6178da48933cab03.png" group-title="⭐️ CHILE  ",CHI | TVN 3
@@ -991,8 +979,6 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/379653
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/385093
 #EXTINF:-1 tvg-id="" tvg-name="Galáctika media" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Galáctika media
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/391357
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/407036
 #EXTINF:-1 tvg-id="" tvg-name="Canal Tru Tv - Cordoba " tvg-logo="" group-title="⭐️ Argentina Regionales",Canal Tru Tv - Cordoba 
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/359946
 #EXTINF:-1 tvg-id="" tvg-name="PE| UTV Ucayali" tvg-logo="http://redworld.pro:8880/images/c6b5d100fe3243dc9f82837a5ff20ab9.jpg" group-title="⭐️ PERU",PE| UTV Ucayali
@@ -1385,8 +1371,6 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/221576
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/444961
 #EXTINF:-1 tvg-id="" tvg-name="MX: FORO TV*" tvg-logo="http://dplatino.net:8080/images/38425aa5a05aada202d70bd887ed4471.png" group-title="⚡️MEXICO NACIONALES⚡️",MX: FORO TV*
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445007
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 1" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 1
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445468
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 5" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 5
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445472
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 6" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 6
@@ -1401,8 +1385,6 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/469729
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/476888.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORT ECUADOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEjo05gpzGoUXme4tdqR24oNXUJQnd3BvxBHpq_ZIbDcYKtbFeIoOEcw&s=10" group-title="/DEPORTE ECUADOR/",ZAPPING SPORT ECUADOR
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/504513
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS la liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTxysXDpZyeUFIC3RGLE6esOtH980jpXRBpOPV7p3tDM2H9FhheZSddE&s=10" group-title="⚽️ESPAÑA DEPORTES⚽️",SKY SPORTS la liga
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/497857
 #EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL" tvg-logo="https://yt3.googleusercontent.com/kh3xm4JazH84b_tHzXjisduJHaHB1u17xPIj0xjYaLoeLPiLZRcYbXcp4-oXg4vzaAwtffae=s900-c-k-c0x00ffffff-no-rj" group-title="/TV BOLIVIA/",FUTBOL CANAL
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/541384
 #EXTINF:-1 tvg-id="" tvg-name="Los inmortales (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="⭐️SAGAS",Los inmortales (1986)
@@ -1465,8 +1447,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/26454.mkv
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/497860
 #EXTINF:-1 tvg-id="" tvg-name="HN | TSI SD" tvg-logo="http://127.0.0.1/" group-title="⭐️ Honduras",HN | TSI SD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/555961
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telecafé HD" tvg-logo="http://redworld.pro:8880/images/aff1a8273b40f6cdd36ef6da73fdeb50.png" group-title="⭐️ Colombia",CO | Telecafé HD
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/318392
 #EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="http://todoen1.xyz:8080/Altoquetv83/ALt3Q34Re9372/149705" group-title="⭐️ CINE PREMIUM",P | Universal Premier Oeste
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/414525
 #EXTINF:-1 tvg-id="" tvg-name="Terminator (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="⭐️SAGAS",Terminator (1984)
@@ -1477,8 +1457,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177828.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/172098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chucky" tvg-logo="http://127.0.0.1/" group-title="♾️24/7 PLUS♾️",Chucky
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/252455
-#EXTINF:-1 tvg-id="" tvg-name="TUDN LATINO" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="LIGA MEXICANA⚽️",TUDN LATINO
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/444550
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT GUATEMALA" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="/TV GUATEMALA/",TIGO SPORT GUATEMALA
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/475304
 #EXTINF:-1 tvg-id="" tvg-name="Alicia en el País de las Maravillas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTL10rosTEhOZp8E3zoniXddyRC.jpg" group-title="⭐️VOD ANIMADAS - INFANTILES",Alicia en el País de las Maravillas (2010)
@@ -1529,3 +1507,17 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177845.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173361.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Superman III (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0s7bQpDXKVIeIj3HZZYTvJGCWv.jpg" group-title="⭐️VOD DC⭐️",Superman III (1983)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el multiverso (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="⭐️VOD ESTRENOS 2023",Spider-Man: Cruzando el multiverso (2023) HD
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/194289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 4K." tvg-logo="http://127.0.0.1/" group-title="⭐️TV 4K⭐️",HBO 2 4K.
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179984
+#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CINEMA  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gidrSh4NcDiUuGjlcjXgNT2TOllL0YV8llJdvvLCVFjK3EXeTQjBG7c&s=10" group-title="⚡️CINEMA⚡️",CINE | UNIVERSAL CINEMA  HD
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/1926
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: Servicio secreto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg" group-title="⭐️VOD PELICULAS 4K",Kingsman: Servicio secreto (2014)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copia de Paranormal Activity (2009) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa]]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Paranormal Activity (2009) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa]]
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copia de Plan de escape (2013) - [1080p BRrip x264 (AC3) (3.1 Mbps) [spa, eng] [eng, spa]]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Plan de escape (2013) - [1080p BRrip x264 (AC3) (3.1 Mbps) [spa, eng] [eng, spa]]
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copia de Plan de escape 2 - Hades (2018) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa, eng]]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Plan de escape 2 - Hades (2018) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa, eng]]
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177783.mkv
