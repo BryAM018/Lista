@@ -158,8 +158,6 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="General",Central TV (720p)
 https://freya.mivideo.pro/centraltv/video.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CharapaTV.pe@SD" tvg-logo="https://i.imgur.com/tFRmMkf.png" group-title="General",Charapa TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl@SD"  tvg-name="CL | CHILEVISION"  tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="CHILE",ChileVision 
@@ -250,8 +248,6 @@ https://master.tucableip.com/dmoda/index.m3u8
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-name="MX: Dreamworks" tvg-logo="" group-title="MEXICO",DreamWorks Channel Latin America 
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports
-http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="DTV.pe@SD" tvg-logo="https://i.imgur.com/OSvegAq.png" group-title="General",DTV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" tvg-name="MX: DW Esp." tvg-logo="" group-title="MEXICO",DW Espanol
@@ -339,8 +335,6 @@ https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
 https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8
-#EXTINF:-1 tvg-id="GHTelevision.do@SD" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="General",GH Television (1080p) [Not 24/7]
-https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-id="GlobalTV.pe@SD" tvg-name="PE| GLOBAL TV" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="PERU",Global TV (1080p)
 http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee@SD" tvg-logo="https://i.imgur.com/0eZa0qh.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Go3 Sport 1 (1080p)
@@ -416,8 +410,6 @@ https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1 xc_vm-id="1104698" tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-name="LA: LIFETIME" tvg-logo="https://docdog.top/logo/countries/latino/lifetime.png" group-title="LATINO",Lifetime Latin America
 http://181.119.66.28:8081/Lifetime-HD/index.m3u8
-#EXTINF:-1 tvg-id="LimonTV.cr@SD" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="General",Limón TV (1080p) [Not 24/7]
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LunaTVCanal53.do@SD" tvg-name="LIDOM 01  | Luna TV" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="R. DOMINICANA",Luna TV Canal 53 (720p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports",M Sports (1080p)
@@ -925,8 +917,6 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WITI",WITI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/120546
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/252151
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VClassicTV Tropical
@@ -967,10 +957,8 @@ http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507413.mkv
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507414.mkv
 #EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="PE | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE | D GAMES 2
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/533407
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="http://redworld.pro:8880/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="⭐️ Colombia",CO | CARACOL HD
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/318372
-#EXTINF:-1 tvg-id="" tvg-name="CHI | TVN 3" tvg-logo="http://redworld.pro:8880/images/6ef06e2e6e4b448a6178da48933cab03.png" group-title="⭐️ CHILE  ",CHI | TVN 3
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/323865
+#EXTINF:-1 tvg-id="" tvg-name="D1RECTV SPORTS 2 SD OP1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="⚡️DEPORTES PERU⚽️⚡️",D1RECTV SPORTS 2 SD OP1
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/469909
 #EXTINF:-1 tvg-id="" tvg-name="Retro Play TV | CL" tvg-logo="http://goldfull.pro:8880/images/5208ae8a3c952d5f4f57609b8cfbbe95.png" group-title="⭐ Zona Retro",Retro Play TV | CL
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/376580
 #EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Tevex
@@ -1331,10 +1319,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326277.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326278.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K3CPASP9NhbxPwkSvCskRpmzTL.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Hawkeye S01 E04
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaDRxEaBGVFqYyc4ycbyLRstZ1F.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Hawkeye S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXuI42V8HgmyMlewU2tiOEEjKsC.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Hawkeye S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326281.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MERLINA S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L5TJquVHoCp19w5tKy48DfcCnZ.jpg" group-title="⭐️VOD SERIES NETFLIX",MERLINA S02 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/507838.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Merlina S02 E02" tvg-logo="http://redworld.pro:8880/images/60ec42ddb5a89bd093cbc22359600363.jpg" group-title="⭐️ Series Netflix ",Merlina S02 E02
@@ -1359,20 +1343,14 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167260
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167233
 #EXTINF:-1 tvg-id="" tvg-name="trivision36live" tvg-logo="https://i.imgur.com/L4rzLxP.png" group-title="⚡️COSTA RICA⚡️",trivision36live
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/168220
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY OPC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bJrOb2D1DwL9xJ3y50RRoQygTh7aYMphaA&usqp=CAU" group-title="⭐️EVENTOS DISNEY⭐️",EVENTOS DISNEY OPC1
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/170979
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="/TV COLOMBIA/",CO | Canal Capital
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/193002
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="/TV COLOMBIA/",CO | Telepacifico
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/193031
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="⭐️TV PERU PREMIUM⭐️",Movistar Plus
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/221576
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://dplatino.net:8080/images/2b08df484abe36bfddad540d3894a8c6.png" group-title="⭐️ZONA ESPN HD PREMIUM⭐️",ESPN 2 SD
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/444961
 #EXTINF:-1 tvg-id="" tvg-name="MX: FORO TV*" tvg-logo="http://dplatino.net:8080/images/38425aa5a05aada202d70bd887ed4471.png" group-title="⚡️MEXICO NACIONALES⚡️",MX: FORO TV*
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445007
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 5" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 5
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445472
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 6" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 6
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445473
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 8" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 8
@@ -1441,8 +1419,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29891.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="⭐️VOD PELICULAS 4K",The Batman (2022)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WnyUEG41PXB1YIu4JR1z8om0Xj.jpg" group-title="⭐️ VOD CINE MARVEL",Eternals (2021)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/26454.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1280px-DAZN_3.svg.png" group-title="⚽️ESPAÑA DEPORTES⚽️",DAZN 3
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/497860
 #EXTINF:-1 tvg-id="" tvg-name="HN | TSI SD" tvg-logo="http://127.0.0.1/" group-title="⭐️ Honduras",HN | TSI SD
@@ -1521,3 +1497,9 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177767.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177782.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Copia de Plan de escape 2 - Hades (2018) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa, eng]]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Plan de escape 2 - Hades (2018) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa, eng]]
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg" group-title="⭐️VOD ESTRENOS 20-21-22⭐️",Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS HD*." tvg-logo="https://i.ibb.co/cLk91MN/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",CLARO SPORTS HD*.
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167198
+#EXTINF:-1 tvg-id="" tvg-name="Stargate- Puerta a las estrellas \ (1994)" tvg-logo="http://redworld.pro:8880/images/67bbe0a9740d7ef559bd664ff0b984fa.jpg" group-title="⭐️Acción",Stargate- Puerta a las estrellas \ (1994)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546248.mkv
