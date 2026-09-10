@@ -82,8 +82,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx@SD" tvg-name="MX: BiTme" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="MEXICO",bitMe (1080p)
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
-#EXTINF:-1 tvg-id="BNBDigital.pe@SD" tvg-logo="https://i.imgur.com/MgEN1F8.png" group-title="General",BNB Digital (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="BOL : BOLIVIA TV 7" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="Bolivia",Bolivia TV (1080p)
 http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 #EXTINF:-1 tvg-id="CampusTV.cl@SD" tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Undefined",Campus TV (Talca) (720p) [Not 24/7]
@@ -329,8 +327,6 @@ http://181.119.66.28:8081/FX-HD/index.m3u8
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
-#EXTINF:-1 tvg-id="GaviotaTV.ec@SD" tvg-logo="https://i.imgur.com/1vlZA6O.png" group-title="ECUADOR",Gaviota TV [Not 24/7]
-https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-id="GeniosTV.pe@SD" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="General",Genios TV (1080p)
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
@@ -921,8 +917,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/252151
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VClassicTV Tropical
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/257513
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E60" tvg-logo="http://redworld.pro:8880/images/ee7dbee2064d121da65eef74013a90ff.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E60
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507398.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E61" tvg-logo="http://redworld.pro:8880/images/34cd1c9b714792c8fd4155f607ae8f68.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E61
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507399.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E62" tvg-logo="http://redworld.pro:8880/images/cbf28f356b08b056a04aa3ac1974219f.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E62
@@ -1285,12 +1279,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494385.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326508.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Loki S01 E02
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Loki S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Loki S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fRAAO13URmteku8mb39V9YPJBb.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Loki S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326512.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3mZDFtSh7Slb0486FuwkEZQHRB.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328123.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAzZXEY6uqSHeZ7ugxz9FqCfAkg.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E02
@@ -1503,3 +1491,13 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173068.mkv
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167198
 #EXTINF:-1 tvg-id="" tvg-name="Stargate- Puerta a las estrellas \ (1994)" tvg-logo="http://redworld.pro:8880/images/67bbe0a9740d7ef559bd664ff0b984fa.jpg" group-title="⭐️Acción",Stargate- Puerta a las estrellas \ (1994)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/889px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="/TV COLOMBIA/",CO | CARACOL HD
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/193005
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4 (2023) " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg" group-title="⭐️VOD ESTRENOS 2023",John Wick 4 (2023) 
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/185549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beetlejuice 2 (2024)  - FULL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9PFOL29W5giGGnG-uBvA6btcZN7wl5KLmlQ&usqp=CAU" group-title="⭐️VOD | ESTRENOS 2024⚡️",Beetlejuice 2 (2024)  - FULL HD
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/260572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 3: La película (2024) HDTS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg" group-title="⭐️VOD | ESTRENOS 2024⚡️",Sonic 3: La película (2024) HDTS
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/494051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Especies (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lg9kkaKc53vZd1tqiuc2lmf0bp.jpg" group-title="⭐️ACCION",Especies (1995)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/195177.mkv
