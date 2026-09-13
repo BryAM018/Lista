@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png",¡OPA! (1080i)
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport.il@SD",5Sport (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/41/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-name="CH: 13C" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="CHILE",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE",13 Kids (1080p)
@@ -85,8 +88,6 @@ http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1Nuble.cl@SD" tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="General",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2Misiones.ar@SD" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Undefined",Canal 2 Misiones (1080p)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="General",Canal 2 NexTV Rafaela (720p)
 https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv@SD",Canal 2 (720p)
@@ -213,8 +214,6 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 https://v2.tustreaming.cl/dchtv/index.m3u8
 #EXTINF:-1 tvg-id="DelPuebloTV.do@HD" tvg-logo="https://imgur.com/Pw7ZUT1.jpg" group-title="General",Del Pueblo TV [Not 24/7]
 https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="DeltaTV.pe@SD" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="Undefined",DeltaTV
-https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" tvg-name="DHE " tvg-logo="http://x.playerlatino.live/DHE.png" group-title="ENTRETENIMIENTO",DHE
 http://15.204.246.24:8080/DHEHD/index.m3u8
 #EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" http-referrer="https://telemicro.com.do/players/15tv/index_pc.php" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0" group-title="General",Digital 15 (1080p)
@@ -880,8 +879,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/252151
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VClassicTV Tropical
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/257513
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E64" tvg-logo="http://redworld.pro:8880/images/46033b0b232804db9dc1e414a46e0b4c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E64
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507402.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E65" tvg-logo="http://redworld.pro:8880/images/990efbe86a36d216d3932de1d188dc49.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E65
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507403.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E66" tvg-logo="http://redworld.pro:8880/images/68570f6927241dd0525fefa095baba78.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E66
@@ -944,34 +941,6 @@ http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/546935.mkv
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/547736
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="http://redworld.pro:8880/images/b823e03eee1d4d1ad83056c2a1fcb9ba.jpg" group-title="⭐️Cine retro",Mortal Kombat (2021)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El muñeco diabólico (2019)" tvg-logo="http://redworld.pro:8880/images/8ebc63be06d81827c913641e4d41d816.jpg" group-title="⭐️Cine retro",El muñeco diabólico (2019)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552627.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico 2" tvg-logo="http://redworld.pro:8880/images/8ebc63be06d81827c913641e4d41d816.jpg" group-title="⭐️Cine retro",Muñeco diabólico 2
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552628.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico 3" tvg-logo="http://redworld.pro:8880/images/8ebc63be06d81827c913641e4d41d816.jpg" group-title="⭐️Cine retro",Muñeco diabólico 3
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552629.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Conjuro 2- El caso Enfield \ (2016)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro 2- El caso Enfield \ (2016)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552981.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Exorcista (1973)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El Exorcista (1973)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El grito \ (2004)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El grito \ (2004)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El grito 2 \ (2006)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El grito 2 \ (2006)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El grito 3 \ (2009)" tvg-logo="http://redworld.pro:8880/images/6267f7633ad9c244474f032e218033f5.jpg" group-title="⭐️Terror",El grito 3 \ (2009)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hombre del saco (2002)" tvg-logo="http://redworld.pro:8880/images/15759ecf3e6c75cc3ad1e35085bad6ae.jpg" group-title="⭐️Terror",El hombre del saco (2002)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (1974)" tvg-logo="http://redworld.pro:8880/images/5d7a58ed796ceee627f1f999eda71489.jpg" group-title="⭐️Terror",La masacre de Texas (1974)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (2003)" tvg-logo="http://redworld.pro:8880/images/073cfdb114a92f267bb817bf4a304484.jpg" group-title="⭐️Terror",La masacre de Texas (2003)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Masacre de Texas: El inicio (2006)" tvg-logo="http://redworld.pro:8880/images/d9cde946955d726135d5577746e2ec46.jpg" group-title="⭐️Terror",La Masacre de Texas: El inicio (2006)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas 2 (1986)" tvg-logo="http://redworld.pro:8880/images/e3bbc1f551a808a5a98698ac503f51dc.jpg" group-title="⭐️Terror",La masacre de Texas 2 (1986)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553075.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun- El origen \ (2014)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun- El origen \ (2014)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553097.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 \ (1994)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 2 \ (1994)
@@ -986,12 +955,6 @@ http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553102.mkv
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553103.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun Returns \ (2018)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun Returns \ (2018)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553104.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Poltergeist \ (1982)" tvg-logo="http://redworld.pro:8880/images/7267cc12790909fbc073fdfd62009768.jpg" group-title="⭐️Terror",Poltergeist \ (1982)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Poltergeist II- El otro lado \ (1986)" tvg-logo="http://redworld.pro:8880/images/7267cc12790909fbc073fdfd62009768.jpg" group-title="⭐️Terror",Poltergeist II- El otro lado \ (1986)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Poltergeist III (1988)" tvg-logo="http://redworld.pro:8880/images/e3500a338b5762917fd44eed707fdb7e.jpg" group-title="⭐️Terror",Poltergeist III (1988)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Scream 3 \ (2000)" tvg-logo="http://redworld.pro:8880/images/244503c7135d8d2636200122fe40cc09.jpg" group-title="⭐️Terror",Scream 3 \ (2000)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553184.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Scream 4 (2011)" tvg-logo="http://redworld.pro:8880/images/81e8527ec3b5153008d1074e4f61cc55.jpg" group-title="⭐️Terror",Scream 4 (2011)
@@ -1000,10 +963,6 @@ http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553185.mkv
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552879.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Viernes 13, Parte II (1981)" tvg-logo="http://redworld.pro:8880/images/c9b050930d2dee59bb11755c60fa7f62.jpg" group-title="⭐️Cine retro",Viernes 13, Parte II (1981)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Phantasma (2025)" tvg-logo="http://redworld.pro:8880/images/009d4f1bf14da47afa1d7e53ff93f8b1.jpg" group-title="⭐️Cine retro",Phantasma (2025)
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Phantasma II" tvg-logo="http://redworld.pro:8880/images/009d4f1bf14da47afa1d7e53ff93f8b1.jpg" group-title="⭐️Cine retro",Phantasma II
-http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/552687.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E01" tvg-logo="http://redworld.pro:8880/images/d369f52c2d327900f7acb8f973566a35.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E01
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487445.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E02" tvg-logo="http://redworld.pro:8880/images/4fb8db744a0a0a9d5d3bd98907c5e842.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E02
@@ -1388,10 +1347,8 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179984
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/1926
 #EXTINF:-1 tvg-id="" tvg-name="Kingsman: Servicio secreto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg" group-title="⭐️VOD PELICULAS 4K",Kingsman: Servicio secreto (2014)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Copia de Paranormal Activity (2009) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa]]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Paranormal Activity (2009) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa]]
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Paranormal Activity (2009) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa]]
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg" group-title="⭐️VOD ESTRENOS 20-21-22⭐️",Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173068.mkv
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS HD*." tvg-logo="https://i.ibb.co/cLk91MN/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",CLARO SPORTS HD*.
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167198
 #EXTINF:-1 tvg-id="" tvg-name="Stargate- Puerta a las estrellas \ (1994)" tvg-logo="http://redworld.pro:8880/images/67bbe0a9740d7ef559bd664ff0b984fa.jpg" group-title="⭐️Acción",Stargate- Puerta a las estrellas \ (1994)
@@ -1410,3 +1367,79 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Attack on Titan: THE LAST ATTACK (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg" group-title="⭐️PELICULAS ANIMES",Attack on Titan: THE LAST ATTACK (2024)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/501447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNJwYJYdC5CxYvKkTy9KpcwXf4o.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1beZqIPUzG5Mil59q9ENHdN2oDQ.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KM4UxBfngRCnmVUSabqErY1nU6.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwC0kan9E1iDJQ0hOTSk7nb2y3.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hldLKUwheZjVSqaXifK28DEiBk6.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E33
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiTUaXaHvi0SlCgxAD69fD6Ywiv.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E34
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vNXW9GrNzdCXDW2lyB4mRyVsM3.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E35
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eQvTGavkCLnylGWvtHbgzlLMGd.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E36
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkoE0bP6r64Jmk0VLtsDBeE5YK0.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E37
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoHzE3p0gEIdzjGc5JusRQW8qFB.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E38
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvNRP7RmFfEti7bSQSo9Bw8pJve.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E39
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oUwaLXmaBh1X6GZvhqmyrnlmNQ.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E40
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNMXqWrowRStG9kCtLI3bRn2kM.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E41
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MVbFId8tdggZOnIb2PvfiflXNR.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E42
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqXfYqZGK9pg4hASgNnzM7dRZHG.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E43
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaWl33c084BoZNwrVt2B5JdhWW1.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E44
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7XOlFEF2yoIliZrMFJIl5GeTlV.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E45
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG82lcQJ99GqrOKNtoGBBfyIf5p.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E46
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuNZd8IfogokKlTFr2WTEjuEOkn.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E47
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4XxXh5uazDlIHQQ9lcwf0Cot9t.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E48
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qbPzdWCFl04Re9cfebq2S6kUmo.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E49
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeRHxefNxX02pK4hBeajsODk3J2.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E50
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox0JdlQmH9muMQHhC5xUC4Rt0si.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E51
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFUoVrDHYC2H6mVrF4KxBiRYPaU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E52
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7v7nPMsOwhdp6cc0QZROCkQFHVY.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E53
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZTgdJFMKhxKQ1NQGpx1AA3ZACu.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E54
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CP2ARnupiTuqa8UlecNH0B0cf.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E55
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGYR2RAl5bMqEJYRXSe8NKFdHeR.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E56
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYisST1uVQjvZcNDHEfMof0eE7B.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E57
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2yM7pvctkH46pzJP83xgL0CqTV.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E58
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl62eASG5AWCfUTgOGgOy3llHeU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E59
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz4rU5t1i6W4Bfwaep0JAE0Ozke.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E60
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g24nYThpyHmjSCMq56b3DK20Em.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E61
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heRFXNzaTItyFCgiHZAlbg6YwFv.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E62
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJspohZ2qXW2s2boCXgh7mwfDzf.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E63
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjGFwUD6SslWOvIww8StXeKptI0.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E64
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS: Nick jr SD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98VWTzxV65MKYdRIDyanD_vcaQpQLbT87v7Vm-c4WIwG_grD8-uBl7jtD&s=10" group-title="⚡️NIÑOS⚡️",NIÑOS: Nick jr SD*
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167685
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg" group-title="⚡️VOD 2021-2",Fast & Furious 9 (2021)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/175119.mkv
