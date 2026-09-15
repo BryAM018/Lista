@@ -126,8 +126,6 @@ https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 https://stream.haislin.com/14tv/index.m3u8
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="General",Canal del Sol (1080p)
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
-#EXTINF:-1 tvg-id="CanalDTV.do@SD" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="General",Canal DTV (720p)
-https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="CANALMTelevision.pe@SD" tvg-logo="https://i.imgur.com/EcdNFuJ.png" group-title="General",CANAL M Television (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMasTV.pe@SD" tvg-logo="https://i.imgur.com/rdHygJ1.png" group-title="General",Canal Mas TV (720p)
@@ -286,8 +284,6 @@ http://190.93.224.42/EXITOSA/index.m3u8
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="General",Farovisión (720p)
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="FemeninaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" group-title="General",Femenina TV
-https://streamunoapp.com:3511/live/femeninatvlive.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec@SD" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Music",FM Mundo (1080p)
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FOX Sports (1080p)
@@ -468,8 +464,6 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="General",NSTV (1080p)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional 
-http://181.78.8.199:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="General",Nuestra Tele Internacional (720p)
 http://170.238.200.199/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 (576p)
@@ -562,9 +556,6 @@ https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-name="CO | Señal Colombia" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia",Senal Colombia (1080p)
 http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports.uk@SD" tvg-logo="https://scontent.flwo7-1.fna.fbcdn.net/v/t39.30808-6/364716463_853281776306116_3365262792418742642_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=109&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=cdryMbRE2MwQ7kNvwFeyihF&_nc_oc=Adqncj9xKrtg2aNKgZmuX6LGZlSfpAmh_HQEEkBciEg1tXwQqFuMtohNjM8-Z8hU_Ho&_nc_zt=23&_nc_ht=scontent.flwo7-1.fna&_nc_gid=nGCZSHk6GKFYzjwKY-aGWw&_nc_ss=7b289&oh=00_AQFswjCYfEBKcXRO2DpTL1Dz7arAN-82K47gi8qtwljzrw&oe=6A862750" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1 Eurasia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
@@ -710,8 +701,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" http-referrer="https://www.teleyucatan.gob.mx/" group-title="Undefined",Tele Yucatan (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-#EXTINF:-1 tvg-id="TeveEmpresa.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png" group-title="General",Teve Empresa (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevesur.pe@SD" tvg-logo="https://i.imgur.com/LcZ2Hhd.jpeg" group-title="General",Tevesur (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Undefined",Thema Televisión (La Serena) (720p) [Not 24/7]
@@ -867,30 +856,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/252151
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="http://goldfull.pro:8880/images/344d796252938a3e1eccb47751414268.png" group-title="⭐️ CHILE REGIONALES",VClassicTV Tropical
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/257513
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E65" tvg-logo="http://redworld.pro:8880/images/990efbe86a36d216d3932de1d188dc49.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E65
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E66" tvg-logo="http://redworld.pro:8880/images/68570f6927241dd0525fefa095baba78.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E66
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E67" tvg-logo="http://redworld.pro:8880/images/4b6b6c61d373ff32ccaa71aafe6fde87.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E67
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507405.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E68" tvg-logo="http://redworld.pro:8880/images/5bed68b1f4a43b2f59d72c601c38ec6c.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E68
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E69" tvg-logo="http://redworld.pro:8880/images/7a7a797322576752da151e82f3f4b9e2.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E69
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E70" tvg-logo="http://redworld.pro:8880/images/9821e44e51e11eae793851cb4972e64d.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E70
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E71" tvg-logo="http://redworld.pro:8880/images/cfe2ba4f33dd0a9ecf59f4645d116d3e.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E71
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507409.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E72" tvg-logo="http://redworld.pro:8880/images/8ca36272edd75710c25c24a6e67795ea.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E72
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E73" tvg-logo="http://redworld.pro:8880/images/75f563ad220cdeb1c2d870abbd3501ab.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E73
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E74" tvg-logo="http://redworld.pro:8880/images/58477d41401a1744f1a559e4811e3ffa.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E74
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E75" tvg-logo="http://redworld.pro:8880/images/974810a58a7d364f0243975d4c220088.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E75
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espíritu de lucha: Hajime no Ippo S01 E76" tvg-logo="http://redworld.pro:8880/images/37038e2fcef78acd7b91f0f9508b5297.jpg" group-title="⭐️ Series Anime ",Espíritu de lucha: Hajime no Ippo S01 E76
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/507414.mkv
 #EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="PE | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE | D GAMES 2
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/533407
 #EXTINF:-1 tvg-id="" tvg-name="D1RECTV SPORTS 2 SD OP1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="⚡️DEPORTES PERU⚽️⚡️",D1RECTV SPORTS 2 SD OP1
@@ -913,8 +878,6 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/521032
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534786
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZTECA CLIC
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534798
-#EXTINF:-1 tvg-id="" tvg-name="MX | MAS CHIC" tvg-logo="http://redworld.pro:8880/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="⭐️ México",MX | MAS CHIC
-http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534795
 #EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/534796
 #EXTINF:-1 tvg-id="" tvg-name="MX | UMTV | MX" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | UMTV | MX
@@ -1311,8 +1274,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173362.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/194289.mp4
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 4K." tvg-logo="http://127.0.0.1/" group-title="⭐️TV 4K⭐️",HBO 2 4K.
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179984
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CINEMA  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gidrSh4NcDiUuGjlcjXgNT2TOllL0YV8llJdvvLCVFjK3EXeTQjBG7c&s=10" group-title="⚡️CINEMA⚡️",CINE | UNIVERSAL CINEMA  HD
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/1926
 #EXTINF:-1 tvg-id="" tvg-name="Kingsman: Servicio secreto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg" group-title="⭐️VOD PELICULAS 4K",Kingsman: Servicio secreto (2014)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29820.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS",Copia de Paranormal Activity (2009) - [1080p BRrip x264 (AC3) (6.3 Mbps) [spa, eng] [spa]]
@@ -1339,10 +1300,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506562.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwC0kan9E1iDJQ0hOTSk7nb2y3.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E06
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hldLKUwheZjVSqaXifK28DEiBk6.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E33
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiTUaXaHvi0SlCgxAD69fD6Ywiv.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E34
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284558.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vNXW9GrNzdCXDW2lyB4mRyVsM3.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E35
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eQvTGavkCLnylGWvtHbgzlLMGd.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E36
@@ -1403,11 +1360,11 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284586.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284587.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjGFwUD6SslWOvIww8StXeKptI0.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E64
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg" group-title="⚡️VOD 2021-2",Fast & Furious 9 (2021)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/175119.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS FHD" tvg-logo="http://sinlimitestv.com:8080/images/9f27721c5adba678bb39a3f4e0f3821c.png" group-title="⚡️ARGENTINA⚡️",ARG: TNT SPORTS FHD
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167963
 #EXTINF:-1 tvg-id="" tvg-name="WARNER HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",WARNER HD MX
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167086
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Apocalipsis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="⭐️VOD DC⭐️",X-Men: Apocalipsis (2016)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (1974)" tvg-logo="http://redworld.pro:8880/images/5d7a58ed796ceee627f1f999eda71489.jpg" group-title="⭐️Terror",La masacre de Texas (1974)
+http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553072.mkv
