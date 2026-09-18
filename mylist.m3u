@@ -275,6 +275,8 @@ http://72.1.184.5:8089/play/a05i/index.m3u8
 http://181.119.66.28:8081/FX-HD/index.m3u8
 #EXTINF:-1 tvg-id="GalaxiATeVe.do@SD" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Entertainment",Galaxia TV (360p)
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@East",Galavision (720p)
+http://200.115.120.1:8000/play/ca128/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GFN Football (1080p)
@@ -316,6 +318,12 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-name="LIGA 1 MAX " tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD",Max Sport 1 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD",Max Sport 2 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD",Max Sport 3 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="General",La Descarga TV 
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="General",Laguna TV (1080p)
@@ -492,6 +500,9 @@ http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2 Eurasia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports.uk@HD",Setanta Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 #EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx@SD" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Undefined",Sistema Michoacano de TV (1080p) [Not 24/7]
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="SiTV.do@SD",SiTV (1080p) [Not 24/7]
@@ -610,8 +621,6 @@ https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-name="PR | TeleOnce" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Puerto Rico",TeleOnce (1080p)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Telerayo.hn@SD" tvg-logo="https://i.imgur.com/jLQsU1u.png" group-title="Entertainment",Telerayo (1080p)
-https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-logo="https://i.imgur.com/vTfxkjW.png" http-referrer="https://teleuniontvrd.com/portal/" group-title="REP. DOMINICANA",Teleunion (1080p)
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
@@ -669,7 +678,7 @@ http://190.93.224.42/VIVA-TV/index.m3u8
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 #EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="General",TV Plata (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlus.cl@SD" tvg-name="CL | TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png" group-title="General",TV+ (1080p)
+#EXTINF:-1 tvg-id="TVPlus.cl@SD" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="CHILE",TV+ (1080p)
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-name="ARG | TV Publica" tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="Argentina",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
@@ -750,6 +759,8 @@ http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/252151
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/257513
 #EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="PE | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE | D GAMES 2
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/533407
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | D GAMES 1" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 1
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/167731
 #EXTINF:-1 tvg-id="" tvg-name="D1RECTV SPORTS 2 SD OP1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="⚡️DEPORTES PERU⚽️⚡️",D1RECTV SPORTS 2 SD OP1
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/469909
 #EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Tevex
@@ -784,8 +795,6 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/497860
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/193002
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://dplatino.net:8080/images/2b08df484abe36bfddad540d3894a8c6.png" group-title="⭐️ZONA ESPN HD PREMIUM⭐️",ESPN 2 SD
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/444961
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Comedia 9" tvg-logo="https://www.totalmobile.co.uk/wp-content/uploads/2022/04/24_7_shift_working.jpg" group-title="♾️24/7 COMEDIA♾️",24/7 Comedia 9
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/445476
 #EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL" tvg-logo="https://yt3.googleusercontent.com/kh3xm4JazH84b_tHzXjisduJHaHB1u17xPIj0xjYaLoeLPiLZRcYbXcp4-oXg4vzaAwtffae=s900-c-k-c0x00ffffff-no-rj" group-title="/TV BOLIVIA/",FUTBOL CANAL
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/541384
 #EXTINF:-1 tvg-id="" tvg-name="Chucky" tvg-logo="http://127.0.0.1/" group-title="♾️24/7 PLUS♾️",Chucky
@@ -1178,12 +1187,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506562.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwC0kan9E1iDJQ0hOTSk7nb2y3.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E06
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oUwaLXmaBh1X6GZvhqmyrnlmNQ.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E40
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNMXqWrowRStG9kCtLI3bRn2kM.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E41
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MVbFId8tdggZOnIb2PvfiflXNR.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E42
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqXfYqZGK9pg4hASgNnzM7dRZHG.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E43
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284567.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaWl33c084BoZNwrVt2B5JdhWW1.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E44
@@ -1232,9 +1235,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284588.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/173367.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La masacre de Texas (1974)" tvg-logo="http://redworld.pro:8880/images/5d7a58ed796ceee627f1f999eda71489.jpg" group-title="⭐️Terror",La masacre de Texas (1974)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553072.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Depredador (2004)" tvg-logo="http://redworld.pro:8880/images/622e6b6c93c9d204bac5c6c9d2fce04c.jpg" group-title="⭐️Variadas",Alien vs. Depredador (2004)
-http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/560239.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terminator \ (1984)" tvg-logo="http://redworld.pro:8880/images/2f85ef5559f8f4a6ec3d9d80d2dad435.jpg" group-title="⭐️Acción",Terminator \ (1984)
 http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/546252.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El planeta de los simios (1968)" tvg-logo="http://redworld.pro:8880/images/568ac6773ff03f9f8c20bdde4fd9dfc8.jpg" group-title="⭐️Variadas",El planeta de los simios (1968)
