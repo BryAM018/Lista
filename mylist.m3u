@@ -27,8 +27,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 tvg-id="B15Zacatecas.mx@SD" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General",B15 Zacatecas (1080p)
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
@@ -446,7 +444,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="DEPORTES",Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="MX Teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula (720p)
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="MX Teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="México",TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-name="PY | TELEFUTURO HD" tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="Paraguay",Telefuturo (1080p)
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
@@ -573,8 +571,6 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/252455
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167086
 #EXTINF:-1 tvg-id="" tvg-name="LAT | TNT SPORTS  FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="⭐️DEPORTES LATINOS 2⭐️",LAT | TNT SPORTS  FHD.
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/178971
-#EXTINF:-1 tvg-id="" tvg-name="HN | CANAL 11 SD" tvg-logo="http://sinlimitestv.com:8080/images/b3720c81d7b0a9f6ab1734b6e3c84228.png" group-title="⚡️HONDURAS ⚡️",HN | CANAL 11 SD
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/168425
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun- El origen \ (2014)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun- El origen \ (2014)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553097.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 \ (1994)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 2 \ (1994)
@@ -870,9 +866,7 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506562.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KM4UxBfngRCnmVUSabqErY1nU6.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E05
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwC0kan9E1iDJQ0hOTSk7nb2y3.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qbPzdWCFl04Re9cfebq2S6kUmo.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E49
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284573.mkv
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506564.mkv  
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeRHxefNxX02pK4hBeajsODk3J2.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E50
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284574.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox0JdlQmH9muMQHhC5xUC4Rt0si.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E51
@@ -993,8 +987,11 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/289732.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/26478.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THEBATMAN2022HD.1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="⚡️VOD 2022-1",THEBATMAN2022HD.1080p
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/30187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater HD
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/318609
+#EXTINF:-1 tvg-id="" tvg-name="*UNIVERSAL CHANNEL  HD.*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",*UNIVERSAL CHANNEL  HD.*
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167081
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",UNIVERSAL TV HD
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167082
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* HD
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/414468
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  FHD
@@ -1003,13 +1000,29 @@ http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/414473
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/463894
 #EXTINF:-1 tvg-id="" tvg-name="Terminator \ (1984)" tvg-logo="http://redworld.pro:8880/images/2f85ef5559f8f4a6ec3d9d80d2dad435.jpg" group-title="⭐️Acción",Terminator \ (1984)
 http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/546252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital" tvg-logo="http://redworld.pro:8880/images/7da05d11d78e8951326c0b1d72928161.png" group-title="⭐️ Colombia",CO | Canal Capital
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/318370
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Viernes 13" tvg-logo="http://redworld.pro:8880/images/f700958d053e91bcf2da49672ea182c7.png" group-title="✅ 24/7 VIP",24/7 Viernes 13
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/526400
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs (1993)" tvg-logo="http://redworld.pro:8880/images/96fa0de2825addd1d6531ea188fcc629.jpg" group-title="✅ 24/7 VIP",24/7 Animaniacs (1993)
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/526531
-#EXTINF:-1 tvg-id="" tvg-name="*UNIVERSAL CHANNEL  HD.*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",*UNIVERSAL CHANNEL  HD.*
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167081
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",UNIVERSAL TV HD
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167082
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ CINEMA" tvg-logo="http://redworld.pro:8880/images/bd65143c223736937a94fd8c5aecb24b.png" group-title="⭐️ México",MX | AZ CINEMA
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534786
+#EXTINF:-1 tvg-id="" tvg-name="MX | HOLA TV" tvg-logo="http://redworld.pro:8880/images/8c719c19c406ff800c60130a594a21ec.png" group-title="⭐️ México",MX | HOLA TV
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534790
+#EXTINF:-1 tvg-id="" tvg-name="MX | MAS CHIC" tvg-logo="http://redworld.pro:8880/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="⭐️ México",MX | MAS CHIC
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534795
+#EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534796
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZTECA CLIC
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534798
+#EXTINF:-1 tvg-id="" tvg-name="968 | Maxivisión || GUATEMALA" tvg-logo="http://redworld.pro:8880/images/33aa1f324e4f43526391eb204205f27d.png" group-title="⭐️ Guatemala",968 | Maxivisión || GUATEMALA
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/533360
+#EXTINF:-1 tvg-id="" tvg-name="MX | UNICABLE OP2" tvg-logo="http://redworld.pro:8880/images/81a8a63f9cfd3c8dbd9aa33b4949e5e0.png" group-title="⭐️ México",MX | UNICABLE OP2
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534783
+#EXTINF:-1 tvg-id="" tvg-name="MX | 01 • AZTECA UNO" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | 01 • AZTECA UNO
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534768
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 5+ OP2" tvg-logo="http://redworld.pro:8880/images/7c5f138da031d6efef359be7ce395d48.png" group-title="⭐️ México",MX | CANAL 5+ OP2
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534770
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP2" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP2
+http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534772
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="4 K",Shang-Chi y la leyenda de los Diez Anillos (2021)
+http://planettvweb.com:8091/movie/matiasc/matiasc24/133639.mkv
