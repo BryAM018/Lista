@@ -262,8 +262,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us@East" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="LATINO",NBC Universo (720p)
-http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="LATINO",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NexxoTV.do@SD",Nexxo TV
@@ -544,18 +542,6 @@ http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487447.mp4
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E05" tvg-logo="http://redworld.pro:8880/images/47b6dbdb15ccccab7e24498d4c397c60.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E05
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E06" tvg-logo="http://redworld.pro:8880/images/3b756b2d57576560c8fb025220654a3f.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E06
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E07" tvg-logo="http://redworld.pro:8880/images/cca7114e24f552e94d76839720efa3af.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E07
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E08" tvg-logo="http://redworld.pro:8880/images/3b62bdb1e5814c7819a2ebec191b3c78.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E08
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E09" tvg-logo="http://redworld.pro:8880/images/91556ae893e8f9470a661140b13462bc.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E09
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S02 E10" tvg-logo="http://redworld.pro:8880/images/91556ae893e8f9470a661140b13462bc.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S02 E10
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth S03 E01" tvg-logo="http://redworld.pro:8880/images/869a71143717e6a410081516bb6c4af6.jpg" group-title="⭐️ Series Netflix ",Sweet Tooth S03 E01
-http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487455.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E01" tvg-logo="http://redworld.pro:8880/images/1241da53100a114c1e8476f4c129a471.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E01
 http://redworld.pro:8880/series/BastianMillanBarber/NCbgFgBvztx8/487888.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S02 E02" tvg-logo="http://redworld.pro:8880/images/c4302abd6b87ffb8e41a3b6ffa4f0a8e.jpg" group-title="⭐️ Series Netflix ",The Witcher S02 E02
@@ -806,12 +792,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506562.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwC0kan9E1iDJQ0hOTSk7nb2y3.jpg" group-title="⭐️VOD SERIES NETFLIX",Sandman S02 E06
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/506564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox0JdlQmH9muMQHhC5xUC4Rt0si.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E51
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFUoVrDHYC2H6mVrF4KxBiRYPaU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E52
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7v7nPMsOwhdp6cc0QZROCkQFHVY.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E53
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284577.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZTgdJFMKhxKQ1NQGpx1AA3ZACu.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E54
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284578.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CP2ARnupiTuqa8UlecNH0B0cf.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E55
@@ -935,8 +915,6 @@ http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534786
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534790
 #EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534796
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZTECA CLIC
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534798
 #EXTINF:-1 tvg-id="" tvg-name="968 | Maxivisión || GUATEMALA" tvg-logo="http://redworld.pro:8880/images/33aa1f324e4f43526391eb204205f27d.png" group-title="⭐️ Guatemala",968 | Maxivisión || GUATEMALA
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/533360
 #EXTINF:-1 tvg-id="" tvg-name="MX | 01 • AZTECA UNO" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | 01 • AZTECA UNO
@@ -959,8 +937,6 @@ http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534774
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534832
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",AZTECA INTERNACIONAL
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534843
-#EXTINF:-1 tvg-id="lch2202" tvg-name="PE| AMERICA TV HD OP1" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="⭐️ PERU",PE| AMERICA TV HD OP1
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/428948
 #EXTINF:-1 tvg-id="" tvg-name="La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) 
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177736.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" La guerra de las galaxias. Episodio V - El imperio contraataca (1980) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio V - El imperio contraataca (1980) - [1080p BDrip x264 60 fps (AC3) (8.6 Mbps) [spa, eng] [spa]]
@@ -969,3 +945,96 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177737.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177738.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yyw20gloVgbzR9a5B15GqPdqux.jpg" group-title="⭐️SAGAS",Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/265406.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMIIv0YPrbCgkQmAUqZNm0HbZw3.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0it1ftVsJHP4N34A865Z0E95fS.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g33Nuxw0lRjmZHDk1wUgf2lZbcg.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9J040mDC2Lrajpq2MpQyygib3mi.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p139g0jE50eVNTUHhUT5vfTRbzc.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah47UB5pd1hrXZ60Ss1sOCbeJhV.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvnsHCID7u6XoVUmcs7y7VBhG0f.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iezyUQB2Jj8dmh9UHtpGhgYS4KZ.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aJv1mMzbS6X8SQVSt87V1sHBfJ.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swRYWxAQ28AmEfRknVYkBdH6Pxh.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8souJBKq7vuvDTzF8vGvFIwGmR.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aT50LbOaDxvIAyYRrSCYxNPjGRO.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiNljjTojvkVHPxzRmckVghPtYV.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E13
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6pEyx19LYlFzbEKMW4CUbTZg4o.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E14
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jF81w2GmsVSZVmdsCdOoiJ9W1SZ.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E15
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaIqwCqpieWkJ50umvjmdzPQtoK.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E16
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDkfB7efCtKR7UyVXWT7s0D5mgN.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E17
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5KxiryvthzdcOXGBzlTJBQlKR.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E18
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6D0LkYV4gelIlD8Vf5HLrI4xGu.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E19
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0xbCwhTVgqsWCW4YYV5uCUds8s.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E20
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU0RA7SydfrWHpEQCSDWhkRPoo.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E21
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dF6XNOLwJboSD7eOuCVjUGrvL8A.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E22
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvYlNmY2HW1ZoXxJeMTvJe3PsTP.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E23
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3L7f8vZAkl22zsHLocmoQ0ySWP.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E24
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68XYsY3R9TmX5akxq1IllBVgf66.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E25
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BGv3xyxxk53F4sH2PVmOuyLjdf.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E26
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ6phdn6Z7H8aKJiEHQVlOgJjxM.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk3HtXE0DlC2Q0ncT4FJzkkjXUq.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNzWlmIwlueLt6MM8KI21RFG9In.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acXCzmE26QmdmgOmtFKu1zvzIPL.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRn5twnNu8dxrqAHwDClNlUZAVm.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqFHrcXDdMKMrRda6wkoF9KEe39.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXIktKdAoA94mRBFakTUQL6LSpb.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNm9ZAa6kh2NXDSDriaV6A5MKDa.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1QHyQqqKXLnYECbQaQbPXp6jgJ.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybjSbpjTDXGQWWgBvOhpvItOWxG.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmhfECV6k9dhzxsPuA1rQgrs231.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6d9w02OgkY0xC87ZtyVVvxkCRAB.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AN1zXMCmu51UTKE9CYNM31vIHK.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E13
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aflspgrCmmLJfxOElyxAp89zjy9.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E14
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOlwVx9DrPxuqA9pSjm3uOx91WK.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E15
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAUAqJrQ4SshjEeRMZrsN9c1Izq.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E16
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLEiBHzhasXFwe7dW9BDiMqyND1.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E17
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L8QqSXUFqRN8Jta9Wk98CuEIRE.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E18
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPWoIH8n3XTTktQe5HxNNLXeTDt.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E19
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myQxeSgcma4rrfxK4WVg95VCZuI.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E20
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458281.mkv
