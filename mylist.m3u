@@ -57,6 +57,8 @@ https://stream.canaldelsol.com/sol26/live_1080.m3u8
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="Canalda26HD.do@HD" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="General",Canalda 26 HD [Not 24/7]
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV (1080p)
+http://190.61.47.54:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo@SD" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="General;Lifestyle;Music;News",CEACOM TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="General",Central TV (720p)
@@ -79,6 +81,10 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional
 https://xyktmobile00.s.gy/PPV906_CLAN_INTE
+#EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional (1080p)
+http://168.228.44.241:9999/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.gt@SD",Canal 11 (1080p)
+http://168.228.44.241:9999/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-name="RD = CANAL 19 Canal19" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="República Dominicana",Cinevision Canal 19 (1080p) 
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
@@ -105,6 +111,8 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 http://15.204.246.24:8080/DHEHD/index.m3u8
 #EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" http-referrer="https://telemicro.com.do/players/15tv/index_pc.php" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0" group-title="General",Digital 15 (1080p)
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/15tv/index_pc.php
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD",Digi Sport 2 HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-name="KIDS | DISNEY CHANNEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Channel Latin America Center (1080p)
@@ -190,8 +198,6 @@ https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="ImpactChannel.cr@SD",Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="ImperialTelevision.pe@SD" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="PERU",Imperial Television (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="General",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Culture;Education",Jalisco TV (720p)
@@ -236,10 +242,10 @@ http://15.204.246.24:8080/MEGAHD/index.m3u8
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe@SD" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="General",Mega TV Jaen (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv@SD",Canal 4 (1080p)
+http://168.228.44.241:9999/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-name="EL SALVADOR| MEGAVISION CANAL 21" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="MegaVisionTV.do@SD" tvg-name="DO: Megavision" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="REP. DOMINICANA",Megavisión TV (480p)
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Entertainment",Metro TV (720p)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mi Raza Canal (1080p)
@@ -286,8 +292,6 @@ http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="LATINO",Pasiones Latin A
 http://45.224.97.181:9999/Pasiones/index.m3u8
-#EXTINF:-1 tvg-id="PlaneaTV.pe@SD" tvg-logo="https://i.imgur.com/EoLhvBN.png" group-title="Undefined",Planea TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 tvg-id="PronemsTV.do@SD",Pronems TV (1080p) [Not 24/7]
@@ -314,8 +318,6 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="BOL : RTP " tvg-logo="http://dplatino.net:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="Bolivia",RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTVNuble.cl@SD" tvg-logo="https://i.imgur.com/BDKgDZG.png" group-title="Undefined",RTV Nuble
-https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ruta66TV.do@SD",Ruta 66 TV (1080p) [Not 24/7]
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1.ru@HD",Setanta Sports 1 HD
@@ -340,8 +342,6 @@ https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/sport1_hun/index.m3u8
-#EXTINF:-1 tvg-id="Sport1.ua@SD",Sport 1 (576p)
-http://str2.iptvhd.ru:8080/sport1/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
@@ -372,8 +372,6 @@ https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 http://45.167.2.101:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="SVPlus.sv@SD",SV+ (720p)
 http://186.33.26.18:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-id="TVinet.cl@SD" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="Undefined",T-Vinet (480p)
-https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC TELEVISION " tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Television (1080p)
@@ -772,7 +770,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Vidas pasadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Vidas pasadas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl62eASG5AWCfUTgOGgOy3llHeU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E59
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaman King S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz4rU5t1i6W4Bfwaep0JAE0Ozke.jpg" group-title="⚡️SERIES DE ANIMES♾️",Shaman King S01 E60
@@ -798,26 +795,10 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/30187.mkv
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",UNIVERSAL  HD*
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167092
 
-#EXTINF:-1 tvg-id="" tvg-name="Terminator \ (1984)" tvg-logo="http://redworld.pro:8880/images/2f85ef5559f8f4a6ec3d9d80d2dad435.jpg" group-title="⭐️Acción",Terminator \ (1984)
-http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/546252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZ CINEMA" tvg-logo="http://redworld.pro:8880/images/bd65143c223736937a94fd8c5aecb24b.png" group-title="⭐️ México",MX | AZ CINEMA
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534786
-#EXTINF:-1 tvg-id="" tvg-name="MX | HOLA TV" tvg-logo="http://redworld.pro:8880/images/8c719c19c406ff800c60130a594a21ec.png" group-title="⭐️ México",MX | HOLA TV
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534790
 #EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534796
-#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 5+ OP2" tvg-logo="http://redworld.pro:8880/images/7c5f138da031d6efef359be7ce395d48.png" group-title="⭐️ México",MX | CANAL 5+ OP2
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534770
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP2" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP2
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534772
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  HD
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/414474
-#EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TELEVISION OP1" tvg-logo="http://redworld.pro:8880/images/3af751f9a6edfd18d62b3c62d537dd59.png" group-title="⭐️ México",MX | IMAGEN TELEVISION OP1
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534774
-#EXTINF:-1 tvg-id="" tvg-name="TVP MAZATLAN" tvg-logo="http://redworld.pro:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="⭐️ México",TVP MAZATLAN
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534832
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",AZTECA INTERNACIONAL
-http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/534843
 #EXTINF:-1 tvg-id="" tvg-name="La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) 
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177736.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" La guerra de las galaxias. Episodio V - El imperio contraataca (1980) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio V - El imperio contraataca (1980) - [1080p BDrip x264 60 fps (AC3) (8.6 Mbps) [spa, eng] [spa]]
@@ -826,7 +807,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177737.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177738.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yyw20gloVgbzR9a5B15GqPdqux.jpg" group-title="⭐️SAGAS",Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/265406.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMIIv0YPrbCgkQmAUqZNm0HbZw3.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458236.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0it1ftVsJHP4N34A865Z0E95fS.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E02
@@ -919,8 +899,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458279.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458280.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myQxeSgcma4rrfxK4WVg95VCZuI.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E20
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E06" tvg-logo="http://redworld.pro:8880/images/961964d302564a0e7fc0c92c219dcfa0.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E06
-http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/486953.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E07" tvg-logo="http://redworld.pro:8880/images/97fe3214ea1fcf41bd428896e95f7321.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E07
 http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/486954.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E08" tvg-logo="http://redworld.pro:8880/images/4c94e6e7ee25eeec5e4744d772242770.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E08
@@ -933,3 +911,94 @@ http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/486957.mp4
 http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/486958.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman S02 E12" tvg-logo="http://redworld.pro:8880/images/8edf2a6e241a17170ed19500635d6084.jpg" group-title="⭐️ Series Netflix ",Sandman S02 E12
 http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/486959.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E01" tvg-logo="http://redworld.pro:8880/images/eccb603215ac378b9bcae5d2a26319e6.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E01
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E02" tvg-logo="http://redworld.pro:8880/images/7cfa9166c1b39e7c8850c20a31b4b1da.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E02
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E03" tvg-logo="http://redworld.pro:8880/images/33734cb27e9e162e2aeed3ae6d45379d.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E03
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E04" tvg-logo="http://redworld.pro:8880/images/62248a624a7a5d46dbe9c2ac2809c122.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E04
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E05" tvg-logo="http://redworld.pro:8880/images/bc71b9d896e5f2842e1ba64cc5d7b0ac.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E05
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E06" tvg-logo="http://redworld.pro:8880/images/8874ee6a147114589c6e8fd680a9ca97.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E06
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E07" tvg-logo="http://redworld.pro:8880/images/e8e8253fc81d4e65a535a5d47bc5607e.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E07
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E08" tvg-logo="http://redworld.pro:8880/images/37cccb11a0f6af00f8c2829da4c78715.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E08
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E09" tvg-logo="http://redworld.pro:8880/images/4118844b61d26388b115809105827152.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E09
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S02 E10" tvg-logo="http://redworld.pro:8880/images/a5982d127d25a7db9c79639d233f4601.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S02 E10
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E01" tvg-logo="http://redworld.pro:8880/images/29aa9177c8e9822d8027ce669c7913e7.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E01
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E02" tvg-logo="http://redworld.pro:8880/images/1bc1d2641c52a483bb3c0839f549b414.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E02
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E03" tvg-logo="http://redworld.pro:8880/images/03ea37488bb56f8d3e4e38db91ebc9bc.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E03
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E04" tvg-logo="http://redworld.pro:8880/images/d5dc5034d345c692ef45e6f345f2b694.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E04
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E05" tvg-logo="http://redworld.pro:8880/images/0a6a2dad7e0dd1d4ee8ff54ec852d4d1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E05
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E06" tvg-logo="http://redworld.pro:8880/images/59e7dcdcdbf1b0fcaf8d1a455c92fccb.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E06
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E07" tvg-logo="http://redworld.pro:8880/images/1f68e76d2b23a8225a2c2402328c87a9.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E07
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E08" tvg-logo="http://redworld.pro:8880/images/27bec97ccaff09c9347f3a7a35303dd8.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E08
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E09" tvg-logo="http://redworld.pro:8880/images/f159f41ff8d6ca1e8688dd329798fd9d.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E09
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S03 E10" tvg-logo="http://redworld.pro:8880/images/7ffc0a77c4510ea839a9f536ecaacadd.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S03 E10
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E01" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E01
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E02" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E02
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E03" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E03
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E04" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E04
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E05" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E05
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E06" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E06
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E07" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E07
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E08" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E08
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E09" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E09
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S04 E10" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S04 E10
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E01" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E01
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/533854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E02" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E02
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E03" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E03
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E04" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E04
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/533855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E05" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E05
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E06" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E06
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/533856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E07" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E07
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E08" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E08
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E09" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E09
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E10" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E10
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E11" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E11
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E12" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E12
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S05 E13" tvg-logo="http://redworld.pro:8880/images/3c2c85e2b955e430a39e9ca9b7bd23b1.jpg" group-title="⭐️ Series Netflix ",(Des)encanto S05 E13
+http://superxlatino.com:8880/series/yosoy1818/Tn4TbmANNf8H/476362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Tv - Misiones" tvg-logo="" group-title="⭐️ Argentina Regionales",Canal 21 Tv - Misiones
+http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/361273
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL 4K." tvg-logo="http://127.0.0.1/" group-title="⭐️TV 4K⭐️",UNIVERSAL CHANNEL 4K.
+http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179957
