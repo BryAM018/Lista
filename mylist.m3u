@@ -479,6 +479,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 http://170.79.235.133:8002/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Tevex
 http://redworld.pro:8880/BastianMillanBarber/NCbgFgBvztx8/379653
 #EXTINF:-1 tvg-id="" tvg-name="Galáctika media" tvg-logo="" group-title="⭐️ CHILE REGIONALES",Galáctika media
@@ -892,10 +893,6 @@ http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/547736
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/414486
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 \ (1994)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 2 \ (1994)
 http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/553099.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Depredador 2 (2007)" tvg-logo="http://redworld.pro:8880/images/c1f3b9b62b700a723cfdc4a8de431e8e.jpg" group-title="⭐️Variadas",Alien vs. Depredador 2 (2007)
-http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/560435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Depredadores (2010)" tvg-logo="http://redworld.pro:8880/images/9f1056c331ce41e4125f3af7268f8954.jpg" group-title="⭐️Variadas",Depredadores (2010)
-http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/560510.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/407036
 #EXTINF:-1 tvg-id="" tvg-name="CH: Chilevision SD" tvg-logo="http://sinlimitestv.com:8080/images/4da8f3ded71af866c8199b61ad10ef07.png" group-title="⚡️CHILE⚡️",CH: Chilevision SD
@@ -922,3 +919,26 @@ http://superxlatino.com:8880/series/gonzalo8829291@/YjzfesrxAG6V/476332.mp4
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/167774
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + (CHI)
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/120548
+#EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="http://redworld.pro:8880/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="⭐️ Colombia",CO | Señal Colombia HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/318388
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414465
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414468
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414471
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  FHD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414473
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT SERIES  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT SERIES  FHD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414476
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414486
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  FHD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414506
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="⭐️ CINE PREMIUM",P | Universal Comedy
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414519
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Este" tvg-logo="http://goldfull.pro:8880/images/5f9bdadd92cc63bf5567b22706b25391.png" group-title="⭐️ CINE PREMIUM",P | Universal Crime Este
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414520
+#EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/521032
+
