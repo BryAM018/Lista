@@ -5,9 +5,9 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="General",Ahora TV (1080p)
+#EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="República Dominicana",Ahora TV (1080p)
 https://stream.haislin.com/ahoratv/index.m3u8
-#EXTINF:-1 xc_vm-id="1104659" tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="CINE",AMC Latin A
+#EXTINF:-1 xc_vm-id="1104659" tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="LATINO",AMC Latin
 http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTeVe.pr@SD" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Entertainment;General",América TeVé (1080p)
 https://live.gideo.video/americateve2/master.m3u8
@@ -17,9 +17,9 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 http://15.204.246.24:8080/AXNHD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="DEPORTES",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="BEIN SPORT EXTRA Ñ HD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN SPORTS XTRA en Espanol
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="BEIN SPORT EXTRA Ñ HD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DEPORTES",beIN SPORTS XTRA en Espanol
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do@SD" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="República Dominicana",Bellavision (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
@@ -49,6 +49,8 @@ https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 http://190.61.47.54:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV (1080p)
 http://181.205.130.194:4000/play/a0dz
+#EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV (1080p)
+http://167.249.23.102:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN SD" tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="Colombia",Canal RCN (1080p)
 http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="CHILE",Central TV (720p)
@@ -59,8 +61,6 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="",Cine Estrella (1080p)
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
-#EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional
-https://xyktmobile00.s.gy/PPV906_CLAN_INTE
 #EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-name="RD = CANAL 19 Canal19" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="República Dominicana",Cinevision Canal 19 (1080p) 
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
@@ -111,7 +111,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-name="ECUADOR | ECUAVISA" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa (1080p)
+#EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-name="ECUADOR | ECUAVISA" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR",Ecuavisa (1080p)
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
 #EXTINF:-1 tvg-id="ELDEBER.bo@SD" tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" group-title="General",EL DEBER (1080p)
 https://master.tucableip.com/eldebertv/index.m3u8
@@ -139,7 +139,9 @@ http://38.252.238.18:8000/play/a01d/index.m3u8
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec@SD" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Music",FM Mundo (1080p)
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FOX Sports (1080p)
+#EXTINF:-1 tvg-id="MusicTop.ar@SD",MusicTop (1080p)
+http://190.128.214.97:64333/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="FRANCE 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
@@ -176,6 +178,8 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="General",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
+#EXTINF:-1 tvg-id="Educanal.py@SD",Educanal (1080p)
+http://190.128.214.97:64333/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Culture;Education",Jalisco TV (720p)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports",KTV Sport (1080p)
@@ -186,6 +190,8 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-name="PE| LA TELE" tvg-logo="http://redworld.pro:8880/images/9c1fc4eb92c338e3f1509cce5eb41386.png" group-title="PERU",La Tele
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
+http://190.128.214.97:64333/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina " tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-name="PE| Latina " tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="PERU",Latina Clasicos (1080p)
@@ -210,6 +216,8 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 http://15.204.246.24:8080/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MeganoticiasAhora.cl@SD",Meganoticias Ahora (1080p)
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-name="EL SALVADOR| MEGAVISION CANAL 21" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Entertainment",Metro TV (720p)
@@ -218,10 +226,16 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791ea506492f5bf73b63/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mi Raza Canal Plus (1080p)
 https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
+#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (1080p)
+http://190.128.214.97:64333/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV (1080p)
+http://190.128.214.97:64333/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mundo Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="General",Musavision (1080p)
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (1080p)
+http://190.128.214.97:64333/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
 http://45.173.231.22:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
@@ -272,6 +286,8 @@ http://190.61.47.54:8000/play/a01f/index.m3u8
 http://181.78.17.228:8081/RCN-HD/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN MÁS+" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="http://goldfull.pro:8880/images/9eab3d01ae2477e250ff4dd968b47923.jpg" group-title="COLOMBIA",RCN Mas (1080p)
+http://190.128.214.97:64333/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="COLOMBIA",RCN Novelas 
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (1080p)
@@ -282,7 +298,7 @@ http://181.78.14.26:4000/play/a07m/index.m3u8
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" tvg-name="BOL : RED UNO SANTA CRUZ" tvg-logo="https://i.imgur.com/pqVzZQ9.png" group-title="Bolivia",Red Uno Santa Cruz (1080p)
 http://190.181.18.82:4111/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Entertainment;General;News",Red+ (1080p)
+#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="COLOMBIA",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-name="Retro Plus TV" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="General",RETRO PLUS 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
@@ -311,6 +327,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (1080p)
 http://38.252.238.18:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD",Sony Sports Ten 1 HD (1080p)
+http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spark TV Luz & Amor (1080p)
 https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 1
@@ -388,20 +406,20 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TELEMUNDO MEXICO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="Undefined",Telemundo Romance (1080p)
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="WKAQTV21.pr@HD" tvg-name="PR | TELEMUNDO" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="General",WKAQ-DT1 (Telemundo PR) (1080p)
+#EXTINF:-1 tvg-id="WKAQTV21.pr@HD" tvg-name="PR | TELEMUNDO" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Puerto Rico",WKAQ-DT1 (Telemundo PR) (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General",Telenord 8 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="REP. DOMINICANA",Telenord 8 (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-name="PR | TeleOnce" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Puerto Rico",TeleOnce (1080p)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-logo="https://i.imgur.com/vTfxkjW.png" http-referrer="https://teleuniontvrd.com/portal/" group-title="REP. DOMINICANA",Teleunion (1080p)
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Undefined",Thema Televisión (La Serena) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE",Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
 http://132.255.210.69:8000/play/a06e
-#EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="General",Tora Canal 69
+#EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="REP. DOMINICANA",Tora Canal 69
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -419,7 +437,7 @@ https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 http://15.204.246.24:8080/TVNHD/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="PERU",TV Peru
 https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="General",TV Plata (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="REP. DOMINICANA",TV Plata (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-name="ARG | TV Publica" tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="Argentina",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
@@ -450,7 +468,7 @@ http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-name="Venevision Internacional " tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-id="VePlus.ve@Venezuela",Ve Plus (720p)
+#EXTINF:-1 tvg-id="VePlus.ve@Venezuela" tvg-name="Ve Plus" tvg-logo="http://super-plus.vip:80/images/edcyjLVXbWGVuZHTJz4So24T2SRFW5qiilR7y77ysVaTahNWHMURZkEKz7SlfBPb.png" group-title="Venezuela",Ve Plus (720p)
 http://186.148.196.100:8000/play/a01d
 #EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
@@ -467,6 +485,28 @@ https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 http://190.217.66.92:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD",Canal+ Sport SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD",Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD",Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD",Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD",Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD",Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD",Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD",Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Futbol.tj@SD",Futbol (1080p)
+http://185.121.1.163:8083/FootballHD/index.m3u8
+#EXTINF:-1 tvg-id="VoyoSport1.ro@HD",Voyo Sport 1 (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Teletica7.cr@SD",Teletica 7 (720p) [Not 24/7]
+http://181.119.177.253:8000/play/a0da
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun 3 \ (1995)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 3 \ (1995)
 http://redworld.pro:8880/movie/BastianMillanBarber/NCbgFgBvztx8/553100.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun 4- En el espacio \ (1996)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 4- En el espacio \ (1996)
@@ -569,22 +609,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300730.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300731.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Office S09 E27
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4Hy6lntZDS6sGJGPCjhJ5bcCO.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryHsqyOLD5gZSxoHqKzcOIUTQwV.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzOMmcSbr3YzFe90mK5uFYhb220.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/keNQQ9UQGYBONZmYBpzpcs74Hxd.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4quAfpQ1WvOieWbFwFSv3SLb8Lz.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/498329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/5NMW2Q21EOINDHcFeJvzm1i73xW.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/498330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ydn7SFlgi8fUP6jQcjr1zJGtVMa.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/499779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invencible S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/9z7A56KKqRRn94SHeLi0LlLpcV3.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Invencible S03 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/499780.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urF7o2y7sG6GB53R0krSk9krw0E.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E02
@@ -691,14 +715,10 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38629.mp4
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Protocolo fantasma (2011)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4 El Despertar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="MAS PELICULAS",Inframundo 4 El Despertar 
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/34113.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 5 Guerras de Sangre " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="MAS PELICULAS",Inframundo 5 Guerras de Sangre
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/34114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alita, ángel de combate (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w87I5lmJR59CwyJNrykSkXcoroQ.jpg" group-title="INFANTILES",Alita, ángel de combate (1993)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/83893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider: Spirit of Vengeance (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg" group-title="⭐️VOD MARVEL",Ghost Rider: Spirit of Vengeance (2011)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/29684.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54VcvNvddIdynXTFrZOSLJlSOLE.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4caKHpd7aDURha12cOg6UiLYnZA.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E02
@@ -846,8 +866,6 @@ http://iptvpremium.ink:55577/iptvdf12262/543fgr4/179957
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/430832
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PURUWA" tvg-logo="http://goldfull.pro:8880/images/c604fe782c8b2e57152c4fdc0019b673.png" group-title="⭐️ Ecuador",ECUADOR | PURUWA
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/350269
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3 (2024)" tvg-logo="http://redworld.pro:8880/images/fb8e99bd74cd5aa8754d199b6dda0200.jpg" group-title="⭐️Películas 2024",Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3 (2024)
-http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/555658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sonic 3: La película (2024)" tvg-logo="http://redworld.pro:8880/images/59063e2a4984a8f3295ca0d61d87045b.jpg" group-title="⭐️Películas 2024",Sonic 3: La película (2024)
 http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/555766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PE| ANIMA KIDS" tvg-logo="http://redworld.pro:8880/images/d26bc428ce236b07f88f667ff0290834.png" group-title="⭐️ PERU",PE| ANIMA KIDS
@@ -856,16 +874,12 @@ http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/547736
 http://superxlatino.com:8880/yosoy1818/Tn4TbmANNf8H/414486
 #EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 \ (1994)" tvg-logo="http://redworld.pro:8880/images/41a5a5b221cc7e8264df76f9953f8dc2.jpg" group-title="⭐️Terror",Leprechaun 2 \ (1994)
 http://superxlatino.com:8880/movie/yosoy1818/Tn4TbmANNf8H/553099.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
-http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/407036
 #EXTINF:-1 tvg-id="" tvg-name="CH: Chilevision SD" tvg-logo="http://sinlimitestv.com:8080/images/4da8f3ded71af866c8199b61ad10ef07.png" group-title="⚡️CHILE⚡️",CH: Chilevision SD
 http://iptvpremium.ink:55577/iptvdf12262/543fgr4/168160
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/167774
 #EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="D GAMES + (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + (CHI)
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/120548
-#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  HD
-http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414465
 #EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* HD
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414468
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
@@ -878,13 +892,13 @@ http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414476
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/414486
 #EXTINF:-1 tvg-id="" tvg-name="Fútbol canal" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",Fútbol canal
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/521032
-#EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 " tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="⭐️ COSTA RICA",CR | Teletica 7 
-http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/490039
-#EXTINF:-1 tvg-id="" tvg-name="ARG | 13 EL TRECE OPC. A" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | 13 EL TRECE OPC. A
-http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/490440
-#EXTINF:-1 tvg-id="" tvg-name="ARG | C5N SD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="⭐️ Argentina",ARG | C5N SD
-http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/490448
-#EXTINF:-1 tvg-id="" tvg-name="ARG | El Nueve  HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | El Nueve  HD
-http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/490460
 #EXTINF:-1 tvg-id="" tvg-name="CO | W $ports + OP2" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="⭐️ Deporte Colombia",CO | W $ports + OP2
 http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/437741
+#EXTINF:-1 tvg-id="" tvg-name="DEP. URUGUAY | VTV HD" tvg-logo="http://goldfull.pro:8880/images/642c97f41f77f0bbac5e962c51549949.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/394835
+#EXTINF:-1 tvg-id="" tvg-name="DEP. URUGUAY | VTV+ HD" tvg-logo="http://goldfull.pro:8880/images/e6ccd2f0921113e7b8ee75422c01cc91.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV+ HD
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/394837
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/526331
+#EXTINF:-1 tvg-id="" tvg-name="PE| UTV Ucayali" tvg-logo="http://redworld.pro:8880/images/c6b5d100fe3243dc9f82837a5ff20ab9.jpg" group-title="⭐️ PERU",PE| UTV Ucayali
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/463894
