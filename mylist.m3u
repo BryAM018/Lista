@@ -61,6 +61,9 @@ https://live.gideo.video/americateve2/master.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="LA: AXN" tvg-logo="https://docdog.top/logo/countries/latino/axn.png" group-title="LATINO", AxN Latin America Andes 
 http://15.204.246.24:8080/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South",AXN Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="DEPORTES",beIN SPORTS XTRA (1080p)
@@ -107,8 +110,6 @@ http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
 http://190.61.47.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO: RCN " tvg-logo="http://sinlimitestv.com:8080/images/83f3fa8a4d672c82e40924c755b07083.png" group-title="COLOMBIA",RCN
 http://181.78.17.228:8081/RCN-HD/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@NorthAtlantic",Cartoon Network Latin America North Atlantic (1080p)
-http://38.252.238.18:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co@SD",Senal Colombia (1080p)
 http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="CHILE",Central TV (720p)
@@ -117,12 +118,23 @@ https://freya.mivideo.pro/centraltv/video.m3u8
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
 http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@South",Cinecanal South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Pacific",Cinecanal Pacific (1080p)
+http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="",Cine Estrella (1080p)
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 #EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-name="RD = CANAL 19 Canal19" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="República Dominicana",Cinevision Canal 19 (1080p) 
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us@SD",CNN en Espanol (1080p)
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="República Dominicana",COCO TV (1080p) [Not 24/7]
 https://edge.essastream.com/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="Comedy Central" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENIMIENTO",Comedy Central Latin America
@@ -143,8 +155,6 @@ https://stream.crealatv.com/live.m3u8
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" tvg-name="DHE " tvg-logo="http://x.playerlatino.live/DHE.png" group-title="ENTRETENIMIENTO",DHE
 http://15.204.246.24:8080/DHEHD/index.m3u8
-#EXTINF:-1 tvg-id="DHE.us@SD" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="ENTRETENIMIENTO",DHE (1080p)
-http://38.252.238.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="Argentina",Disney Channel
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-name="KIDS | DISNEY CHANNEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Channel Latin America Center (1080p)
@@ -209,8 +219,6 @@ http://15.204.246.24:8080/FXHD/index.m3u8
 http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin
 http://168.196.127.137:6001/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
-http://38.252.238.18:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="http://redworld.pro:8880/images/34864737f971f1fdf12ccb68d437eee4.png" group-title="ECUADOR",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",GFN Football (1080p)
@@ -369,8 +377,6 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="SONY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel
 http://15.204.246.24:8080/SonyHD/index.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (1080p)
-http://38.252.238.18:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD",Sony Sports Ten 1 HD (1080p)
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spark TV Luz & Amor (1080p)
@@ -473,8 +479,6 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="LATINO",Univision Latin America
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us@East" tvg-name="UNIVISION LAS VEGAS" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="LATINO",Univision (1080p)
-http://38.252.238.18:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec@SD" tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="ECUADOR",Unsion TV (1080p)
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-name="Venevision Internacional " tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="VENEZUELA",Venevisión Internacional (720p)
@@ -523,11 +527,9 @@ http://168.196.127.137:6001/play/a095/index.m3u8
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD",Azteca Uno (1080p)
 http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium
+http://190.61.90.17:40000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="⚡️CINE PREMIUM SERIES TV⚡️",UNIVERSAL  HD*
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/167092
-#EXTINF:-1 tvg-id="" tvg-name="CH: Chilevision SD" tvg-logo="http://sinlimitestv.com:8080/images/4da8f3ded71af866c8199b61ad10ef07.png" group-title="⚡️CHILE⚡️",CH: Chilevision SD
-http://iptvpremium.ink:55577/iptvdf12262/543fgr4/168160
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urF7o2y7sG6GB53R0krSk9krw0E.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E02
@@ -618,8 +620,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38629.mp4
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Protocolo fantasma (2011)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 5 Guerras de Sangre " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="MAS PELICULAS",Inframundo 5 Guerras de Sangre
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/34114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alita, ángel de combate (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w87I5lmJR59CwyJNrykSkXcoroQ.jpg" group-title="INFANTILES",Alita, ángel de combate (1993)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/83893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="⚡️VOD 2022-1",The Adam Project (2022)
@@ -638,10 +638,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471922.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los ilucionistas 3- Ahora me ves 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg" group-title="⭐️VOD | ESTRENOS 2025⚡️",Los ilucionistas 3- Ahora me ves 3 (2025)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/515532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy la película (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg" group-title="⭐️VOD | ESTRENOS 2026⚡️",Super Mario Galaxy la película (2026) CALIDAD DCRIP
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/530213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Apocalypse (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg" group-title="⭐️ VOD CINE MARVEL",X-Men: Apocalypse (2016)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/26478.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) 
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177736.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" La guerra de las galaxias. Episodio V - El imperio contraataca (1980) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio V - El imperio contraataca (1980) 
@@ -808,7 +804,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/271538.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/271539.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del Zodiaco: Alma de oro S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spmrybnGSEjmSsQaDpomOMtbZcD.jpg" group-title="⚡️SERIES DE ANIMES♾️",Los Caballeros del Zodiaco: Alma de oro S01 E13
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/271540.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VcLPpMZ84a4wklm6uqGC2mWhKc.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6UlUryQIiw2rhdJkTYajJZkUU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E02
@@ -909,7 +904,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333574.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333575.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e7rWunMqZoYBz1prynZvHfoSaJ.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E15
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333576.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjXeHfeyHoYG8DX3YvvYd1hATgL.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/477982.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E02
@@ -950,33 +944,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497145.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497573.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/A2l4sFZp3Tcgg9jKBXbpiJBGt5n.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E20
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/498222.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E09" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E13
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E14
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478158.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E15
@@ -1003,3 +970,81 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478168.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478169.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteQFMOJbEOWuUZXsNYbib3iRUYCoefo9pog&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",BLEACH: Thousand-Year Blood War - 2 TEMPORADA S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goldfinger (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA0AqFwuFvQCzLdBzEnIlK4RayX.jpg" group-title="ACCION Y AVENTURA",Goldfinger (1964)
+http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/127315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BU5OxTFSPGEUMF7qEbU0BBrgOM.jpg" group-title="DISNEY - Star+",The Acolyte S01 E01
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYIEFKrnYWhD2NOpwBRmUTDIXPd.jpg" group-title="DISNEY - Star+",The Acolyte S01 E02
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXNMktM90svjlXGeIG8Uq0qWZQz.jpg" group-title="DISNEY - Star+",The Acolyte S01 E03
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ombxA88DsT1iP2xPwBYCTQsE7zR.jpg" group-title="DISNEY - Star+",The Acolyte S01 E04
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" group-title="DISNEY - Star+",The Acolyte S01 E05
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UaIeS3LZJDupoMO44k03Tps3JC.jpg" group-title="DISNEY - Star+",The Acolyte S01 E06
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yPcCMHk26SQuiQYK1PMEKNMuxV0.jpg" group-title="DISNEY - Star+",The Acolyte S01 E07
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ofLhs7Ko9MYKQ9Gdlr9lRHC4wPz.jpg" group-title="DISNEY - Star+",The Acolyte S01 E08
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" group-title="PELICULAS DE  TERROR",Annabelle (2014)
+http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/126621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens vs. Predator 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg" group-title="CIENCIA FICCION",Aliens vs. Predator 2 (2007)
+http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/141581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="4 K",Shang-Chi y la leyenda de los Diez Anillos (2021)
+http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/133639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XUFWn9fvuA1oo3DdAfb3A4ZEIo.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E01
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3eB97S8bG6YMppV6rJDU3jCbZ5.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E02
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhlA5VjRYpdz9Lz240rBHkzdith.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E03
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXbmG475A38gxP7DUXDCdup6iSE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E04
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUEiF3dFXEH56LosjzJnCsQammN.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E05
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h3xA3zrcy2OVqPBY7tR3qgML2z.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E06
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80m3XUSqFfCMNw6GpWY2Q1KAesS.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E07
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjqRFwr2v91gq8qzfefil8egCPt.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E08
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Mf0l59K2OQ0I7q1oR06cIqo5zT.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E09
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMcPzhH0rScvMSejNluYtFYxISg.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E10
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUtF2A9EfkdthCrlxTnqd0sXRpO.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E11
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfOP5WZIkDNifAfXwQ7H84ZrqTv.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E12
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1RkiIw0eNhhH1wLzUyYYimlBVg.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E13
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy4NJR9kqEelJ5teHPlAINBNnpE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E14
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtuuZvOqAyHyIB7l0gxf2XfgYN.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E15
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJoRCwptCOpTZVkYysHDBFdO4OR.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E16
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtTNNuGbkeLJxQ0XJegQ7J3TNma.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E17
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDdapd9idn06AAQsLVvaSDSrWlm.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E18
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAue77ie9C2MGFpwCbMIvoPvbNQ.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E19
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztEK1MtwwbG7D0jb95A59qxaS3G.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E20
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viBmFStZIZMOXq71YDrBgqZEhDD.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E21
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Wcby9maE08RaH3mS7aAHw5hkM.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E22
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pJtFmAS3TJuWoCaUrY904pqNFE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E23
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E24
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E25
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E26
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E27
+http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118926.mkv
