@@ -3,6 +3,8 @@
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/index_pc.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
 https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleceiba.hn@SD",Teleceiba (1080p)
+http://45.238.141.222:8000/play/a0pf/index.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee@SD" tvg-logo="https://i.imgur.com/0eZa0qh.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="DEPORTES",Go3 Sport 1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/416/index.m3u8
@@ -71,7 +73,7 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1Nuble.cl@SD" tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="CHILE",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (1080p)
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-name="CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1 (1080p)
 http://200.122.223.13:55000/play/canal-1-tdt/index.m3u8
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",Canal 13
 http://15.204.246.24:8080/Canal13HD/index.m3u8
@@ -103,10 +105,8 @@ http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
 http://190.61.47.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO: RCN " tvg-logo="http://sinlimitestv.com:8080/images/83f3fa8a4d672c82e40924c755b07083.png" group-title="COLOMBIA",RCN
 http://181.78.17.228:8081/RCN-HD/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD",Senal Colombia (1080p)
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-name="SEÑAL COLOMBIANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",Senal Colombia (1080p)
 http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8
-#EXTINF:-1 tvg-id="CentralTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="CHILE",Central TV (720p)
-https://freya.mivideo.pro/centraltv/video.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="República Dominicana",Chinola TV 
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
@@ -840,10 +840,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275456.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCKka3NkjF3AmMCVPKL4QQMfun.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E1YcapLlF0gKM0e3dSCPquFGw2.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arDjDqLfMCxtYSol0MoeusnYa3J.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323643.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eEoQjJeOPKcBkNa2QOOaqWwcH8.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLmS4K2Ci3fOqu70K18jtmfKxO8.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E04
@@ -934,8 +930,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266076.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75n29ly38Sx4XNqXHkIRLpUcIfm.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/507836.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irw76zkymiXrrAyC1ftq8Jomsuh.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E04
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/507837.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/7ophg7pjLtQhLsLiD46aTTAnpbY.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E05
@@ -953,8 +947,6 @@ http://planettvweb.com:8091/MarceloNu/GPan5082d/20320
 http://planettvweb.com:8091/MarceloNu/GPan5082d/22979
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="4 K",Shang-Chi y la leyenda de los Diez Anillos (2021)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/133639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Goldfinger (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA0AqFwuFvQCzLdBzEnIlK4RayX.jpg" group-title="ACCION Y AVENTURA",Goldfinger (1964)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/127315.mkv
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Fénix oscura (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="4 K",X-Men: Fénix oscura (2019)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/132213.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween III: El día de la bruja (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5ljbU8azw2SY8qV19E67wJ2UGv.jpg" group-title="PELICULAS DE  TERROR",Halloween III: El día de la bruja (1982)
