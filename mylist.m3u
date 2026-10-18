@@ -124,7 +124,7 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-name="CNN ESPAÑOL HD" tvg-logo="https://secure.gravatar.com/blavatar/b238e5839cd6b86e354c397f8c58c295?s=200&ts=1559688083" group-title="NOTICIA",CNN en Espanol (1080p)
+#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-name="CNN ESPAÑOL" tvg-logo="https://secure.gravatar.com/blavatar/b238e5839cd6b86e354c397f8c58c295?s=200&ts=1559688083" group-title="NOTICIA",CNN en Espanol (1080p)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="Comedy Central" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENIMIENTO",Comedy Central Latin America
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
@@ -164,7 +164,7 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="INFANTILES",Discovery Kids Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png.files.wordpress.com/2008/12/6c6fe-dk.png?w=218" group-title="INFANTILES",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="DISCOVERY KIDS" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png.files.wordpress.com/2008/12/6c6fe-dk.png?w=218" group-title="INFANTILES",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Chile",Discovery Kids Latin America Chile (1080p)
 http://38.224.231.176:8000/play/a01j/index.m3u8
@@ -202,7 +202,7 @@ http://190.128.214.97:64333/play/a06o/index.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="FRANCE 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="FRATATV.do@SD" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="General",FRATA TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="FRATATV.do@SD" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="R. DOMINICANA",FRATA TV (1080p) [Not 24/7]
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="DEPORTES",FTF Sports (720p)
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
@@ -210,13 +210,8 @@ https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="CINE",FX Latin America 
 http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-name="FX FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="CINE",FX Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO",FX Latin America South (720p)
 http://72.1.184.5:8089/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin
-http://168.196.127.137:6001/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="http://redworld.pro:8880/images/34864737f971f1fdf12ccb68d437eee4.png" group-title="ECUADOR",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-name="Golden Premiere" tvg-logo="https://logodix.com/logo/1987648.png" group-title="CINE",Golden Premier (1080p)
@@ -299,10 +294,10 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Spanish",NOW News Spanish (1080p)
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NPY.py@SD" tvg-name="NPY SD*" tvg-logo="http://127.0.0.1/" group-title="",NPY 
-https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish",NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-id="NPY.py@SD" tvg-name="NPY " tvg-logo="http://127.0.0.1/" group-title="",NPY 
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="COLOMBIA",NSTV (1080p)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="COLOMBIA",Nuestra Tele Internacional (720p)
@@ -366,7 +361,7 @@ https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="SiTV.do@SD",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
-#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="SONY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="SONY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CINE",Sony Channel
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spark TV Luz & Amor (1080p)
 https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
@@ -423,7 +418,7 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD" tvg-name="TVC " tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="Ecuador",TVC (720p)
 http://157.100.248.242:8080/TVCHD/index.m3u8
-#EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="General",TVN (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA",TVN (1080p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="CL: TVN" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="CHILE",CL: TVN
 http://15.204.246.24:8080/TVNHD/index.m3u8
@@ -481,39 +476,41 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Teletica7.cr@SD",Teletica 7 (720p) [Not 24/7]
 http://181.119.177.253:8000/play/a0da
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD",HBO Xtreme Latin America
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" Xtreme " tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="CINE",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD",HBO Latin America (720p)
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-name="HBO " tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",HBO Latin America (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD",HBO Latin America (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="CINE",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD",HBO Family Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/chunks.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil",TNT Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/TNTHD/index.m3u8
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@South",TNT Latin America South
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-name="TNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png" group-title="CINE",TNT Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/chunks.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Colombia",TNT Novelas Colombia (1080p)
+#EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional",TNT Series Latin America (1080p)
-http://168.196.127.137:6001/play/a095/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South",TNT Series Latin America South
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-name="TNT SERIES FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="SERIE",TNT Series Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium
 http://190.61.90.17:40000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (720p)
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT HD" tvg-logo="https://logonoid.com/images/sbt-logo.png" group-title="BRASIL",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@HD",EnerGeek (1080p) [Geo-blocked]
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
 
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el multiverso (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="⭐️VOD ESTRENOS 2023",Spider-Man: Cruzando el multiverso (2023) HD
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/194289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los ilucionistas 3- Ahora me ves 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg" group-title="⭐️VOD | ESTRENOS 2025⚡️",Los ilucionistas 3- Ahora me ves 3 (2025)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/515532.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyQqxuDYmkyNnjC131bmt1bzShW.jpg" group-title="⭐️SAGAS",Mission: Impossible (1996)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38627.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12mI7kU22nJrmtAgGcDP8tbAz4a.jpg" group-title="⭐️SAGAS",Mission: Impossible II (2000)
@@ -528,8 +525,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/83893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="⚡️VOD 2022-1",The Adam Project (2022)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/30184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el multiverso (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="⭐️VOD ESTRENOS 2023",Spider-Man: Cruzando el multiverso (2023) HD
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/194289.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Especies (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lg9kkaKc53vZd1tqiuc2lmf0bp.jpg" group-title="⭐️ACCION",Especies (1995)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/195177.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
@@ -540,8 +535,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: Un viaje inesperado (2012) Version extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: Un viaje inesperado (2012) Version extendida
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los ilucionistas 3- Ahora me ves 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg" group-title="⭐️VOD | ESTRENOS 2025⚡️",Los ilucionistas 3- Ahora me ves 3 (2025)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/515532.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) 
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177736.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" La guerra de las galaxias. Episodio V - El imperio contraataca (1980) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio V - El imperio contraataca (1980) 
@@ -552,10 +545,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177738.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/265406.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="⭐️SAGAS",Viernes 13 (2009)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="He-Man y los masters del universo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg" group-title="⭐️VOD | ESTRENOS 2026⚡️",He-Man y los masters del universo (2026)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/539667.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urF7o2y7sG6GB53R0krSk9krw0E.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327838.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHwOLqCgilW3rcNvdvIHBRoXR40.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNoesVA8NqPaMcyAneQg8MMgcAQ.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E04
@@ -810,8 +799,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275456.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCKka3NkjF3AmMCVPKL4QQMfun.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLmS4K2Ci3fOqu70K18jtmfKxO8.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323645.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ib6DSxiApmwhECE8BImuoZzs6o.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E05
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323646.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93l1Q7CEzIn0w6zFYjXDQQL00a.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E06
@@ -898,8 +885,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266076.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irw76zkymiXrrAyC1ftq8Jomsuh.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/507837.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/7ophg7pjLtQhLsLiD46aTTAnpbY.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E05
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/509806.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dXZnTHnv0wHwFWfTqfhs5A0z7ZO.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E06
@@ -911,22 +896,16 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/509809.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES",TV Max
 http://planettvweb.com:8091/MarceloNu/GPan5082d/20320
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS URUGUAY" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="URUGUAY",DIRECTV SPORTS URUGUAY
-http://planettvweb.com:8091/MarceloNu/GPan5082d/22979
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="4 K",Shang-Chi y la leyenda de los Diez Anillos (2021)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/133639.mkv
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Fénix oscura (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="4 K",X-Men: Fénix oscura (2019)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/132213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halloween III: El día de la bruja (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5ljbU8azw2SY8qV19E67wJ2UGv.jpg" group-title="PELICULAS DE  TERROR",Halloween III: El día de la bruja (1982)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg" group-title="PELICULAS DE  TERROR",Halloween 4: El regreso de Michael Myers (1988)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" group-title="PELICULAS DE  TERROR",Halloween 5: La venganza de Michael Myers (1989)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween: La maldición de Michael Myers (Halloween 6) (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" group-title="PELICULAS DE  TERROR",Halloween: La maldición de Michael Myers (Halloween 6) (1995)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Predators (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYH9FtLUtaIgiGKrVqo82TklFIY.jpg" group-title="CIENCIA FICCION",Predators (2010)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/126066.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BU5OxTFSPGEUMF7qEbU0BBrgOM.jpg" group-title="DISNEY - Star+",The Acolyte S01 E01
 http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102836.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYIEFKrnYWhD2NOpwBRmUTDIXPd.jpg" group-title="DISNEY - Star+",The Acolyte S01 E02
@@ -997,3 +976,27 @@ http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118924.mkv
 http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118925.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E27
 http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="PELICULAS DE  TERROR",Expediente Warren: The Conjuring (2013)
+http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/126719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coyote vs. Acme (2026) HD Latino" tvg-logo="https://picandocodigo.net/wp-content/uploads/2026/08/coyote-vs-acme.jpg" group-title="NUEVAS",Coyote vs. Acme (2026) HD Latino
+http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/160635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzM5aXXe3r8LJy6FUmP4FMygLS.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UZPB7eNk5fBRgFCF9JwfhJUhQO.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLPvNRBRNtF3GfOOWjDGOqKFlpg.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohDOvfMB27n5ByFvihD7hyVJ4W4.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6us6Sq1OTNu5AmaIyWmLvOzOxRz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuMuy0tdQEyGFNqx9dBJj2sUanc.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xjiOtRn9fUPtV2TjXIrcfesKHz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TV CHILE" tvg-logo="https://lisa.zapping.live/uploads/canales/color/13i.jpg" group-title="CHILE",TV CHILE
+http://planettvweb.com:8091/MarceloNu/GPan5082d/14275
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES MEXICO",TUDN HD
+http://planettvweb.com:8091/MarceloNu/GPan5082d/50497
