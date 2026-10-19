@@ -97,6 +97,8 @@ https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 http://190.61.47.54:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA",Caracol (1080p)
 http://181.205.130.194:4000/play/a0dz
+#EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol 
+http://181.78.8.199:8000/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN SD" tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN
 http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="RCN HD" tvg-logo="https://i.ytimg.com/vi/KDdUHeonyNE/hqdefault.jpg" group-title="COLOMBIA",Canal RCN (1080p)
@@ -268,8 +270,6 @@ http://15.204.246.24:8080/MEGAHD/index.m3u8
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MegaFiccion.cl@SD",Mega Ficcion (1080p)
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
-#EXTINF:-1 tvg-id="MeganoticiasAhora.cl@SD",Meganoticias Ahora (1080p)
-http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-name="EL SALVADOR| MEGAVISION CANAL 21" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Entertainment",Metro TV (720p)
@@ -382,6 +382,8 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD",STVE Telebasica (1080p)
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleantioquiaPlus.co@SD",Teleantioquia Plus (1080p)
+http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC TELEVISION " tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Television (1080p)
 http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="DEPORTES",Teledeporte
@@ -394,6 +396,8 @@ https://s.emisoras.tv:8081/telemas/index.m3u8
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa@SD"  tvg-name="PANAMA |  Telemetro" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="PANAMA",Telemetro (720p)
 http://181.78.121.15:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co@SD",Telemedellin (1080p)
+http://181.78.82.130:8000/play/a0ru/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="Undefined",Telemundo Accion (1080p)
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1/" group-title="Undefined",Telemundo Noticias Ahora (1080p)
@@ -426,8 +430,6 @@ http://15.204.246.24:8080/TVNHD/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="REP. DOMINICANA",TV Plata (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-name="ARG | TV Publica" tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="Argentina",TV Publica Fueguina (1080p)
-https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Culiacán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Mazatlán (720p) [Not 24/7]
@@ -525,8 +527,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/83893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="⚡️VOD 2022-1",The Adam Project (2022)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/30184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Especies (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lg9kkaKc53vZd1tqiuc2lmf0bp.jpg" group-title="⭐️ACCION",Especies (1995)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/195177.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Napoleón (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Napoleón (2023)
@@ -799,8 +799,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275456.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCKka3NkjF3AmMCVPKL4QQMfun.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ib6DSxiApmwhECE8BImuoZzs6o.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323646.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93l1Q7CEzIn0w6zFYjXDQQL00a.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E06
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323647.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnMcJ7KQ3rbfceKxAeSP3rIsBgw.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E07
@@ -885,21 +883,9 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266076.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/7ophg7pjLtQhLsLiD46aTTAnpbY.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/509806.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dXZnTHnv0wHwFWfTqfhs5A0z7ZO.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/509807.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/275ufbbt88FVkfH7QeoqPpICBP6.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/509808.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlina. S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/eqCAySjP9dXS4xgtbVAx1UjEi7D.jpg" group-title="⭐️VOD SERIES NETFLIX",Merlina. S02 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/509809.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES",TV Max
 http://planettvweb.com:8091/MarceloNu/GPan5082d/20320
-#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="4 K",Shang-Chi y la leyenda de los Diez Anillos (2021)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/133639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fénix oscura (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="4 K",X-Men: Fénix oscura (2019)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/132213.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg" group-title="PELICULAS DE  TERROR",Halloween 4: El regreso de Michael Myers (1988)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" group-title="PELICULAS DE  TERROR",Halloween 5: La venganza de Michael Myers (1989)
@@ -978,8 +964,6 @@ http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118925.mkv
 http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="PELICULAS DE  TERROR",Expediente Warren: The Conjuring (2013)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/126719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coyote vs. Acme (2026) HD Latino" tvg-logo="https://picandocodigo.net/wp-content/uploads/2026/08/coyote-vs-acme.jpg" group-title="NUEVAS",Coyote vs. Acme (2026) HD Latino
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/160635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzM5aXXe3r8LJy6FUmP4FMygLS.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267743.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UZPB7eNk5fBRgFCF9JwfhJUhQO.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E02
@@ -1000,3 +984,19 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
 http://planettvweb.com:8091/MarceloNu/GPan5082d/14275
 #EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES MEXICO",TUDN HD
 http://planettvweb.com:8091/MarceloNu/GPan5082d/50497
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3eIJSxZO2zXig4Ni3oo8md6mWS.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5KY9oQToDlm7IE0Crem81unYYK.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIDhyfYp2NrVOWZKCyHmxCxLsPj.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tijvdUst0B3JD7IMyBlEP3jwOIg.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elP1A7AiF83zFclChgQvElz4rDF.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KCMO6yLKbH4SSXFm2Dv5HjhDOw.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krz9V21IErIOtjJoY8aY9PVhLrX.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkHgTlNF75wVJVo10E2FCBwwP7.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267758.mkv
