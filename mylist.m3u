@@ -65,6 +65,9 @@ http://15.204.246.24:8080/AXNHD/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="LATINO,AXN Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica",AXN Latin America (1080p)
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="DEPORTES",beIN SPORTS XTRA (1080p)
@@ -508,6 +511,12 @@ http://190.61.90.17:40000/play/a02i/index.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@HD",EnerGeek (1080p) [Geo-blocked]
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="Bandamax.mx@SD",Bandamax (1080p)
+https://streaming.onnethn.com/Bandamax/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile",TCM Latin America Chile (1080p)
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el multiverso (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="⭐️VOD ESTRENOS 2023",Spider-Man: Cruzando el multiverso (2023) HD
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/194289.mp4
@@ -543,22 +552,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177737.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177738.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yyw20gloVgbzR9a5B15GqPdqux.jpg" group-title="⭐️SAGAS",Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/265406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="⭐️SAGAS",Viernes 13 (2009)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHwOLqCgilW3rcNvdvIHBRoXR40.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNoesVA8NqPaMcyAneQg8MMgcAQ.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bGTn0hYYQeCFwAB8CKjRmk2MvV.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xdfxaiukrGDc1xXWf0unQuGmrg.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZcOTpr6AOwmYvPR6qP4E0AxjW1.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAeBSoSch3qUtKgtO1b5ZWzhgqC.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsgIiCfnQCi3CF7tQ6M7Nw4lB9O.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/327845.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHHiyoMJ4IVDc5yaXZqncHYXEPS.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOJW1omsgW9DbluOkOLbzj9TFwt.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E02
@@ -593,32 +586,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494237.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494272.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/1xkwtdfLYndO3F2rf5Itas7EAkD.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E08
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494385.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Loki S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3mZDFtSh7Slb0486FuwkEZQHRB.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAzZXEY6uqSHeZ7ugxz9FqCfAkg.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328124.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVVduYQCD2hmwiAYhMgcOI9A91u.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b6nizaj6uCYCRNtVeJ1SUT4do1.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rH2yyoRCnfxtslUTFVLekTdN4r9.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3etIjrMDx8WaStneURCwYlPv6P8.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVwsD0TbJ1fzpCgNZweIJhO9L36.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fsxiicymbbeKYFJOb3tQtCjg0Z.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sgCzbxKUHZZ6HyAS7a76q1i9vf.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's M.O.D.O.K. S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDt1Z56j2YR2gjbAq51hkowYP1J.jpg" group-title="⚡️SERIES DE STAR PLUS♾️",Marvel's M.O.D.O.K. S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/328132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwCNTaG7VPVwaBRSZkvQUMEfyuZ.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Hawkeye S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hawkeye S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6DjX5jATXUpkILMFMEOR61PWr5.jpg" group-title="⚡️SERIES DE DISNEY +♾️",Hawkeye S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/326277.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54VcvNvddIdynXTFrZOSLJlSOLE.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4caKHpd7aDURha12cOg6UiLYnZA.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E02
@@ -799,14 +766,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275456.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCKka3NkjF3AmMCVPKL4QQMfun.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93l1Q7CEzIn0w6zFYjXDQQL00a.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnMcJ7KQ3rbfceKxAeSP3rIsBgw.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haGXVysgMev060Rp7QJKAN7oagJ.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlI6o5l04ovzy7W3YNWTokwMuwN.jpg" group-title="⚡️SERIES DE HBO♾️",Doom Patrol S02 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/323650.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TSEyrqaRN6jwTwnRbp8jUvpeHj.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qio46neIDQi9KxkmXBeE3l5baUu.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E02
@@ -884,8 +843,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES",TV Max
-http://planettvweb.com:8091/MarceloNu/GPan5082d/20320
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg" group-title="PELICULAS DE  TERROR",Halloween 4: El regreso de Michael Myers (1988)
 http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" group-title="PELICULAS DE  TERROR",Halloween 5: La venganza de Michael Myers (1989)
@@ -1000,3 +957,201 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267756.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267757.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkHgTlNF75wVJVo10E2FCBwwP7.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E08
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yzGYMSNL0v3ke7ZhMVwLQ1EJjU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKEeBZJ3ZUozLCOwwMmcvRA71E.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpLBlBrhOSqUHXDEiiTRh9k7zPj.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1AEifTW6VVAZfO2nuTtU3pampT.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OHN3TYFl6pFXFDjQod5hhWFx3v.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSPPQLhChQTyU8SoVeyBLcNxzhU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IUBoErgGbboihLAuPDhN5IsO2s.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUl35gfKEU290UBsGg8iBzS6w35.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW8YkcfS3VmuMQQaay3egW6WslP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ObZDLK3f7BucdgtmAlHZRYN3IB.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frpOW7FC1WK0VBVud10HgdJe8ol.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YP4kxFjgagRt7vUMgJa8D1g5uI.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHZohveJBES8cyabSl03183xWVU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omBmf4Gxu8HPpnciDs6dUTYAiN3.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0ntqQbnWYabRjOtqo52o8DFyIJ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKrJD55JnC8hqoQoBJ67h4BYKjP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89kffiLK6MXzsfw4eoctGn3sjAs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YhQSL8sT6AHHwfHIL6MjJ5EWSt.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAl32FZvPX1MKpqpV53KykTeQVJ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hwi3PexQPX8tNvAVuruvaezoIO.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdFP9NQJMVY5crICkOTRjJK1mlr.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRaGUDxQS0q5DNXXI0nSOktyUGM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdH4AA2JHjTzNbJsSYlnj1y0Usu.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwqscjgKqZzb6OwnYs8rcYU5hP3.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcjf9NUfZwGABLjq6icVajiQ5ub.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtG2G9kPOoKk4uBIk3Ysx3quaZY.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG2GUUKIbRQGWeiJDgLz5XfvGDQ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMXI9eB5Al7Z4Ml1FT2I7ab4Mqt.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diV4PorgFxGgaJ4NEkdgsVfm6vM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBErfxofBmbSyrEwCWP5H8g0R8l.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbIfp18t6JlRwAQPE9HdjD1IRB.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnMxl1OlaRkd5iQHur6y5MVK2r5.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz2SS1ryWW3mVNnzdHWjeFxXOap.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHwN7NHb86pL1pc0quibQ9SDcRn.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y94AoQ5VuYVMiULoVJcLKfjOGZZ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpQGuVBVwqcjEOLz6ps7DvUQS10.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaoXpYSxx2rc1zesGcxWzuX00Bs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yN6OWyF24aDuckvivM8cQYZGMQV.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooIWcSTIqRwCxLQDcnMFjDaJ8FN.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9SvSFV1tct7Izf77tLYloeckNB.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PqM8kyGQglaWbzZcP3K4NgtcWI.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nk76CTklB0GmLvQvvj93mWtBHok.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jz2bLM8TpOs6KIZ8ioIDVzPSEH.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc8RXClgsI042mizDnS1dzlvmVD.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uPSRe5khLCoF4EFpKzDjpaemy0.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWYDtmJZFGYKmEbdSGoJfQvSEBS.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdGJdelD5SzwVCAbmmET9wlMriS.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFbYyu6Tm1MMvXBLksmCdaf4Jus.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1lle5gWz29k8YF9Prj96C2UFDP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtZqSW0YK2dDV4aoQQpqHyvNhld.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wDdxhrFAu49wJm9fCAXaEUsOuM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm0ulOj2hZy328SDV7OLXN9i0eF.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiuLl4xSraqW6v20s8phmeoMHrR.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA2FU6C9KeBR17khhB4JrtropFZ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dXPwXK9Bs1G13OT7y7rV4gKiok.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xVM0xayQbGaGD6ttARrSVsySm.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9px718VarB7exQKeKkWd32j4hB4.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbAGakIEtwPpqi573MsseIDXE9s.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LzY078N4Z9dj9ZIQrXPe6kSrJC.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hOO63aMJNSrMODHOnZsdzY4bnq.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk3q8ShixJq4Uz0xZAgWdyxF4nU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKTM4t4Km96Jw1UuzsLQ2jh6qIM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqEs9ZNXzwDpTJyGqQ4DLEERuUT.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBidqdPUl35XSlu7MQvPFUtQsa0.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QSX0cANrmBaSh33vW5BElbfuE2.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9Otsd4k7wfoYJRJypHXaz0PhQa.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVsuse9YRwSOfzBqFl9EERHR6B.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CfCrtftsxuI12GgXAmf3TeQHRw.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKjPc9ufCGGOXwZFXp8Zpf8ds7o.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gqei0x9rSr69w5vGgFYbmW3yln.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6I9tGOb5dLVBOBPEv39ipwtYwNs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jduaZpGaX9px1truLCy7FJrHdob.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lggXg0Kj79ULd9D2vPmSm90KqIA.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJqVgCqHaaWiUSer2aaZZLgNCbw.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqvGy0tFatsxmuUQbXBpa6o2Yjj.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSDCKHTYk465LsAVXRrJXFihW26.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTet8jcgEzeB1WXXtEBSX8YMc7k.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCoCVChXZ5faGfbiJP0aZpfCC46.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y79hTt1bhkYFQcjkXXiQmbPSioN.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UFYGGEUExIcOa3dQXzrdRReND7.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZ1b3fGN7s5TMsKZjAuEFnYXZbH.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mD1T6pKnwdPPMdzOtQbTNfYJ5ZA.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMIbqOhRemiQnAZS03uZEAsMKwE.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlwGYHQLOtyrcuQNFA826uHDsjb.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EoBuX5ZoEzRESiwxmzN1isF1vR.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i9ngjFiiIZ7wIFAgCVcy10zGP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz6AYUeDlyDp8TQr9u7RPSq8otn.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enjTk2EdDnLfbN23qL74WDIQ9Fs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiovmFr9wAUqkXsJgijb2w5O4Hi.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtzfLANdHAVITvZXgRxnDlDTJ3I.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnn3rooU8u4vI61leQ2hJppWu2C.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CEbVmgm8gnz4EUjUmNt2WfdK7U.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5KZ7Y5yToGlvUnXEmpkYqZPRil.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2x4HNzRvhBLqIRU2gevZCCR2u6.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474521.mkv
