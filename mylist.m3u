@@ -14,9 +14,6 @@ http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="DEPORTES",Setanta Sports 2 Eurasia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD tvg-name="CINE | SONY " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="CINE",Sony 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.ua@SD" tvg-logo="https://i.imgur.com/vk0j1mY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="DEPORTES",Sport 2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
@@ -29,17 +26,6 @@ http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-name="CO | TeleCaribe" tvg-logo="https://i.imgur.com/E35cXHt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Colombia",Telecaribe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telelima.pe@SD" tvg-logo="https://i.imgur.com/HzWRvXc.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="PERU",Telelima
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" tvg-name="USA NETWORK" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg" group-title="USA",USA Network Latin America (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaTV.pe@SD" tvg-logo="https://i.imgur.com/m44jTZK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="PERU",VivaTV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VIVETV.ar@HD",VIVE TV (1080p)
-https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-name="PY | TELEFUTURO HD" tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="Paraguay",Telefuturo (1080p)
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
@@ -48,8 +34,6 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="CHILE",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-name="13 REALITIES" tvg-logo="http://goldfull.pro:8880/images/ee3b184577f187218b41b2f4fdd320f0.png" group-title="CHILE",13 Realities (1080p)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="REP. DOMINICANA",Ahora TV (1080p)
@@ -62,12 +46,8 @@ https://live.gideo.video/americateve2/master.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="LA: AXN" tvg-logo="https://docdog.top/logo/countries/latino/axn.png" group-title="LATINO", AxN Latin America Andes 
 http://15.204.246.24:8080/AXNHD/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="LATINO,AXN Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica",AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="LATINO,AXN Latin America (1080p)
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="DEPORTES",beIN SPORTS XTRA (1080p)
@@ -102,7 +82,7 @@ http://190.61.47.54:8000/play/a01e/index.m3u8
 http://181.205.130.194:4000/play/a0dz
 #EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol 
 http://181.78.8.199:8000/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN SD" tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN " tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN
 http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="RCN HD" tvg-logo="https://i.ytimg.com/vi/KDdUHeonyNE/hqdefault.jpg" group-title="COLOMBIA",Canal RCN (1080p)
 http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
@@ -110,15 +90,22 @@ http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
 http://190.61.47.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO: RCN " tvg-logo="http://sinlimitestv.com:8080/images/83f3fa8a4d672c82e40924c755b07083.png" group-title="COLOMBIA",RCN
 http://181.78.17.228:8081/RCN-HD/index.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN MÁS+" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="http://goldfull.pro:8880/images/9eab3d01ae2477e250ff4dd968b47923.jpg" group-title="COLOMBIA",RCN Mas (1080p)
+http://190.128.214.97:64333/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="COLOMBIA",RCN Novelas 
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (1080p)
+https://stream1.bitred.cl/rcn-novelas/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="COLOMBIA",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-name="SEÑAL COLOMBIANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",Senal Colombia (1080p)
 http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="República Dominicana",Chinola TV 
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
 http://45.70.201.81:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us@South",Cinecanal South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="CINECANAL " tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="CINE",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific",Cinecanal Pacific (1080p)
@@ -135,9 +122,6 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="MX: Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="MEXICO ",Comedy Central Latin America (1080p)
 http://181.78.79.131:8000/play/a0mu
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="Comedy Central HD" tvg-logo="https://media.info/l/f/1/1035.1642852470.png" group-title="ENTRETENIMIENTO",Comedy Central Latin America (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
@@ -152,17 +136,12 @@ https://stream.crealatv.com/live.m3u8
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" tvg-name="DHE " tvg-logo="http://x.playerlatino.live/DHE.png" group-title="ENTRETENIMIENTO",DHE
 http://15.204.246.24:8080/DHEHD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South"tvg-name="DISNEY CHANNEL HD" tvg-logo="http://descargas.podzone.net/logos/-disney-channel.png" group-title="INFANTILES",Disney Channel Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="Argentina",Disney Channel
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-name="KIDS | DISNEY CHANNEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="INFANTILES",Disney Channel Latin America Center (1080p)
 http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="NIÑOS",Disney Channel Latin America 
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="INFANTILES",Disney Channel Latin America Panregional HD (1080p)
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="Argentina",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="DISTRITO COMEDIA SD" tvg-logo="http://www.ipuntotv.com/IMAGES/Distrito-Comedia-Logo-2019.jpg" group-title="ENTRETENIMIENTO",Distrito Comedia (1080p)
@@ -191,10 +170,6 @@ http://15.204.246.24:8080/elnueveHD/index.m3u8
 https://stream.elseis.do/canal6/live_1080.m3u8
 #EXTINF:-1 tvg-id="entelevision.do@SD" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="General",entelevision (1080p) [Not 24/7]
 https://stream.haislin.com/entelevision/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="BRASIL | ESPN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="D3PØRT3S | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 (1080p)
-http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="ENTRETENIMIENTO",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-name="ESTRELLA TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="ENTRETENIMIENTO",Estrella TV East (1080p)
@@ -231,8 +206,6 @@ https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="SERIE",Universal TV Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="ImpactChannel.cr@SD",Impact Channel
-https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="CHILE",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py@SD",Educanal (1080p)
@@ -299,8 +272,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish",NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 tvg-id="NPY.py@SD" tvg-name="NPY " tvg-logo="http://127.0.0.1/" group-title="",NPY 
-https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="COLOMBIA",NSTV (1080p)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="COLOMBIA",Nuestra Tele Internacional (720p)
@@ -309,7 +280,7 @@ http://170.238.200.199/nuestra-tele/index.m3u8
 https://stream1.bitred.cl/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co@SD"  tvg-name="CO | NTN24" tvg-logo="http://mundo2.pro:80/images/da505f82d7c27ca7c215bf044e6dbfdc.png" group-title="COLOMBIA",NTN24 
 http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD",NTN24 (1080p)
+#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-name="CO | NTN24" tvg-logo="http://redworld.pro:8880/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png" group-title="COLOMBIA",NTN24 (1080p)
 https://stream1.bitred.cl/ntn24/index.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-name="RD:  ORBIT TV " tvg-logo="https://immaa.xyz/ORBITTV.png" group-title="REP. DOMINICANA",ORBIT TV (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
@@ -317,35 +288,21 @@ https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 https://edge.essastream.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-name="Oromar HD (Ecuador)" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="General",Oromar TV (1080p)
 http://45.224.97.181:9999/Oromar/index.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-name="PE| Ovasion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="PERU",Ovacion TV (720p)
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-name="PE | PANAMERICANA" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="PERU",Panamericana TV 
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="PASIONES " tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="Entertainment",Pasiones 
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="PASIONES " tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="COLOMBIA",Pasiones 
 http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="LATINO",Pasiones Latin A
 http://45.224.97.181:9999/Pasiones/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
 http://45.173.231.22:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 tvg-id="PronemsTV.do@SD",Pronems TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx@SD" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Undefined",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN MÁS+" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA",RCN Más (1080p)
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="http://goldfull.pro:8880/images/9eab3d01ae2477e250ff4dd968b47923.jpg" group-title="COLOMBIA",RCN Mas (1080p)
-http://190.128.214.97:64333/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="COLOMBIA",RCN Novelas 
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (1080p)
-https://stream1.bitred.cl/rcn-novelas/index.m3u8
-#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="COLOMBIA",RCN HD2 (1080p)
-http://181.78.14.26:4000/play/a07m/index.m3u8
+
 #EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="BOL : BOLIVIA TV " tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="BOLIVIA",Bolivia TV (1080p)
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" tvg-name="BOL : RED UNO SANTA CRUZ" tvg-logo="https://i.imgur.com/pqVzZQ9.png" group-title="BOLIVIA",Red Uno Santa Cruz (1080p)
@@ -360,8 +317,6 @@ https://rtp.noxun.net/hls/stream.m3u8
 http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="Ruta66TV.do@SD",Ruta 66 TV (1080p) [Not 24/7]
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
-#EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx@SD" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Undefined",Sistema Michoacano de TV (1080p) [Not 24/7]
-https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="SiTV.do@SD",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="SONY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CINE",Sony Channel
@@ -372,9 +327,6 @@ https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="CINE",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-name="Star Channel HD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE",Star Channel Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE",Studio Universal Latin 
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="SulaTV.hn@SD" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",Sula TV (1080p)
@@ -395,8 +347,6 @@ https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="General",Telemas (1080p)
 https://s.emisoras.tv:8081/telemas/index.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax (XEWH-TDT)
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa@SD"  tvg-name="PANAMA |  Telemetro" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="PANAMA",Telemetro (720p)
 http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Telemedellin.co@SD",Telemedellin (1080p)
@@ -415,17 +365,13 @@ https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE",Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVes.ve@SD",TVes (1080p)
-https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="REP. DOMINICANA",Tora Canal 69
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="TVBRICSSpanish.es@HD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Spanish (1080p)
-https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD" tvg-name="TVC " tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="Ecuador",TVC (720p)
 http://157.100.248.242:8080/TVCHD/index.m3u8
-#EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA",TVN (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA",TVN (1080p)
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="CL: TVN" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="CHILE",CL: TVN
 http://15.204.246.24:8080/TVNHD/index.m3u8
@@ -441,8 +387,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl@SD" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="CHILE",TV Quellón (1080p) 
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QollasuyoTV.pe@SD",Qollasuyo TV (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | UFC FIGHT PASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLrGbYJ8rW58YXUksTu0ZYW8Zg2c-PmfzIg&usqp=CAU" group-title="UFC",UFC (1080p)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel (1080p)
@@ -477,34 +421,14 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?o
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD",Canal+ Sport 8 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VoyoSport1.ro@HD",Voyo Sport 1 (1080p)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Teletica7.cr@SD",Teletica 7 (720p) [Not 24/7]
 http://181.119.177.253:8000/play/a0da
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" Xtreme " tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="CINE",HBO Xtreme Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-name="HBO " tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",HBO Latin America (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="CINE",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD",HBO Family Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/chunks.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil",TNT Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/TNTHD/index.m3u8
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-name="TNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png" group-title="CINE",TNT Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/chunks.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-name="TNT SERIES FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="SERIE",TNT Series Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT HD" tvg-logo="https://logonoid.com/images/sbt-logo.png" group-title="BRASIL",SBT Nacional (720p)
@@ -513,8 +437,6 @@ https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="Bandamax.mx@SD",Bandamax (1080p)
 https://streaming.onnethn.com/Bandamax/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
-https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 
@@ -532,8 +454,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38629.mp4
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Protocolo fantasma (2011)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alita, ángel de combate (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w87I5lmJR59CwyJNrykSkXcoroQ.jpg" group-title="INFANTILES",Alita, ángel de combate (1993)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/83893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="⚡️VOD 2022-1",The Adam Project (2022)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/30184.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
@@ -544,48 +464,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: Un viaje inesperado (2012) Version extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: Un viaje inesperado (2012) Version extendida
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio IV - Una nueva esperanza (1977) 
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177736.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" La guerra de las galaxias. Episodio V - El imperio contraataca (1980) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio V - El imperio contraataca (1980) 
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177737.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" La guerra de las galaxias. Episodio VI - El retorno del Jedi (1983) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg" group-title="⭐️SAGAS", La guerra de las galaxias. Episodio VI - El retorno del Jedi (1983)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/177738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yyw20gloVgbzR9a5B15GqPdqux.jpg" group-title="⭐️SAGAS",Star.Wars.Episode.I.The.Phantom.Menace.1999 (1)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/265406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHHiyoMJ4IVDc5yaXZqncHYXEPS.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494104.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOJW1omsgW9DbluOkOLbzj9TFwt.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494105.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s17s4ZOi2apvDSKKiCbcGvzNANe.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMCetlIB9hU6KxQEqgWIllgtFIG.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mD443vygJASVG4AgLYR9hWdydQ.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494108.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEhmff3xSEPvIXxfLXSEYDBwCpP.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494109.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoEIhRYK4uMHHvtJZgxfDc4dxwO.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVjJ2SesPkMdPU0G4beYmGJgSrS.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ZvdoMGyrYOun2UJ959b8JnZiK.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S02 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494112.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/h9td0VFSO29IjLrR0N6d9TVV2V1.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kewzerVNtGLdKMEgPgbeTZTpS1.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/etetipprMIomQtuY07s2MHWpi2i.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iX385P6tuYDNcL0KtgnZCT328NN.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/z7mSWkzT3vV0z3bzzyzwQ2irKCV.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/aJh8jLfMCsQU9PlCDaHTyBONyO0.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/wczGkjHGtaeMqwMF4GPbSk68Own.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasaría si...? S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/1xkwtdfLYndO3F2rf5Itas7EAkD.jpg" group-title="⚡️SERIES DE DISNEY +♾️",¿Qué pasaría si...? S03 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494385.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54VcvNvddIdynXTFrZOSLJlSOLE.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4caKHpd7aDURha12cOg6UiLYnZA.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E02
@@ -843,84 +721,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg" group-title="PELICULAS DE  TERROR",Halloween 4: El regreso de Michael Myers (1988)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" group-title="PELICULAS DE  TERROR",Halloween 5: La venganza de Michael Myers (1989)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halloween: La maldición de Michael Myers (Halloween 6) (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" group-title="PELICULAS DE  TERROR",Halloween: La maldición de Michael Myers (Halloween 6) (1995)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/110222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BU5OxTFSPGEUMF7qEbU0BBrgOM.jpg" group-title="DISNEY - Star+",The Acolyte S01 E01
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYIEFKrnYWhD2NOpwBRmUTDIXPd.jpg" group-title="DISNEY - Star+",The Acolyte S01 E02
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXNMktM90svjlXGeIG8Uq0qWZQz.jpg" group-title="DISNEY - Star+",The Acolyte S01 E03
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ombxA88DsT1iP2xPwBYCTQsE7zR.jpg" group-title="DISNEY - Star+",The Acolyte S01 E04
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" group-title="DISNEY - Star+",The Acolyte S01 E05
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UaIeS3LZJDupoMO44k03Tps3JC.jpg" group-title="DISNEY - Star+",The Acolyte S01 E06
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yPcCMHk26SQuiQYK1PMEKNMuxV0.jpg" group-title="DISNEY - Star+",The Acolyte S01 E07
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ofLhs7Ko9MYKQ9Gdlr9lRHC4wPz.jpg" group-title="DISNEY - Star+",The Acolyte S01 E08
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/102844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XUFWn9fvuA1oo3DdAfb3A4ZEIo.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E01
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3eB97S8bG6YMppV6rJDU3jCbZ5.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E02
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhlA5VjRYpdz9Lz240rBHkzdith.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E03
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXbmG475A38gxP7DUXDCdup6iSE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E04
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUEiF3dFXEH56LosjzJnCsQammN.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E05
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h3xA3zrcy2OVqPBY7tR3qgML2z.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E06
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80m3XUSqFfCMNw6GpWY2Q1KAesS.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E07
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjqRFwr2v91gq8qzfefil8egCPt.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E08
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Mf0l59K2OQ0I7q1oR06cIqo5zT.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E09
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMcPzhH0rScvMSejNluYtFYxISg.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E10
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUtF2A9EfkdthCrlxTnqd0sXRpO.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E11
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118910.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfOP5WZIkDNifAfXwQ7H84ZrqTv.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E12
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1RkiIw0eNhhH1wLzUyYYimlBVg.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E13
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118912.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy4NJR9kqEelJ5teHPlAINBNnpE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E14
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtuuZvOqAyHyIB7l0gxf2XfgYN.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E15
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJoRCwptCOpTZVkYysHDBFdO4OR.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E16
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtTNNuGbkeLJxQ0XJegQ7J3TNma.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E17
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDdapd9idn06AAQsLVvaSDSrWlm.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E18
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAue77ie9C2MGFpwCbMIvoPvbNQ.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E19
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118918.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztEK1MtwwbG7D0jb95A59qxaS3G.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E20
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viBmFStZIZMOXq71YDrBgqZEhDD.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E21
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Wcby9maE08RaH3mS7aAHw5hkM.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E22
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pJtFmAS3TJuWoCaUrY904pqNFE.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E23
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E24
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E25
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E26
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="SERIES DE COMEDIAS",The Office S09 E27
-http://planettvweb.com:8091/series/MarceloNu/GPan5082d/118926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="PELICULAS DE  TERROR",Expediente Warren: The Conjuring (2013)
-http://planettvweb.com:8091/movie/MarceloNu/GPan5082d/126719.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzM5aXXe3r8LJy6FUmP4FMygLS.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267743.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UZPB7eNk5fBRgFCF9JwfhJUhQO.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E02
@@ -937,10 +737,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="TV CHILE" tvg-logo="https://lisa.zapping.live/uploads/canales/color/13i.jpg" group-title="CHILE",TV CHILE
-http://planettvweb.com:8091/MarceloNu/GPan5082d/14275
-#EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES MEXICO",TUDN HD
-http://planettvweb.com:8091/MarceloNu/GPan5082d/50497
 #EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3eIJSxZO2zXig4Ni3oo8md6mWS.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267751.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5KY9oQToDlm7IE0Crem81unYYK.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E02
@@ -963,195 +759,283 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
 #EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474426.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474427.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yzGYMSNL0v3ke7ZhMVwLQ1EJjU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKEeBZJ3ZUozLCOwwMmcvRA71E.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpLBlBrhOSqUHXDEiiTRh9k7zPj.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474430.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1AEifTW6VVAZfO2nuTtU3pampT.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474431.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OHN3TYFl6pFXFDjQod5hhWFx3v.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474432.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSPPQLhChQTyU8SoVeyBLcNxzhU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IUBoErgGbboihLAuPDhN5IsO2s.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474434.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUl35gfKEU290UBsGg8iBzS6w35.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW8YkcfS3VmuMQQaay3egW6WslP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474436.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ObZDLK3f7BucdgtmAlHZRYN3IB.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S01 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474437.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frpOW7FC1WK0VBVud10HgdJe8ol.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474438.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YP4kxFjgagRt7vUMgJa8D1g5uI.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474439.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHZohveJBES8cyabSl03183xWVU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omBmf4Gxu8HPpnciDs6dUTYAiN3.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0ntqQbnWYabRjOtqo52o8DFyIJ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474442.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKrJD55JnC8hqoQoBJ67h4BYKjP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89kffiLK6MXzsfw4eoctGn3sjAs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YhQSL8sT6AHHwfHIL6MjJ5EWSt.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAl32FZvPX1MKpqpV53KykTeQVJ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hwi3PexQPX8tNvAVuruvaezoIO.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474447.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdFP9NQJMVY5crICkOTRjJK1mlr.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRaGUDxQS0q5DNXXI0nSOktyUGM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S02 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdH4AA2JHjTzNbJsSYlnj1y0Usu.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwqscjgKqZzb6OwnYs8rcYU5hP3.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcjf9NUfZwGABLjq6icVajiQ5ub.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtG2G9kPOoKk4uBIk3Ysx3quaZY.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG2GUUKIbRQGWeiJDgLz5XfvGDQ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474454.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMXI9eB5Al7Z4Ml1FT2I7ab4Mqt.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diV4PorgFxGgaJ4NEkdgsVfm6vM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBErfxofBmbSyrEwCWP5H8g0R8l.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbIfp18t6JlRwAQPE9HdjD1IRB.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnMxl1OlaRkd5iQHur6y5MVK2r5.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474459.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz2SS1ryWW3mVNnzdHWjeFxXOap.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474460.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHwN7NHb86pL1pc0quibQ9SDcRn.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S03 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474461.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y94AoQ5VuYVMiULoVJcLKfjOGZZ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474462.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpQGuVBVwqcjEOLz6ps7DvUQS10.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaoXpYSxx2rc1zesGcxWzuX00Bs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yN6OWyF24aDuckvivM8cQYZGMQV.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474465.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooIWcSTIqRwCxLQDcnMFjDaJ8FN.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474466.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9SvSFV1tct7Izf77tLYloeckNB.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474467.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PqM8kyGQglaWbzZcP3K4NgtcWI.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474468.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nk76CTklB0GmLvQvvj93mWtBHok.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474469.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jz2bLM8TpOs6KIZ8ioIDVzPSEH.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474470.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc8RXClgsI042mizDnS1dzlvmVD.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474471.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uPSRe5khLCoF4EFpKzDjpaemy0.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWYDtmJZFGYKmEbdSGoJfQvSEBS.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S04 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdGJdelD5SzwVCAbmmET9wlMriS.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFbYyu6Tm1MMvXBLksmCdaf4Jus.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474475.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1lle5gWz29k8YF9Prj96C2UFDP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474476.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtZqSW0YK2dDV4aoQQpqHyvNhld.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474477.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wDdxhrFAu49wJm9fCAXaEUsOuM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm0ulOj2hZy328SDV7OLXN9i0eF.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474479.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiuLl4xSraqW6v20s8phmeoMHrR.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474480.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA2FU6C9KeBR17khhB4JrtropFZ.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474481.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dXPwXK9Bs1G13OT7y7rV4gKiok.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474482.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xVM0xayQbGaGD6ttARrSVsySm.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9px718VarB7exQKeKkWd32j4hB4.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbAGakIEtwPpqi573MsseIDXE9s.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S05 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474485.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LzY078N4Z9dj9ZIQrXPe6kSrJC.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474486.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hOO63aMJNSrMODHOnZsdzY4bnq.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk3q8ShixJq4Uz0xZAgWdyxF4nU.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKTM4t4Km96Jw1UuzsLQ2jh6qIM.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474489.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqEs9ZNXzwDpTJyGqQ4DLEERuUT.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBidqdPUl35XSlu7MQvPFUtQsa0.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QSX0cANrmBaSh33vW5BElbfuE2.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474492.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9Otsd4k7wfoYJRJypHXaz0PhQa.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVsuse9YRwSOfzBqFl9EERHR6B.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474494.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CfCrtftsxuI12GgXAmf3TeQHRw.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474495.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKjPc9ufCGGOXwZFXp8Zpf8ds7o.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gqei0x9rSr69w5vGgFYbmW3yln.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S06 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474497.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6I9tGOb5dLVBOBPEv39ipwtYwNs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jduaZpGaX9px1truLCy7FJrHdob.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474499.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lggXg0Kj79ULd9D2vPmSm90KqIA.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474500.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJqVgCqHaaWiUSer2aaZZLgNCbw.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474501.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqvGy0tFatsxmuUQbXBpa6o2Yjj.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474502.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSDCKHTYk465LsAVXRrJXFihW26.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474503.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTet8jcgEzeB1WXXtEBSX8YMc7k.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474504.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCoCVChXZ5faGfbiJP0aZpfCC46.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474505.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y79hTt1bhkYFQcjkXXiQmbPSioN.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474506.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UFYGGEUExIcOa3dQXzrdRReND7.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474507.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZ1b3fGN7s5TMsKZjAuEFnYXZbH.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474508.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mD1T6pKnwdPPMdzOtQbTNfYJ5ZA.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S07 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474509.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMIbqOhRemiQnAZS03uZEAsMKwE.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlwGYHQLOtyrcuQNFA826uHDsjb.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EoBuX5ZoEzRESiwxmzN1isF1vR.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474512.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i9ngjFiiIZ7wIFAgCVcy10zGP.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474513.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz6AYUeDlyDp8TQr9u7RPSq8otn.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474514.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enjTk2EdDnLfbN23qL74WDIQ9Fs.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474515.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiovmFr9wAUqkXsJgijb2w5O4Hi.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474516.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtzfLANdHAVITvZXgRxnDlDTJ3I.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474517.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnn3rooU8u4vI61leQ2hJppWu2C.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CEbVmgm8gnz4EUjUmNt2WfdK7U.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474519.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5KZ7Y5yToGlvUnXEmpkYqZPRil.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474520.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2x4HNzRvhBLqIRU2gevZCCR2u6.jpg" group-title="⚡️SERIES DE HBO♾️",Dexter S08 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/474521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkZztD9ddgRh32ve8zwCqwfle85.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiwIW9CvRSNSTpGezcEmN66G0OJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ww5ZnuYxTTV3ydjeIMTbyqwdNB.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RIsVKvOsrumsC0SPFuEJCzxXUp.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRSru3rTtSa3zvHVfeJunxuPhFG.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5AjQZ3tVven0KwZKEmy4t1bT6d.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgnAd6j1mdqDUDcRBLkywbVXuk6.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgfspvyubxzgwvXhlPUpzv7FUjJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTxaYuVoOGpQgUy3i9Widm5wwQE.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85UQM8CFLJUBaL4Izvy7XLOAFUz.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coRYq2nyR4bosvahgnHW3lZpaZH.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1T5GvyGYDrVloexWJfxDJwOEBy.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4quJAR1dFZPWA4bQH3UJSIqCvdW.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyCXd1MSWDuSvwAlXECMJkezEaP.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxaPGgzgU2ORVJIxgIRNVSVvONi.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfYLGCk8PjvQDw2SZFkD3e4l5yM.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJuxAxDhUNVny9hA0o3nM6BnaHT.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eqDht8SU8h6NTMOJR5Y7XxktgA.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6o67ERb1xSvI8yJkKblxkZTO34.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYjvvHpeJPH8dOAHUAFsi2GEach.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51gMXACMehJE8nmiQ92ENmoigfu.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYVCp6icJj0HxZeWlRXH8WYGLbd.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgF2bIbZa7laCUHd8WLIx1VzwC0.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P4k46hd94u41xzpppaEJPmP6j2.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ1KI1txMvzhV14wMkQbXvqcbUb.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ1KI1txMvzhV14wMkQbXvqcbUb.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzTIerUym4EpT366TIqtwmxOwZC.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzTIerUym4EpT366TIqtwmxOwZC.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTV3gyxifDzmZwxMhEv1hhlNI3y.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTV3gyxifDzmZwxMhEv1hhlNI3y.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbkjA5Osx5WOsAI9QckCQrIMzCq.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbkjA5Osx5WOsAI9QckCQrIMzCq.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E09" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E13
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E14
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E15
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E16" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E16
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E17
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E18
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E19" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E19
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E20
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E21
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E22
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E23
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E24
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E25" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E25
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E26
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E27
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E28" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E28
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E29
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E30
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E31" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E31
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E32
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E33
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E34" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E34
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E35" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E35
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E36" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E36
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E37" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E37
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E38
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E39" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E39
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E40" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E40
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E41
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E42" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E42
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E43" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E43
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E44" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E44
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E45" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E45
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E46" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E46
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E47" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E47
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E48" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E48
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E49
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E50" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E50
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E51" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E51
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E52
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E53" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E53
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E54" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E54
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E55" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E55
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E56" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E56
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E57" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E57
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E58" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E58
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E59" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E59
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E60" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E60
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E61" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E61
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E62" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E62
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E63
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E64" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E64
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E65" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E65
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E66
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E67" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E67
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E68" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E68
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E69" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E69
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E70" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E70
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E71" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E71
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E72" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E72
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E73" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E73
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E74" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E74
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E75" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E75
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E76" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E76
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E77" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E77
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E78
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E79" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E79
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E80" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E80
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E81" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E81
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E82
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E83" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E83
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E84" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E84
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E85" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E85
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E86" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E86
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E87" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E87
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E88" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E88
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E89" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E89
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E90
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E91" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E91
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E92" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E92
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E93" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E93
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E94" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E94
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E95" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E95
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/167774
+#EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CL | TV +
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/273685
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal 5" tvg-logo="http://redworld.pro:8880/images/a6347a1fdacab7eaee2f8a72a0dc421d.png" group-title="⭐️ Telenovelas",Latino | Canal 5
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/135430
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
+http://superxlatino.com:8880/movie/Valerio8@529/LnCEz4ehDcpj/552980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN (Mexico)" tvg-logo="http://redworld.pro:8880/images/c4ab5ec256d1ae348cfb1eaf3be6ed4a.png" group-title="⭐️Deportes México",SP: MX: TUDN (Mexico)
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564199
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X4" tvg-logo="http://redworld.pro:8880/images/c4ab5ec256d1ae348cfb1eaf3be6ed4a.png" group-title="⭐️Deportes México",SP: MX: TUDN X4
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564204
+#EXTINF:-1 tvg-id="" tvg-name="UNI | UNIVISION" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Univision",UNI | UNIVISION
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564222
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS - PHOENIX" tvg-logo="http://redworld.pro:8880/images/761a42eafea7031cf43a72e64eb533a9.png" group-title="⭐️ Unimas - Galavision",UNIMAS - PHOENIX
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564241
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="⭐️ Unimas - Galavision",GALAVISION HD
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564246
+#EXTINF:-1 tvg-id="" tvg-name="ENTEL GOL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",ENTEL GOL
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/521032
+#EXTINF:-1 tvg-id="" tvg-name="SAL | 01 • TIGO SPORTS ( SOLO EVENTOS )" tvg-logo="https://flowpremium.digital:8443/images/09517ceda466512ebe9e38d5308dfd15.png" group-title="⭐️ El Salvador ",SAL | 01 • TIGO SPORTS ( SOLO EVENTOS )
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564049
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://redworld.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional HD
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/318376
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP1" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP1
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/534771
