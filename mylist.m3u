@@ -115,8 +115,6 @@ https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="Comedy Central" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENIMIENTO",Comedy Central Latin America
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="MX: Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="MEXICO ",Comedy Central Latin America (1080p)
-http://181.78.79.131:8000/play/a0mu
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
@@ -257,8 +255,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 http://190.128.214.97:64333/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-name="National Geographic" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="USA",National Geographic Latin America (1080p)
 http://45.173.231.22:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America
-http://181.78.79.131:8000/play/a0pt
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="LATINO",Next HD (480p)
@@ -425,10 +421,6 @@ http://158.172.155.130:8000/play/a0ao/index.m3u8
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
-http://181.78.79.131:8000/play/a0qm
 
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: Un viaje inesperado (2012) Version extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: Un viaje inesperado (2012) Version extendida
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471922.mkv
@@ -1067,8 +1059,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288423.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
 http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/167774
-#EXTINF:-1 tvg-id="" tvg-name="UNI | UNIVISION" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Univision",UNI | UNIVISION
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564222
 #EXTINF:-1 tvg-id="" tvg-name="ENTEL GOL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",ENTEL GOL
 http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/521032
 #EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://redworld.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional HD
@@ -1079,7 +1069,5 @@ http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/350269
 http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/385098
 #EXTINF:-1 tvg-id="" tvg-name="UNIMAS - HOUSTON" tvg-logo="http://redworld.pro:8880/images/761a42eafea7031cf43a72e64eb533a9.png" group-title="⭐️ Unimas - Galavision",UNIMAS - HOUSTON
 http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564245
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LOS ANGELES HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="⭐️ Unimas - Galavision",GALAVISION LOS ANGELES HD
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564251
 #EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
 http://superxlatino.com:8880/movie/Valerio8@529/LnCEz4ehDcpj/552980.mkv
