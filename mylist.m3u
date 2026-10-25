@@ -53,8 +53,6 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1Nuble.cl@SD" tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="CHILE",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-name="CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1 (1080p)
-http://200.122.223.13:55000/play/canal-1-tdt/index.m3u8
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",Canal 13
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr@SD" tvg-name="CR | Canal 14 Tv Sur" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="COSTA RICA",TV Sur Canal 14 (1080p)
@@ -65,8 +63,6 @@ https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika
 https://stream.haislin.com/14tv/index.m3u8
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="REP. DOMINICANA",Canal del Sol (1080p)
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD",Canal Institucional (1080p)
-http://200.122.223.13:55000/play/canal-institucional-tdt/index.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD" tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="News",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="Canalda26HD.do@HD" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="REP. DOMINICANA",Canalda 26 HD [Not 24/7]
@@ -79,8 +75,6 @@ http://181.205.130.194:4000/play/a0dz
 http://181.78.8.199:8000/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN " tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN
 http://38.134.250.110:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="RCN HD" tvg-logo="https://i.ytimg.com/vi/KDdUHeonyNE/hqdefault.jpg" group-title="COLOMBIA",Canal RCN (1080p)
-http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",CanalRCN
 http://190.61.47.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO: RCN " tvg-logo="http://sinlimitestv.com:8080/images/83f3fa8a4d672c82e40924c755b07083.png" group-title="COLOMBIA",RCN
@@ -95,8 +89,6 @@ http://181.78.8.199:8000/play/a0a7/index.m3u8
 https://stream1.bitred.cl/rcn-novelas/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="COLOMBIA",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-name="CO | SEÑAL COLOMBIANA" tvg-logo="http://goldfull.pro:8880/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="COLOMBIA",Senal Colombia 
-http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="REP. DOMINICANA",Chinola TV 
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
@@ -105,7 +97,7 @@ http://45.70.201.81:8000/play/a00p/index.m3u8
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific" tvg-name="CINE | CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="CINE",Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-name="RD | CANAL 19 " tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="REP. DOMINICANA",Cinevision Canal 19 (1080p) 
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-name="RD | CANAL 19 " tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="REP. DOMINICANA",Cinevision Canal 19 
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="",Cine Estrella (1080p)
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
@@ -179,7 +171,7 @@ https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="CINE",FX Latin America 
 http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO",FX Latin America South (720p)
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-name="CINE | FX  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO",FX Latin America South (720p)
 http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="http://redworld.pro:8880/images/34864737f971f1fdf12ccb68d437eee4.png" group-title="ECUADOR",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
@@ -193,8 +185,6 @@ http://15.204.246.24:8080/HBOHD/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ideas en 5 minutos (1080p)
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do@SD" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="R. DOMINICANA",Imagen Universal TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="SERIE",Universal TV Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="CHILE",Islita TV (1080p)
@@ -203,8 +193,6 @@ https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="DEPORTES",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="R. DOMINICANA",Laguna TV (1080p)
-https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py@SD",Educanal (1080p)
 http://190.128.214.97:64333/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
@@ -323,11 +311,9 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD",STVE Telebasica (1080p)
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleantioquiaPlus.co@SD" tvg-name="CO | TeleAntioquia" tvg-logo="http://goldfull.pro:8880/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png" group-title="COLOMBIA",Teleantioquia Plus (1080p)
-http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC TELEVISION " tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Television (1080p)
 http://45.224.97.181:9999/TC/index.m3u8
-#EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-name="CINE | TCM  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="CINE",TCM Latin America Chile (1080p)
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-name="CINE | TCM " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="CINE",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="DEPORTES",Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
@@ -422,28 +408,123 @@ http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="El hobbit: Un viaje inesperado (2012) Version extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: Un viaje inesperado (2012) Version extendida
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el multiverso (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="⭐️VOD ESTRENOS 2023",Spider-Man: Cruzando el multiverso (2023) HD
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/194289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los ilucionistas 3- Ahora me ves 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg" group-title="⭐️VOD | ESTRENOS 2025⚡️",Los ilucionistas 3- Ahora me ves 3 (2025)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/515532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hobbit: La desolación de Smaug (2013) Version extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La desolación de Smaug (2013) Version extendida
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyQqxuDYmkyNnjC131bmt1bzShW.jpg" group-title="⭐️SAGAS",Mission: Impossible (1996)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38627.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12mI7kU22nJrmtAgGcDP8tbAz4a.jpg" group-title="⭐️SAGAS",Mission: Impossible II (2000)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38628.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Mission: Impossible III (2006)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Nación secreta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Nación secreta (2015)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Protocolo fantasma (2011)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Nación secreta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Nación secreta (2015)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Napoleón (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Napoleón (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Vidas pasadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Vidas pasadas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzM5aXXe3r8LJy6FUmP4FMygLS.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UZPB7eNk5fBRgFCF9JwfhJUhQO.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLPvNRBRNtF3GfOOWjDGOqKFlpg.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohDOvfMB27n5ByFvihD7hyVJ4W4.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6us6Sq1OTNu5AmaIyWmLvOzOxRz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuMuy0tdQEyGFNqx9dBJj2sUanc.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xjiOtRn9fUPtV2TjXIrcfesKHz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myJExWL5FHqKCGGb889RDPc10Dc.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKBfU13TiX485Vp3WTc5cLClfJ0.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28BwbE777Zvkampdjqdw0Wsn1SS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKCJeGqDUECSKdgjgtGxTCxq1cm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqGcL2CS84q58R7kPrVxDGYPRZS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KsJsHNc5B0bu1ef23LeXiFam9c.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5Sqjz32JwYVcGBMgmTuCFqbYzL.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1ggS3m3adc0xwogqnTsjX4SgU.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u3Y2HpD0wlK697lnpvNn6h5lYK.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZAsvywpXqI4PuI4D5HRhOOFbx3.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqdBzutT43GCmiXC9RNfeu10zbT.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxtgfnN4Sbc3A9P7MpgYvYoHsLa.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/if9file4gUw0HXWR7VVEpU7qt6N.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E13
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liU5q4tBz4NUkPWfxAFt4PeLjfq.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8j05Z6Akt0JBS9kRMRUHnd3r9d.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NZz5UvM1BN7ZbTfqsvsqQX8aHm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV11dsEbhkDQlJpTR0I7fZvc9JI.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AklcMDbMBOYohS6TbAHBm25kUr7.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2z9Z5xmrvdVZCvvgEYyL28XgqR.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alo5IDBjum8fRwvg4XO1VvPWuKM.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sW9xJ59fonWTW6yVtLXU44NUta.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIcJUFTupNMvrHakcLmD67ggLEN.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFZELf7TqRGJPHVkuFwFv150L0o.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3jfp9bo1IwetXDDfnvNyas4E5t.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKEw435mmzphrrzK8Tv3aD8o1ay.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pM7ZGy6ru4DoWMHoUQOOYgaJOud.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW8I0Lxs23lbnwjo0QwfEe5yTUx.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRnHMkNx7IelKRufOHMrPS3A653.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNqYeQHUdhFRhVE8jgRJzc0nyzx.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5QOPIpd6qX3DNCgClSeNECdasE.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QQ7AdptYvUJXaVlvnte3xdMt7L.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD67uLdfHQ90CpSJUGL8DvBzL4U.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s08h94sBoXUK3TbW63C6LKzTA2m.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RwEybJIB0tKJDSJryYesRVospq.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv9pSVf6gu1Q7LK1PHlXRtm1vIh.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2TihTmXdNmqDttJn87KAytG57c.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQXko10Hjmd3MtpZQX7h9Af2dNn.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuXsh7wnAyyysr6qfORx1BXZPgb.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmMV01kSEHHGPiW38r4ohGMh7G6.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMIIv0YPrbCgkQmAUqZNm0HbZw3.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458236.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0it1ftVsJHP4N34A865Z0E95fS.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S01 E02
@@ -536,6 +617,12 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458279.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458280.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La joven Liga de la Justicia S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myQxeSgcma4rrfxK4WVg95VCZuI.jpg" group-title="SERIES ANIMADAS",La joven Liga de la Justicia S02 E20
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/458281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VcLPpMZ84a4wklm6uqGC2mWhKc.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6UlUryQIiw2rhdJkTYajJZkUU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E02
@@ -588,28 +675,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275456.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCKka3NkjF3AmMCVPKL4QQMfun.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuXsh7wnAyyysr6qfORx1BXZPgb.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmMV01kSEHHGPiW38r4ohGMh7G6.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Continental: Del mundo de John Wick S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnoOsWYJzURObqUYHs9Svut8aJf.jpg" group-title="⭐️SERIES 2023⭐️",El Continental: Del mundo de John Wick S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/266078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzM5aXXe3r8LJy6FUmP4FMygLS.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UZPB7eNk5fBRgFCF9JwfhJUhQO.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLPvNRBRNtF3GfOOWjDGOqKFlpg.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267745.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohDOvfMB27n5ByFvihD7hyVJ4W4.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6us6Sq1OTNu5AmaIyWmLvOzOxRz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267747.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuMuy0tdQEyGFNqx9dBJj2sUanc.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xjiOtRn9fUPtV2TjXIrcfesKHz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TSEyrqaRN6jwTwnRbp8jUvpeHj.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qio46neIDQi9KxkmXBeE3l5baUu.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E02
@@ -706,12 +771,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267756.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267757.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Scott Pilgrim da el salto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkHgTlNF75wVJVo10E2FCBwwP7.jpg" group-title="⭐️SERIES 2023⭐️",Scott Pilgrim da el salto S01 E08
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267758.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkZztD9ddgRh32ve8zwCqwfle85.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478046.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiwIW9CvRSNSTpGezcEmN66G0OJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E02
@@ -760,22 +819,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478067.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478068.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P4k46hd94u41xzpppaEJPmP6j2.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E12
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ1KI1txMvzhV14wMkQbXvqcbUb.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ1KI1txMvzhV14wMkQbXvqcbUb.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzTIerUym4EpT366TIqtwmxOwZC.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzTIerUym4EpT366TIqtwmxOwZC.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTV3gyxifDzmZwxMhEv1hhlNI3y.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTV3gyxifDzmZwxMhEv1hhlNI3y.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbkjA5Osx5WOsAI9QckCQrIMzCq.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbkjA5Osx5WOsAI9QckCQrIMzCq.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S03 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/539899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284281.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E02
@@ -966,96 +1009,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284373.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284374.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E95" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E95
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myJExWL5FHqKCGGb889RDPc10Dc.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKBfU13TiX485Vp3WTc5cLClfJ0.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28BwbE777Zvkampdjqdw0Wsn1SS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKCJeGqDUECSKdgjgtGxTCxq1cm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqGcL2CS84q58R7kPrVxDGYPRZS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KsJsHNc5B0bu1ef23LeXiFam9c.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5Sqjz32JwYVcGBMgmTuCFqbYzL.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1ggS3m3adc0xwogqnTsjX4SgU.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u3Y2HpD0wlK697lnpvNn6h5lYK.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZAsvywpXqI4PuI4D5HRhOOFbx3.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqdBzutT43GCmiXC9RNfeu10zbT.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxtgfnN4Sbc3A9P7MpgYvYoHsLa.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/if9file4gUw0HXWR7VVEpU7qt6N.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E13
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liU5q4tBz4NUkPWfxAFt4PeLjfq.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8j05Z6Akt0JBS9kRMRUHnd3r9d.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NZz5UvM1BN7ZbTfqsvsqQX8aHm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV11dsEbhkDQlJpTR0I7fZvc9JI.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AklcMDbMBOYohS6TbAHBm25kUr7.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2z9Z5xmrvdVZCvvgEYyL28XgqR.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alo5IDBjum8fRwvg4XO1VvPWuKM.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sW9xJ59fonWTW6yVtLXU44NUta.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIcJUFTupNMvrHakcLmD67ggLEN.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFZELf7TqRGJPHVkuFwFv150L0o.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3jfp9bo1IwetXDDfnvNyas4E5t.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKEw435mmzphrrzK8Tv3aD8o1ay.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S02 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pM7ZGy6ru4DoWMHoUQOOYgaJOud.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW8I0Lxs23lbnwjo0QwfEe5yTUx.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRnHMkNx7IelKRufOHMrPS3A653.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNqYeQHUdhFRhVE8jgRJzc0nyzx.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5QOPIpd6qX3DNCgClSeNECdasE.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QQ7AdptYvUJXaVlvnte3xdMt7L.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD67uLdfHQ90CpSJUGL8DvBzL4U.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s08h94sBoXUK3TbW63C6LKzTA2m.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RwEybJIB0tKJDSJryYesRVospq.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv9pSVf6gu1Q7LK1PHlXRtm1vIh.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2TihTmXdNmqDttJn87KAytG57c.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQXko10Hjmd3MtpZQX7h9Af2dNn.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm2lFUmFaMgdCh4NpIPX0cvCDdB.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKnHaYuQMiN2lyX695bNmCL02kE.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xqUPoxgInb7hHiGmJNW93zZRbJ.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWacpPzK3pDCTbKDh4vlMI1rjSH.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2ImRLAQH3zMroOxITNDxdrN9gx.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkjOP6eVwdQamkwtvPLSZmRN2bs.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCcuxsmwaiAQrAZnHa4FavdiK5S.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0221HNlDMoT8EptJbKUAEyU4D2.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S04 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288423.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
 http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/167774
@@ -1071,3 +1024,7 @@ http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/385098
 http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564245
 #EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
 http://superxlatino.com:8880/movie/Valerio8@529/LnCEz4ehDcpj/552980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CL | BIO-BIO TV" tvg-logo="" group-title="⭐️ CHILE  ",CL | BIO-BIO TV
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/400325
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
+http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/407036
