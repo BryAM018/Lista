@@ -81,8 +81,6 @@ http://190.61.47.54:8000/play/a01f/index.m3u8
 http://181.78.17.228:8081/RCN-HD/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN MÁS+" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="http://goldfull.pro:8880/images/9eab3d01ae2477e250ff4dd968b47923.jpg" group-title="COLOMBIA",RCN Mas (1080p)
-http://190.128.214.97:64333/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="COLOMBIA",RCN Novelas 
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="CO | RCN Novelas " tvg-logo="http://redworld.pro:8880/images/1fb58df5c47942436ba1bfe0978e1b70.png" group-title="COLOMBIA",RCN Novelas (1080p)
@@ -193,10 +191,6 @@ https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="DEPORTES",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Educanal.py@SD",Educanal (1080p)
-http://190.128.214.97:64333/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
-http://190.128.214.97:64333/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="PE| Latina " tvg-logo="https://i.ibb.co/S7ZcBCsh/LATINA.png" group-title="PERU", Latina 
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-name="PE| Latina " tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="PERU",Latina Clasicos (1080p)
@@ -215,8 +209,6 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (1080p)
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar@SD",MusicTop (1080p)
-http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-name="USA| TLC PACIFICO HD" tvg-logo="http://redworld.pro:8880/images/f3b9eb5be34b26e0642bf6899f096578.png" group-title="LATINO",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="CL | MEGA HD" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="CHILE",Mega 
@@ -229,18 +221,12 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Entertainment",Metro TV (720p)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (1080p)
-http://190.128.214.97:64333/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mi Raza Canal (1080p)
 https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791ea506492f5bf73b63/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mi Raza Canal Plus (1080p)
 https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
-#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV (1080p)
-http://190.128.214.97:64333/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mundo Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (1080p)
-http://190.128.214.97:64333/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-name="National Geographic" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="USA",National Geographic Latin America (1080p)
 http://45.173.231.22:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
@@ -315,8 +301,6 @@ https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-name="CINE | TCM " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="CINE",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="DEPORTES",Teledeporte
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="MX Teleformula" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="México",TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="General",Telemas (1080p)
@@ -401,8 +385,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@HD",EnerGeek (1080p) [Geo-blocked]
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-#EXTINF:-1 tvg-id="ESPNPremium.ar@HD",ESPN Premium HD (1080p)
-http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-name="CINE | TNT " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="CINE",TNT Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas Colombia (1080p)
@@ -428,9 +410,6 @@ http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Vidas pasadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Vidas pasadas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzM5aXXe3r8LJy6FUmP4FMygLS.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267743.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UZPB7eNk5fBRgFCF9JwfhJUhQO.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E02
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267744.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLPvNRBRNtF3GfOOWjDGOqKFlpg.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E03
@@ -1010,21 +989,43 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284374.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E95" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E95
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/167774
-#EXTINF:-1 tvg-id="" tvg-name="ENTEL GOL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052025/captura_de_pantalla_2025-05-22_a_las_08.54.56.png?Lk9DzFwQLqwVC2fDXClOYwKIN5c9_Sl1&itok=fhqGLoJO" group-title="⭐️ Deporte Bolivia",ENTEL GOL
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/521032
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://redworld.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional HD
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/318376
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PURUWA" tvg-logo="http://goldfull.pro:8880/images/c604fe782c8b2e57152c4fdc0019b673.png" group-title="⭐️ Ecuador",ECUADOR | PURUWA
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/350269
-#EXTINF:-1 tvg-id="" tvg-name="UR | TV CIUDAD HD" tvg-logo="http://redworld.pro:8880/images/429b6f3aa70380d840d2e0d28c1b93ed.png" group-title="⭐️ Uruguay",UR | TV CIUDAD HD
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/385098
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS - HOUSTON" tvg-logo="http://redworld.pro:8880/images/761a42eafea7031cf43a72e64eb533a9.png" group-title="⭐️ Unimas - Galavision",UNIMAS - HOUSTON
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/564245
-#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
-http://superxlatino.com:8880/movie/Valerio8@529/LnCEz4ehDcpj/552980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CL | BIO-BIO TV" tvg-logo="" group-title="⭐️ CHILE  ",CL | BIO-BIO TV
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/400325
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
-http://superxlatino.com:8880/Valerio8@529/LnCEz4ehDcpj/407036
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYAaV6dWrBpZx8uuLtuOdkEKgV1.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z24xnJR4GeQTgC5P3wTVEG2qj2q.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bhOB2bVy7esu57mAWZ92GbUP2q.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsHt3JP7KfPpeI3xqueBdecE3tH.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d3gaMqfeGTqqgIlrzbkoQrtqFi.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlHmxQcvil5dvLG38nGc89DLKo2.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRrmptYgQ9an5em4GUzdGhHIguP.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1alejEAHsZMj4xX9XJmCI3PCLsR.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9XGfyCy9MBTZ1RVtRl84588nBJ.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9A6bVofAAwxxxzkC5Cr0C7oUijC.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj8ibIrxe8IdRIcQ535I7KpTGlj.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouvFvtmzjTuo63FHwBHLFvBOaOr.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teVJFCltTGym3SB05QFrtC2wbKd.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYYVe8vW4JoBDMsR5OhZQOkCPmS.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tm0Jo1J0fLfyG6AqWN0si3qbR80.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SEGSqSxaqLdvhBiuUvrjU6hWi3.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AleUEw0LfX9g5P8CG4xpWlpDR3q.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFCPVqkHv273Tq0LpGJZ4z14HvI.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Bhn2SWpz5TIbbj4t8t4GH0MFXM.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dimensión desconocida S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AckqaVILbYYkE2tFfDdQGLjVPNg.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",La dimensión desconocida S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/296653.mkv
