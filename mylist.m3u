@@ -225,8 +225,6 @@ https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="LATINO",Metro TV (720p)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="LATINO",Next HD (480p)
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-name="National Geographic" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="LATINO",National Geographic Latin America (1080p)
 http://45.173.231.22:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
@@ -261,7 +259,7 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx@SD" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="México",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" tvg-name="BOL : RED UNO SANTA CRUZ" tvg-logo="https://i.imgur.com/pqVzZQ9.png" group-title="BOLIVIA",Red Uno Santa Cruz
+#EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" tvg-name="BOL: RED UNO SANTA CRUZ" tvg-logo="https://i.imgur.com/pqVzZQ9.png" group-title="BOLIVIA",Red Uno Santa Cruz
 http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="COLOMBIA",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
@@ -289,8 +287,6 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperDigitalTV.do@SD",Super Digital TV (1080p) [Not 24/7]
 https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8
-#EXTINF:-1 tvg-id="SuperChannel12.mx@SD" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="México",Super Channel 12 (1080p)
-https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD",STVE Telebasica (1080p)
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC TELEVISION " tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Television (1080p)
@@ -323,6 +319,8 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-name="CINE | TNT " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="CINE",TNT Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Argentina",TNT Latin America Argentina (1080p)
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="TELENOVELAS",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="REP. DOMINICANA",Tora Canal 69
@@ -387,6 +385,16 @@ http://190.61.90.17:40000/play/a02i/index.m3u8
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico",ESPN Latin America Mexico (1080p)
 http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD",Europa Europa (1080p)
+http://45.228.234.9:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="SkySports1.mx@SD",Sky Sports 1 (1080p)
+http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx@SD",Claro Sports (1080p)
+http://45.228.234.9:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="HTV.us@Argentina",HTV Argentina (720p)
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Argentina",Tooncast Argentina (720p)
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: La desolación de Smaug (2013) Version extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La desolación de Smaug (2013) Version extendida
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471921.mkv
@@ -1004,7 +1012,6 @@ http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/145179.mkv
 http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/145180.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="CIENCIA FICCION",WandaVision S01 E09
 http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/145181.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 1: El Exterminador (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg" group-title="ACCION",Terminator 1: El Exterminador (1984)
 http://playtvch.lat:2082/movie/walterhernandezvod/VODseparadoxssiptv/3234.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doom Patrol S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haGXVysgMev060Rp7QJKAN7oagJ.jpg" group-title="CIENCIA FICCION",Doom Patrol S02 E08
@@ -1027,29 +1034,3 @@ http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/148212.mkv
 http://playtvch.lat:2082/movie/walterhernandezvod/VODseparadoxssiptv/5775.mkv
 #EXTINF:-1 tvg-id="" tvg-name="300: El origen de un imperio (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg" group-title="ACCION",300: El origen de un imperio (2014)
 http://playtvch.lat:2082/movie/walterhernandezvod/VODseparadoxssiptv/5776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg" group-title="CIENCIA FICCION",Loki S01 E01
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144706.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg" group-title="CIENCIA FICCION",Loki S01 E02
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144707.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg" group-title="CIENCIA FICCION",Loki S01 E03
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144708.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg" group-title="CIENCIA FICCION",Loki S01 E04
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144709.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fRAAO13URmteku8mb39V9YPJBb.jpg" group-title="CIENCIA FICCION",Loki S01 E05
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144710.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="CIENCIA FICCION",Loki S01 E06
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIJvoQAal0TDDIl5plfKfSnAish.jpg" group-title="CIENCIA FICCION",Loki S02 E01
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg" group-title="CIENCIA FICCION",Loki S02 E02
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg" group-title="CIENCIA FICCION",Loki S02 E03
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg" group-title="CIENCIA FICCION",Loki S02 E04
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg" group-title="CIENCIA FICCION",Loki S02 E05
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avCnQZPvHbqDLWMqlRNtayG732A.jpg" group-title="CIENCIA FICCION",Loki S02 E06
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144717.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="CIENCIA FICCION",Loki S02 E07
-http://playtvch.lat:2082/series/walterhernandezvod/VODseparadoxssiptv/144718.mp4
