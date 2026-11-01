@@ -24,7 +24,6 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaExtrenoHD.us@HD",Mega Extreno HD (720p)
-#EXTVLCOPT:http-referrer=https://vaughn.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="CHILE",13 Teleseries (720p)
@@ -75,6 +74,8 @@ http://190.61.47.54:8000/play/a01e/index.m3u8
 http://181.205.130.194:4000/play/a0dz
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
 http://181.78.8.199:8000/play/a0jz/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD"  tvg-name="CO | CARACOL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol TV (1080p)
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN " tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN
 http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",CanalRCN
@@ -93,8 +94,6 @@ https://stream1.bitred.cl/rcn-novelas/index.m3u8
 http://170.238.200.199/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-name="RCN Nuestra Tele Int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COLOMBIA",Nuestra Tele Internacional (1080p)
 https://stream1.bitred.cl/nuestra-tele/index.m3u8
-#EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="REP. DOMINICANA",Chinola TV 
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="CINECANAL " tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="CINE",Cinecanal
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="CineCanal HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE",Cinecanal (1080p)
@@ -205,8 +204,6 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://190.93.224.42/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="SERIE",Universal TV Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE",Universal TV Latin America (1080p)
-http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="CHILE",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-name="KSA Sports 1" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="DEPORTES",KTV Sport (1080p)
@@ -333,8 +330,6 @@ https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1/" group-title="Undefined",Telemundo Noticias Ahora (1080p)
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO MEXICO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="Undefined",Telemundo Romance (1080p)
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="WKAQTV21.pr@HD" tvg-name="PR | TELEMUNDO" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Puerto Rico",WKAQ-DT1 (Telemundo PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="REP. DOMINICANA",Telenord 8 (1080p) [Not 24/7]
@@ -345,14 +340,14 @@ http://181.119.177.253:8000/play/a0da
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE",Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Argentina" tvg-name="TNT HD " tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="CINE",TNT Latin America Argentina (1080p)
-http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-name="CINE | TNT " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="CINE",TNT Latin America Brazil (720p)
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center" tvg-name="USA | TNT East" tvg-logo="https://logodix.com/logo/373641.png" group-title="USA",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-name="TNT NOVELAS " tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="CINE",TNT Novelas (1080p)
 http://158.172.155.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-name="CL | TNT SPORTS PREMIUM" tvg-logo="" group-title="CHILE",TNT Sports Premium ArgentinaHD (1080p)
+http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="REP. DOMINICANA",Tora Canal 69
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho (1080p)
@@ -427,12 +422,6 @@ http://45.228.234.9:8000/play/a06z/index.m3u8
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-name="CLARO SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="DEPORTES",Claro Sports (1080p)
 http://45.228.234.9:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-id="HTV.us@Argentina" tvg-id="" tvg-name="MU | HTV LATINO" tvg-logo="http://superestable.online:8080/images/7649b190ef60946612bef901054f076e.png" group-title="MÚSICA",HTV Argentina (720p)
-http://45.134.141.161:2200/ARG/HTV/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-name="INF | TOONCAST" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="INFANTILES",Tooncast Argentina (720p)
-http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us@SD" tvg-name="Tooncast HD" tvg-logo="https://i.ibb.co/HtN7YwW/tooncasaed3we.png" group-title="INFANTILES",Tooncast (1080p)
-http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="ENTRETENIMIENTO",Las Estrellas Latin America
 https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-name="WARNER TV HD MX" tvg-logo="https://i.ibb.co/TRgfNRw/WARNERTV2.png" group-title="CINE",Warner Channel Colombia (1080p)
@@ -478,26 +467,6 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyQqxuDYmkyNnjC131bmt1bzShW.jpg" group-title="⭐️SAGAS",Mission: Impossible (1996)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12mI7kU22nJrmtAgGcDP8tbAz4a.jpg" group-title="⭐️SAGAS",Mission: Impossible II (2000)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Mission: Impossible III (2006)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Protocolo fantasma (2011)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Nación secreta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Nación secreta (2015)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Napoleón (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Napoleón (2023)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Vidas pasadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Vidas pasadas (2023)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohDOvfMB27n5ByFvihD7hyVJ4W4.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267746.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6us6Sq1OTNu5AmaIyWmLvOzOxRz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E05
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267747.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuMuy0tdQEyGFNqx9dBJj2sUanc.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E06
@@ -506,8 +475,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKBfU13TiX485Vp3WTc5cLClfJ0.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28BwbE777Zvkampdjqdw0Wsn1SS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288381.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKCJeGqDUECSKdgjgtGxTCxq1cm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E04
@@ -578,12 +545,23 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288413.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288414.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQXko10Hjmd3MtpZQX7h9Af2dNn.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E12
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyQqxuDYmkyNnjC131bmt1bzShW.jpg" group-title="⭐️SAGAS",Mission: Impossible (1996)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12mI7kU22nJrmtAgGcDP8tbAz4a.jpg" group-title="⭐️SAGAS",Mission: Impossible II (2000)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Mission: Impossible III (2006)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Protocolo fantasma (2011)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misión imposible: Nación secreta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVVTm8RUb0eXqlSIcq8nPUAfZZW.jpg" group-title="⭐️SAGAS",Misión imposible: Nación secreta (2015)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/38631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Vidas pasadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Vidas pasadas (2023)
+http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VcLPpMZ84a4wklm6uqGC2mWhKc.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6UlUryQIiw2rhdJkTYajJZkUU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E02
@@ -636,6 +614,300 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275456.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCKka3NkjF3AmMCVPKL4QQMfun.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E26
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/wH70Brocp4BYrGeXmIUkbm2JrU9.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/kKSF9IqTMWdm4sGKCk47Lmt7UCl.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6nLWHeOz01N71TSoYqmzyYNBbxg.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3vCNftYMhm5kBCpp4InjgKkYVV1.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/5MlU6IV9rJFKXLdi8psKHmIVqLP.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/ams5FvPo8vlbf7L76A9xcFMa91K.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iKDIfRto3cb6hgWvhdsNp7bxEKk.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba -Entrenamiento con los Hashira- (LAT) (2024)" tvg-logo="" group-title="CINE 2024 - (LAT)",Demon Slayer: Kimetsu no Yaiba -Entrenamiento con los Hashira- (LAT) (2024)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1324858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E13
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E13
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E14
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E14
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E15
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E15
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E16
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E16
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E17
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E17
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E18
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E18
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E19
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E19
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E20
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E20
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E21
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E21
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E22
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E22
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E13
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E13
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (LAT) (2021)" tvg-logo="" group-title="ACCIÓN - (LAT)",Shang-Chi y la leyenda de los Diez Anillos (LAT) (2021)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1316999.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg" group-title="HBO (LAT)",Peacemaker S01E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg" group-title="HBO (LAT)",Peacemaker S01E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg" group-title="HBO (LAT)",Peacemaker S01E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (LAT) (2023)" tvg-logo="" group-title="COMEDIA - (LAT)",¡Shazam! La furia de los dioses (LAT) (2023)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman y el reino perdido (LAT) (2023)" tvg-logo="" group-title="ACCIÓN - (LAT)",Aquaman y el reino perdido (LAT) (2023)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TSEyrqaRN6jwTwnRbp8jUvpeHj.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qio46neIDQi9KxkmXBeE3l5baUu.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E02
@@ -970,295 +1242,3 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284373.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284374.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E95" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPAJYsm368djbzb0m4nwHqJ4h0B2pJ90qyrQ&usqp=CAU" group-title="⚡️SERIES DE ANIMES♾️",Samurai X S01 E95
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/wH70Brocp4BYrGeXmIUkbm2JrU9.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/kKSF9IqTMWdm4sGKCk47Lmt7UCl.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6nLWHeOz01N71TSoYqmzyYNBbxg.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3vCNftYMhm5kBCpp4InjgKkYVV1.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/5MlU6IV9rJFKXLdi8psKHmIVqLP.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/ams5FvPo8vlbf7L76A9xcFMa91K.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iKDIfRto3cb6hgWvhdsNp7bxEKk.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba -Entrenamiento con los Hashira- (LAT) (2024)" tvg-logo="" group-title="CINE 2024 - (LAT)",Demon Slayer: Kimetsu no Yaiba -Entrenamiento con los Hashira- (LAT) (2024)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1324858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E14
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E14
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E15
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E15
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E16
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E16
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E17
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E17
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E18
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E18
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E19
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E19
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E20
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E20
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E21
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E21
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E22
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S05E22
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S06E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612080.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612081.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" group-title="DISNEY (CAST)",Marvel Agentes de S.H.I.E.L.D. S07E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1612083.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (LAT) (2021)" tvg-logo="" group-title="ACCIÓN - (LAT)",Shang-Chi y la leyenda de los Diez Anillos (LAT) (2021)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1316999.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S01E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="DISNEY (CAST)",Loki S02E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1619223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041540.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041529.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg" group-title="HBO (LAT)",Peacemaker S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg" group-title="HBO (LAT)",Peacemaker S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041537.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg" group-title="HBO (LAT)",Peacemaker S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041527.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg" group-title="HBO (LAT)",Peacemaker S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (LAT) (2023)" tvg-logo="" group-title="COMEDIA - (LAT)",¡Shazam! La furia de los dioses (LAT) (2023)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317641.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman y el reino perdido (LAT) (2023)" tvg-logo="" group-title="ACCIÓN - (LAT)",Aquaman y el reino perdido (LAT) (2023)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317129.mkv
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S02 E09
-http://livetv-plus.com:8880/series/demo21112/HWNDH/100095.mp4
