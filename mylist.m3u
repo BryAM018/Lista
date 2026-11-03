@@ -23,38 +23,36 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-logo="https://i.imgur.com/vTfxkjW.png" http-referrer="https://teleuniontvrd.com/portal/" group-title="REP. DOMINICANA",Teleunion (1080p)
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaExtrenoHD.us@HD",Mega Extreno HD 
-https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="CHILE",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="REP. DOMINICANA",Ahora TV (1080p)
-https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 xc_vm-id="1104659" tvg-id="AMCLatinAmerica.us@SD" tvg-name="CINE | AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="LATINO",AMC Latin
 http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-name="AMC HD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC Series Latin America (1080p)
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-name="AMC HD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="LATINO",AMC Series Latin America (1080p)
 https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@HD" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="LATINO",Animal Planet Latin America HD (720p)
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
-#EXTINF:-1 tvg-id="AntofagastaTV.cl@SD" tvg-name="ANTOFAGASTA TV" tvg-logo="http://goldfull.pro:8880/images/431205a7190450ce000342033ff36c24.png" group-title="CHILE",Antofagasta TV (ATV)
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="LA: AXN" tvg-logo="https://docdog.top/logo/countries/latino/axn.png" group-title="LATINO",AxN Latin America Andes 
 http://15.204.246.24:8080/AXNHD/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="CINE",AXN Latin America Andes (1080p)
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="LATINO",AXN Latin America Andes (1080p)
 http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE",AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="LATINO",AXN Latin America (1080p)
 http://190.93.224.42/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="LATINO,AXN Latin
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/ZR26s9ys/AXN-logo-2015-svg.png" group-title="CINE",AXN Latin America
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/ZR26s9ys/AXN-logo-2015-svg.png" group-title="LATINO",AXN Latin America
 http://45.167.1.138:8000/play/a04s
-#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-name="MX | Bandamax Hd" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="México",Bandamax (1080p)
+#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-name="MX | Bandamax Hd" tvg-logo="http://www.tmsimg.com/assets/s18101_h3_aa.png" group-title="MEXICO",Bandamax (1080p)
 https://streaming.onnethn.com/Bandamax/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="USA",beIN SPORTS XTRA (1080p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA 1" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="USA",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="USA: BEIN SPORTS XTRA" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA-380x264.png" group-title="USA",BeIN SPORTS XTRA (720p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="USA: BEIN SPORTS XTRA" tvg-logo="" group-title="USA",BeIN SPORTS XTRA (720p)
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="BEIN SPORT EXTRA Ñ HD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DEPORTES",beIN SPORTS XTRA en Espanol
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="BEIN SPORT EXTRA Ñ HD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="USA",beIN SPORTS XTRA en Espanol
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+#EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="REP. DOMINICANA",Ahora TV (1080p)
+https://stream.haislin.com/ahoratv/index.m3u8
+#EXTINF:-1 tvg-id="AntofagastaTV.cl@SD" tvg-name="ANTOFAGASTA TV" tvg-logo="" group-title="CHILE",Antofagasta TV (ATV)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",Canal 13
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr@SD" tvg-name="CR | Canal 14 Tv Sur" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="COSTA RICA",TV Sur Canal 14 (1080p)
@@ -277,12 +275,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="BOL: RTP " tvg-logo="http://dplatino.net:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="BOLIVIA",RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
-https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
-http://45.70.201.81:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
-https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT HD" tvg-logo="https://logonoid.com/images/sbt-logo.png" group-title="BRASIL",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="SONY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CINE",Sony Channel
@@ -337,6 +329,8 @@ https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center" tvg-name="USA | TNT East" tvg-logo="https://logodix.com/logo/373641.png" group-title="USA",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@ColombiaHD" tvg-name="EN | TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ENTRETENIMIENTO",TNT Novelas ColombiaHD (1080p)
+http://181.78.79.131:8000/play/a0na
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-name="CL | TNT SPORTS PREMIUM" tvg-logo="" group-title="CHILE",TNT Sports Premium ArgentinaHD (1080p)
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="REP. DOMINICANA",Tora Canal 69
@@ -377,6 +371,12 @@ http://186.148.196.100:8000/play/a01d
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Univision.us@WLTVDT" tvg-name="UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="LATINO",WLTV-DT 23.1 (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ideas en 5 minutos (1080p)
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latino Classic TV (1080p)
@@ -456,16 +456,12 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6us6Sq1OTNu5AmaIyWmLvOzOxRz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267747.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuMuy0tdQEyGFNqx9dBJj2sUanc.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E06
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xjiOtRn9fUPtV2TjXIrcfesKHz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E07
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28BwbE777Zvkampdjqdw0Wsn1SS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288381.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKCJeGqDUECSKdgjgtGxTCxq1cm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E04
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqGcL2CS84q58R7kPrVxDGYPRZS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E05
@@ -534,10 +530,90 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288413.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288414.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/zT55iSCAWsKJOpEc6s989lgok65.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E06
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E07
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E08
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E09
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg" group-title="HBO (LAT)",Peacemaker S01E03
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg" group-title="HBO (LAT)",Peacemaker S01E04
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg" group-title="HBO (LAT)",Peacemaker S01E05
+http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman y el reino perdido (LAT) (2023)" tvg-logo="" group-title="ACCIÓN - (LAT)",Aquaman y el reino perdido (LAT) (2023)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Vidas pasadas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Vidas pasadas (2023)
-http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446271.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VcLPpMZ84a4wklm6uqGC2mWhKc.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fate/stay night [Unlimited Blade Works] S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6UlUryQIiw2rhdJkTYajJZkUU.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fate/stay night [Unlimited Blade Works] S01 E02
@@ -628,60 +704,6 @@ http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170562.mkv
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E12
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055877.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Invincible S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E01
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158609.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Invincible S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E02
@@ -698,18 +720,6 @@ http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158617.mkv
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158615.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Invincible S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E08
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg" group-title="HBO (LAT)",Peacemaker S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg" group-title="HBO (LAT)",Peacemaker S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041537.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg" group-title="HBO (LAT)",Peacemaker S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman y el reino perdido (LAT) (2023)" tvg-logo="" group-title="ACCIÓN - (LAT)",Aquaman y el reino perdido (LAT) (2023)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TSEyrqaRN6jwTwnRbp8jUvpeHj.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qio46neIDQi9KxkmXBeE3l5baUu.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E02
@@ -1046,23 +1056,3 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284374.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman Azteca: Choque de imperios (LAT) (2025)" tvg-logo="" group-title="CINE 2025 - (LAT)",Batman Azteca: Choque de imperios (LAT) (2025)
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1322960.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/cbe8l0Hnbvu07ePgoOopyWYrcdL.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061301.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/zT55iSCAWsKJOpEc6s989lgok65.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061310.mkv
