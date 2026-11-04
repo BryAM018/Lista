@@ -37,7 +37,7 @@ http://15.204.246.24:8080/AXNHD/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="LATINO",AXN Latin America (1080p)
 http://190.93.224.42/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="LATINO,AXN Latin
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="USA,AXN Latin
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/ZR26s9ys/AXN-logo-2015-svg.png" group-title="LATINO",AXN Latin America
 http://45.167.1.138:8000/play/a04s
@@ -137,8 +137,6 @@ http://209.61.12.77:9000/play/a08v/index.m3u8
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="MEXICO",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-name="MEX: E! ENTERTAINMENT" tvg-logo="http://x.playerlatino.live/e.png" group-title="MEXICO",E! Latin America Mexico 
-http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-name="ECUADOR | ECUAVISA" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR",Ecuavisa (1080p)
@@ -171,8 +169,6 @@ https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="CINE",FX Latin America 
 http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-name="CINE | FX  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO",FX Latin America South (720p)
-http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-name="USA: FX " tvg-logo="http://iptvboss.xyz/logos/USA/FX.us.png" group-title="USA",FX Latin America (1080p)
 http://190.93.224.42/FX/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="http://redworld.pro:8880/images/34864737f971f1fdf12ccb68d437eee4.png" group-title="ECUADOR",Gamavision (1080p)
@@ -197,6 +193,8 @@ http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-name="History Channel HD | MX" tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="CULTURA",History Latin America (1080p)
 http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-name="CUL | HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",History 2 Latin America (1080p)
+http://181.225.190.242:8000/play/a023
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="SERIE",Universal TV Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="CHILE",Islita TV (1080p)
@@ -371,8 +369,6 @@ http://186.148.196.100:8000/play/a01d
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Univision.us@WLTVDT" tvg-name="UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="LATINO",WLTV-DT 23.1 (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="A7TV.do@HD",A7 TV (1080p)
-https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
 http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD",Conexion Positiva Television
@@ -456,12 +452,6 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuMuy0tdQEyGFNqx9dBJj2sUanc.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xjiOtRn9fUPtV2TjXIrcfesKHz.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái de ojos azules S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="⭐️SERIES 2023⭐️",Samurái de ojos azules S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/267750.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKCJeGqDUECSKdgjgtGxTCxq1cm.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E04
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqGcL2CS84q58R7kPrVxDGYPRZS.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S01 E05
@@ -530,86 +520,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288413.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288414.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1055877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/zT55iSCAWsKJOpEc6s989lgok65.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1061310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg" group-title="HBO (LAT)",Peacemaker S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg" group-title="HBO (LAT)",Peacemaker S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg" group-title="HBO (LAT)",Peacemaker S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg" group-title="HBO (LAT)",Peacemaker S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041537.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peacemaker S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg" group-title="HBO (LAT)",Peacemaker S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1041534.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquaman y el reino perdido (LAT) (2023)" tvg-logo="" group-title="ACCIÓN - (LAT)",Aquaman y el reino perdido (LAT) (2023)
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1317129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
@@ -1056,3 +966,181 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284374.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman Azteca: Choque de imperios (LAT) (2025)" tvg-logo="" group-title="CINE 2025 - (LAT)",Batman Azteca: Choque de imperios (LAT) (2025)
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1322960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (LAT) (2025)" tvg-logo="" group-title="CINE 2025 - (LAT)",Zootopia 2 (LAT) (2025)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1323919.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="WandaVision S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3UHVBe7tQD4zVamNSqaTyycuwg.jpg" group-title="ZONA DISNEY+",WandaVision S01 E08
+http://livetv-plus.com:8880/series/demo21112/HWNDH/295360.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="WandaVision S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3UHVBe7tQD4zVamNSqaTyycuwg.jpg" group-title="ZONA DISNEY+",WandaVision S01 E09
+http://livetv-plus.com:8880/series/demo21112/HWNDH/295362.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E03
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122897.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E04
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122898.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E05
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122899.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E06
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122900.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E07
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122901.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E08
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122902.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E09
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122903.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E10
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122904.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E11
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122905.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E12
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122906.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E13
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122907.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E14
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122908.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E15
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122909.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E16
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122910.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E17
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122911.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E18
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122912.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E19
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122913.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E20
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122914.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E21
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122915.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E22
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122916.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E23
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122917.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E24
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122918.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E25
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122919.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E26
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122920.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E27
+http://livetv-plus.com:8880/series/demo21112/HWNDH/122921.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E01
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98950.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E02
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98951.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E03
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98952.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E04
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98953.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E05
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98954.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E06
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98955.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E07
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98956.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E08
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98957.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E09
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98958.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E10
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98959.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E11
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98960.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E12
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98961.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E13
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98962.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E14
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98963.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E15
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98964.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E16
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98966.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E17
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98967.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E18
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98968.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E19
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98969.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E20
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98970.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E21
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98965.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E01
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98971.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E02
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98972.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E03
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98973.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E04
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98974.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E05
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98975.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E06
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98976.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E07
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98977.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E08
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98978.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E09
+http://livetv-plus.com:8880/series/demo21112/HWNDH/98979.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E10
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116637.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E11
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116638.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E01
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116639.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E02
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116640.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E03
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116641.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E04
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116642.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E05
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116643.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E06
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116644.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E07
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116645.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E08
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116646.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E09
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116647.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E10
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116648.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E11
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116649.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E12
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116650.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E13
+http://livetv-plus.com:8880/series/demo21112/HWNDH/116651.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E01
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221527.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E02
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221528.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E03
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221529.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E04
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221530.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E05
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221531.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E06
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221532.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E07
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221533.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E08
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221534.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S03 E09
+http://livetv-plus.com:8880/series/demo21112/HWNDH/221535.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E01
+http://livetv-plus.com:8880/series/demo21112/HWNDH/423992.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E02
+http://livetv-plus.com:8880/series/demo21112/HWNDH/449661.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E03
+http://livetv-plus.com:8880/series/demo21112/HWNDH/449662.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E04
+http://livetv-plus.com:8880/series/demo21112/HWNDH/449663.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E05
+http://livetv-plus.com:8880/series/demo21112/HWNDH/455610.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E06
+http://livetv-plus.com:8880/series/demo21112/HWNDH/455609.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Doom Patrol S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg" group-title="FICCIÓN",Doom Patrol S04 E07
+http://livetv-plus.com:8880/series/demo21112/HWNDH/464004.mp4
