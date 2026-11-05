@@ -115,8 +115,10 @@ https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-name="KIDS | DISNEY CHANNEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="INFANTILES",Disney Channel Latin America Center (1080p)
 http://45.185.163.75:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL " tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="INFANTILES",Disney Channel Latin America 
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL " tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="USA",Disney Channel Latin America 
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="INF | DISNEY CHANNEL SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney Channel Latin America (1080p)
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="Argentina",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="DISTRITO COMEDIA SD" tvg-logo="http://www.ipuntotv.com/IMAGES/Distrito-Comedia-Logo-2019.jpg" group-title="MEXICO",Distrito Comedia (1080p)
@@ -139,6 +141,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-name="ECUADOR | ECUAVISA" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR",Ecuavisa (1080p)
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-name="EN | EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO",El Gourmet South (1080p)
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 #EXTINF:-1 tvg-id="DmodaChannel.bo@SD" tvg-logo="https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png" group-title="General",Dmoda Channel (1080p)
 https://master.tucableip.com/dmoda/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-name="ARG | El Nueve" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina",El Nueve 
@@ -516,6 +520,56 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288412.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288413.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2TihTmXdNmqDttJn87KAytG57c.jpg" group-title="⭐️VOD SERIES NETFLIX",BoJack Horseman S03 E11
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/288414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
+https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055877.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
@@ -964,57 +1018,3 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/284375.mkv
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1322960.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (LAT) (2025)" tvg-logo="" group-title="CINE 2025 - (LAT)",Zootopia 2 (LAT) (2025)
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1323919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E08
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1061309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="DISNEY+ (LAT)",WandaVision S01E09
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1061310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E03
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E04
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E05
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E06
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E07
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E08
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055877.mkv
