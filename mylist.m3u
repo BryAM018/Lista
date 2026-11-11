@@ -154,11 +154,9 @@ http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-name="Kids: Discovery Kids" tvg-logo="https://docdog.top/logo/countries/brazil/discoverykids.png" group-title="USA",Discovery Kids Latin America (1080p)
 http://181.224.200.5:2277/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us@SD" tvg-name="Discovery Theater HD" tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="USA",Discovery Theater Latin America (1080p)
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us@SD" tvg-name="Discovery Theater " tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="USA",Discovery Theater Latin America (1080p)
 http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" tvg-name="Discovery World HD" tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="USA",Discovery World (1080p)
-http://209.61.12.77:9000/play/a08v/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.us@Brazil" tvg-name="DISCOVERY WORLD | 1080p" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" group-title="BRASIL",Discovery World Brazil (720p)
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" tvg-name="Discovery World " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="USA",Discovery World Brazil (720p)
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="MEXICO",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -186,10 +184,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="DEPORTES",FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-name="EN | FX FHD "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="CINE",FX Latin America 
-http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-name="USA: FX " tvg-logo="http://iptvboss.xyz/logos/USA/FX.us.png" group-title="USA",FX Latin
-http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 tvg-id="FOXCentral.mx@CostaRica",FOX Central (1080p)
+http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-name="GAMAVISION HD" tvg-logo="http://redworld.pro:8880/images/34864737f971f1fdf12ccb68d437eee4.png" group-title="ECUADOR",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-id="" tvg-name="GOLDEN" tvg-logo="http://www.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="VIX",Golden (1080p)
@@ -314,8 +310,12 @@ http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.cz@HD" tvg-name="CZ: SPORT 1" tvg-logo="https://docdog.top/logo/countries/cz/sport1.png" group-title="EU | CZ & SLOVAK VIP",Sport1 HD
 http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.sk@HD",Sport 1
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
 #EXTINF:-1 tvg-id="Sport2.cz@HD" tvg-name="CZ: SPORT 2" tvg-logo="https://docdog.top/logo/countries/cz/sport2.png" group-title="EU | CZ & SLOVAK VIP",Sport2 HD
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.sk@HD",Sport 2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-name="USA| TLC PACIFICO" tvg-logo="https://i.ibb.co/QC0WwvW/45rwerwesdvctu7y8uhjbn3w.png" group-title="LATINO",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC TELEVISION " tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Television (1080p)
@@ -358,6 +358,10 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-name="CL: Thema TV (La Serena)" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE",Thema Televisión (La Serena) (720p)
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-name="EN | FX FHD "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="CINE",FX Latin America 
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-name="USA: FX " tvg-logo="http://iptvboss.xyz/logos/USA/FX.us.png" group-title="USA",FX Latin
+http://190.93.224.42/FX/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-name="CINE | TNT " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="CINE",TNT Latin America Brazil (720p)
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center" tvg-name="USA | TNT East" tvg-logo="https://logodix.com/logo/373641.png" group-title="USA",TNT Latin America (1080p)
@@ -527,6 +531,8 @@ https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
 http://45.70.201.81:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
 https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD",MakroDigital Television (1080p)
+http://205.235.6.29:8000/play/a0wp/index.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Spanish",NOW News Spanish (1080p)
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish",NowMedia Television Spanish (1080p)
@@ -549,13 +555,9 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
 #EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD",MakroDigital Television (1080p)
-http://205.235.6.29:8000/play/a0wp/index.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro@HD",Sport Extra HD
 http://92.180.26.103:80/stream/93/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055861.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
 https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055862.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
@@ -640,16 +642,6 @@ http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170562.mkv
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E12
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg" group-title="DISNEY+ (LAT)",Loki S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034645.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg" group-title="DISNEY+ (LAT)",Loki S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg" group-title="DISNEY+ (LAT)",Loki S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034646.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/5fRAAO13URmteku8mb39V9YPJBb.jpg" group-title="DISNEY+ (LAT)",Loki S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="DISNEY+ (LAT)",Loki S01E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034647.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Loki S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/aIJvoQAal0TDDIl5plfKfSnAish.jpg" group-title="DISNEY+ (LAT)",Loki S02E01
 http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034652.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Loki S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg" group-title="DISNEY+ (LAT)",Loki S02E02
@@ -716,8 +708,6 @@ http://livetv-plus.com:8880/series/demo21112/HWNDH/578709.mp4
 http://livetv-plus.com:8880/series/demo21112/HWNDH/578710.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E11
 http://livetv-plus.com:8880/series/demo21112/HWNDH/578711.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S05 E01
-http://livetv-plus.com:8880/series/demo21112/HWNDH/613779.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E01
 http://livetv-plus.com:8880/series/demo21112/HWNDH/260581.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E02
@@ -946,10 +936,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
 #EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="tyc.sports.ar" tvg-name="DEP | TYC SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES",DEP | TYC SPORTS  FHD
-http://livetv-plus.com:8880/live/demo21112/HWNDH/19461.ts
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | CALIENTE TV" tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" group-title="DEPORTES",DEP | CALIENTE TV
-http://livetv-plus.com:8880/live/demo21112/HWNDH/558709.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9L0jAnEQLMKgexqCEocEW8TA.jpg" group-title="ZONA NETFLIX",BoJack Horseman S01 E04
 http://livetv-plus.com:8880/series/demo21112/HWNDH/101454.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BoJack Horseman S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9L0jAnEQLMKgexqCEocEW8TA.jpg" group-title="ZONA NETFLIX",BoJack Horseman S01 E05
@@ -1096,6 +1082,10 @@ http://livetv-plus.com:8880/series/demo21112/HWNDH/292415.mkv
 http://livetv-plus.com:8880/series/demo21112/HWNDH/292416.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BoJack Horseman S06 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9L0jAnEQLMKgexqCEocEW8TA.jpg" group-title="ZONA NETFLIX",BoJack Horseman S06 E16
 http://livetv-plus.com:8880/series/demo21112/HWNDH/292417.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tyc.sports.ar" tvg-name="DEP | TYC SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES",DEP | TYC SPORTS  FHD
+http://livetv-plus.com:8880/live/demo21112/HWNDH/19461.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | CALIENTE TV" tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" group-title="DEPORTES",DEP | CALIENTE TV
+http://livetv-plus.com:8880/live/demo21112/HWNDH/558709.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="DEPORTES",DEP | ESPN 5
 http://livetv-plus.com:8880/live/demo21112/HWNDH/272499.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="espndeportes.us" tvg-name="DEP | ESPN DEPORTES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN DEPORTES HD
@@ -1106,7 +1096,9 @@ http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319485.mp4
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Duna: Parte dos (LAT) (2024)" tvg-logo="" group-title="CINE 2024 - (LAT)",Duna: Parte dos (LAT) (2024)
 http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319371.mkv
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | ESPN PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTES",DEP | ESPN PREMIUM FHD
-http://livetv-plus.com:8880/live/demo21112/HWNDH/276163.ts
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | FOX SPORTS  2 SD" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS  2 SD
-http://livetv-plus.com:8880/live/demo21112/HWNDH/439803.ts
+#EXTINF:-1 tvg-id="" tvg-name="DC Showcase Original Shorts Collection (LAT) (2010)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",DC Showcase Original Shorts Collection (LAT) (2010)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Hijo rojo (LAT) (2020)" tvg-logo="" group-title="CIENCIA FICCIÓN - (LAT)",Superman: Hijo rojo (LAT) (2020)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Muerte en la Familia (LAT) (2020)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",Batman: Muerte en la Familia (LAT) (2020)
+http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318112.mp4
