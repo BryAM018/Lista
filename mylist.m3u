@@ -1,7 +1,4 @@
 #EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
-#EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-name="DO: Teleunion" tvg-logo="https://i.imgur.com/vTfxkjW.png" http-referrer="https://teleuniontvrd.com/portal/" group-title="REP. DOMINICANA",Teleunion (1080p)
-#EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
-http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee@SD" tvg-logo="https://i.imgur.com/0eZa0qh.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="DEPORTES",Go3 Sport 1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/416/index.m3u8
@@ -36,7 +33,7 @@ http://15.204.246.24:8080/AXNHD/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="LATINO",AXN Latin America (1080p)
 http://190.93.224.42/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="USA,AXN Latin
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="USA,AXN Latin
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/ZR26s9ys/AXN-logo-2015-svg.png" group-title="LATINO",AXN Latin America
 http://45.167.1.138:8000/play/a04s
@@ -52,18 +49,6 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="BO | BOLIVIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/BoliviaTV2020shortwhipala.png/revision/latest/scale-to-width-down/250?cb=20201208033940" group-title="BOLIVIA",Bolivia TV (720p) [Not 24/7]
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.pl@SD" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT",Canal+ Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/92/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl@SD" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",Canal+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl@SD" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="PL | SPORT",Canal+ Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/93/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl@SD" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="PL | SPORT",Canal+ Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-name="HN | CANAL 11" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_11_hn.png" group-title="HONDURAS",Canal 11 (1080p) [Not 24/7]
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="CHILE",Canal 13
@@ -84,12 +69,12 @@ http://181.78.8.199:8000/play/a0b0/index.m3u8
 http://200.122.232.149:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO: CARACOL" tvg-logo="https://docdog.top/logo/countries/colombia/caracol.png" group-title="COLOMBIA",Caracol HD
 http://181.78.21.38:8000/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol" tvg-logo="" group-title="COLOMBIA",Caracol (1080p)
-http://181.205.130.194:4000/play/a0dz
 #EXTINF:-1 tvg-id="CaracolTV.co@SD",CO | CARACOL HD
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV (1080p)
 http://138.94.3.106:8000/play/a06z
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol" tvg-logo="" group-title="COLOMBIA",Caracol (1080p)
+http://181.205.130.194:4000/play/a0dz
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN " tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="COLOMBIA",Canal RCN
 http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="CO | RCN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Canal_RCN_Sept_2019.svg/revision/latest/scale-to-width-down/200?cb=20230817193645" group-title="COLOMBIA",Canal RCN (1080p)
@@ -178,6 +163,8 @@ http://190.61.47.54:8000/play/a004/index.m3u8
 http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-name="ESPN 2" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES",ESPN 2 Latin America Colombia (1080p)
 http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-name="DEPORTES | EŠPN PR3MIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="DEPORTE",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="FRANCE 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Noticias",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="NOT | FRANCE 24 LATINO" tvg-logo="https://docdog.top/logo/countries/arab/france24.png" group-title="NOTICIAS",France 24 Spanish (720p)
@@ -558,156 +545,10 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="SportExtra.ro@HD",Sport Extra HD
 http://92.180.26.103:80/stream/93/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-https://mallorca.plus/series/Juanvillavicencio/PZTneTFXPg/1055877.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="♾️PEDIDOS PELICULAS♾️",El hobbit: La batalla de los cinco ejércitos (2014) VERSION EXTENDIDA
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1158616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/wH70Brocp4BYrGeXmIUkbm2JrU9.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/kKSF9IqTMWdm4sGKCk47Lmt7UCl.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6nLWHeOz01N71TSoYqmzyYNBbxg.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E07
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3vCNftYMhm5kBCpp4InjgKkYVV1.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E08
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/5MlU6IV9rJFKXLdi8psKHmIVqLP.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E09
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/ams5FvPo8vlbf7L76A9xcFMa91K.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E10
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iKDIfRto3cb6hgWvhdsNp7bxEKk.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E11
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E12
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1170564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/aIJvoQAal0TDDIl5plfKfSnAish.jpg" group-title="DISNEY+ (LAT)",Loki S02E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034652.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg" group-title="DISNEY+ (LAT)",Loki S02E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034648.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg" group-title="DISNEY+ (LAT)",Loki S02E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034651.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg" group-title="DISNEY+ (LAT)",Loki S02E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg" group-title="DISNEY+ (LAT)",Loki S02E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034649.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/avCnQZPvHbqDLWMqlRNtayG732A.jpg" group-title="DISNEY+ (LAT)",Loki S02E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1034654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura (LAT) (2022)" tvg-logo="" group-title="FANTASÍA - (LAT)",Doctor Strange en el multiverso de la locura (LAT) (2022)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1314518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/h88DZpKIDo66Tvt556HCvq2BdR0.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E01
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1037986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E02
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1037987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E03
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1037989.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E04
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1037990.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E05
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1037988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E06
-http://gntvplay.online:8080/series/x5G5Atazdz/UY6DyG3TRM/1037985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor y Trueno (LAT) (2022)" tvg-logo="" group-title="FANTASÍA - (LAT)",Thor: Amor y Trueno (LAT) (2022)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saw X: El juego del miedo (LAT) (2023)" tvg-logo="" group-title="TERROR - (LAT)",Saw X: El juego del miedo (LAT) (2023)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1322582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (LAT) (2024)" tvg-logo="" group-title="CINE 2024 - (LAT)",Alien: Romulus (LAT) (2024)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1322524.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (LAT) (2023)" tvg-logo="" group-title="CIENCIA FICCIÓN - (LAT)",Godzilla Minus One (LAT) (2023)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1322474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman y Superman: La batalla de los Super hijos (LAT) (2022)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",Batman y Superman: La batalla de los Super hijos (LAT) (2022)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1321928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: Alma del Dragón (LAT) (2021)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",Batman: Alma del Dragón (LAT) (2021)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tetris (LAT) (2023)" tvg-logo="" group-title="SUSPENSO - (LAT)",Tetris (LAT) (2023)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lightyear (LAT) (2022)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",Lightyear (LAT) (2022)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319648.mkv
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="X-Men: Fénix oscura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="FICCIÓN DUAL AUDIO",X-Men: Fénix oscura
-http://livetv-plus.com:8880/movie/demo21112/HWNDH/245438.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E01
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578701.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E02
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578702.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E03
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578703.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E04
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578704.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E05
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578705.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E06
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578706.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E07
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578707.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E08
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578708.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E09
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578709.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E10
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578710.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSZNM0pQ61XUUfyQ8ZDmmnrX5LE.jpg" group-title="ANIME",Demon Slayer: Kimetsu no Yaiba S04 E11
-http://livetv-plus.com:8880/series/demo21112/HWNDH/578711.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E01
 http://livetv-plus.com:8880/series/demo21112/HWNDH/260581.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E02
@@ -802,142 +643,6 @@ http://livetv-plus.com:8880/series/demo21112/HWNDH/547113.mp4
 http://livetv-plus.com:8880/series/demo21112/HWNDH/547114.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S06 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S06 E22
 http://livetv-plus.com:8880/series/demo21112/HWNDH/473270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TSEyrqaRN6jwTwnRbp8jUvpeHj.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qio46neIDQi9KxkmXBeE3l5baUu.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ungDvMQ8KWumq6ZKC0zqHoxXDyF.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApicPh8pXQb8jdOpdXULk1qPr1u.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTTwZF9aLZOaJVQpXMZL65Oc5yK.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8pgDI9ErtWGXrHI4Dpsi3mRotn.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leNoTFhHHKWUSgBznVBS5U5Efde.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkRYWgwJqHEVktKff23Gu2DvJIM.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3Zy6aww3Y7QeiztqLcv99pPnJS.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JHxr462h9T9QRJF1jvTyJIJI14.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzhdGOIL7yrPSU0WVFBshZSQgct.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5j4Tpv8IYbxkzP9ztT4rsC7piJ.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PaZkQH6Z4b3QjZw67kSV90Qefl.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E13
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SQJ3naZU6d9MpwLCIDS6EKOK8q.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E14
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman y Lois S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e7rWunMqZoYBz1prynZvHfoSaJ.jpg" group-title="⚡️SERIES DE HBO♾️",Superman y Lois S01 E15
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/333576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54VcvNvddIdynXTFrZOSLJlSOLE.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4caKHpd7aDURha12cOg6UiLYnZA.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAe4pBkp381efRJ7uzX56Ciyzuu.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473442.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGIxE7RHQzKT2omf83foBBBVmo2.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zThjwZQnAyN7hNX1WP02xlX6izg.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjXeHfeyHoYG8DX3YvvYd1hATgL.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/477982.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/479207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/479344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/484646.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/91RUh4rfKJN4oYoAREKp5fimN49.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/484915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/pRXR1zSSIbiDKpBNulx7lZCtT3t.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/485178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/3KbtT3bWqcQieS71dLBtpxeZLL2.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/489291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/8Tg3f8sPJ9fHERFkX16GAQLl1QH.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/489919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pF73h1gpZX0x887ph38IfDsQRkc.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/493457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/oIvOwq5o0vBBGbb1vJqRaA7QOrX.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/5T5ipgDLvQbyFQZy7zsOFtuu2U6.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/40GXfVsXABfU3q8kONqIh5tfyO6.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E13
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/495153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/8yiYCV4sKI7DKipRAXScjn0TPiW.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E14
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/495455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/vDZ4dJ59cw2Nltf2Dci1DXCfE4j.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E15
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/495847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/zR2cUCEX14BoilmnByOL0GVq3Fs.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E16
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/vSGMCrxd788k585aLxiTDiFaUs9.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E17
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/PeyYcVcYOADRyf9HUtaGnL3gxh.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E18
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/imJl2fb8m65L4u7UWsaHkYMt1HY.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E19
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/A2l4sFZp3Tcgg9jKBXbpiJBGt5n.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E20
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/498222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkZztD9ddgRh32ve8zwCqwfle85.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiwIW9CvRSNSTpGezcEmN66G0OJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ww5ZnuYxTTV3ydjeIMTbyqwdNB.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RIsVKvOsrumsC0SPFuEJCzxXUp.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRSru3rTtSa3zvHVfeJunxuPhFG.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5AjQZ3tVven0KwZKEmy4t1bT6d.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgnAd6j1mdqDUDcRBLkywbVXuk6.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgfspvyubxzgwvXhlPUpzv7FUjJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTxaYuVoOGpQgUy3i9Widm5wwQE.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85UQM8CFLJUBaL4Izvy7XLOAFUz.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coRYq2nyR4bosvahgnHW3lZpaZH.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1T5GvyGYDrVloexWJfxDJwOEBy.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4quJAR1dFZPWA4bQH3UJSIqCvdW.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyCXd1MSWDuSvwAlXECMJkezEaP.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxaPGgzgU2ORVJIxgIRNVSVvONi.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfYLGCk8PjvQDw2SZFkD3e4l5yM.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJuxAxDhUNVny9hA0o3nM6BnaHT.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E05
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eqDht8SU8h6NTMOJR5Y7XxktgA.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E06
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6o67ERb1xSvI8yJkKblxkZTO34.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E07
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYjvvHpeJPH8dOAHUAFsi2GEach.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E08
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51gMXACMehJE8nmiQ92ENmoigfu.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E09
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYVCp6icJj0HxZeWlRXH8WYGLbd.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E10
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgF2bIbZa7laCUHd8WLIx1VzwC0.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E11
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P4k46hd94u41xzpppaEJPmP6j2.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E12
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BoJack Horseman S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9L0jAnEQLMKgexqCEocEW8TA.jpg" group-title="ZONA NETFLIX",BoJack Horseman S01 E04
-http://livetv-plus.com:8880/series/demo21112/HWNDH/101454.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BoJack Horseman S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9L0jAnEQLMKgexqCEocEW8TA.jpg" group-title="ZONA NETFLIX",BoJack Horseman S01 E05
 http://livetv-plus.com:8880/series/demo21112/HWNDH/101455.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BoJack Horseman S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9L0jAnEQLMKgexqCEocEW8TA.jpg" group-title="ZONA NETFLIX",BoJack Horseman S01 E06
@@ -1086,19 +791,211 @@ http://livetv-plus.com:8880/series/demo21112/HWNDH/292417.mkv
 http://livetv-plus.com:8880/live/demo21112/HWNDH/19461.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | CALIENTE TV" tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" group-title="DEPORTES",DEP | CALIENTE TV
 http://livetv-plus.com:8880/live/demo21112/HWNDH/558709.ts
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="DEPORTES",DEP | ESPN 5
-http://livetv-plus.com:8880/live/demo21112/HWNDH/272499.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="espndeportes.us" tvg-name="DEP | ESPN DEPORTES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN DEPORTES HD
 http://livetv-plus.com:8880/live/demo21112/HWNDH/54533.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deathstroke: Caballeros y dragones (LAT) (2020)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",Deathstroke: Caballeros y dragones (LAT) (2020)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transformers Uno (LAT) (2024)" tvg-logo="" group-title="CINE 2024 - (LAT)",Transformers Uno (LAT) (2024)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Duna: Parte dos (LAT) (2024)" tvg-logo="" group-title="CINE 2024 - (LAT)",Duna: Parte dos (LAT) (2024)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1319371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DC Showcase Original Shorts Collection (LAT) (2010)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",DC Showcase Original Shorts Collection (LAT) (2010)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318494.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman: Hijo rojo (LAT) (2020)" tvg-logo="" group-title="CIENCIA FICCIÓN - (LAT)",Superman: Hijo rojo (LAT) (2020)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman: Muerte en la Familia (LAT) (2020)" tvg-logo="" group-title="ANIMACIÓN - (LAT)",Batman: Muerte en la Familia (LAT) (2020)
-http://gntvplay.online:8080/movie/x5G5Atazdz/UY6DyG3TRM/1318112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 3 (CHI)
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/120547
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/167770
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/167774
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/252151
+#EXTINF:-1 tvg-id="" tvg-name="ADN TV" tvg-logo="http://goldfull.pro:8880/images/8fdf9894183a291661fa451bf1141750.png" group-title="⭐️ CHILE REGIONALES",ADN TV
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/252152
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro (2013)
+http://superxlatino.com:8880/movie/ZvnEucP8PBMC/Yz2jqkzspubV/552980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro 2- El caso Enfield \ (2016)" tvg-logo="http://redworld.pro:8880/images/3959c13ce468927100863410f1330ec3.jpg" group-title="⭐️Terror",El Conjuro 2- El caso Enfield \ (2016)
+http://superxlatino.com:8880/movie/ZvnEucP8PBMC/Yz2jqkzspubV/552981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1DuBfFv5VjDzpc4KV6SzSSVh4U.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjM4hZGeTSG1ckxWa91DBUIWD5S.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTn6GbzIWcHBas0jQNOvJMofZN.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nRIQc1kKfS5RTkLeVQYJauW3QU.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3MJRJQRdCTsDWEOUzpatZqwkIR.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RjEUBkw9Xnsq8doMw9K2NnRmsX.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ap8xEHmk9rJ5DqN6c9enca7sVP.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enAcz1ZXfA7ZAx55GXzpTbmy44d.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rwNfpYvGGyZIC9dQKP2fzbeCt8.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7fYUtjRBiuCSLNaodHnZbb8Yvy.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stlEmvySIVbpndRp1dH6wx57sx4.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krcZKQOF095e1FCPWQzTwrtRO0v.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKjRqP0nfBjS1rP4OOT2wWhgYN.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vawQQd6XOlllMZXrr6J05hPTwj.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRHPHyhAjy6EDdg5TrMwtw1fNuc.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvvFhZsUqgxf2FqzJLyCNqnewaC.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YfhnDVZDjd4UGGjRupDVBsYxmJ.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBmYAbymsicnZM5r1LLZvm2uomY.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC6CqL386ntGwi6jkJCTHPtnrYS.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJh2GC7fyIQv8V3MYVoVLcUjeIT.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZvIFsT3GFHjaiZ7JLaDD7co5F3.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Ktv1CgT8UZif5rENxBf395qSN.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPZAfgWRP0RxNHw6cE3eEr1knRB.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2lU9BoMU44ggA6GlayiPKdBrbU.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6ZSWEtw37SiULhw96BBNq7iwTb.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrQbrrQBARKHClODO8bH8gDxBwW.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82uEJqvH6FbiqipG9IYztePMRbO.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlpJLbBqQKhVepnAuFxaK9h8cJd.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE50225dvp4QkSCMs7OasuPCqep.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8khPwW6y7737YAJwfdzcFhpAUy.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S03 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n97iv8wyYGIPIlopX9Ac2XeLkHm.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5c1yZlB1P3kegLlFW2tRlFmTfze.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQX7SqZX40vfow0ZuPp1IUbN5sb.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb8zbWEBtTlSpd0zvJhZ0qDWTXe.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npveuBuAJ59XxBa63VJVwD3h8nC.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3E7JUyz5TmCKFZ6vsyatzZMEkD.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIWS26YdBFzFA3EdpSmGlShfrlv.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7mGpRE4Ngzm44syAz4j8IjlGlk.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYznCs8h44uERN0NDUed1WESYb.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKYzhJ5uPwRMBc17b2nK1CYVRhs.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfaDACXAgCQ3hJ9anRZldWzS4H8.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSs3PVYpmFhdaGKRkAqB9jiqzO3.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnuTJOLHUj84IqyMQFyNDSSNv1e.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E13
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54VcvNvddIdynXTFrZOSLJlSOLE.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4caKHpd7aDURha12cOg6UiLYnZA.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAe4pBkp381efRJ7uzX56Ciyzuu.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGIxE7RHQzKT2omf83foBBBVmo2.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida ISEKAI S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zThjwZQnAyN7hNX1WP02xlX6izg.jpg" group-title="⭐️SERIES 2024♾️",Escuadron Suicida ISEKAI S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/473444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjXeHfeyHoYG8DX3YvvYd1hATgL.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/477982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/479207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/479344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/484646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/91RUh4rfKJN4oYoAREKp5fimN49.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/484915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/pRXR1zSSIbiDKpBNulx7lZCtT3t.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/485178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/3KbtT3bWqcQieS71dLBtpxeZLL2.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/489291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/8Tg3f8sPJ9fHERFkX16GAQLl1QH.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/489919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pF73h1gpZX0x887ph38IfDsQRkc.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/493457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/oIvOwq5o0vBBGbb1vJqRaA7QOrX.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/5T5ipgDLvQbyFQZy7zsOFtuu2U6.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/494235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/40GXfVsXABfU3q8kONqIh5tfyO6.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E13
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/495153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/8yiYCV4sKI7DKipRAXScjn0TPiW.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E14
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/495455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/vDZ4dJ59cw2Nltf2Dci1DXCfE4j.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E15
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/495847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/zR2cUCEX14BoilmnByOL0GVq3Fs.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E16
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/vSGMCrxd788k585aLxiTDiFaUs9.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E17
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/PeyYcVcYOADRyf9HUtaGnL3gxh.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E18
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/imJl2fb8m65L4u7UWsaHkYMt1HY.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E19
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/A2l4sFZp3Tcgg9jKBXbpiJBGt5n.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E20
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/498222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkZztD9ddgRh32ve8zwCqwfle85.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiwIW9CvRSNSTpGezcEmN66G0OJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ww5ZnuYxTTV3ydjeIMTbyqwdNB.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RIsVKvOsrumsC0SPFuEJCzxXUp.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRSru3rTtSa3zvHVfeJunxuPhFG.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5AjQZ3tVven0KwZKEmy4t1bT6d.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgnAd6j1mdqDUDcRBLkywbVXuk6.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgfspvyubxzgwvXhlPUpzv7FUjJ.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTxaYuVoOGpQgUy3i9Widm5wwQE.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85UQM8CFLJUBaL4Izvy7XLOAFUz.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coRYq2nyR4bosvahgnHW3lZpaZH.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1T5GvyGYDrVloexWJfxDJwOEBy.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S01 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4quJAR1dFZPWA4bQH3UJSIqCvdW.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyCXd1MSWDuSvwAlXECMJkezEaP.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxaPGgzgU2ORVJIxgIRNVSVvONi.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfYLGCk8PjvQDw2SZFkD3e4l5yM.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJuxAxDhUNVny9hA0o3nM6BnaHT.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eqDht8SU8h6NTMOJR5Y7XxktgA.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6o67ERb1xSvI8yJkKblxkZTO34.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYjvvHpeJPH8dOAHUAFsi2GEach.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51gMXACMehJE8nmiQ92ENmoigfu.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYVCp6icJj0HxZeWlRXH8WYGLbd.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgF2bIbZa7laCUHd8WLIx1VzwC0.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vox Machina S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P4k46hd94u41xzpppaEJPmP6j2.jpg" group-title="SERIES ANIMADAS",La leyenda de Vox Machina S02 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/478069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
