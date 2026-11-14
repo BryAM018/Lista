@@ -63,13 +63,11 @@ https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 http://190.61.47.54:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
 http://181.78.8.199:8000/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD"  tvg-name="CO | CARACOL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO | CARACOL
-http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="LA: CARACOL" tvg-logo="https://docdog.top/logo/countries/latino/caracol.png" group-title="LATINO",LA: CARACOL
 http://200.122.232.149:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="CO: CARACOL" tvg-logo="https://docdog.top/logo/countries/colombia/caracol.png" group-title="COLOMBIA",Caracol HD
 http://181.78.21.38:8000/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD",CO | CARACOL HD
+#EXTINF:-1 tvg-id="CaracolTV.co@SD"  tvg-name="CO | CARACOL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO | CARACOL HD
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV (1080p)
 http://138.94.3.106:8000/play/a06z
@@ -83,8 +81,6 @@ http://181.205.130.194:4000/play/a0dl
 http://181.78.17.228:8081/RCN-HD/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-name="RCN Nuestra Tele Int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COLOMBIA",Nuestra Tele Internacional (1080p)
 https://stream1.bitred.cl/nuestra-tele/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-name="CO | RCN NUESTRA TELE" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="COLOMBIA",Nuestra Tele Internacional (720p)
-http://170.238.200.199/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="CO | RCN HD 02" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="COLOMBIA",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN MÁS+" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA",RCN Más (1080p)
@@ -107,10 +103,8 @@ http://190.61.47.54:8000/play/a02z/index.m3u8
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-name="CNN ESPAÑOL" tvg-logo="https://secure.gravatar.com/blavatar/b238e5839cd6b86e354c397f8c58c295?s=200&ts=1559688083" group-title="USA",CNN en Espanol (1080p)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="LATINO",Comedy Central Latin America
-http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-name="USA | COMEDY CENTRAL" tvg-logo="http://apkip.tv/logos/USA/ComedyCentral.us.png" group-title="USA",Comedy Central Latin America (1080p)
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-name="CR | Costa Rica Channel" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="COSTA RICA",Costa Rica Channel 
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="MEXICO",De Pelicula Latin America (1080p)
@@ -129,10 +123,6 @@ http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="DISTRITO COMEDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="MEXICO",Distrito Comedia (1080p)
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="EN | DISTRITO COMEDIA" tvg-logo="http://sunset-app.com/picons/entretenimiento/distritocom.jpg" group-title="MEXICO",Distrito Comedia (1080p)
-http://190.61.47.54:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-name="INF | DISCOVERY KIDS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="USA",Discovery Kids Latin America Colombia (1080p)
-http://38.134.250.110:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="DISCOVERY KIDS" tvg-logo="http://www.vod-logo.net/photos/c40c90b70cb4b37748d0405639401686.jpg" group-title="LATINO",Discovery Kids Latin America Brazil (720p)
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Chile" tvg-name="Discovery Kids " tvg-logo="https://i.ibb.co/4tQzkbt/discovere4r4e.png" group-title="INFANTILES",Discovery Kids Latin America Chile (1080p)
@@ -251,8 +241,6 @@ http://50.229.129.155/0.ts
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-name="NET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/1000?cb=20210315130135&path-prefix=es" group-title="Argentina",NET TV (1080p)
 http://45.226.205.96:48000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="INF | NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="USA",Nickelodeon Latin America
-http://190.93.224.42/NICK/index.m3u80
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="INF | NICKELODEON SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTILES",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-name="RD:  ORBIT TV " tvg-logo="https://immaa.xyz/ORBITTV.png" group-title="REP. DOMINICANA",ORBIT TV (1080p) [Not 24/7]
@@ -301,10 +289,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.sk@HD",Sport 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
-#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-name="USA| TLC PACIFICO" tvg-logo="https://i.ibb.co/QC0WwvW/45rwerwesdvctu7y8uhjbn3w.png" group-title="LATINO",TLC Latin America (1080p)
-http://38.134.250.110:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-name="TC TELEVISION " tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Television (1080p)
-http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-name="CINE | TCM " tvg-logo="http://www.vod-logo.net/photos/5917cd959434c3d9c54c2a70c4a4d8da.png" group-title="LATINO",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Panregional" tvg-name="USA | TCM" tvg-logo="https://tmsimg.fancybits.co/assets/s64312_ll_h3_aa.png" group-title="USA ",TCM Latin America (1080p)
@@ -355,8 +339,6 @@ http://45.171.64.30:6060/play/a03i/index.m3u8
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@ColombiaHD" tvg-name="EN | TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="USA",TNT Novelas ColombiaHD (1080p)
 http://181.78.79.131:8000/play/a0na
-#EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="CINE",TNT Novelas Colombia (1080p)
-http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-name="CL | TNT SPORTS PREMIUM" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="CHILE",TNT Sports Premium ArgentinaHD (1080p)
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl@HD" tvg-name="TNT SPORTS PREMIUM " tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" group-title="CHILE",TNT Sports Premium HD (1080p)
@@ -467,6 +449,9 @@ https://stream.elseis.do/canal6/live_1080.m3u8
 #EXTVLCOPT:http-referrer=https://vaughn.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD",beIN Sports 1 Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="M4Sport.hu@SD",M4 Sport (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
@@ -549,8 +534,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/471903.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOMINADA - Pobres criaturas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="♾️PREMIOS OSCAR 2024⭐️",NOMINADA - Pobres criaturas (2023)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/446261.mkv
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E02
-http://livetv-plus.com:8880/series/demo21112/HWNDH/260582.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E03
 http://livetv-plus.com:8880/series/demo21112/HWNDH/260583.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="My Hero Academia S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmUuNVWAJumRkDNuauFaLSvga00.jpg" group-title="ANIME",My Hero Academia S05 E04
@@ -789,16 +772,6 @@ http://livetv-plus.com:8880/series/demo21112/HWNDH/292417.mkv
 http://livetv-plus.com:8880/live/demo21112/HWNDH/19461.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | CALIENTE TV" tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" group-title="DEPORTES",DEP | CALIENTE TV
 http://livetv-plus.com:8880/live/demo21112/HWNDH/558709.ts
-#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 3 (CHI)
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/120547
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/167770
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/167774
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 San antonio" tvg-logo="http://goldfull.pro:8880/images/6219808004e9ecbc169bbbf0ff4bb913.png" group-title="⭐️ CHILE REGIONALES",CANAL 2 San antonio
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/252151
-#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="DEPORTES | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 1
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/167734
 #EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia" tvg-logo="http://goldfull.pro:8880/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="⭐️ Colombia",CO | Señal Colombia
 http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/318387
 
@@ -1000,3 +973,69 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472722.mp4
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472804.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp - Quantumania (2023) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="⭐️VOD | ESTRENOS 2023⚡️",Ant-Man and the Wasp - Quantumania (2023) (1080p)
 http://iptvpremium.ink:55577/movie/iptvdf12262/543fgr4/259530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="http://redworld.pro:8880/images/227253d29a62a0a284d97be403fb3ce0.jpg" group-title="⭐️Marvel",Deadpool & Wolverine (2024)
+http://superxlatino.com:8880/movie/ZvnEucP8PBMC/Yz2jqkzspubV/557316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Nuevos Mutantes (2020)" tvg-logo="http://redworld.pro:8880/images/54aafad30e06a9423872f96f0512a070.jpg" group-title="⭐️Marvel",Los Nuevos Mutantes (2020)
+http://superxlatino.com:8880/movie/ZvnEucP8PBMC/Yz2jqkzspubV/557341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="⭐️ CULTURA",Discovery Investigation HD
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/318607
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83vFYTHtCqWwaDtZluSU8bmnFYG.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XzqWHBFvddrO2sazXzaCTtFEeA.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wq1ZX7GYEFhSttQoTFJ4WyqV22.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ST4xchcR2s1JQUV23ryOBVrWbN.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqz0Xvf7gpXwagUoaHxBqmyv6D5.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNYs1oSMXa1V3KKWLPvtOy6UQWC.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",The Boys S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/300244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YJqx02JNMu9gNX7Ok7qgaNJJgl.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pNZYWhkY0DdUyVU8FEaYDSSfTW.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiuQbGLBgXltDTZ95YyL2vCoIKr.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbWzpmQlFENbnS6GbvHZhzywozo.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4KDV9hxszklNHdkRm564qWfq9R.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9g5v73OPWNA0lP4R0QrOgTrH0k.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHc295TFzpmAMstLQvJe00oiF6G.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEs22idG5SWG1qObfyMnCGavjMN.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmNyV9dUPi7VeluqxYq0OFFCKNs.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6AD9UGfac5wyP2wADG5cWS7EIZ.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S01 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF1iNdd5TPohcgju8Rp2bd1Xw2j.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E01
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87k8iaXYpfzpCkHpZ80naE4K6z4.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E02
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9HkUQ5aGCdseKy971ljwiiUREn.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E03
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ps8bQRagfz1N4GD1RYdcacuETmV.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E04
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd9D6vtC4oXwGoo6fMEs8bOlJ7I.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E05
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZTUnRqBUid0GDZXZI5PAS0kcNt.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E06
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc4tFi28QBr88Ceg5gr3a6Hv52k.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E07
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj17acHQ9wz6uaADDzBL1D1mmCp.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E08
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cofiHu8S96oZry9ovOJhIpO8gN.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E09
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ViXiMxiKH7WYYB6OfQzkoegdK9.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E10
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clp0O56bsvz707xQAI44KfSMOft.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E11
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc1YAVoHcTexCtVL8RGqdorzVUP.jpg" group-title="⚡️APPLE TV♾️",Ted Lasso S02 E12
+http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/324723.mkv
