@@ -20,8 +20,6 @@ http://stream.mcquack.net/393/index.m3u8
 http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-name="PY | TELEFUTURO " tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="PARAGUAY",Telefuturo (1080p)
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY",Telefuturo (1080p)
 http://158.172.217.18:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="CL | 13 TELESERIES" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="CHILE",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -512,8 +510,6 @@ https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1 tvg-id="SiTV.do@SD",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
-#EXTINF:-1 tvg-id="SportExtra.ro@HD",Sport Extra HD
-http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD",STVE Telebasica (1080p)
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribe.us@HD",Television Caribe (1080p)
@@ -737,8 +733,6 @@ http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/414476
 http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/414519
 #EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⭐️ PERU",PE | IMPERIAL TV HUANCAVELICA
 http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/430832
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Ty€ 5PORT5" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | Ty€ 5PORT5
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/443250
 #EXTINF:-1 tvg-id="" tvg-name="Fire force S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OWHHF5wGZ7cU1VlqDc4L2nwhng.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fire force S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/275496.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fire force S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Y2Ln91IMj3uUIM1hJj6eqcHWQ.jpg" group-title="⚡️SERIES DE ANIMES♾️",Fire force S01 E02
@@ -999,8 +993,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/274558.mkv
 http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/430576
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 MX OP1" tvg-logo="http://127.0.0.1/" group-title="⭐️Deportes México",ESPN 4 MX OP1
 http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/564217
-#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL LA PAZ HD." tvg-logo="http://dplatino.net:8080/images/98b49beabcf94f0b0c5792690fa3baec.png" group-title="🇧🇴 BOLIVIA PREMIUM",BOL : UNITEL LA PAZ HD.
-http://vodmix.top/live/ecjpoveda0029/IKVNpAC3TI3/4a596b4f-dce0-455d-99d5-f29621c9f10b.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="http://redworld.pro:8880/images/5eddcf4e2ccc984408c50e70df71f43b.jpg" group-title="⭐️Películas 2024",Alien: Romulus (2024)
 http://starlatino.tv:8880/movie/katy2025/Ytwa6hXNr6zX/555433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg" group-title="▶️ TERROR ▶️",El Conjuro (2013)
@@ -1011,8 +1003,6 @@ http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/47f2ef72-4e49-43ee-82e0-fd49d2
 http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/302f404e-4dca-41f0-bfa9-d0c893d1037e.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halloween 6: La maldición de Michael Myers (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" group-title="▶️ TERROR ▶️",Halloween 6: La maldición de Michael Myers (1995)
 http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/80b3e0cc-3ee1-4a08-9765-93b1da4c56e1.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" 24/7 | X MEN***" tvg-logo="http://mundo2.vip:8080/images/8ba43870fb4bf354f801330e6a2d0f9c.png" group-title="♾️ 24/7 ( PELICULAS )", 24/7 | X MEN***
-http://vodmix.top/live/ecjpoveda0029/IKVNpAC3TI3/f6016326-b7c6-4c85-addf-e36fc14c5d36.m3u
 #EXTINF:-1 tvg-name="Falcon Y El Soldado Del Invierno S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/9c9EUdeFfkyfCsHK65gtXRACRcZ.jpg" group-title="SERIES-UNIVERSO MARVEL",Falcon Y El Soldado Del Invierno S01E01
 http://nn.nnyx4k.com:8444/series/richard.castro.alvear/oe1HYAD8F5/83864.mkv
 #EXTINF:-1 tvg-name="Falcon Y El Soldado Del Invierno S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/2e7oMGT1I6GXLfWLhdfRtAbrwBr.jpg" group-title="SERIES-UNIVERSO MARVEL",Falcon Y El Soldado Del Invierno S01E02
@@ -1031,3 +1021,63 @@ http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/46221.mkv
 http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/42337.mkv
 #EXTINF:-1 tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="VOD-IMAX",Pantera Negra: Wakanda por siempre (2022)
 http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/2704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg" group-title="DISNEY+ (LAT)",Loki S02E03
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg" group-title="DISNEY+ (LAT)",Loki S02E04
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg" group-title="DISNEY+ (LAT)",Loki S02E05
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/avCnQZPvHbqDLWMqlRNtayG732A.jpg" group-title="DISNEY+ (LAT)",Loki S02E06
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E02
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E03
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E04
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E05
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E06
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E07
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E08
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E09
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055877.mkv
