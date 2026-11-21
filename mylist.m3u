@@ -91,8 +91,6 @@ http://15.204.246.24:8080/DHEHD/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.pinimg.com/originals/60/11/f4/6011f4f6ad9969379a9dc9b63dad8a35.png" group-title="Argentina",Disney Channel
 http://15.204.246.24:8080/DisneyHD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-name="KIDS | DISNEY CHANNEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="LATINO",Disney Channel Latin America Center (1080p)
-http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL " tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="USA",Disney Channel Latin America 
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="Argentina",Disney Jr. Latin America South
@@ -123,7 +121,7 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="ESPN 1" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="USA",ESPN Latin America Colombia (1080p)
 http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mYiJWbj39gzHgOvUK9RxBD4sBxWR6kdwaw&s" group-title="USA",ESPN Latin America Colombia (1080p)
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mYiJWbj39gzHgOvUK9RxBD4sBxWR6kdwaw&s" group-title="USA",ESPN Latin America Colombia
 http://181.78.211.244:8005/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-name="ESPN 1 " tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="MEXICO",ESPN Latin America Mexico (1080p)
 http://168.228.44.241:9997/play/a06p/index.m3u8
@@ -235,7 +233,7 @@ http://190.93.224.42/SONY-CHANNEL/index.m3u8
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="LATINO",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-name="STAR CHANNEL" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="USA",Star Channel (1080p)
+#EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-name="STAR CHANNEL" tvg-logo="https://i.postimg.cc/G2vLPt1d/Star-Channel-2020.jpg" group-title="USA",Star Channel (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="LATINO",Studio Universal Latin 
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
@@ -273,8 +271,6 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" tvg-name="PR | TELEMUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="USA",Telemundo WKAQ-TV
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Telemundo",Telemundo WKAQ-TV (1080p)
-http://38.107.110.140:61400/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1/" group-title="Undefined",Telemundo Noticias Ahora (1080p)
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr@SD" tvg-name="CR | Teletica 7 " tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="COSTA RICA",Teletica 7 (720p)
@@ -319,8 +315,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU.cl@SD" tvg-name="TVU Concepción " tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE",TVU Concepción (1080p)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-name="PE: Unitel (Huancayo)" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="PERU",Unitel (1080p)
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="USA | UFC FIGHT PASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLrGbYJ8rW58YXUksTu0ZYW8Zg2c-PmfzIg&usqp=CAU" group-title="USA",UFC (1080p)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@Mountain" tvg-name="UNIMAS" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="USA",UniMas Mountain (1080p)
@@ -490,8 +484,58 @@ http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="CanalGuapa.py@SD",Canal Guapa (1080p)
 https://guapa-live.argosworkspace.com/guapa/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKjRqP0nfBjS1rP4OOT2wWhgYN.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg" group-title="▶️ TERROR ▶️",El Conjuro (2013)
+http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/eaa20c42-d7a3-4729-9eb1-fdeb74d70532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg" group-title="▶️ TERROR ▶️",Halloween 4: El regreso de Michael Myers (1988)
+http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/47f2ef72-4e49-43ee-82e0-fd49d29c0c07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" group-title="▶️ TERROR ▶️",Halloween 5: La venganza de Michael Myers (1989)
+http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/302f404e-4dca-41f0-bfa9-d0c893d1037e.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 6: La maldición de Michael Myers (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" group-title="▶️ TERROR ▶️",Halloween 6: La maldición de Michael Myers (1995)
+http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/80b3e0cc-3ee1-4a08-9765-93b1da4c56e1.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="http://redworld.pro:8880/images/5eddcf4e2ccc984408c50e70df71f43b.jpg" group-title="⭐️Películas 2024",Alien: Romulus (2024)
+http://starlatino.tv:8880/movie/katy2025/Ytwa6hXNr6zX/555433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg" group-title="DISNEY+ (LAT)",Loki S02E03
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg" group-title="DISNEY+ (LAT)",Loki S02E04
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg" group-title="DISNEY+ (LAT)",Loki S02E05
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/avCnQZPvHbqDLWMqlRNtayG732A.jpg" group-title="DISNEY+ (LAT)",Loki S02E06
+https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034654.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vawQQd6XOlllMZXrr6J05hPTwj.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E04
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298330.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E05
@@ -902,116 +946,12 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/274556.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/274557.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Edens Zero S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBMMoXepXQp3HFz2N01GlUhs1iN.jpg" group-title="⚡️SERIES DE ANIMES♾️",Edens Zero S01 E25
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/274558.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="http://redworld.pro:8880/images/5eddcf4e2ccc984408c50e70df71f43b.jpg" group-title="⭐️Películas 2024",Alien: Romulus (2024)
-http://starlatino.tv:8880/movie/katy2025/Ytwa6hXNr6zX/555433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg" group-title="▶️ TERROR ▶️",El Conjuro (2013)
-http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/eaa20c42-d7a3-4729-9eb1-fdeb74d70532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg" group-title="▶️ TERROR ▶️",Halloween 4: El regreso de Michael Myers (1988)
-http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/47f2ef72-4e49-43ee-82e0-fd49d29c0c07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" group-title="▶️ TERROR ▶️",Halloween 5: La venganza de Michael Myers (1989)
-http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/302f404e-4dca-41f0-bfa9-d0c893d1037e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halloween 6: La maldición de Michael Myers (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" group-title="▶️ TERROR ▶️",Halloween 6: La maldición de Michael Myers (1995)
-http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/80b3e0cc-3ee1-4a08-9765-93b1da4c56e1.mkv
 #EXTINF:-1 tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="VOD-IMAX",Pantera Negra: Wakanda por siempre (2022)
 http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/2704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg" group-title="DISNEY+ (LAT)",Loki S02E03
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034651.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg" group-title="DISNEY+ (LAT)",Loki S02E04
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg" group-title="DISNEY+ (LAT)",Loki S02E05
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034649.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loki S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/avCnQZPvHbqDLWMqlRNtayG732A.jpg" group-title="DISNEY+ (LAT)",Loki S02E06
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1034654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E02
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E03
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E04
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E05
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E06
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E07
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invincible S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="SERIES ANIMADAS (LAT)",Invincible S04E08
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1158616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E10
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E11
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E12
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura (LAT) (2022)" tvg-logo="" group-title="FANTASÍA - (LAT)",Doctor Strange en el multiverso de la locura (LAT) (2022)
-https://mallorca.plus/movie/25andreszapata/gkhCEeC6Yz/1314518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor y Trueno (LAT) (2022)" tvg-logo="" group-title="FANTASÍA - (LAT)",Thor: Amor y Trueno (LAT) (2022)
-https://mallorca.plus/movie/25andreszapata/gkhCEeC6Yz/1318055.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Karate Kid II: La Historia Continúa (1986)" tvg-logo="https://image.tmdb.org/t/p/w400/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg" group-title="▶️ CLASICOS ▶️",Karate Kid II: La Historia Continúa (1986)
 http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/8e96d2cf-2ee4-4454-818e-13e1ff96a5dc.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="▶️ INFANTILES ▶️",Lightyear (2022)
 http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/b396c43b-8158-442d-ba25-30246d0210f0.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E01
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/eCY9QrCeDElIPruX90uROhbhSRi.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E02
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E03
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E04
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/wH70Brocp4BYrGeXmIUkbm2JrU9.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E05
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/kKSF9IqTMWdm4sGKCk47Lmt7UCl.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E06
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/6nLWHeOz01N71TSoYqmzyYNBbxg.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E07
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/3vCNftYMhm5kBCpp4InjgKkYVV1.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E08
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/5MlU6IV9rJFKXLdi8psKHmIVqLP.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E09
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/ams5FvPo8vlbf7L76A9xcFMa91K.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E10
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iKDIfRto3cb6hgWvhdsNp7bxEKk.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E11
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg" group-title="SERIES ANIME (LAT)",One Punch Man S03E12
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1170564.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E01" tvg-logo="http://redworld.pro:8880/images/65afc02be48f0ddc0ad0e1ae1ae07e77.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E01
 http://superxlatino.com:8880/series/ZvnEucP8PBMC/Yz2jqkzspubV/500750.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mis Aventuras con Superman S01 E02" tvg-logo="http://redworld.pro:8880/images/706a2ff6b7e5bd838c72f44da89fb86d.jpg" group-title="⭐️ Series HBO ",Mis Aventuras con Superman S01 E02
@@ -2256,34 +2196,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/276820.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/276821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Horimiya S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/512Badr031fSqikz8kn7Fr2UHqW.jpg" group-title="⚡️SERIES DE ANIMES♾️",Horimiya S01 E12
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/276822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/8PacCLwGRIbFmsUoGHnyhwLH9mp.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E01
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169630.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/l5uFORvsifnwQg8itLjGdsOk8eU.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E02
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/hRscoSRRUCGOXGJ83ywcephqSSA.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E03
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/okbLdBddkumxWUOXABUcXM2gL1f.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E04
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169631.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/dG4siUJDNLWv2Xfl13xeXMlGR1U.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E05
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169633.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/6eVgGAH7Sjh3yXdVJH98KcFBohc.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E06
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/ndcpcZxE8FxNs4Ea1wmHLg1FLst.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E07
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/boPsRwLG9ruAVK5S8JwCThjRQI5.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E08
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/o8DHmUm1J6Q6QOFgckcHZmyOGMb.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E09
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/lW7uklrcr36xbZC4QIAczoAdu8x.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E10
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/vByHNIBtlHvTC0S5HxwrLpl4ixo.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E11
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169640.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/lb47dNCYyJ4S7gZwk2vjk0dce6K.jpg" group-title="SERIES ANIME (LAT)",Mobile Suit Gundam S01E12
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1169641.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | TNT SERIES  HD
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/414477
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZ MUNDO" tvg-logo="http://redworld.pro:8880/images/8bebeb502027b3d6eb16e19f0ced3499.png" group-title="⭐️ México",MX | AZ MUNDO
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/534785
 #EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://127.0.0.1/" group-title="⭐️ CINE PREMIUM",Space HD
 http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/567894
 #EXTINF:-1 tvg-id="" tvg-name="Monogatari S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTv5jCsmewlQdxb5zsiJkICY67b.jpg" group-title="⚡️SERIES DE ANIMES♾️",Monogatari S01 E01
@@ -2516,5 +2428,5 @@ http://playstreaming.net/series/loreto36652855/gozocehaxoto/1166679.mkv
 http://playstreaming.net/series/loreto36652855/gozocehaxoto/1166677.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Devil May Cry S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/qJ8Zv1zpa2ErSche6kE3MTrffk5.jpg" group-title="SERIES ANIME (LAT)",Devil May Cry S02E08
 http://playstreaming.net/series/loreto36652855/gozocehaxoto/1166680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fate/stay night: Unlimited Blade Works (LAT) (2010)" tvg-logo="" group-title="ACCIÓN - (LAT)",Fate/stay night: Unlimited Blade Works (LAT) (2010)
-http://playstreaming.net/movie/loreto36652855/gozocehaxoto/1306636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE |  TNT SERIES  SD
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/414478
