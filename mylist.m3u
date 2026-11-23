@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-name="PY | TELEFUTURO " tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="PARAGUAY",Telefuturo (1080p)
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
 http://158.172.217.18:8000/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD",beIN Sports 1 Turk
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-name="TR: Bein Sports 1 HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",beIN Sports 1 Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA 1" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="USA",beIN SPORTS XTRA (1080p)
@@ -96,7 +96,7 @@ https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="DISNEY CHANNEL " tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="USA",Disney Channel Latin America 
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="Argentina",Disney Jr. Latin America South
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="ARGENTINA",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="DISTRITO COMEDIA " tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="MEXICO",Distrito Comedia (1080p)
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
@@ -104,15 +104,15 @@ http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" tvg-name="Discovery World " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="LATINO",Discovery World Brazil (720p)
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-#EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-name="Dspօrȶֆ 2" tvg-logo="https://i.ibb.co/DPmxTJ2x/d2.jpg" group-title="USA",DSports 2
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-name="Dspօrtֆ 2" tvg-logo="https://i.ibb.co/DPmxTJ2x/d2.jpg" group-title="USA",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="MEXICO",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-name="Ecuavisa [Gquil]"  tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-name="EN | EL GOURMET HD" tvg-logo="https://i.ibb.co/gVTnyDm/GOUE.png" group-title="Argentina",El Gourmet South (1080p)
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-name="EN | EL GOURMET HD" tvg-logo="https://i.ibb.co/gVTnyDm/GOUE.png" group-title="ARGENTINA",El Gourmet South (1080p)
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-name="ARG | El Nueve" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina",El Nueve 
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-name="ARG | El Nueve" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="ARGENTINA",El Nueve 
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-name="EN | ESTRELLA TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="USA",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -124,7 +124,7 @@ http://190.61.47.54:8000/play/a004/index.m3u8
 http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-name="ESPN 2" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="USA",ESPN 2 Latin America Colombia (1080p)
 http://190.61.47.54:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-name="ESPN PREMIUM | AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Argentina",ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-name="ESPN PREMIUM | AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="ARGENTINA",ESPN Premium
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="USA",FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
@@ -160,7 +160,7 @@ http://190.93.224.42/HISTORY/index.m3u8
 http://181.225.190.242:8000/play/a023
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" tvg-name="Hola TV" tvg-logo="https://i.postimg.cc/W18XTkhW/images-q-tbn-ANd9Gc-SB7ds-4Mo-ezx-SSy-Id-NBMN4Ozp691gqj-Ftv-Q-s.png" group-title="USA",Hola! TV Latin America (1080p)
 http://15.204.246.24:8080/HOLATVHD/index.m3u8
-#EXTINF:-1 tvg-id="JuntosTV.pe@SD" tvg-name="PE || Junȶօֆ ȶʋ" tvg-logo="https://i.ibb.co/sdfG1CfB/JUNTOS.png" group-title="PERU",Juntos TV (576p)
+#EXTINF:-1 tvg-id="JuntosTV.pe@SD" tvg-name="PE || Juntօֆ ȶʋ" tvg-logo="https://i.ibb.co/sdfG1CfB/JUNTOS.png" group-title="PERU",Juntos TV (576p)
 http://45.70.201.81:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-name="KSA Sports 1" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="DEPORTES",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
@@ -174,6 +174,8 @@ http://45.171.108.253:8888/LATINA/index.m3u8
 https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-name="CL | LA RED " tvg-logo="http://redworld.pro:8880/images/bcfd743e350fccf33546292fffc48b26.png" group-title="CHILE",La Red 
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD" tvg-name="SPORTS | MARQUEE SPORTS NETWORK" tvg-logo="https://www.bleachernation.com/wp-content/uploads/2020/02/marquee-sports-network-feature-tv.jpg" group-title="USA",Marquee Sports Network (576p)
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="CL| MEGA HD" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="CHILE",Mega 
 http://15.204.246.24:8080/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl@SD" tvg-name="CL| MEGA 2 HD" tvg-logo="http://redworld.pro:8880/images/e01d921297fdc4476e65a6ec8af447c8.png" group-title="CHILE",Mega 2 
@@ -204,7 +206,7 @@ http://50.229.129.155/0.ts
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-name="NET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/1000?cb=20210315130135&path-prefix=es" group-title="Argentina",NET TV (1080p)
 http://45.226.205.96:48000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="INF | NICKELODEON SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATINO",Nickelodeon Latin America (1080p)
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="INF | NICKELODEON " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATINO",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-name="RD: ORBIT TV " tvg-logo="https://immaa.xyz/ORBITTV.png" group-title="REP. DOMINICANA",ORBIT TV (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
@@ -232,8 +234,6 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="LATINO",Studio Universal Latin 
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="BRASIL",Studio Universal Latin America Brazil (720p)
-http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="USA",Studio Universal Latin America (1080p)
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.cz@HD" tvg-name="CZ: SPORT 1" tvg-logo="https://docdog.top/logo/countries/cz/sport1.png" group-title="EU | CZ & SLOVAK",Sport1 HD
@@ -288,8 +288,6 @@ http://181.78.79.131:8000/play/a0na
 http://205.235.6.29:8000/play/a104/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD" tvg-name="TVC " tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="ECUADOR",TVC (720p)
 http://157.100.248.242:8080/TVCHD/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboBrasilia.br@SD" tvg-name="GLOBO " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Globo_Internacional_2014.png/revision/latest?cb=20200812160256&path-prefix=es" group-title="BRASIL",TV Globo Brasilia (1080p)
-http://79.127.238.228:14173
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="CL | TVN " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/TVN2020.svg/revision/latest/scale-to-width-down/1000?cb=20210906211313" group-title="CHILE",TVN
 https://iptv.bitred.cl/tvn/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="PERU",PE | TV PERÚ
@@ -324,6 +322,8 @@ http://190.93.224.42/WILLAX/index.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" tvg-name="|IT| SPORTITALIA CALCIO" tvg-logo="" group-title="INTERNACIONALES",Sportitalia Solocalcio (1080p)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co@SD" tvg-name="CO | TV AGRO" tvg-logo="" group-title="COLOMBIA",TVAgro (720p)
+http://181.78.211.244:8005/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-name="MU | VEVO LATIN" tvg-logo="" group-title="USA",Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="REP. DOMINICANA",Ahora TV (1080p)
@@ -342,8 +342,6 @@ https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="FRATATV.do@SD" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="REP. DOMINICANA",FRATA TV (1080p) [Not 24/7]
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="USA",FTF Sports (720p)
-https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl@SD" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="CHILE",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaclarTelevision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA",Manaclar Television [Not 24/7]
@@ -416,8 +414,6 @@ https://183.giatvcdn.com/ssh101/ssh101/ctv8hd/playlist.m3u8
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD",MakroDigital Television (1080p)
 http://205.235.6.29:8000/play/a0wp/index.m3u8
-#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD",Marquee Sports Network (576p)
-https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Spanish",NOW News Spanish (1080p)
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish",NowMedia Television Spanish (1080p)
@@ -428,8 +424,6 @@ http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribe.us@HD",Television Caribe (1080p)
 https://televisioncaribe.com/index.m3u8
-#EXTINF:-1 tvg-id="TVAgro.co@SD",TVAgro (720p)
-http://181.78.211.244:8005/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="TVCotuiCanal31.do@SD",TV Cotui Canal 31 (1080p) [Not 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/tvcotui/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMontanaCanal10.do@SD",TV Montana Canal 10 (720p) [Not 24/7]
@@ -444,8 +438,14 @@ https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-
 http://190.61.42.218:9000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Argentina",CIUDAD MAGICA
-https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-id="CanalGuapa.py@SD",Canal Guapa (1080p)
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
+#EXTINF:-1 tvg-id="Telelima.pe@SD",Telelima (1080p)
+https://live.telelima.net/web/index.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="" group-title="INTERNACIONALES",CGTN Spanish (1080p)
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO | RED UNO SANTA CRUZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/RedUNObolivia2022.png/revision/latest/scale-to-width-down/250?cb=20221211200709&path-prefix=es" group-title="BOLIVIA",Red Uno Santa Cruz (1080p)
+http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ideas en 5 minutos (1080p)
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latino Classic TV (1080p)
@@ -456,12 +456,8 @@ https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791
 https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mundo Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BO | RED UNO SANTA CRUZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/RedUNObolivia2022.png/revision/latest/scale-to-width-down/250?cb=20221211200709&path-prefix=es" group-title="BOLIVIA",Red Uno Santa Cruz (1080p)
-http://190.181.18.82:4111/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="CanalGuapa.py@SD",Canal Guapa (1080p)
-https://guapa-live.argosworkspace.com/guapa/index.m3u8
-#EXTINF:-1 tvg-id="Telelima.pe@SD",Telelima (1080p)
-https://live.telelima.net/web/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Argentina",CIUDAD MAGICA
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Conjuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg" group-title="▶️ TERROR ▶️",El Conjuro (2013)
 http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/eaa20c42-d7a3-4729-9eb1-fdeb74d70532.mkv
@@ -471,38 +467,6 @@ http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/302f404e-4dca-41f0-bfa9-d0c893
 http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/80b3e0cc-3ee1-4a08-9765-93b1da4c56e1.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="http://redworld.pro:8880/images/5eddcf4e2ccc984408c50e70df71f43b.jpg" group-title="⭐️Películas 2024",Alien: Romulus (2024)
 http://starlatino.tv:8880/movie/katy2025/Ytwa6hXNr6zX/555433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E13
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E14
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E15
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E16
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E17
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E18
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E19
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E20
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E21
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E22
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E23
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E24
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E25
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E26
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Office S09E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p61QSlJor7edi2DJIH0jFL3whfa.jpg" group-title="DISNEY+ (LAT)",The Office S09E27
-https://mallorca.plus/series/25andreszapata/gkhCEeC6Yz/1055877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vawQQd6XOlllMZXrr6J05hPTwj.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E04
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298330.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E05
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRHPHyhAjy6EDdg5TrMwtw1fNuc.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S02 E06
@@ -563,8 +527,6 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298358.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298359.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnuTJOLHUj84IqyMQFyNDSSNv1e.jpg" group-title="⚡️SERIES DE AMAZON PRIME VIDEO♾️",Mr. Robot S04 E13
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/298360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E03
-http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/479207.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E04
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/479344.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E05
@@ -595,6 +557,204 @@ http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496339.mkv
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/496816.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball - DAIMA (2024) S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/PeyYcVcYOADRyf9HUtaGnL3gxh.jpg" group-title="⭐️SERIES 2024♾️",Dragon ball - DAIMA (2024) S01 E18
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/497145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://127.0.0.1/" group-title="⭐️ CINE PREMIUM",Space HD
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/567894
+#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE |  TNT SERIES  SD
+http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/414478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - HBO MAX (e)(1080)" tvg-logo="https://i.postimg.cc/5tj70ZHG/HBO-Max.png" group-title="24/7 CINEMA",24/7 Cinema - HBO MAX (e)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222950
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Los Juegos del Hambre (e)(1080)" tvg-logo="https://i.postimg.cc/jjCg5Gwt/Los-Juegos-del-Hambre.png" group-title="24/7 CINEMA",24/7 Cinema - Los Juegos del Hambre (e)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/223696
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 3 (e)(1080)" tvg-logo="https://i.postimg.cc/N0LJMW9F/Netflix-Premier-3.png" group-title="24/7 CINEMA",24/7 Cinema - Netflix Premier 3 (e)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222954
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Rambo (e)(1080)" tvg-logo="https://i.postimg.cc/xdqxCWJq/Rambo.png" group-title="24/7 CINEMA",24/7 Cinema - Saga: Rambo (e)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222947
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/164984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/164985
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El increible mundo de Gumball (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/hYCX2WDZoJOzlmbbejHkUXMAUc7.jpg" group-title="24/7 INFANTIL",24/7 Infantil - El increible mundo de Gumball (e)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169538
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show de los Looney Tunes (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/kt5Pxl9kwZHWjp2poRZ40PGAruZ.jpg" group-title="24/7 INFANTIL",24/7 Infantil - El Show de los Looney Tunes (e)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169577
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/cvJPd911PMS7cY8ajwZlnF0xClj.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (e)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169544
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kung Fu Panda: La Leyenda de Po (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/jH5oMgMOpeQSCe31UHf0YZaZu01.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Kung Fu Panda: La Leyenda de Po (e)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169549
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - Big Time Rush (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/uEmEqAE3yazeibhQyJoBVk6zK6c.jpg" group-title="24/7 SERIES JUVENILES",24/7 Juveniles - Big Time Rush (e)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/173426
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa Del Dragon (e)(1080)" tvg-logo="" group-title="24/7 SERIES",24/7 La Casa Del Dragon (e)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/225009
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapidos y Furiosos (e)(1080)" tvg-logo="https://i.postimg.cc/7Lbs6pGJ/Rapidos-y-Furiosos.png" group-title="24/7 CINEMA",24/7 Rapidos y Furiosos (e)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/224041
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Cuentos de la Cripta (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/yJgWU2oEoqpXr9c2A8RplYWIczd.jpg" group-title="24/7 RETRO INFANTIL",24/7 Retro - Cuentos de la Cripta (e)(SD)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/177122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Los Pitufos (e)(720)" tvg-logo="https://i.postimg.cc/6qp02t8H/247-Retro-Los-Pitufos-(e)(720).png" group-title="24/7 RETRO INFANTIL",24/7 Retro - Los Pitufos (e)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169567
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TyC Sports (M)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="ARGENTINA",ARG - TyC Sports (M)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/157580
+#EXTINF:-1 tvg-id="" tvg-name="ARG - Telefe (TV)(720)" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="ARGENTINA",ARG - Telefe (TV)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/157590
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TNT Sports (L)(720)" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="ARGENTINA",ARG - TNT Sports (L)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/157585
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TV Pública (M)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="ARGENTINA",ARG - TV Pública (M)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/157578
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TNT Sports (TV)(720)" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="ARGENTINA",ARG - TNT Sports (TV)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/157584
+#EXTINF:-1 tvg-id="" tvg-name="BOL-Bolivision (TV)(1080)" tvg-logo="http://swedtv.vip/logos/bolivia/bolivision.png" group-title="BOLIVIA",BOL-Bolivision (TV)(1080)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/98504
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 4 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 4 (M)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/180797
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv (M)(720)
+http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/180810
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E17
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122911.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E18
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122912.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E19
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122913.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E20
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122914.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E21
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122915.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E22
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122916.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E23
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122917.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E24
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122918.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E25
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122919.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E26
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122920.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Office S09 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg" group-title="ZONA AMAZON PRIME",The Office S09 E27
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/122921.mp4
+#EXTINF:-1 tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="VOD-UNIVERSO MARVEL",Ant-Man and the Wasp: Quantumania (2023)
+http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/3808.mkv
+#EXTINF:-1 tvg-name="Watchmen: Capítulo 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg" group-title="VOD-UNIVERSO DC",Watchmen: Capítulo 2 (2024)
+http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/123491.mkv
+#EXTINF:-1 tvg-name="Guasón 2: Folie à Deux (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg" group-title="VOD-UNIVERSO DC",Guasón 2: Folie à Deux (2024)
+http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/123492.mkv
+#EXTINF:-1 tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg" group-title="VOD-UNIVERSO MARVEL",Deadpool & Wolverine (2024)
+http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/123493.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E01
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98950.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E02
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98951.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E03
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98952.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E04
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98953.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E05
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98954.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E06
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98955.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E07
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98956.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E08
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98957.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E09
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98958.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E10
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98959.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E11
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98960.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E12
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98961.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E13
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98962.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E14
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98963.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E15
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98964.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E16
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98966.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E17
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98967.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E18
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98968.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E19
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98969.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E20
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98970.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S05 E21
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98965.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E01
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98971.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E02
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98972.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E03
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98973.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E04
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98974.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E05
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98975.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E06
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98976.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E07
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98977.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E08
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98978.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E09
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/98979.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E10
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116637.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S06 E11
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116638.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E01
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116639.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E02
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116640.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E03
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116641.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E04
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116642.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E05
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116643.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E06
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116644.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E07
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116645.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E08
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116646.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E09
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116647.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E10
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116648.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E11
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116649.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E12
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116650.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvel Agentes de S.H.I.E.L.D. S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg" group-title="ZONA NETFLIX",Marvel Agentes de S.H.I.E.L.D. S07 E13
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/116651.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Falcon y el Soldado de Invierno S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVJbiVuxNCjE9BVjj0yKsbNZ9Dt.jpg" group-title="ZONA DISNEY+",Falcon y el Soldado de Invierno S01 E01
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/293015.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Falcon y el Soldado de Invierno S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVJbiVuxNCjE9BVjj0yKsbNZ9Dt.jpg" group-title="ZONA DISNEY+",Falcon y el Soldado de Invierno S01 E02
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/293016.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Falcon y el Soldado de Invierno S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVJbiVuxNCjE9BVjj0yKsbNZ9Dt.jpg" group-title="ZONA DISNEY+",Falcon y el Soldado de Invierno S01 E03
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/293017.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Falcon y el Soldado de Invierno S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVJbiVuxNCjE9BVjj0yKsbNZ9Dt.jpg" group-title="ZONA DISNEY+",Falcon y el Soldado de Invierno S01 E04
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/293018.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Falcon y el Soldado de Invierno S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVJbiVuxNCjE9BVjj0yKsbNZ9Dt.jpg" group-title="ZONA DISNEY+",Falcon y el Soldado de Invierno S01 E05
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/293019.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Falcon y el Soldado de Invierno S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVJbiVuxNCjE9BVjj0yKsbNZ9Dt.jpg" group-title="ZONA DISNEY+",Falcon y el Soldado de Invierno S01 E06
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/293020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/h88DZpKIDo66Tvt556HCvq2BdR0.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E01
+http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E02
+http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E03
+http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E04
+http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E05
+http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E06
+http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karate Kid II: La Historia Continúa (1986)" tvg-logo="https://image.tmdb.org/t/p/w400/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg" group-title="▶️ CLASICOS ▶️",Karate Kid II: La Historia Continúa (1986)
+http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/8e96d2cf-2ee4-4454-818e-13e1ff96a5dc.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="▶️ INFANTILES ▶️",Lightyear (2022)
+http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/b396c43b-8158-442d-ba25-30246d0210f0.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Made in Abyss S2 E1" tvg-logo="https://image.tmdb.org/t/p/w300/Tgu6E3aMf7sFHFbEIMEjetnpMi.jpg" group-title="SERIES ANIMADAS ⏯️✅",Made in Abyss S2 E1
 http://vodmix.top/series/ecjpoveda0029/IKVNpAC3TI3/13eb7070-c7b0-4f7f-a785-8c787e81b649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Made in Abyss S2 E2" tvg-logo="https://image.tmdb.org/t/p/w300/9zzwfmalz3NTOg8VinPEfw9yP4L.jpg" group-title="SERIES ANIMADAS ⏯️✅",Made in Abyss S2 E2
@@ -619,26 +779,6 @@ http://vodmix.top/series/ecjpoveda0029/IKVNpAC3TI3/5947e8ce-242b-4fd4-a34d-f1d21
 http://vodmix.top/series/ecjpoveda0029/IKVNpAC3TI3/e9bc6700-2d13-4553-94c8-af2389d6b735.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Made in Abyss S2 E12" tvg-logo="https://image.tmdb.org/t/p/w300/vgMIXKH6cTCsmt6sqOHXrv4UYLQ.jpg" group-title="SERIES ANIMADAS ⏯️✅",Made in Abyss S2 E12
 http://vodmix.top/series/ecjpoveda0029/IKVNpAC3TI3/001b948a-b1e2-4cea-b1c0-ffa6cbbc9292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://127.0.0.1/" group-title="⭐️ CINE PREMIUM",Space HD
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/567894
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE |  TNT SERIES  SD
-http://superxlatino.com:8880/ZvnEucP8PBMC/Yz2jqkzspubV/414478
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/h88DZpKIDo66Tvt556HCvq2BdR0.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E01
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E02
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E03
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037989.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E04
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037990.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E05
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moon Knight S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg" group-title="DISNEY+ (LAT)",Moon Knight S01E06
-http://playstreaming.net/series/loreto36652855/gozocehaxoto/1037985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karate Kid II: La Historia Continúa (1986)" tvg-logo="https://image.tmdb.org/t/p/w400/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg" group-title="▶️ CLASICOS ▶️",Karate Kid II: La Historia Continúa (1986)
-http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/8e96d2cf-2ee4-4454-818e-13e1ff96a5dc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="▶️ INFANTILES ▶️",Lightyear (2022)
-http://vodmix.top/movie/ecjpoveda0029/IKVNpAC3TI3/b396c43b-8158-442d-ba25-30246d0210f0.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E01
 http://iptvpremium.ink:55577/series/iptvdf12262/543fgr4/472691.mp4
 #EXTINF:-1 tvg-id="" tvg-name="FAIRY TAIL 100 YEARS QUEST S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/elMwlNKqwT1TQAK1qQiSfXK8YpN.jpg" group-title="⚡️SERIES DE ANIMES♾️",FAIRY TAIL 100 YEARS QUEST S01 E02
@@ -2397,51 +2537,25 @@ http://playstreaming.net/series/loreto36652855/gozocehaxoto/1166679.mkv
 http://playstreaming.net/series/loreto36652855/gozocehaxoto/1166677.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Devil May Cry S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/qJ8Zv1zpa2ErSche6kE3MTrffk5.jpg" group-title="SERIES ANIME (LAT)",Devil May Cry S02E08
 http://playstreaming.net/series/loreto36652855/gozocehaxoto/1166680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - (e)(1080)" tvg-logo="https://i.postimg.cc/0jbbYF3T/PPV1.png" group-title="EVENTOS PPV",PPV 1 - (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/227272
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - (e)(1080)" tvg-logo="https://i.postimg.cc/0jbbYF3T/PPV1.png" group-title="EVENTOS PPV",PPV 3 - (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/227274
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Ecuador (e)(1080)" tvg-logo="http://ccf.center:8444/images/f3W-WV3XTC1STKBZDUai0sxNkqzSUNd8QQqLWYb9W3C_l5SpDS6-PNqTPP4vzi0m.png" group-title="ECUADOR",PPV 1 - Ecuador (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/190237
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema - Venganzas (e)(1080)" tvg-logo="https://i.postimg.cc/FK1WR2dS/Venganzas.png" group-title="24/7 CINEMA",24/7  Cinema - Venganzas (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/223693
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - HBO MAX (e)(1080)" tvg-logo="https://i.postimg.cc/5tj70ZHG/HBO-Max.png" group-title="24/7 CINEMA",24/7 Cinema - HBO MAX (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222950
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Los Juegos del Hambre (e)(1080)" tvg-logo="https://i.postimg.cc/jjCg5Gwt/Los-Juegos-del-Hambre.png" group-title="24/7 CINEMA",24/7 Cinema - Los Juegos del Hambre (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/223696
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 3 (e)(1080)" tvg-logo="https://i.postimg.cc/N0LJMW9F/Netflix-Premier-3.png" group-title="24/7 CINEMA",24/7 Cinema - Netflix Premier 3 (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222954
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Rambo (e)(1080)" tvg-logo="https://i.postimg.cc/xdqxCWJq/Rambo.png" group-title="24/7 CINEMA",24/7 Cinema - Saga: Rambo (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222947
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Kung fu (e)(1080)" tvg-logo="https://i.postimg.cc/Gp972Z8R/Kung-Fu.png" group-title="24/7 CINEMA",24/7 Cinema - Sagas: Kung fu (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/222945
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/164984
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/164985
-#EXTINF:-1 tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="VOD-UNIVERSO MARVEL",Ant-Man and the Wasp: Quantumania (2023)
-http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/3808.mkv
-#EXTINF:-1 tvg-name="Watchmen: Capítulo 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg" group-title="VOD-UNIVERSO DC",Watchmen: Capítulo 2 (2024)
-http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/123491.mkv
-#EXTINF:-1 tvg-name="Guasón 2: Folie à Deux (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg" group-title="VOD-UNIVERSO DC",Guasón 2: Folie à Deux (2024)
-http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/123492.mkv
-#EXTINF:-1 tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg" group-title="VOD-UNIVERSO MARVEL",Deadpool & Wolverine (2024)
-http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/123493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El increible mundo de Gumball (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/hYCX2WDZoJOzlmbbejHkUXMAUc7.jpg" group-title="24/7 INFANTIL",24/7 Infantil - El increible mundo de Gumball (e)(720)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169538
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show de los Looney Tunes (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/kt5Pxl9kwZHWjp2poRZ40PGAruZ.jpg" group-title="24/7 INFANTIL",24/7 Infantil - El Show de los Looney Tunes (e)(720)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169577
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/cvJPd911PMS7cY8ajwZlnF0xClj.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (e)(720)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169544
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kung Fu Panda: La Leyenda de Po (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/jH5oMgMOpeQSCe31UHf0YZaZu01.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Kung Fu Panda: La Leyenda de Po (e)(720)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169549
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - Big Time Rush (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/uEmEqAE3yazeibhQyJoBVk6zK6c.jpg" group-title="24/7 SERIES JUVENILES",24/7 Juveniles - Big Time Rush (e)(720)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/173426
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa Del Dragon (e)(1080)" tvg-logo="" group-title="24/7 SERIES",24/7 La Casa Del Dragon (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/225009
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapidos y Furiosos (e)(1080)" tvg-logo="https://i.postimg.cc/7Lbs6pGJ/Rapidos-y-Furiosos.png" group-title="24/7 CINEMA",24/7 Rapidos y Furiosos (e)(1080)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/224041
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Cuentos de la Cripta (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/yJgWU2oEoqpXr9c2A8RplYWIczd.jpg" group-title="24/7 RETRO INFANTIL",24/7 Retro - Cuentos de la Cripta (e)(SD)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/177122
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Los Pitufos (e)(720)" tvg-logo="https://i.postimg.cc/6qp02t8H/247-Retro-Los-Pitufos-(e)(720).png" group-title="24/7 RETRO INFANTIL",24/7 Retro - Los Pitufos (e)(720)
-http://nn.nnyx4k.com:8444/richard.castro.alvear/oe1HYAD8F5/169567
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E01
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229333.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E02
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229334.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E03
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229335.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E04
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229336.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E05
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229337.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E06
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229338.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E07
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229339.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E08
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229340.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E09
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229341.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marvels M.O.D.O.K S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" group-title="COMEDIA",Marvels M.O.D.O.K S01 E10
+http://livetv-plus.com:8880/series/CR70706134/CPTJD/229342.mkv
+#EXTINF:-1 tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg" group-title="VOD-CIENCIA FICCION",Avatar: Fuego y ceniza (2025)
+http://nn.nnyx4k.com:8444/movie/richard.castro.alvear/oe1HYAD8F5/192151.mkv
